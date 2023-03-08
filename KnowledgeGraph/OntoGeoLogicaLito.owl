@@ -85,9 +85,6 @@
         <Class IRI="#bioacumulado"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#biochemical-biogenic_sedimentary_rock"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#biolitito"/>
     </Declaration>
     <Declaration>
@@ -130,9 +127,6 @@
         <Class IRI="#calciarenite"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#calcilutite"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#calcirudite"/>
     </Declaration>
     <Declaration>
@@ -145,16 +139,7 @@
         <Class IRI="#caliche"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#carbonates_with_elements_bound_or_not"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#carbonates_with_unrecognized_depositional_structure"/>
+        <Class IRI="#carbonatic_breccia"/>
     </Declaration>
     <Declaration>
         <Class IRI="#carbonatos"/>
@@ -164,9 +149,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#cataclasite"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#chemical_sedimentary_rock"/>
     </Declaration>
     <Declaration>
         <Class IRI="#chert"/>
@@ -377,6 +359,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#geological_time_interval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gipsita"/>
     </Declaration>
     <Declaration>
         <Class IRI="#gneiss"/>
@@ -623,9 +608,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#organic_sediment"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#organic_sedimentary_rock"/>
     </Declaration>
     <Declaration>
         <Class IRI="#orthogneiss"/>
@@ -3298,7 +3280,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bafflestone"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#basalt"/>
@@ -3318,23 +3300,19 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bindstone"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bioacumulado"/>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#biochemical-biogenic_sedimentary_rock"/>
         <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#biolitito"/>
-        <Class IRI="#carbonates_with_elements_bound_or_not"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bituminous_schist"/>
-        <Class IRI="#organic_sedimentary_rock"/>
+        <Class IRI="#siliciclasticos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#block_tephra"/>
@@ -3346,7 +3324,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#boundstone"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#brazilian_age"/>
@@ -3379,7 +3357,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#breccia"/>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#british_age"/>
@@ -3416,43 +3394,27 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calciarenite"/>
-        <Class IRI="#limestone"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#calcilutite"/>
-        <Class IRI="#limestone"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calcirudite"/>
-        <Class IRI="#limestone"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calcissiltite"/>
-        <Class IRI="#limestone"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calcrete"/>
-        <Class IRI="#chemical_sedimentary_rock"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#caliche"/>
-        <Class IRI="#chemical_sedimentary_rock"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#carbonates_with_elements_bound_or_not"/>
-        <Class IRI="#biochemical-biogenic_sedimentary_rock"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
-        <Class IRI="#biochemical-biogenic_sedimentary_rock"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
-        <Class IRI="#biochemical-biogenic_sedimentary_rock"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#carbonates_with_unrecognized_depositional_structure"/>
-        <Class IRI="#biochemical-biogenic_sedimentary_rock"/>
+        <Class IRI="#carbonatic_breccia"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#carbonatos"/>
@@ -3467,12 +3429,8 @@
         <Class IRI="#fault_rock"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#chemical_sedimentary_rock"/>
-        <Class IRI="#carbonatos"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#chert"/>
-        <Class IRI="#chemical_sedimentary_rock"/>
+        <Class IRI="#sedimentary_rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#clastic_sediment"/>
@@ -3484,7 +3442,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#coal"/>
-        <Class IRI="#organic_sedimentary_rock"/>
+        <Class IRI="#sedimentary_rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cobbles"/>
@@ -3508,11 +3466,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#coquina"/>
-        <Class IRI="#limestone"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#crystalline_limestone"/>
-        <Class IRI="#carbonates_with_unrecognized_depositional_structure"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dacite"/>
@@ -3547,7 +3505,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dendrolito"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#diabase"/>
@@ -3575,11 +3533,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dolocrete"/>
-        <Class IRI="#chemical_sedimentary_rock"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dolomite"/>
-        <Class IRI="#carbonates_with_unrecognized_depositional_structure"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#duration"/>
@@ -3631,11 +3589,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#esferulitito"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#estromatolito"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#evaporite"/>
@@ -3667,7 +3625,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#floatstone"/>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#foidite"/>
@@ -3694,7 +3652,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#framestone"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#function"/>
@@ -3954,12 +3912,16 @@
         <Class IRI="#proper_interval"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#gipsita"/>
+        <Class IRI="#evaporite"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#gneiss"/>
         <Class IRI="#metamorphic_rock_per_composition"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#grainstone"/>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#granite"/>
@@ -3999,7 +3961,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gypsum"/>
-        <Class IRI="#evaporite"/>
+        <Class IRI="#metamorphic_rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#halite"/>
@@ -4066,7 +4028,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#laminito"/>
-        <Class IRI="#carbonates_with_elements_bound_or_not"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lamito"/>
@@ -4094,15 +4056,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#leiolito"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lignite"/>
-        <Class IRI="#coal"/>
+        <Class IRI="#sedimentary_rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#limestone"/>
-        <Class IRI="#biochemical-biogenic_sedimentary_rock"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#litharenite"/>
@@ -4220,11 +4182,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#microbialito"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#microbrecha"/>
-        <Class IRI="#siliciclastic_breccia"/>
+        <Class IRI="#breccia"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#migmatic_rock"/>
@@ -4260,7 +4222,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#mudstone"/>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#mylonite"/>
@@ -4303,16 +4265,12 @@
         <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#organic_sedimentary_rock"/>
-        <Class IRI="#carbonatos"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#orthogneiss"/>
         <Class IRI="#gneiss"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ortobrecha"/>
-        <Class IRI="#siliciclastic_breccia"/>
+        <Class IRI="#breccia"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ortoconglomerado"/>
@@ -4320,11 +4278,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#packstone"/>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#parabrecha"/>
-        <Class IRI="#siliciclastic_breccia"/>
+        <Class IRI="#breccia"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#paraconglomerado"/>
@@ -4478,7 +4436,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rudstone"/>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sand"/>
@@ -4530,11 +4488,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#silcrete"/>
-        <Class IRI="#chemical_sedimentary_rock"/>
+        <Class IRI="#sedimentary_rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#silexite"/>
-        <Class IRI="#chert"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#siliciclastic_breccia"/>
@@ -4554,7 +4512,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sinter"/>
-        <Class IRI="#chemical_sedimentary_rock"/>
+        <Class IRI="#sedimentary_rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#site"/>
@@ -4759,11 +4717,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#travertine"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#trombolito"/>
-        <Class IRI="#carbonates_with_elements_originally_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tuff"/>
@@ -4807,7 +4765,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#wackestone"/>
-        <Class IRI="#carbonates_with_elements_originally_not_bound"/>
+        <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#well"/>
@@ -28284,11 +28242,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#biochemical-biogenic_sedimentary_rock</IRI>
-        <Literal>[deprecado] bioquimica-biogenica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#biolitito</IRI>
         <Literal>biolitito</Literal>
     </AnnotationAssertion>
@@ -28364,11 +28317,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#breccia</IRI>
-        <Literal>brecha carbonática</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#british_age</IRI>
         <Literal>idade</Literal>
     </AnnotationAssertion>
@@ -28439,11 +28387,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#calcilutite</IRI>
-        <Literal>calcilutito</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#calcirudite</IRI>
         <Literal>calcirudito</Literal>
     </AnnotationAssertion>
@@ -28464,23 +28407,18 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#carbonates_with_elements_bound_or_not</IRI>
-        <Literal>carbonatos com elementos ligados ou não</Literal>
+        <IRI>#carbonatic_breccia</IRI>
+        <Literal>brecha carbonática</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#carbonates_with_elements_originally_bound</IRI>
-        <Literal>carbonatos com elementos ligados durante a formação</Literal>
+        <IRI>#carbonatos</IRI>
+        <Literal>carbonato</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#carbonates_with_elements_originally_not_bound</IRI>
-        <Literal>carbonatos com elementos não ligados durante a formação</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#carbonates_with_unrecognized_depositional_structure</IRI>
-        <Literal>carbonatos com textura original não reconhecível</Literal>
+        <IRI>#carbonatos</IRI>
+        <Literal>rocha carbonática</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -28501,11 +28439,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#characteristic_of</IRI>
         <Literal>característica de</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#chemical_sedimentary_rock</IRI>
-        <Literal>[deprecado] química</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -29114,6 +29047,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gipsita</IRI>
+        <Literal>gipsita</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#gneiss</IRI>
         <Literal>gnaisse</Literal>
     </AnnotationAssertion>
@@ -29171,11 +29109,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#gypsum</IRI>
         <Literal>gesso</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#gypsum</IRI>
-        <Literal>gipsita</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -29585,6 +29518,11 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#lignite</IRI>
+        <Literal>lenhito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lignite</IRI>
         <Literal>lignito</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
@@ -29892,6 +29830,11 @@ Positions in geologic time are conventionally denoted in millions of years, meas
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#mudstone</IRI>
+        <Literal>calcilutito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mudstone</IRI>
         <Literal>mudstone</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
@@ -29983,11 +29926,6 @@ Positions in geologic time are conventionally denoted in millions of years, meas
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#organic_sediment</IRI>
         <Literal>sedimento orgânico</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#organic_sedimentary_rock</IRI>
-        <Literal>[deprecado] orgânica</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -30328,11 +30266,6 @@ Positions in geologic time are conventionally denoted in millions of years, meas
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#silexite</IRI>
         <Literal>silexito</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#siliciclastic_breccia</IRI>
-        <Literal>brecha</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
