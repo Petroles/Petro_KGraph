@@ -1,0 +1,1840 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/bg40/ontologies/2022/5/untitled-ontology-2"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/bg40/ontologies/2022/5/untitled-ontology-2">
+    <Prefix name="" IRI="http://www.semanticweb.org/bg40/ontologies/2022/5/untitled-ontology-2"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#basin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#continuant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#earth_fluid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#earth_material"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#field"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fluid_quality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#generically_dependent_continuant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_object"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_structure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_time_interval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#immaterial_entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#independent_continuant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lithostratigraphic_unit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#material_entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#object"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#object_aggregate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#occurrent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#one-dimensional_temporal_region"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#proper_interval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#realizable_entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#role"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#site"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#temporal_region"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#textura"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tipo_de_porosidade"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#well_quality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#well_role"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#after"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#age_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#atravessa"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#before"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#carrier_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#concretizes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#constituted_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#crossed_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#derives_from"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#derives_into"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#disposition_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#function_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#generated_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#generated_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#generically_depends_on"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_2D_boundary"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_age"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_beginning"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_disposition"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_end"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_function"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_member"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_part"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_participant"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_quality"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_role"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_time"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_time_instant_inside"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#in_time_zone"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_after"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_before"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_contains"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_disjoint"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_during"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_equals"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_finished_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_finishes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_meets"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_met_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_overlaps"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_started_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_starts"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_concretized_as"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#located_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#location_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#member_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#part_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#participates_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#quality_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#realized_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#realizes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#role_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#2D_boundary_of"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_XSD_duration"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_measurement_value"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#in_XSD_Date-Time-Stamp"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#in_XSD_date"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#in_XSD_g-Year"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#in_XSD_g-YearMonth"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#inxsdDateTime"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#name_of_temporal_position"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#numeric_value_of_temporal_duration"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#numeric_value_of_temporal_position"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#xsdDateTime"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#year"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#years_duration"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://def.isotc211.org/iso19108/2006/TemporalReferenceSystem#TM_CoordinateSystem.interval"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://def.isotc211.org/iso19108/2006/TemporalReferenceSystem#TM_CoordinateSystem.origin"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/description"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#geological_object"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#object"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_age"/>
+                <Class IRI="#geological_age"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#constituted_by"/>
+                <Class IRI="#earth_material"/>
+            </ObjectAllValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#generated_by"/>
+                <Class IRI="#geological_process"/>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#basin"/>
+        <Class IRI="#site"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#continuant"/>
+        <Class IRI="#entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#earth_fluid"/>
+        <Class IRI="#earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#earth_material"/>
+        <Class IRI="#material_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#field"/>
+        <Class IRI="#site"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fluid_quality"/>
+        <Class IRI="#quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#generically_dependent_continuant"/>
+        <Class IRI="#continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_age"/>
+        <Class IRI="#quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_age"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#participates_in"/>
+            <Class IRI="#geological_time_interval"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_object"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#carrier_of"/>
+            <Class IRI="#geological_structure"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_process"/>
+        <Class IRI="#process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_process"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#has_participant"/>
+            <Class IRI="#geological_object"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_structure"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_time_interval"/>
+        <Class IRI="#proper_interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#immaterial_entity"/>
+        <Class IRI="#independent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#independent_continuant"/>
+        <Class IRI="#continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lithostratigraphic_unit"/>
+        <Class IRI="#geological_object"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lithostratigraphic_unit"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty IRI="#located_in"/>
+            <Class IRI="#basin"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#material_entity"/>
+        <Class IRI="#independent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#object"/>
+        <Class IRI="#material_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#object_aggregate"/>
+        <Class IRI="#material_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#occurrent"/>
+        <Class IRI="#entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#one-dimensional_temporal_region"/>
+        <Class IRI="#temporal_region"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#process"/>
+        <Class IRI="#occurrent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#proper_interval"/>
+        <Class IRI="#one-dimensional_temporal_region"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quality"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#realizable_entity"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rock"/>
+        <Class IRI="#earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rock"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#carrier_of"/>
+            <Class IRI="#textura"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rock"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#carrier_of"/>
+            <Class IRI="#tipo_de_porosidade"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#role"/>
+        <Class IRI="#realizable_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#site"/>
+        <Class IRI="#immaterial_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#specifically_dependent_continuant"/>
+        <Class IRI="#continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#temporal_region"/>
+        <Class IRI="#occurrent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#textura"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tipo_de_porosidade"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#unconsolidated_earth_material"/>
+        <Class IRI="#earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well"/>
+        <Class IRI="#object_aggregate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well"/>
+        <ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#located_in"/>
+                <Class IRI="#basin"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#located_in"/>
+                <Class IRI="#field"/>
+            </ObjectSomeValuesFrom>
+        </ObjectUnionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#has_quality"/>
+            <Class IRI="#well_quality"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#has_role"/>
+            <Class IRI="#well_role"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well_quality"/>
+        <Class IRI="#quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well_role"/>
+        <Class IRI="#role"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#basin"/>
+        <Class IRI="#field"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#continuant"/>
+        <Class IRI="#occurrent"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#continuant"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#part_of"/>
+            <Class IRI="#occurrent"/>
+        </ObjectSomeValuesFrom>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#earth_fluid"/>
+        <Class IRI="#rock"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#earth_fluid"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#earth_material"/>
+        <Class IRI="#geological_object"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#generically_dependent_continuant"/>
+        <Class IRI="#independent_continuant"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#generically_dependent_continuant"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#immaterial_entity"/>
+        <Class IRI="#material_entity"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#independent_continuant"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#occurrent"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#part_of"/>
+            <Class IRI="#continuant"/>
+        </ObjectSomeValuesFrom>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#process"/>
+        <Class IRI="#temporal_region"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#quality"/>
+        <Class IRI="#realizable_entity"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#rock"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#after"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#age_of"/>
+        <ObjectProperty IRI="#quality_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#before"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#disposition_of"/>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#function_of"/>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#generated_by"/>
+        <ObjectProperty IRI="#participates_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_age"/>
+        <ObjectProperty IRI="#has_quality"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_beginning"/>
+        <ObjectProperty IRI="#has_beginning"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_beginning"/>
+        <ObjectProperty IRI="#has_time"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_beginning"/>
+        <ObjectProperty IRI="#has_time_instant_inside"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_disposition"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_end"/>
+        <ObjectProperty IRI="#has_end"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_end"/>
+        <ObjectProperty IRI="#has_time"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_function"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_member"/>
+        <ObjectProperty IRI="#has_part"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_quality"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_role"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_after"/>
+        <ObjectProperty IRI="#after"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_after"/>
+        <ObjectProperty IRI="#interval_disjoint"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_before"/>
+        <ObjectProperty IRI="#before"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_before"/>
+        <ObjectProperty IRI="#interval_disjoint"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_contains"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_disjoint"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_during"/>
+        <ObjectProperty IRI="#interval_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_equals"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_finished_by"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_finishes"/>
+        <ObjectProperty IRI="#interval_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_in"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_meets"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_met_by"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_overlaps"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_started_by"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_starts"/>
+        <ObjectProperty IRI="#interval_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#member_of"/>
+        <ObjectProperty IRI="#part_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#quality_of"/>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#role_of"/>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#after"/>
+        <ObjectProperty IRI="#after"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#age_of"/>
+        <ObjectProperty IRI="#has_age"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#atravessa"/>
+        <ObjectProperty IRI="#crossed_by"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#before"/>
+        <ObjectProperty IRI="#before"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#carrier_of"/>
+        <ObjectProperty IRI="#generically_depends_on"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#characteristic_of"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#concretizes"/>
+        <ObjectProperty IRI="#is_concretized_as"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#derives_from"/>
+        <ObjectProperty IRI="#derives_into"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#disposition_of"/>
+        <ObjectProperty IRI="#has_disposition"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#function_of"/>
+        <ObjectProperty IRI="#has_function"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_2D_boundary"/>
+        <ObjectProperty IRI="#2D_boundary_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_member"/>
+        <ObjectProperty IRI="#member_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_part"/>
+        <ObjectProperty IRI="#part_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_participant"/>
+        <ObjectProperty IRI="#participates_in"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_quality"/>
+        <ObjectProperty IRI="#quality_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_role"/>
+        <ObjectProperty IRI="#role_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_after"/>
+        <ObjectProperty IRI="#interval_before"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_contains"/>
+        <ObjectProperty IRI="#interval_during"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_finished_by"/>
+        <ObjectProperty IRI="#interval_finishes"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_meets"/>
+        <ObjectProperty IRI="#interval_met_by"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+        <ObjectProperty IRI="#interval_overlaps"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_started_by"/>
+        <ObjectProperty IRI="#interval_starts"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#located_in"/>
+        <ObjectProperty IRI="#location_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#realized_in"/>
+        <ObjectProperty IRI="#realizes"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#constituted_by"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#generated_by"/>
+    </AsymmetricObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#before"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#has_part"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#located_in"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#location_of"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#part_of"/>
+    </TransitiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#constituted_by"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#generated_by"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#has_member"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#atravessa"/>
+        <Class IRI="#well"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#carrier_of"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#concretizes"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#generically_depends_on"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_2D_boundary"/>
+        <Class IRI="#material_entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_beginning"/>
+        <Class IRI="#temporal_region"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_disposition"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_end"/>
+        <Class IRI="#temporal_region"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_function"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_participant"/>
+        <Class IRI="#occurrent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_role"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_time"/>
+        <Class IRI="#temporal_region"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_time_instant_inside"/>
+        <Class IRI="#one-dimensional_temporal_region"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_after"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_before"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_contains"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_disjoint"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_during"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_equals"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_finished_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_finishes"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_in"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_meets"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_met_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_overlaps"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_started_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_starts"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_concretized_as"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#located_in"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#participates_in"/>
+        <Class IRI="#continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#realized_in"/>
+        <Class IRI="#realizable_entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#realizes"/>
+        <Class IRI="#process"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#atravessa"/>
+        <Class IRI="#geological_object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#carrier_of"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#concretizes"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#generically_depends_on"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_2D_boundary"/>
+        <Class IRI="#immaterial_entity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_characteristic"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_participant"/>
+        <Class IRI="#continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_quality"/>
+        <Class IRI="#quality"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_role"/>
+        <Class IRI="#role"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_after"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_before"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_contains"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_disjoint"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_during"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_equals"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_finished_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_finishes"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_in"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_meets"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_met_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_overlaps"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_started_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_starts"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_concretized_as"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#located_in"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#participates_in"/>
+        <Class IRI="#occurrent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#realized_in"/>
+        <Class IRI="#process"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#realizes"/>
+        <Class IRI="#realizable_entity"/>
+    </ObjectPropertyRange>
+    <DisjointObjectProperties>
+        <ObjectProperty IRI="#interval_equals"/>
+        <ObjectProperty IRI="#interval_in"/>
+    </DisjointObjectProperties>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FormationOfEarth_quality</IRI>
+        <Literal>Formação da Terra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#after</IRI>
+        <Literal>depois de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#age_of</IRI>
+        <Literal>idade de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#atravessa</IRI>
+        <Literal>atravessa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#basin</IRI>
+        <Literal>bacia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#before</IRI>
+        <Literal>antes de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carrier_of</IRI>
+        <Literal>portador de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#characteristic_of</IRI>
+        <Literal>característica de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#concretizes</IRI>
+        <Literal>concretiza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#constituted_by</IRI>
+        <Literal>constituído por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#continuant</IRI>
+        <Literal>continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#continuant</IRI>
+        <Literal>continuante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#crossed_by</IRI>
+        <Literal>atravessado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#derives_from</IRI>
+        <Literal>deriva de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#derives_into</IRI>
+        <Literal>deriva em</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#disposition_of</IRI>
+        <Literal>disposição de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_fluid</IRI>
+        <Literal>earth fluid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_fluid</IRI>
+        <Literal>fluido da terra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_fluid</IRI>
+        <Literal>fluido geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_material</IRI>
+        <Literal>earth material</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_material</IRI>
+        <Literal>material geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#entity</IRI>
+        <Literal>entidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#field</IRI>
+        <Literal>campo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#fluid_quality</IRI>
+        <Literal>qualidade de fluido</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#function_of</IRI>
+        <Literal>função de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generated_by</IRI>
+        <Literal>gerado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generated_in</IRI>
+        <Literal>gerado em</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generically_dependent_continuant</IRI>
+        <Literal>continuante genericamente dependente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generically_dependent_continuant</IRI>
+        <Literal>generically dependent continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generically_depends_on</IRI>
+        <Literal>depende genericamente de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_age</IRI>
+        <Literal>geological age</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_age</IRI>
+        <Literal>idade geológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_object</IRI>
+        <Literal>geological object</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_object</IRI>
+        <Literal>objeto geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_process</IRI>
+        <Literal>processo geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_structure</IRI>
+        <Literal>estrutura geológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_structure</IRI>
+        <Literal>geological structure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_time_interval</IRI>
+        <Literal>intervalo de tempo geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_time_interval</IRI>
+        <Literal>unidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_2D_boundary</IRI>
+        <Literal>tem limite 2D</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_XSD_duration</IRI>
+        <Literal>tem duração XSD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_age</IRI>
+        <Literal>tem idade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_beginning</IRI>
+        <Literal>tem início</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_characteristic</IRI>
+        <Literal>tem característica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_disposition</IRI>
+        <Literal>tem disposição</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_end</IRI>
+        <Literal>tem fim</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_function</IRI>
+        <Literal>tem função</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_measurement_value</IRI>
+        <Literal>tem valor de medida</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_member</IRI>
+        <Literal>tem membro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_part</IRI>
+        <Literal>tem parte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_participant</IRI>
+        <Literal>tem participante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_quality</IRI>
+        <Literal>tem qualidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_role</IRI>
+        <Literal>tem papel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_time</IRI>
+        <Literal>tem tempo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_time_instant_inside</IRI>
+        <Literal>tem instante de tempo dentro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#immaterial_entity</IRI>
+        <Literal>entidade imaterial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#immaterial_entity</IRI>
+        <Literal>immaterial entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#in_XSD_Date-Time-Stamp</IRI>
+        <Literal>no registro de tempo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#in_XSD_date</IRI>
+        <Literal>na data XSD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#in_XSD_g-Year</IRI>
+        <Literal>em ano gregoriano XSD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#in_XSD_g-YearMonth</IRI>
+        <Literal>em ano-mês gregoriano XSD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#in_time_zone</IRI>
+        <Literal>no fuso horário</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#independent_continuant</IRI>
+        <Literal>continuante independente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#independent_continuant</IRI>
+        <Literal>independent continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_after</IRI>
+        <Literal>intervalo depois</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_before</IRI>
+        <Literal>intervalo antes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_contains</IRI>
+        <Literal>intervalo contém</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_disjoint</IRI>
+        <Literal>intervalo disjunto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_during</IRI>
+        <Literal>intervalo durante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_equals</IRI>
+        <Literal>intervalo igual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_finished_by</IRI>
+        <Literal>intervalo terminado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_finishes</IRI>
+        <Literal>intervalo termina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_in</IRI>
+        <Literal>intervalo em</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_meets</IRI>
+        <Literal>intervalo encontra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_met_by</IRI>
+        <Literal>intervalo encontrado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_overlapped_by</IRI>
+        <Literal>intervalo sobreposto por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_overlaps</IRI>
+        <Literal>intervalo sobrepõe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_started_by</IRI>
+        <Literal>intervalo iniciado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_starts</IRI>
+        <Literal>intervalo inicia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#inxsdDateTime</IRI>
+        <Literal>no tempo XSD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#is_concretized_as</IRI>
+        <Literal>é concretizado como</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lithostratigraphic_unit</IRI>
+        <Literal>un. litoestratigráfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lithostratigraphic_unit</IRI>
+        <Literal>unidade lito.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lithostratigraphic_unit</IRI>
+        <Literal>unidade litoestratigráfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#located_in</IRI>
+        <Literal>localizado em</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#location_of</IRI>
+        <Literal>localização de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#material_entity</IRI>
+        <Literal>entidade material</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#material_entity</IRI>
+        <Literal>material entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#member_of</IRI>
+        <Literal>membro de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#name_of_temporal_position</IRI>
+        <Literal>nome de posição temporal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#numeric_value_of_temporal_duration</IRI>
+        <Literal>valor numérico de duração temporal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#numeric_value_of_temporal_position</IRI>
+        <Literal>valor numérico de posição temporal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#object</IRI>
+        <Literal>object</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#object</IRI>
+        <Literal>objeto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#object_aggregate</IRI>
+        <Literal>agregado de objetos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#object_aggregate</IRI>
+        <Literal>object aggregate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#occurrent</IRI>
+        <Literal>occurrent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#occurrent</IRI>
+        <Literal>ocorrente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#one-dimensional_temporal_region</IRI>
+        <Literal>one-dimensional temporal region</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#one-dimensional_temporal_region</IRI>
+        <Literal>região temporal de dimensão um</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#part_of</IRI>
+        <Literal>parte de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#participates_in</IRI>
+        <Literal>participa de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#process</IRI>
+        <Literal>process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#process</IRI>
+        <Literal>processo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#proper_interval</IRI>
+        <Literal>intervalo de tempo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quality</IRI>
+        <Literal>qualidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quality</IRI>
+        <Literal>quality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quality_of</IRI>
+        <Literal>qualidade de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizable_entity</IRI>
+        <Literal>entidade realizável</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizable_entity</IRI>
+        <Literal>realizable entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realized_in</IRI>
+        <Literal>realizado em</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizes</IRI>
+        <Literal>realiza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#rock</IRI>
+        <Literal>rocha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#rock</IRI>
+        <Literal>rock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#role</IRI>
+        <Literal>role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#role_of</IRI>
+        <Literal>papel de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#site</IRI>
+        <Literal>lugar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#site</IRI>
+        <Literal>site</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#specifically_dependent_continuant</IRI>
+        <Literal>continuante especificamente dependente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#specifically_dependent_continuant</IRI>
+        <Literal>specifically dependent continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#temporal_region</IRI>
+        <Literal>região temporal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#temporal_region</IRI>
+        <Literal>temporal region</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#textura</IRI>
+        <Literal>textura de rocha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tipo_de_porosidade</IRI>
+        <Literal>tipo de porosidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unconsolidated_earth_material</IRI>
+        <Literal>material geológico inconsolidado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unconsolidated_earth_material</IRI>
+        <Literal>sedimento</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unconsolidated_earth_material</IRI>
+        <Literal>unconsolidated earth material</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#well</IRI>
+        <Literal>poço</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#well_quality</IRI>
+        <Literal>qualidade de poço</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#well_role</IRI>
+        <Literal>papel de poço</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#xsdDateTime</IRI>
+        <Literal>tempo XSD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#year</IRI>
+        <Literal>ano</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#years_duration</IRI>
+        <Literal>duração em anos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#2D_boundary_of</IRI>
+        <Literal>limite 2D de</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
