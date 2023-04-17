@@ -148,12 +148,6 @@
         <ObjectProperty IRI="#crossed_by"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#derives_from"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#derives_into"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#disposition_of"/>
     </Declaration>
     <Declaration>
@@ -163,28 +157,16 @@
         <ObjectProperty IRI="#generated_by"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#generated_in"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#generically_depends_on"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#has_2D_boundary"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#has_age"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#has_beginning"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#has_characteristic"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#has_disposition"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#has_end"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#has_function"/>
@@ -203,15 +185,6 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#has_role"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#has_time"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#has_time_instant_inside"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#in_time_zone"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#interval_after"/>
@@ -280,64 +253,10 @@
         <ObjectProperty IRI="#quality_of"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#realized_in"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#realizes"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#role_of"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#time_interval_property"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#2D_boundary_of"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#has_XSD_duration"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#has_measurement_value"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#in_XSD_Date-Time-Stamp"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#in_XSD_date"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#in_XSD_g-Year"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#in_XSD_g-YearMonth"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#inxsdDateTime"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#name_of_temporal_position"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#numeric_value_of_temporal_duration"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#numeric_value_of_temporal_position"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#xsdDateTime"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#year"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#years_duration"/>
-    </Declaration>
-    <Declaration>
-        <AnnotationProperty IRI="http://def.isotc211.org/iso19108/2006/TemporalReferenceSystem#TM_CoordinateSystem.interval"/>
-    </Declaration>
-    <Declaration>
-        <AnnotationProperty IRI="http://def.isotc211.org/iso19108/2006/TemporalReferenceSystem#TM_CoordinateSystem.origin"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://purl.org/dc/terms/description"/>
@@ -662,28 +581,8 @@
         <ObjectProperty IRI="#has_quality"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#has_beginning"/>
-        <ObjectProperty IRI="#has_beginning"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#has_beginning"/>
-        <ObjectProperty IRI="#has_time"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#has_beginning"/>
-        <ObjectProperty IRI="#has_time_instant_inside"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
         <ObjectProperty IRI="#has_disposition"/>
         <ObjectProperty IRI="#has_characteristic"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#has_end"/>
-        <ObjectProperty IRI="#has_end"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#has_end"/>
-        <ObjectProperty IRI="#has_time"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#has_function"/>
@@ -810,20 +709,12 @@
         <ObjectProperty IRI="#is_concretized_as"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#derives_from"/>
-        <ObjectProperty IRI="#derives_into"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
         <ObjectProperty IRI="#disposition_of"/>
         <ObjectProperty IRI="#has_disposition"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="#function_of"/>
         <ObjectProperty IRI="#has_function"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
-        <ObjectProperty IRI="#has_2D_boundary"/>
-        <ObjectProperty IRI="#2D_boundary_of"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="#has_member"/>
@@ -872,10 +763,6 @@
     <InverseObjectProperties>
         <ObjectProperty IRI="#located_in"/>
         <ObjectProperty IRI="#location_of"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
-        <ObjectProperty IRI="#realized_in"/>
-        <ObjectProperty IRI="#realizes"/>
     </InverseObjectProperties>
     <FunctionalObjectProperty>
         <ObjectProperty IRI="#characteristic_of"/>
@@ -927,20 +814,8 @@
         <Class IRI="#generically_dependent_continuant"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#has_2D_boundary"/>
-        <Class IRI="#material_entity"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#has_beginning"/>
-        <Class IRI="#temporal_region"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
         <ObjectProperty IRI="#has_disposition"/>
         <Class IRI="#independent_continuant"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#has_end"/>
-        <Class IRI="#temporal_region"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#has_function"/>
@@ -953,14 +828,6 @@
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#has_role"/>
         <Class IRI="#independent_continuant"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#has_time"/>
-        <Class IRI="#temporal_region"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#has_time_instant_inside"/>
-        <Class IRI="#one-dimensional_temporal_region"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#interval_after"/>
@@ -1034,14 +901,6 @@
         <ObjectProperty IRI="#participates_in"/>
         <Class IRI="#continuant"/>
     </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#realized_in"/>
-        <Class IRI="#realizable_entity"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#realizes"/>
-        <Class IRI="#process"/>
-    </ObjectPropertyDomain>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#atravessa"/>
         <Class IRI="#geological_object"/>
@@ -1057,10 +916,6 @@
     <ObjectPropertyRange>
         <ObjectProperty IRI="#generically_depends_on"/>
         <Class IRI="#independent_continuant"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#has_2D_boundary"/>
-        <Class IRI="#immaterial_entity"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#has_characteristic"/>
@@ -1150,14 +1005,6 @@
         <ObjectProperty IRI="#participates_in"/>
         <Class IRI="#occurrent"/>
     </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#realized_in"/>
-        <Class IRI="#process"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#realizes"/>
-        <Class IRI="#realizable_entity"/>
-    </ObjectPropertyRange>
     <DisjointObjectProperties>
         <ObjectProperty IRI="#interval_equals"/>
         <ObjectProperty IRI="#interval_in"/>
@@ -1229,16 +1076,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#derives_from</IRI>
-        <Literal>deriva de</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#derives_into</IRI>
-        <Literal>deriva em</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#disposition_of</IRI>
         <Literal>disposição de</Literal>
     </AnnotationAssertion>
@@ -1291,11 +1128,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#generated_by</IRI>
         <Literal>gerado por</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#generated_in</IRI>
-        <Literal>gerado em</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1359,23 +1191,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#has_2D_boundary</IRI>
-        <Literal>tem limite 2D</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#has_XSD_duration</IRI>
-        <Literal>tem duração XSD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#has_age</IRI>
         <Literal>tem idade</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#has_beginning</IRI>
-        <Literal>tem início</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1389,18 +1206,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#has_end</IRI>
-        <Literal>tem fim</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#has_function</IRI>
         <Literal>tem função</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#has_measurement_value</IRI>
-        <Literal>tem valor de medida</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1429,16 +1236,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#has_time</IRI>
-        <Literal>tem tempo</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#has_time_instant_inside</IRI>
-        <Literal>tem instante de tempo dentro</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#immaterial_entity</IRI>
         <Literal>entidade imaterial</Literal>
     </AnnotationAssertion>
@@ -1446,31 +1243,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#immaterial_entity</IRI>
         <Literal>immaterial entity</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#in_XSD_Date-Time-Stamp</IRI>
-        <Literal>no registro de tempo</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#in_XSD_date</IRI>
-        <Literal>na data XSD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#in_XSD_g-Year</IRI>
-        <Literal>em ano gregoriano XSD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#in_XSD_g-YearMonth</IRI>
-        <Literal>em ano-mês gregoriano XSD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#in_time_zone</IRI>
-        <Literal>no fuso horário</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1559,11 +1331,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#inxsdDateTime</IRI>
-        <Literal>no tempo XSD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#is_concretized_as</IRI>
         <Literal>é concretizado como</Literal>
     </AnnotationAssertion>
@@ -1606,21 +1373,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#member_of</IRI>
         <Literal>membro de</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#name_of_temporal_position</IRI>
-        <Literal>nome de posição temporal</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#numeric_value_of_temporal_duration</IRI>
-        <Literal>valor numérico de duração temporal</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#numeric_value_of_temporal_position</IRI>
-        <Literal>valor numérico de posição temporal</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1714,16 +1466,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#realized_in</IRI>
-        <Literal>realizado em</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#realizes</IRI>
-        <Literal>realiza</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#rock</IRI>
         <Literal>rocha</Literal>
     </AnnotationAssertion>
@@ -1811,26 +1553,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#well_role</IRI>
         <Literal>papel de poço</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#xsdDateTime</IRI>
-        <Literal>tempo XSD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#year</IRI>
-        <Literal>ano</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#years_duration</IRI>
-        <Literal>duração em anos</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#2D_boundary_of</IRI>
-        <Literal>limite 2D de</Literal>
     </AnnotationAssertion>
 </Ontology>
 
