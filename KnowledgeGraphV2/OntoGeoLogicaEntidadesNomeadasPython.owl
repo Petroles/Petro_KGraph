@@ -1,0 +1,5064 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/bg40/ontologies/2022/5/untitled-ontology-2"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/bg40/ontologies/2022/5/untitled-ontology-2">
+    <Prefix name="" IRI="http://www.semanticweb.org/bg40/ontologies/2022/5/untitled-ontology-2"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#abandonned_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#adjacent_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#agglomerate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#amphibolite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anatexite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#andesite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#andesitic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anhydrite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anorthosite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anorthositic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#antracite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#aplite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#appraisal_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#arcose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#argillite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ash"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#autobreccia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bafflestone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#basalt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#basaltic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#basanite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#basin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bindstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bioacumulado"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#biolitito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bituminous_schist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#block_tephra"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#blueschist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#boundstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#brazilian_age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#brazilian_geochronologic_unit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#brazilian_subage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#breccia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#british_age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#british_epoch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#british_geochronologic_unit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#calc-silicate_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#calciarenite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#calcirudite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#calcissiltite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#calcrete"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#caliche"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#carbonatic_breccia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#carbonatos"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#carnallite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cataclasite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#chert"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#clastic_sediment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#clay"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#coal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cobbles"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#commercial_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#conglomerate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#contact_metamorphic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#continuant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#coquina"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#crystalline_limestone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dacite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dacitic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#deeper_prospect_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dendrolito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#diabase"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#diamictite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#diatexite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#diorite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dioritic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#discovery_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dolocrete"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dolomite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dry_hole"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dry_hole_with_traces_of_hydrocarbon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dry_hole_without_traces_of_hydrocarbon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#earth_fluid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#earth_material"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eclogite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#esferulitito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#estromatolito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#evaporite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#exploratory_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#explotatory_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fault_gouge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fault_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#field"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#floatstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fluid_quality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#foidite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#foiditic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#foidolite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#formation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#framestone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gabbro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gabbroic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#generically_dependent_continuant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_eon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_epoch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_era"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_period"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_sub_period"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_subage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_super_eon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geochronologic_unit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_object"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_structure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#geological_time_interval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gipsita"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gneiss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#grainstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#granite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#granitic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#granodiorite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#granulite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#grauvaque"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gravel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#greenschist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#greisen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#group"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gypsum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#halite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hard_coal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#high_pressure_metamorphic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hiloclastite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hornfels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hypabyssal_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#igneous_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#igneous_sediment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ignimbrite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#immaterial_entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#independent_continuant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#injection_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#kimberlite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#laminito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lamito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lamprophyre"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lapilli"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lapilli_tuff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lapillite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#latite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leiolito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lignite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#limestone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#litharenite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lithostratigraphic_unit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#magma"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#marlstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#material_entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#member"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#meta-arenito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metabasalt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metacarbonatic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metagabbro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metagranite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metamorphic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metasiliciclastic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metassedimentar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metassiltito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metassomatic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metatexite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#metavolcanoclastic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mica_schist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#microbialito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#microbrecha"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#migmatic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#migmatite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monzodiorite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monzogabbro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monzogranite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monzonite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#monzosyenite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mudstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mylonite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#north_american_age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#north_american_geochronologic_unit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#object"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#object_aggregate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#occurrent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#one-dimensional_temporal_region"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#organic_sediment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#orthogneiss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ortobrecha"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ortoconglomerado"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#packstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#parabrecha"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#paraconglomerado"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#paragneiss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pegmatite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peperite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peridotite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phonolite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phonolitic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phyllite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phyllonite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#plutonic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#production_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#proper_interval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pyroclast"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pyroclastic_breccia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pyroclastic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pyroxenite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quartz_arenite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quartz_diorite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quartz_gabbro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quartz_monzonite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quartz_syenite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quartzite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#quartzolite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#radiolarite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#realizable_entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#rhyolite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#rhyolitic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#role"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#rudstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sandstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#schist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#scree"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sedimentary_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#serpentinite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#shale"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#shallower_prospect_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#silcrete"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#silexite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#siliciclastic_breccia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#siliciclasticos"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#silt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#siltstone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sinter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#site"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#skarn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#slate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#special_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#storage_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#stratigraphic_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#subcommercial_well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#syenite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#syenitic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#syenogranite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sylvinite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tachyhydrite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tachylite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tectonic_breccia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#temporal_region"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tephra"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tephrite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tephritic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#textura"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#till"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tipo_de_porosidade"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tonalite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#trachyte"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#trachytic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#travertine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#trombolito"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tuff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tuff_breccia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tuffite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ultrabasic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ultramafic_plutonic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ultramafic_volcanic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#volcanic_rock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#wackestone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#well"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#well_quality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#well_role"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#well_with_hydrocarbon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#western_european_age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#western_european_epoch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#western_european_geochronologic_unit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#western_european_subage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#wildcat_well"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#after"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#age_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#atravessa"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#before"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#carrier_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#concretizes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#constituted_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#crossed_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#disposition_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#function_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#generated_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#generically_depends_on"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_age"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_disposition"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_function"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_member"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_part"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_participant"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_quality"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_role"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_after"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_before"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_contains"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_disjoint"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_during"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_equals"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_finished_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_finishes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_meets"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_met_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_overlaps"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_started_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#interval_starts"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_concretized_as"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#located_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#location_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#member_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#part_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#participates_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#quality_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#role_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/description"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#geological_object"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#object"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_age"/>
+                <Class IRI="#geological_age"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#constituted_by"/>
+                <Class IRI="#earth_material"/>
+            </ObjectAllValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#generated_by"/>
+                <Class IRI="#geological_process"/>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#abandonned_well"/>
+        <Class IRI="#well_quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#adjacent_well"/>
+        <Class IRI="#exploratory_well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#agglomerate"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#amphibolite"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anatexite"/>
+        <Class IRI="#migmatic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#andesite"/>
+        <Class IRI="#andesitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#andesitic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anhydrite"/>
+        <Class IRI="#evaporite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anorthosite"/>
+        <Class IRI="#anorthositic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anorthositic_rock"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#antracite"/>
+        <Class IRI="#coal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#aplite"/>
+        <Class IRI="#hypabyssal_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#appraisal_well"/>
+        <Class IRI="#exploratory_well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#arcose"/>
+        <Class IRI="#sandstone"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#argillite"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ash"/>
+        <Class IRI="#tephra"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#autobreccia"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bafflestone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#basalt"/>
+        <Class IRI="#basaltic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#basaltic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#basanite"/>
+        <Class IRI="#tephritic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#basin"/>
+        <Class IRI="#site"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bindstone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bioacumulado"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#biolitito"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bituminous_schist"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#block_tephra"/>
+        <Class IRI="#tephra"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#blueschist"/>
+        <Class IRI="#high_pressure_metamorphic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#boundstone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#brazilian_age"/>
+        <Class IRI="#brazilian_geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#brazilian_geochronologic_unit"/>
+        <Class IRI="#geological_time_interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#brazilian_subage"/>
+        <Class IRI="#brazilian_geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#breccia"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#british_age"/>
+        <Class IRI="#british_geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#british_epoch"/>
+        <Class IRI="#british_geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#british_geochronologic_unit"/>
+        <Class IRI="#geological_time_interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#calc-silicate_rock"/>
+        <Class IRI="#metacarbonatic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#calciarenite"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#calcirudite"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#calcissiltite"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#calcrete"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#caliche"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#carbonatic_breccia"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#carbonatos"/>
+        <Class IRI="#sedimentary_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#carnallite"/>
+        <Class IRI="#evaporite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cataclasite"/>
+        <Class IRI="#fault_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#chert"/>
+        <Class IRI="#sedimentary_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#clastic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#clay"/>
+        <Class IRI="#clastic_sediment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#coal"/>
+        <Class IRI="#sedimentary_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cobbles"/>
+        <Class IRI="#clastic_sediment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#commercial_well"/>
+        <Class IRI="#well_quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#conglomerate"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#contact_metamorphic_rock"/>
+        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#continuant"/>
+        <Class IRI="#entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#coquina"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#crystalline_limestone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dacite"/>
+        <Class IRI="#dacitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dacitic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#deeper_prospect_well"/>
+        <Class IRI="#exploratory_well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dendrolito"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#diabase"/>
+        <Class IRI="#hypabyssal_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#diamictite"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#diatexite"/>
+        <Class IRI="#migmatic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#diorite"/>
+        <Class IRI="#dioritic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dioritic_rock"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#discovery_well"/>
+        <Class IRI="#well_quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dolocrete"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dolomite"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dry_hole"/>
+        <Class IRI="#well_quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dry_hole_with_traces_of_hydrocarbon"/>
+        <Class IRI="#dry_hole"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dry_hole_without_traces_of_hydrocarbon"/>
+        <Class IRI="#dry_hole"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#earth_fluid"/>
+        <Class IRI="#earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#earth_material"/>
+        <Class IRI="#material_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#eclogite"/>
+        <Class IRI="#high_pressure_metamorphic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#esferulitito"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#estromatolito"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#evaporite"/>
+        <Class IRI="#sedimentary_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#exploratory_well"/>
+        <Class IRI="#well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#explotatory_well"/>
+        <Class IRI="#well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fault_gouge"/>
+        <Class IRI="#fault_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fault_rock"/>
+        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#field"/>
+        <Class IRI="#site"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#floatstone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fluid_quality"/>
+        <Class IRI="#quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#foidite"/>
+        <Class IRI="#foiditic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#foiditic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#foidolite"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#formation"/>
+        <Class IRI="#lithostratigraphic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#formation"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#part_of"/>
+            <Class IRI="#group"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#framestone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gabbro"/>
+        <Class IRI="#gabbroic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gabbroic_rock"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#generically_dependent_continuant"/>
+        <Class IRI="#continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_age"/>
+        <Class IRI="#geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_eon"/>
+        <Class IRI="#geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_epoch"/>
+        <Class IRI="#geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_era"/>
+        <Class IRI="#geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_period"/>
+        <Class IRI="#geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_sub_period"/>
+        <Class IRI="#geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_subage"/>
+        <Class IRI="#geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_super_eon"/>
+        <Class IRI="#geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geochronologic_unit"/>
+        <Class IRI="#geological_time_interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_age"/>
+        <Class IRI="#quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_age"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#participates_in"/>
+            <Class IRI="#geological_time_interval"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_object"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#carrier_of"/>
+            <Class IRI="#geological_structure"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_process"/>
+        <Class IRI="#process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_process"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#has_participant"/>
+            <Class IRI="#geological_object"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_structure"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_time_interval"/>
+        <Class IRI="#proper_interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gipsita"/>
+        <Class IRI="#evaporite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gneiss"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#grainstone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#granite"/>
+        <Class IRI="#granitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#granitic_rock"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#granodiorite"/>
+        <Class IRI="#granitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#granulite"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#grauvaque"/>
+        <Class IRI="#sandstone"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gravel"/>
+        <Class IRI="#clastic_sediment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#greenschist"/>
+        <Class IRI="#schist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#greisen"/>
+        <Class IRI="#metassomatic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#group"/>
+        <Class IRI="#lithostratigraphic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gypsum"/>
+        <Class IRI="#metamorphic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#halite"/>
+        <Class IRI="#evaporite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hard_coal"/>
+        <Class IRI="#coal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#high_pressure_metamorphic_rock"/>
+        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hiloclastite"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hornfels"/>
+        <Class IRI="#contact_metamorphic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hypabyssal_rock"/>
+        <Class IRI="#igneous_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#igneous_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#igneous_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ignimbrite"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#immaterial_entity"/>
+        <Class IRI="#independent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#independent_continuant"/>
+        <Class IRI="#continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#injection_well"/>
+        <Class IRI="#well_role"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#kimberlite"/>
+        <Class IRI="#hypabyssal_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#laminito"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lamito"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lamprophyre"/>
+        <Class IRI="#hypabyssal_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lapilli"/>
+        <Class IRI="#tephra"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lapilli_tuff"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lapillite"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#latite"/>
+        <Class IRI="#trachytic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leiolito"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lignite"/>
+        <Class IRI="#sedimentary_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#limestone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#litharenite"/>
+        <Class IRI="#sandstone"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lithostratigraphic_unit"/>
+        <Class IRI="#geological_object"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lithostratigraphic_unit"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty IRI="#located_in"/>
+            <Class IRI="#basin"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#magma"/>
+        <Class IRI="#igneous_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#marlstone"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#material_entity"/>
+        <Class IRI="#independent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#member"/>
+        <Class IRI="#lithostratigraphic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#member"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#part_of"/>
+            <Class IRI="#formation"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#meta-arenito"/>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metabasalt"/>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metacarbonatic_rock"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metagabbro"/>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metagranite"/>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metamorphic_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#metamorphic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+        <Class IRI="#metamorphic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#metamorphic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metasiliciclastic_rock"/>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metassedimentar"/>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metassiltito"/>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metassomatic_rock"/>
+        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metatexite"/>
+        <Class IRI="#diatexite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#metavolcanoclastic_rock"/>
+        <Class IRI="#metamorphic_rock_per_origin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mica_schist"/>
+        <Class IRI="#schist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#microbialito"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#microbrecha"/>
+        <Class IRI="#breccia"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#migmatic_rock"/>
+        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#migmatite"/>
+        <Class IRI="#diatexite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#monzodiorite"/>
+        <Class IRI="#dioritic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#monzogabbro"/>
+        <Class IRI="#gabbroic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#monzogranite"/>
+        <Class IRI="#granitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#monzonite"/>
+        <Class IRI="#syenitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#monzosyenite"/>
+        <Class IRI="#syenitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mudstone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mylonite"/>
+        <Class IRI="#fault_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#north_american_age"/>
+        <Class IRI="#north_american_geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#north_american_geochronologic_unit"/>
+        <Class IRI="#geological_time_interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#object"/>
+        <Class IRI="#material_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#object_aggregate"/>
+        <Class IRI="#material_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#occurrent"/>
+        <Class IRI="#entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#one-dimensional_temporal_region"/>
+        <Class IRI="#temporal_region"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#organic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#orthogneiss"/>
+        <Class IRI="#gneiss"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ortobrecha"/>
+        <Class IRI="#breccia"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ortoconglomerado"/>
+        <Class IRI="#conglomerate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#packstone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#parabrecha"/>
+        <Class IRI="#breccia"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#paraconglomerado"/>
+        <Class IRI="#conglomerate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#paragneiss"/>
+        <Class IRI="#gneiss"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peat"/>
+        <Class IRI="#organic_sediment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pegmatite"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peperite"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peridotite"/>
+        <Class IRI="#ultramafic_plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#phonolite"/>
+        <Class IRI="#phonolitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#phonolitic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#phyllite"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#phyllonite"/>
+        <Class IRI="#mylonite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#igneous_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#process"/>
+        <Class IRI="#occurrent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#production_well"/>
+        <Class IRI="#well_role"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#proper_interval"/>
+        <Class IRI="#one-dimensional_temporal_region"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pyroclast"/>
+        <Class IRI="#igneous_sediment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pyroclastic_breccia"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#igneous_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pyroxenite"/>
+        <Class IRI="#ultramafic_plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quality"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quartz_arenite"/>
+        <Class IRI="#sandstone"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quartz_diorite"/>
+        <Class IRI="#dioritic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quartz_gabbro"/>
+        <Class IRI="#gabbroic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quartz_monzonite"/>
+        <Class IRI="#syenitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quartz_syenite"/>
+        <Class IRI="#syenitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quartzite"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#quartzolite"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#radiolarite"/>
+        <Class IRI="#chert"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#realizable_entity"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rhyolite"/>
+        <Class IRI="#rhyolitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rhyolitic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rock"/>
+        <Class IRI="#earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rock"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#carrier_of"/>
+            <Class IRI="#textura"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rock"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#carrier_of"/>
+            <Class IRI="#tipo_de_porosidade"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#role"/>
+        <Class IRI="#realizable_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#rudstone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sand"/>
+        <Class IRI="#clastic_sediment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sandstone"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#schist"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#scree"/>
+        <Class IRI="#clastic_sediment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#serpentinite"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#shale"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#shallower_prospect_well"/>
+        <Class IRI="#exploratory_well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#silcrete"/>
+        <Class IRI="#sedimentary_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#silexite"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#siliciclastic_breccia"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#sedimentary_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#silt"/>
+        <Class IRI="#clastic_sediment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#siltstone"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sinter"/>
+        <Class IRI="#sedimentary_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#site"/>
+        <Class IRI="#immaterial_entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#skarn"/>
+        <Class IRI="#metassomatic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#slate"/>
+        <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#special_well"/>
+        <Class IRI="#well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#specifically_dependent_continuant"/>
+        <Class IRI="#continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#storage_well"/>
+        <Class IRI="#well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#stratigraphic_well"/>
+        <Class IRI="#exploratory_well"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#subcommercial_well"/>
+        <Class IRI="#well_quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#syenite"/>
+        <Class IRI="#syenitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#syenitic_rock"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#syenogranite"/>
+        <Class IRI="#granitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sylvinite"/>
+        <Class IRI="#evaporite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tachyhydrite"/>
+        <Class IRI="#evaporite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tachylite"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tectonic_breccia"/>
+        <Class IRI="#fault_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#temporal_region"/>
+        <Class IRI="#occurrent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tephra"/>
+        <Class IRI="#pyroclast"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tephrite"/>
+        <Class IRI="#tephritic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tephritic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#textura"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#till"/>
+        <Class IRI="#siliciclasticos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tipo_de_porosidade"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tonalite"/>
+        <Class IRI="#granitic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#trachyte"/>
+        <Class IRI="#trachytic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#trachytic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#travertine"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#trombolito"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tuff"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tuff_breccia"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tuffite"/>
+        <Class IRI="#pyroclastic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ultrabasic_rock"/>
+        <Class IRI="#igneous_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ultramafic_plutonic_rock"/>
+        <Class IRI="#plutonic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ultramafic_volcanic_rock"/>
+        <Class IRI="#volcanic_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#unconsolidated_earth_material"/>
+        <Class IRI="#earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#igneous_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#wackestone"/>
+        <Class IRI="#carbonatos"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well"/>
+        <Class IRI="#object_aggregate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well"/>
+        <ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#located_in"/>
+                <Class IRI="#basin"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#located_in"/>
+                <Class IRI="#field"/>
+            </ObjectSomeValuesFrom>
+        </ObjectUnionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#has_quality"/>
+            <Class IRI="#well_quality"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#has_role"/>
+            <Class IRI="#well_role"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well_quality"/>
+        <Class IRI="#quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well_role"/>
+        <Class IRI="#role"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#well_with_hydrocarbon"/>
+        <Class IRI="#well_quality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#western_european_age"/>
+        <Class IRI="#western_european_geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#western_european_epoch"/>
+        <Class IRI="#western_european_geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#western_european_geochronologic_unit"/>
+        <Class IRI="#geological_time_interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#western_european_subage"/>
+        <Class IRI="#western_european_geochronologic_unit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#wildcat_well"/>
+        <Class IRI="#exploratory_well"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#adjacent_well"/>
+        <Class IRI="#appraisal_well"/>
+        <Class IRI="#deeper_prospect_well"/>
+        <Class IRI="#shallower_prospect_well"/>
+        <Class IRI="#stratigraphic_well"/>
+        <Class IRI="#wildcat_well"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#basin"/>
+        <Class IRI="#field"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#brazilian_age"/>
+        <Class IRI="#brazilian_subage"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#british_age"/>
+        <Class IRI="#british_epoch"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#continuant"/>
+        <Class IRI="#occurrent"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#continuant"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#part_of"/>
+            <Class IRI="#occurrent"/>
+        </ObjectSomeValuesFrom>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#dry_hole_with_traces_of_hydrocarbon"/>
+        <Class IRI="#dry_hole_without_traces_of_hydrocarbon"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#earth_fluid"/>
+        <Class IRI="#rock"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#earth_fluid"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#earth_material"/>
+        <Class IRI="#geological_object"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#exploratory_well"/>
+        <Class IRI="#explotatory_well"/>
+        <Class IRI="#special_well"/>
+        <Class IRI="#storage_well"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#generically_dependent_continuant"/>
+        <Class IRI="#independent_continuant"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#generically_dependent_continuant"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#geochronologic_age"/>
+        <Class IRI="#geochronologic_eon"/>
+        <Class IRI="#geochronologic_epoch"/>
+        <Class IRI="#geochronologic_era"/>
+        <Class IRI="#geochronologic_period"/>
+        <Class IRI="#geochronologic_sub_period"/>
+        <Class IRI="#geochronologic_subage"/>
+        <Class IRI="#geochronologic_super_eon"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#immaterial_entity"/>
+        <Class IRI="#material_entity"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#independent_continuant"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#occurrent"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#part_of"/>
+            <Class IRI="#continuant"/>
+        </ObjectSomeValuesFrom>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#process"/>
+        <Class IRI="#temporal_region"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#quality"/>
+        <Class IRI="#realizable_entity"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#rock"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#western_european_age"/>
+        <Class IRI="#western_european_epoch"/>
+        <Class IRI="#western_european_subage"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#after"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#age_of"/>
+        <ObjectProperty IRI="#quality_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#before"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#disposition_of"/>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#function_of"/>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#generated_by"/>
+        <ObjectProperty IRI="#participates_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_age"/>
+        <ObjectProperty IRI="#has_quality"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_disposition"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_function"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_member"/>
+        <ObjectProperty IRI="#has_part"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_quality"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_role"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_after"/>
+        <ObjectProperty IRI="#after"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_after"/>
+        <ObjectProperty IRI="#interval_disjoint"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_before"/>
+        <ObjectProperty IRI="#before"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_before"/>
+        <ObjectProperty IRI="#interval_disjoint"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_contains"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_disjoint"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_during"/>
+        <ObjectProperty IRI="#interval_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_equals"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_finished_by"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_finishes"/>
+        <ObjectProperty IRI="#interval_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_in"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_meets"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_met_by"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_overlaps"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_started_by"/>
+        <ObjectProperty IRI="#time_interval_property"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#interval_starts"/>
+        <ObjectProperty IRI="#interval_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#member_of"/>
+        <ObjectProperty IRI="#part_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#quality_of"/>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#role_of"/>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#after"/>
+        <ObjectProperty IRI="#after"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#age_of"/>
+        <ObjectProperty IRI="#has_age"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#atravessa"/>
+        <ObjectProperty IRI="#crossed_by"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#before"/>
+        <ObjectProperty IRI="#before"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#carrier_of"/>
+        <ObjectProperty IRI="#generically_depends_on"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#characteristic_of"/>
+        <ObjectProperty IRI="#has_characteristic"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#concretizes"/>
+        <ObjectProperty IRI="#is_concretized_as"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#disposition_of"/>
+        <ObjectProperty IRI="#has_disposition"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#function_of"/>
+        <ObjectProperty IRI="#has_function"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_member"/>
+        <ObjectProperty IRI="#member_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_part"/>
+        <ObjectProperty IRI="#part_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_participant"/>
+        <ObjectProperty IRI="#participates_in"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_quality"/>
+        <ObjectProperty IRI="#quality_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#has_role"/>
+        <ObjectProperty IRI="#role_of"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_after"/>
+        <ObjectProperty IRI="#interval_before"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_contains"/>
+        <ObjectProperty IRI="#interval_during"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_finished_by"/>
+        <ObjectProperty IRI="#interval_finishes"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_meets"/>
+        <ObjectProperty IRI="#interval_met_by"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+        <ObjectProperty IRI="#interval_overlaps"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#interval_started_by"/>
+        <ObjectProperty IRI="#interval_starts"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#located_in"/>
+        <ObjectProperty IRI="#location_of"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#characteristic_of"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#constituted_by"/>
+    </AsymmetricObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#generated_by"/>
+    </AsymmetricObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#before"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#has_part"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#located_in"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#location_of"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#part_of"/>
+    </TransitiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#constituted_by"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#generated_by"/>
+    </IrreflexiveObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty IRI="#has_member"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#atravessa"/>
+        <Class IRI="#well"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#carrier_of"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#concretizes"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#generically_depends_on"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_disposition"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_function"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_participant"/>
+        <Class IRI="#occurrent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_role"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_after"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_before"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_contains"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_disjoint"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_during"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_equals"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_finished_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_finishes"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_in"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_meets"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_met_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_overlaps"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_started_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#interval_starts"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_concretized_as"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#located_in"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#participates_in"/>
+        <Class IRI="#continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#atravessa"/>
+        <Class IRI="#geological_object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#carrier_of"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#concretizes"/>
+        <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#generically_depends_on"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_characteristic"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_participant"/>
+        <Class IRI="#continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_quality"/>
+        <Class IRI="#quality"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_role"/>
+        <Class IRI="#role"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_after"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_before"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_contains"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_disjoint"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_during"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_equals"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_finished_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_finishes"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_in"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_meets"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_met_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_overlapped_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_overlaps"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_started_by"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#interval_starts"/>
+        <Class IRI="#proper_interval"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#is_concretized_as"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#located_in"/>
+        <Class IRI="#independent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#participates_in"/>
+        <Class IRI="#occurrent"/>
+    </ObjectPropertyRange>
+    <DisjointObjectProperties>
+        <ObjectProperty IRI="#interval_equals"/>
+        <ObjectProperty IRI="#interval_in"/>
+    </DisjointObjectProperties>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#FormationOfEarth_quality</IRI>
+        <Literal>Formação da Terra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#abandonned_well</IRI>
+        <Literal>abandonado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#adjacent_well</IRI>
+        <Literal>pioneiro adjacente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#adjacent_well</IRI>
+        <Literal>poço adjacente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#adjacent_well</IRI>
+        <Literal>poço pioneiro adjacente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#after</IRI>
+        <Literal>depois de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#age_of</IRI>
+        <Literal>idade de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#agglomerate</IRI>
+        <Literal>aglomerado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#agglomerate</IRI>
+        <Literal>aglomerado vulcânico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#amphibolite</IRI>
+        <Literal>anfibolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anatexite</IRI>
+        <Literal>anatexito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#andesite</IRI>
+        <Literal>andesito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#andesitic_rock</IRI>
+        <Literal>andesitóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#andesitic_rock</IRI>
+        <Literal>rocha andesítica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anhydrite</IRI>
+        <Literal>anidrita</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anorthosite</IRI>
+        <Literal>anortosito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anorthositic_rock</IRI>
+        <Literal>rocha anortosítica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#antracite</IRI>
+        <Literal>antracito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#aplite</IRI>
+        <Literal>aplito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#appraisal_well</IRI>
+        <Literal>poço de extensão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#arcose</IRI>
+        <Literal>arcóseo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#arcose</IRI>
+        <Literal>arcósio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#argillite</IRI>
+        <Literal>argilito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ash</IRI>
+        <Literal>cinza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ash</IRI>
+        <Literal>cinza vulcânica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#atravessa</IRI>
+        <Literal>atravessa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#autobreccia</IRI>
+        <Literal>autobrecha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#bafflestone</IRI>
+        <Literal>bafflestone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#basalt</IRI>
+        <Literal>basalto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#basaltic_rock</IRI>
+        <Literal>basaltóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#basaltic_rock</IRI>
+        <Literal>rocha basáltica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#basanite</IRI>
+        <Literal>basanito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#basin</IRI>
+        <Literal>bacia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#before</IRI>
+        <Literal>antes de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#bindstone</IRI>
+        <Literal>bindstone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#bioacumulado</IRI>
+        <Literal>bioacumulado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#biolitito</IRI>
+        <Literal>biolitito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#bituminous_schist</IRI>
+        <Literal>xisto betuminoso</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#block_tephra</IRI>
+        <Literal>bomba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#blueschist</IRI>
+        <Literal>xisto azul</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#boundstone</IRI>
+        <Literal>boundstone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_age</IRI>
+        <Literal>idade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_age</IRI>
+        <Literal>idade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_age</IRI>
+        <Literal>idade geocronológica brasileira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_geochronologic_unit</IRI>
+        <Literal>intervalo de tempo geológico brasileiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_geochronologic_unit</IRI>
+        <Literal>unidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_geochronologic_unit</IRI>
+        <Literal>unidade geocronológica brasileira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_subage</IRI>
+        <Literal>subidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_subage</IRI>
+        <Literal>subidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#brazilian_subage</IRI>
+        <Literal>subidade geocronológica brasileira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#breccia</IRI>
+        <Literal>brecha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_age</IRI>
+        <Literal>idade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_age</IRI>
+        <Literal>idade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_age</IRI>
+        <Literal>idade geocronológica inglesa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_epoch</IRI>
+        <Literal>época</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_epoch</IRI>
+        <Literal>época geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_epoch</IRI>
+        <Literal>época geocronológica inglesa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_geochronologic_unit</IRI>
+        <Literal>intervalo de tempo geológico da Inglaterra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_geochronologic_unit</IRI>
+        <Literal>intervalo de tempo geológico inglês</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_geochronologic_unit</IRI>
+        <Literal>unidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#british_geochronologic_unit</IRI>
+        <Literal>unidade geocronológica inglesa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#calc-silicate_rock</IRI>
+        <Literal>calciossilicática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#calc-silicate_rock</IRI>
+        <Literal>rocha calciossilicática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#calciarenite</IRI>
+        <Literal>calcarenito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#calciarenite</IRI>
+        <Literal>calciarenito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#calcirudite</IRI>
+        <Literal>calcirudito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#calcissiltite</IRI>
+        <Literal>calcissiltito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#calcrete</IRI>
+        <Literal>calcrete</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#caliche</IRI>
+        <Literal>caliche</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carbonatic_breccia</IRI>
+        <Literal>brecha carbonática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carbonatos</IRI>
+        <Literal>carbonato</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carbonatos</IRI>
+        <Literal>rocha carbonática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carnallite</IRI>
+        <Literal>carnalita</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carrier_of</IRI>
+        <Literal>portador de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#cataclasite</IRI>
+        <Literal>cataclasito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#characteristic_of</IRI>
+        <Literal>característica de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#chert</IRI>
+        <Literal>cherte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#clastic_sediment</IRI>
+        <Literal>sedimento clástico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#clay</IRI>
+        <Literal>argila</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#clay</IRI>
+        <Literal>barro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#clay</IRI>
+        <Literal>ooze</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#clay</IRI>
+        <Literal>sapropel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#coal</IRI>
+        <Literal>carvão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#cobbles</IRI>
+        <Literal>seixos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#commercial_well</IRI>
+        <Literal>comercial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#concretizes</IRI>
+        <Literal>concretiza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#conglomerate</IRI>
+        <Literal>conglomerado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#conglomerate</IRI>
+        <Literal>psefito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#conglomerate</IRI>
+        <Literal>rudito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#constituted_by</IRI>
+        <Literal>constituído por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#contact_metamorphic_rock</IRI>
+        <Literal>rocha metamórfica de contato</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#continuant</IRI>
+        <Literal>continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#continuant</IRI>
+        <Literal>continuante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#coquina</IRI>
+        <Literal>coquina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#crossed_by</IRI>
+        <Literal>atravessado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#crystalline_limestone</IRI>
+        <Literal>calcário cristalino</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dacite</IRI>
+        <Literal>dacito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dacitic_rock</IRI>
+        <Literal>dacitóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#deeper_prospect_well</IRI>
+        <Literal>poço para jazida mais profunda</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#deeper_prospect_well</IRI>
+        <Literal>poço para prospecto mais profundo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dendrolito</IRI>
+        <Literal>dendrolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#diabase</IRI>
+        <Literal>diabásio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#diabase</IRI>
+        <Literal>dolerito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#diabase</IRI>
+        <Literal>microgabro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#diamictite</IRI>
+        <Literal>diamictito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#diatexite</IRI>
+        <Literal>diatexito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#diorite</IRI>
+        <Literal>diorito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dioritic_rock</IRI>
+        <Literal>dioritóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dioritic_rock</IRI>
+        <Literal>rocha diorítica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#discovery_well</IRI>
+        <Literal>descobridor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#disposition_of</IRI>
+        <Literal>disposição de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dolocrete</IRI>
+        <Literal>dolocrete</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dolomite</IRI>
+        <Literal>dolomite</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dry_hole</IRI>
+        <Literal>seco</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dry_hole_with_traces_of_hydrocarbon</IRI>
+        <Literal>seco com indícios</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dry_hole_without_traces_of_hydrocarbon</IRI>
+        <Literal>seco sem indícios</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_fluid</IRI>
+        <Literal>earth fluid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_fluid</IRI>
+        <Literal>fluido da terra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_fluid</IRI>
+        <Literal>fluido geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_material</IRI>
+        <Literal>earth material</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#earth_material</IRI>
+        <Literal>material geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#eclogite</IRI>
+        <Literal>eclogito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#entity</IRI>
+        <Literal>entidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#esferulitito</IRI>
+        <Literal>esferulitito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#estromatolito</IRI>
+        <Literal>estromatolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#evaporite</IRI>
+        <Literal>evaporito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#exploratory_well</IRI>
+        <Literal>poço exploratório</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#explotatory_well</IRI>
+        <Literal>poço explotatório</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#fault_gouge</IRI>
+        <Literal>goivagem de falha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#fault_rock</IRI>
+        <Literal>rocha de falha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#field</IRI>
+        <Literal>campo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#floatstone</IRI>
+        <Literal>floatstone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#fluid_quality</IRI>
+        <Literal>qualidade de fluido</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#foidite</IRI>
+        <Literal>foidito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#foiditic_rock</IRI>
+        <Literal>foiditóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#foidolite</IRI>
+        <Literal>foidito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#foidolite</IRI>
+        <Literal>foidolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#formation</IRI>
+        <Literal>formação</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#framestone</IRI>
+        <Literal>framestone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#function_of</IRI>
+        <Literal>função de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gabbro</IRI>
+        <Literal>gabro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gabbroic_rock</IRI>
+        <Literal>gabróide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gabbroic_rock</IRI>
+        <Literal>rocha gabróica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generated_by</IRI>
+        <Literal>gerado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generically_dependent_continuant</IRI>
+        <Literal>continuante genericamente dependente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generically_dependent_continuant</IRI>
+        <Literal>generically dependent continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#generically_depends_on</IRI>
+        <Literal>depende genericamente de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_age</IRI>
+        <Literal>idade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_age</IRI>
+        <Literal>idade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_eon</IRI>
+        <Literal>eon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_eon</IRI>
+        <Literal>eon geocronológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_epoch</IRI>
+        <Literal>época</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_epoch</IRI>
+        <Literal>época geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_era</IRI>
+        <Literal>era</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_era</IRI>
+        <Literal>era geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_period</IRI>
+        <Literal>período</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_period</IRI>
+        <Literal>período geocronológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_sub_period</IRI>
+        <Literal>sub período</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_sub_period</IRI>
+        <Literal>sub período geocronológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_subage</IRI>
+        <Literal>subidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_subage</IRI>
+        <Literal>subidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_super_eon</IRI>
+        <Literal>super eon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_super_eon</IRI>
+        <Literal>super eon geocronológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_unit</IRI>
+        <Literal>intervalo de tempo geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geochronologic_unit</IRI>
+        <Literal>unidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_age</IRI>
+        <Literal>geological age</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_age</IRI>
+        <Literal>idade geológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_object</IRI>
+        <Literal>geological object</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_object</IRI>
+        <Literal>objeto geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_process</IRI>
+        <Literal>processo geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_structure</IRI>
+        <Literal>estrutura geológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_structure</IRI>
+        <Literal>geological structure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_time_interval</IRI>
+        <Literal>intervalo de tempo geológico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#geological_time_interval</IRI>
+        <Literal>unidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gipsita</IRI>
+        <Literal>gipsita</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gneiss</IRI>
+        <Literal>gnaisse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#grainstone</IRI>
+        <Literal>grainstone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#granite</IRI>
+        <Literal>granito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#granitic_rock</IRI>
+        <Literal>granitóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#granodiorite</IRI>
+        <Literal>granodiorito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#granulite</IRI>
+        <Literal>granulito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#grauvaque</IRI>
+        <Literal>grauvaca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gravel</IRI>
+        <Literal>cascalho</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#greenschist</IRI>
+        <Literal>xisto verde</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#greisen</IRI>
+        <Literal>greisen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#group</IRI>
+        <Literal>grupo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gypsum</IRI>
+        <Literal>gesso</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#halite</IRI>
+        <Literal>halita</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hard_coal</IRI>
+        <Literal>carvão betuminoso</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hard_coal</IRI>
+        <Literal>hulha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_age</IRI>
+        <Literal>tem idade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_characteristic</IRI>
+        <Literal>tem característica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_disposition</IRI>
+        <Literal>tem disposição</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_function</IRI>
+        <Literal>tem função</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_member</IRI>
+        <Literal>tem membro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_part</IRI>
+        <Literal>tem parte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_participant</IRI>
+        <Literal>tem participante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_quality</IRI>
+        <Literal>tem qualidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_role</IRI>
+        <Literal>tem papel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#high_pressure_metamorphic_rock</IRI>
+        <Literal>rocha metamórfica de alta pressão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hiloclastite</IRI>
+        <Literal>hialoclastito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hornfels</IRI>
+        <Literal>cornubiana</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hornfels</IRI>
+        <Literal>cornubianito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hornfels</IRI>
+        <Literal>hornfels</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hypabyssal_rock</IRI>
+        <Literal>hipabissal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hypabyssal_rock</IRI>
+        <Literal>rocha hipabissal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hypabyssal_rock</IRI>
+        <Literal>rocha subvulcânica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hypabyssal_rock</IRI>
+        <Literal>subvulcânica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#igneous_rock</IRI>
+        <Literal>rocha ígnea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#igneous_rock</IRI>
+        <Literal>ígnea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#igneous_sediment</IRI>
+        <Literal>sedimento ígneo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ignimbrite</IRI>
+        <Literal>ignimbrito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#immaterial_entity</IRI>
+        <Literal>entidade imaterial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#immaterial_entity</IRI>
+        <Literal>immaterial entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#independent_continuant</IRI>
+        <Literal>continuante independente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#independent_continuant</IRI>
+        <Literal>independent continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#injection_well</IRI>
+        <Literal>injetor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_after</IRI>
+        <Literal>intervalo depois</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_before</IRI>
+        <Literal>intervalo antes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_contains</IRI>
+        <Literal>intervalo contém</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_disjoint</IRI>
+        <Literal>intervalo disjunto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_during</IRI>
+        <Literal>intervalo durante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_equals</IRI>
+        <Literal>intervalo igual</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_finished_by</IRI>
+        <Literal>intervalo terminado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_finishes</IRI>
+        <Literal>intervalo termina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_in</IRI>
+        <Literal>intervalo em</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_meets</IRI>
+        <Literal>intervalo encontra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_met_by</IRI>
+        <Literal>intervalo encontrado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_overlapped_by</IRI>
+        <Literal>intervalo sobreposto por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_overlaps</IRI>
+        <Literal>intervalo sobrepõe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_started_by</IRI>
+        <Literal>intervalo iniciado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#interval_starts</IRI>
+        <Literal>intervalo inicia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#is_concretized_as</IRI>
+        <Literal>é concretizado como</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#kimberlite</IRI>
+        <Literal>kimberlito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#laminito</IRI>
+        <Literal>laminito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lamito</IRI>
+        <Literal>lamito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lamito</IRI>
+        <Literal>lutito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lamito</IRI>
+        <Literal>pelito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lamprophyre</IRI>
+        <Literal>lamprófiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lapilli</IRI>
+        <Literal>lapili</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lapilli_tuff</IRI>
+        <Literal>lapili tufo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lapillite</IRI>
+        <Literal>lapilito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#latite</IRI>
+        <Literal>latito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#leiolito</IRI>
+        <Literal>leiolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lignite</IRI>
+        <Literal>lenhito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lignite</IRI>
+        <Literal>lignito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lignite</IRI>
+        <Literal>linhito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#limestone</IRI>
+        <Literal>calcário</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#litharenite</IRI>
+        <Literal>litarenito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#litharenite</IRI>
+        <Literal>litoarenito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lithostratigraphic_unit</IRI>
+        <Literal>un. litoestratigráfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lithostratigraphic_unit</IRI>
+        <Literal>unidade lito.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#lithostratigraphic_unit</IRI>
+        <Literal>unidade litoestratigráfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#located_in</IRI>
+        <Literal>localizado em</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#location_of</IRI>
+        <Literal>localização de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#magma</IRI>
+        <Literal>magma</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#marlstone</IRI>
+        <Literal>marga</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#material_entity</IRI>
+        <Literal>entidade material</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#material_entity</IRI>
+        <Literal>material entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#member</IRI>
+        <Literal>membro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#member_of</IRI>
+        <Literal>membro de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#meta-arenito</IRI>
+        <Literal>meta-arenito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metabasalt</IRI>
+        <Literal>metabasalto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metacarbonatic_rock</IRI>
+        <Literal>metacarbonática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metacarbonatic_rock</IRI>
+        <Literal>rocha metacarbonática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metagabbro</IRI>
+        <Literal>metagabro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metagranite</IRI>
+        <Literal>metagranito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metamorphic_rock</IRI>
+        <Literal>metamórfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metamorphic_rock</IRI>
+        <Literal>rocha metamórfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metamorphic_rock_per_composition</IRI>
+        <Literal>metamórfica definida pela composição</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metamorphic_rock_per_metamorphism</IRI>
+        <Literal>metamórfica definida pelo metamorfismo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metamorphic_rock_per_origin</IRI>
+        <Literal>metamórfica definida pela rocha de origem</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metasiliciclastic_rock</IRI>
+        <Literal>metasiliciclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metasiliciclastic_rock</IRI>
+        <Literal>rocha metasiliciclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metassedimentar</IRI>
+        <Literal>metassedimentar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metassiltito</IRI>
+        <Literal>metassiltito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metassomatic_rock</IRI>
+        <Literal>metassomatito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metassomatic_rock</IRI>
+        <Literal>metassomática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metassomatic_rock</IRI>
+        <Literal>rocha metassomática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metatexite</IRI>
+        <Literal>metatexito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metavolcanoclastic_rock</IRI>
+        <Literal>metavulcanoclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#metavolcanoclastic_rock</IRI>
+        <Literal>rocha metavulcanoclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mica_schist</IRI>
+        <Literal>micaxisto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#microbialito</IRI>
+        <Literal>microbialito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#microbrecha</IRI>
+        <Literal>microbrecha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#migmatic_rock</IRI>
+        <Literal>migmática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#migmatic_rock</IRI>
+        <Literal>rocha migmática</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#migmatite</IRI>
+        <Literal>migmatito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#monzodiorite</IRI>
+        <Literal>monzodiorito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#monzogabbro</IRI>
+        <Literal>monzogabro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#monzogranite</IRI>
+        <Literal>monzogranito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#monzonite</IRI>
+        <Literal>monzonito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#monzosyenite</IRI>
+        <Literal>monzosienito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mudstone</IRI>
+        <Literal>calcilutito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mudstone</IRI>
+        <Literal>mudstone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mylonite</IRI>
+        <Literal>milonito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#north_american_age</IRI>
+        <Literal>idade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#north_american_age</IRI>
+        <Literal>idade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#north_american_age</IRI>
+        <Literal>idade geocronológica norte americana</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#north_american_geochronologic_unit</IRI>
+        <Literal>intervalo de tempo geológico norte americano</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#north_american_geochronologic_unit</IRI>
+        <Literal>unidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#north_american_geochronologic_unit</IRI>
+        <Literal>unidade geocronológica norte americana</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#object</IRI>
+        <Literal>object</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#object</IRI>
+        <Literal>objeto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#object_aggregate</IRI>
+        <Literal>agregado de objetos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#object_aggregate</IRI>
+        <Literal>object aggregate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#occurrent</IRI>
+        <Literal>occurrent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#occurrent</IRI>
+        <Literal>ocorrente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#one-dimensional_temporal_region</IRI>
+        <Literal>one-dimensional temporal region</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#one-dimensional_temporal_region</IRI>
+        <Literal>região temporal de dimensão um</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#organic_sediment</IRI>
+        <Literal>sedimento orgânico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#orthogneiss</IRI>
+        <Literal>ortognaisse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ortobrecha</IRI>
+        <Literal>ortobrecha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ortoconglomerado</IRI>
+        <Literal>ortoconglomerado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#packstone</IRI>
+        <Literal>packstone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#parabrecha</IRI>
+        <Literal>parabrecha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#paraconglomerado</IRI>
+        <Literal>paraconglomerado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#paragneiss</IRI>
+        <Literal>paragnaisse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#part_of</IRI>
+        <Literal>parte de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#participates_in</IRI>
+        <Literal>participa de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#peat</IRI>
+        <Literal>turfa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pegmatite</IRI>
+        <Literal>pegmatito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#peperite</IRI>
+        <Literal>peperito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#peridotite</IRI>
+        <Literal>peridotito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#phonolite</IRI>
+        <Literal>fonolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#phonolitic_rock</IRI>
+        <Literal>fonolitóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#phonolitic_rock</IRI>
+        <Literal>rocha fonolitóidica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#phyllite</IRI>
+        <Literal>filito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#phyllonite</IRI>
+        <Literal>filonito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#plutonic_rock</IRI>
+        <Literal>plutônica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#plutonic_rock</IRI>
+        <Literal>rocha plutônica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#process</IRI>
+        <Literal>process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#process</IRI>
+        <Literal>processo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#production_well</IRI>
+        <Literal>produtor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#proper_interval</IRI>
+        <Literal>intervalo de tempo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pyroclast</IRI>
+        <Literal>piroclasto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pyroclastic_breccia</IRI>
+        <Literal>brecha piroclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pyroclastic_rock</IRI>
+        <Literal>piroclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pyroclastic_rock</IRI>
+        <Literal>rocha piroclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pyroclastic_rock</IRI>
+        <Literal>rocha vulcanoclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pyroclastic_rock</IRI>
+        <Literal>vulcanoclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pyroxenite</IRI>
+        <Literal>piroxenito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quality</IRI>
+        <Literal>qualidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quality</IRI>
+        <Literal>quality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quality_of</IRI>
+        <Literal>qualidade de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quartz_arenite</IRI>
+        <Literal>quartzoarenito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quartz_diorite</IRI>
+        <Literal>quartzodiorito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quartz_gabbro</IRI>
+        <Literal>quartzogabro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quartz_monzonite</IRI>
+        <Literal>quartzomonzonito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quartz_syenite</IRI>
+        <Literal>quartzosienito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quartzite</IRI>
+        <Literal>quartzito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#quartzolite</IRI>
+        <Literal>quartzolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#radiolarite</IRI>
+        <Literal>radiolarito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizable_entity</IRI>
+        <Literal>entidade realizável</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizable_entity</IRI>
+        <Literal>realizable entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#rhyolite</IRI>
+        <Literal>riolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#rhyolitic_rock</IRI>
+        <Literal>riolitóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#rhyolitic_rock</IRI>
+        <Literal>rocha riolítica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#rock</IRI>
+        <Literal>rocha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#rock</IRI>
+        <Literal>rock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#role</IRI>
+        <Literal>role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#role_of</IRI>
+        <Literal>papel de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#rudstone</IRI>
+        <Literal>rudstone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sand</IRI>
+        <Literal>areia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sandstone</IRI>
+        <Literal>arenito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sandstone</IRI>
+        <Literal>psamito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#schist</IRI>
+        <Literal>xisto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#scree</IRI>
+        <Literal>tálus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sedimentary_rock</IRI>
+        <Literal>rocha sedimentar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sedimentary_rock</IRI>
+        <Literal>sedimentar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#serpentinite</IRI>
+        <Literal>serpentinito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#shale</IRI>
+        <Literal>folhelho</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#shallower_prospect_well</IRI>
+        <Literal>poço para jazida mais rasa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#shallower_prospect_well</IRI>
+        <Literal>poço para prospecto mais raso</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#silcrete</IRI>
+        <Literal>silcrete</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#silexite</IRI>
+        <Literal>silexito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#siliciclastic_breccia</IRI>
+        <Literal>brecha siliciclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#siliciclasticos</IRI>
+        <Literal>rocha sedimentar clástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#siliciclasticos</IRI>
+        <Literal>rocha siliciclástica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#siliciclasticos</IRI>
+        <Literal>siliciclásticos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#silt</IRI>
+        <Literal>silte</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#siltstone</IRI>
+        <Literal>siltito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sinter</IRI>
+        <Literal>sinter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#site</IRI>
+        <Literal>lugar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#site</IRI>
+        <Literal>site</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#skarn</IRI>
+        <Literal>escarnito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#skarn</IRI>
+        <Literal>skarn</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#skarn</IRI>
+        <Literal>tactito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#slate</IRI>
+        <Literal>ardósia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#special_well</IRI>
+        <Literal>poço especial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#specifically_dependent_continuant</IRI>
+        <Literal>continuante especificamente dependente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#specifically_dependent_continuant</IRI>
+        <Literal>specifically dependent continuant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#storage_well</IRI>
+        <Literal>poço de estocagem</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#stratigraphic_well</IRI>
+        <Literal>poço estratigráfico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#subcommercial_well</IRI>
+        <Literal>produtor subcomercial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#syenite</IRI>
+        <Literal>sienito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#syenitic_rock</IRI>
+        <Literal>rocha sienítica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#syenitic_rock</IRI>
+        <Literal>sienitóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#syenogranite</IRI>
+        <Literal>sienogranito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sylvinite</IRI>
+        <Literal>silvinita</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tachyhydrite</IRI>
+        <Literal>taquidrita</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tachylite</IRI>
+        <Literal>taquilito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tectonic_breccia</IRI>
+        <Literal>brecha tectônica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#temporal_region</IRI>
+        <Literal>região temporal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#temporal_region</IRI>
+        <Literal>temporal region</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tephra</IRI>
+        <Literal>tefra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tephrite</IRI>
+        <Literal>tefrito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tephritic_rock</IRI>
+        <Literal>rocha tefritóidica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tephritic_rock</IRI>
+        <Literal>tefritóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#textura</IRI>
+        <Literal>textura de rocha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#till</IRI>
+        <Literal>tilito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tipo_de_porosidade</IRI>
+        <Literal>tipo de porosidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tonalite</IRI>
+        <Literal>tonalito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#trachyte</IRI>
+        <Literal>traquito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#trachytic_rock</IRI>
+        <Literal>rocha traquítica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#trachytic_rock</IRI>
+        <Literal>traquitóide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#travertine</IRI>
+        <Literal>travertino</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#travertine</IRI>
+        <Literal>tufa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#trombolito</IRI>
+        <Literal>trombolito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tuff</IRI>
+        <Literal>tufo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tuff_breccia</IRI>
+        <Literal>brecha vulcânica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tuffite</IRI>
+        <Literal>tufito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ultrabasic_rock</IRI>
+        <Literal>rocha ultrabásica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ultrabasic_rock</IRI>
+        <Literal>ultrabásica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ultramafic_plutonic_rock</IRI>
+        <Literal>plutônica ultramáfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ultramafic_plutonic_rock</IRI>
+        <Literal>rocha plutônica ultramáfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ultramafic_plutonic_rock</IRI>
+        <Literal>ultramáfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ultramafic_volcanic_rock</IRI>
+        <Literal>rocha ultramáfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ultramafic_volcanic_rock</IRI>
+        <Literal>rocha vulcânica ultramáfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#ultramafic_volcanic_rock</IRI>
+        <Literal>ultramáfica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unconsolidated_earth_material</IRI>
+        <Literal>material geológico inconsolidado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unconsolidated_earth_material</IRI>
+        <Literal>sedimento</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#unconsolidated_earth_material</IRI>
+        <Literal>unconsolidated earth material</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#volcanic_rock</IRI>
+        <Literal>rocha vulcânica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#volcanic_rock</IRI>
+        <Literal>vulcânica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#wackestone</IRI>
+        <Literal>wackestone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#well</IRI>
+        <Literal>poço</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#well_quality</IRI>
+        <Literal>qualidade de poço</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#well_role</IRI>
+        <Literal>papel de poço</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#well_with_hydrocarbon</IRI>
+        <Literal>portador</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_age</IRI>
+        <Literal>idade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_age</IRI>
+        <Literal>idade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_age</IRI>
+        <Literal>idade geocronológica da europa ocidental</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_epoch</IRI>
+        <Literal>época</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_epoch</IRI>
+        <Literal>época gecronológica da europa ocidental</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_epoch</IRI>
+        <Literal>época geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_geochronologic_unit</IRI>
+        <Literal>intervalo de tempo geológico da europa ocidental</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_geochronologic_unit</IRI>
+        <Literal>unidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_geochronologic_unit</IRI>
+        <Literal>unidade geocronológica da europa ocidental</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_subage</IRI>
+        <Literal>subidade</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_subage</IRI>
+        <Literal>subidade geocronológica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#western_european_subage</IRI>
+        <Literal>subidade geocronológica da europa ocidental</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#wildcat_well</IRI>
+        <Literal>pioneiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#wildcat_well</IRI>
+        <Literal>poço pioneiro</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

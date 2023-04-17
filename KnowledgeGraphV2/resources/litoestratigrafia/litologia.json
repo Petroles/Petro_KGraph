@@ -1,0 +1,251 @@
+{"earth_material": {
+    "rock": {
+        "breccia": ["brecha"],
+        "metamorphic_rock": ["metamórfica", "rocha metamórfica"],
+        "igneous_rock": ["rocha ígnea", "ígnea"],
+        "sedimentary_rock": ["rocha sedimentar", "sedimentar"],
+        "silexite": ["silexito"]},
+    "breccia": {
+        "microbrecha": ["microbrecha"],
+        "ortobrecha": ["ortobrecha"],
+        "parabrecha": ["parabrecha"]},
+    "metamorphic_rock": { 
+        "gypsum": ["gesso"],
+        "metamorphic_rock_per_composition": ["metamórfica definida pela composição"],
+        "metamorphic_rock_per_metamorphism": ["metamórfica definida pelo metamorfismo"],
+        "metamorphic_rock_per_origin": ["metamórfica definida pela rocha de origem"]},
+    "igneous_rock": { 
+        "hypabyssal_rock": ["hipabissal", "rocha hipabissal", "rocha subvulcânica", "subvulcânica"],
+        "magma": ["magma"],
+        "pyroclastic_rock": ["piroclástica", "rocha piroclástica", "rocha vulcanoclástica", "vulcanoclástica"],
+        "plutonic_rock": ["plutônica", "rocha plutônica"],
+        "ultrabasic_rock": ["rocha ultrabásica", "ultrabásica"], 
+        "volcanic_rock": ["rocha vulcânica", "vulcânica"]},
+    "sedimentary_rock": { 
+        "coal": ["carvão"],
+        "chert": ["cherte"],
+        "evaporite": ["evaporito"],
+        "lignite": ["lenhito", "lignito", "linhito"],
+        "carbonatos": ["carbonato", "rocha carbonática"],
+        "siliciclasticos": ["rocha sedimentar clástica", "rocha siliciclástica", "siliciclásticos"],
+        "silcrete": ["silcrete"],   
+        "sinter": ["sinter"]},
+    "metamorphic_rock_per_composition":{ 
+        "amphibolite": ["anfibolito"],
+        "slate": ["ardósia"],
+        "phyllite": ["filito"],
+        "gneiss": ["gnaisse"],
+        "granulite": ["granulito"],
+        "metacarbonatic_rock": ["metacarbonática", "rocha metacarbonática"],
+        "quartzite": ["quartzito"],
+        "serpentinite": ["serpentinito"],
+        "schist": ["xisto"]},
+    "gneiss":{ 
+        "orthogneiss": ["ortognaisse"],
+        "paragneiss": ["paragnaisse"]},
+    "metacarbonatic_rock":{ 
+        "calc-silicate_rock": ["calciossilicática", "rocha calciossilicática"],
+        "marble": ["mármore"]},
+    "schist":{ 
+        "greenschist": ["xisto verde"],
+        "mica_schist": ["micaxisto"]},
+    "metamorphic_rock_per_origin":{ 
+        "meta-arenito": ["meta-arenito"],
+        "metabasalt": ["metabasalto"],
+        "metagabbro": ["metagabro"],
+        "metagranite": ["metagranito"],
+        "metasiliciclastic_rock": ["metasiliciclástica", "rocha metasiliciclástica"],
+        "metassedimentar": ["metassedimentar"],
+        "metassiltito": ["metassiltito"],
+        "metavolcanoclastic_rock": ["metavulcanoclástica","rocha metavulcanoclástica"]},
+    "metamorphic_rock_per_metamorphism": { 
+        "metassomatic_rock": ["metassomatito", "metassomática", "rocha metassomática"],
+        "migmatic_rock": ["migmática", "rocha migmática"],
+        "fault_rock": ["rocha de falha"],
+        "high_pressure_metamorphic_rock": ["rocha metamórfica de alta pressão"],
+        "contact_metamorphic_rock": ["rocha metamórfica de contato"]},
+    "metassomatic_rock": { 
+        "greisen": ["greisen"],
+        "skarn": ["escarnito", "skarn", "tactito"]},
+    "migmatic_rock": { 
+        "anatexite": ["anatexito"],
+        "diatexite": ["diatexito"],
+        "metatexite": ["metatexito"],
+        "migmatite": ["migmatito"]},
+    "fault_rock": { 
+        "tectonic_breccia": ["brecha tectônica"],
+        "cataclasite": ["cataclasito"],
+        "fault_gouge": ["goivagem de falha"],
+        "mylonite": ["milonito"]},
+    "high_pressure_metamorphic_rock": { 
+        "eclogite": ["eclogito"],
+        "blueschist": ["xisto azul"]},
+    "contact_metamorphic_rock": { 
+        "hornfels": ["cornubiana", "cornubianito", "hornfels"]},
+    "mylonite":  {
+        "phyllonite": ["filonito"]},
+    "hypabyssal_rock":{ 
+        "aplite": ["aplito"],
+        "diabase": ["diabásio", "dolerito", "microgabro"],
+        "kimberlite": ["kimberlito"],
+        "lamprophyre": ["lamprófiro"]},
+    "pyroclastic_rock": {
+        "agglomerate": ["aglomerado", "aglomerado vulcânico"],
+        "autobreccia": ["autobrecha"],
+        "pyroclastic_breccia": ["brecha piroclástica"],
+        "tuff_breccia": ["brecha vulcânica"],
+        "hiloclastite": ["hialoclastito"],
+        "ignimbrite": ["ignimbrito"],
+        "lapilli_tuff": ["lapili tufo"],
+        "lapillite": ["lapilito"],
+        "peperite": ["peperito"],
+        "tuff": ["tufo"],
+        "tuffite": ["tufito"]},
+    "plutonic_rock": { 
+        "dioritic_rock": ["dioritóide", "rocha diorítica"],
+        "foidolite": ["foidito", "foidolito"],
+        "gabbroic_rock": ["gabróide", "rocha gabróica"],
+        "granitic_rock": ["granitóide"],
+        "pegmatite": ["pegmatito"],
+        "quartzolite": ["quartzolito"],
+        "anorthositic_rock": ["rocha anortosítica"],
+        "syenitic_rock": ["rocha sienítica", "sienitóide"],
+        "ultramafic_plutonic_rock": ["plutônica ultramáfica", "rocha plutônica ultramáfica", "ultramáfica"]},
+    "volcanic_rock": {
+        "andesitic_rock": ["andesitóide", "rocha andesítica"],
+        "dacitic_rock": ["dacitóide"],
+        "foiditic_rock": ["foiditóide"],
+        "rhyolitic_rock": ["riolitóide", "rocha riolítica"],
+        "basaltic_rock": ["basaltóide", "rocha basáltica"],
+        "phonolitic_rock": ["fonolitóide", "rocha fonolitóidica"],
+        "tephritic_rock": ["rocha tefritóidica", "tefritóide"],
+        "trachytic_rock": ["rocha traquítica", "traquitóide"],
+        "ultramafic_volcanic_rock": ["rocha ultramáfica", "rocha vulcânica ultramáfica", "ultramáfica"],
+        "tachylite": ["taquilito"]},
+    "dioritic_rock": { 
+        "diorite": ["diorito"],
+        "monzodiorite": ["monzodiorito"],
+        "quartz_diorite": ["quartzodiorito"]},
+    "gabbroic_rock": { 
+        "gabbro": ["gabro"],
+        "monzogabbro": ["monzogabro"],
+        "quartz_gabbro": ["quartzogabro"]},
+    "granitic_rock": { 
+        "granite": ["granito"],
+        "granodiorite": ["granodiorito"],
+        "monzogranite": ["monzogranito"],
+        "syenogranite": ["sienogranito"],
+        "tonalite": ["tonalito"]},
+    "anorthositic_rock": { 
+        "anorthosite": ["anortosito"]},
+    "ultramafic_plutonic_rock": {
+        "peridotite": ["peridotito"],
+        "pyroxenite": ["piroxenito"]},
+    "syenitic_rock": { 
+        "monzonite": ["monzonito"],
+        "monzosyenite": ["monzosienito"],
+        "quartz_monzonite": ["quartzomonzonito"],
+        "quartz_syenite": ["quartzosienito"],
+        "syenite": ["sienito"]},
+    "andesitic_rock": {
+        "andesite": ["andesito"]},
+    "dacitic_rock": { 
+        "dacite": ["dacito"]},
+    "foiditic_rock": { 
+        "foidite": ["foidito"]},
+    "rhyolitic_rock": { 
+        "rhyolite": ["riolito"]},
+    "basaltic_rock": {
+        "basalt": ["basalto"]},
+    "phonolitic_rock": { 
+        "phonolite": ["fonolito"]},
+    "tephritic_rock": { 
+        "basanite": ["basanito"],
+        "tephrite": ["tefrito"]},
+    "trachytic_rock": {
+        "latite": ["latito"],
+        "trachyte": ["traquito"]},
+    "coal": { 
+        "antracite": ["antracito"],
+        "hard_coal": ["carvão betuminoso", "hulha"]},
+    "chert": { 
+        "radiolarite": ["radiolarito"]},
+    "evaporite": { 
+        "anhydrite": ["anidrita"],
+        "carnallite": ["carnalita"],
+        "gipsita": ["gipsita"],
+        "halite": ["halita"],
+        "sylvinite": ["silvinita"],
+        "tachyhydrite": ["taquidrita"]},
+    "carbonatos": { 
+        "bafflestone": ["bafflestone"],
+        "bindstone": ["bindstone"],
+        "bioacumulado": ["bioacumulado"],
+        "biolitito": ["biolitito"],
+        "boundstone": ["boundstone"],
+        "calciarenite": ["calcarenito", "calciarenito"],
+        "calcirudite": ["calcirudito"],
+        "calcissiltite": ["calcissiltito"],
+        "calcrete": ["calcrete"],
+        "caliche": ["caliche"],
+        "carbonatic_breccia": ["brecha carbonática"],
+        "coquina": ["coquina"],
+        "crystalline_limestone": ["calcário cristalino"],
+        "dendrolito": ["dendrolito"],
+        "dolocrete": ["dolocrete"],
+        "dolomite": ["dolomito"],
+        "esferulitito": ["esferulitito"],
+        "estromatolito": ["estromatolito"],
+        "floatstone": ["floatstone"],
+        "framestone": ["framestone"],
+        "grainstone": ["grainstone"],
+        "laminito": ["laminito"],
+        "leiolito": ["leiolito"],
+        "limestone": ["calcário"],
+        "microbialito": ["microbialito"],
+        "mudstone": ["calcilutito", "mudstone"],
+        "packstone": ["packstone"],
+        "rudstone": ["rudstone"],
+        "travertine": ["travertino", "tufa"],
+        "trombolito": ["trombolito"],
+        "wackestone": ["wackestone"]},
+    "siliciclasticos": { 
+        "argillite": ["argilito"],
+        "siliciclastic_breccia": ["brecha siliciclástica"],
+        "conglomerate": ["conglomerado", "psefito", "rudito"],
+        "diamictite": ["diamictito"],
+        "shale": ["folhelho"],
+        "lamito": ["lamito", "lutito", "pelito"],
+        "marlstone": ["marga"],
+        "sandstone": ["arenito", "psamito"],
+        "siltstone": ["siltito"],
+        "till": ["tilito"],
+        "bituminous_schist": ["xisto betuminoso"]},
+    "conglomerate": { 
+        "ortoconglomerado": ["ortoconglomerado"],
+        "paraconglomerado": ["paraconglomerado"]},
+    "sandstone": { 
+        "arcose": ["arcóseo", "arcósio"],
+        "grauvaque": ["grauvaca"],
+        "litharenite": ["litarenito", "litoarenito"],
+        "quartz_arenite": ["quartzoarenito"]},
+    "unconsolidated_earth_material": { 
+        "clastic_sediment": ["sedimento clástico"],
+        "organic_sediment": ["sedimento orgânico"],
+        "igneous_sediment": ["sedimento ígneo"]},
+    "clastic_sediment": { 
+        "sand": ["areia"],
+        "gravel": ["cascalho"],
+        "clay": ["argila", "barro", "ooze", "sapropel"],
+        "cobbles": ["seixos"],
+        "scree": ["tálus"],
+        "silt": ["silte"]},
+    "organic_sediment": { 
+        "peat": ["turfa"]},
+    "igneous_sediment": { "pyroclast": ["piroclasto"]},
+    "pyroclast":{ 
+        "tephra": ["tefra"]},
+    "tephra": { 
+        "ash": ["cinza", "cinza vulcânica"],
+        "block_tephra": ["bomba"],
+        "lapilli": ["lapili"]}}}

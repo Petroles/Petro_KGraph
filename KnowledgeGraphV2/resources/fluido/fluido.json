@@ -1,0 +1,28 @@
+{"earth_fluid":{
+    "hydrocarbon": ["hidrocarboneto"],
+    "water": ["água"]},
+ "hydrocarbon": { 
+     "gaseous_hydrocarbon": ["hidrocarboneto gasoso"],
+     "liquid_hydrocarbon": ["hidrocarboneto líquido"]},
+ "gaseous_hydrocarbon": {
+     "carbon_dioxide": ["CO2", "gás carbônico"],
+     "gas": ["gás", "gás natural"]},
+ "gas": {
+     "dry_gas": ["gás não associado", "gás seco"],
+     "wet_gas": ["gás associado", "gás úmido"]},
+ "liquid_hydrocarbon": { 
+     "heavy_oil": ["asfalteno", "asfalto", "betume", "exsudadinina", "tar mat", "óleo pesado"],
+     "condensate": ["condensado", "gás condensado", "gás retrógrado", "óleo leve", "óleo volátil"],
+     "oil": ["black oil", "petróleo", "óleo"]},
+ "quality": { 
+     "fluid_quality": ["qualidade de fluido"]},
+ "fluid_quality": { 
+     "fluid_texture": ["de alta contração", "de baixa contração", "leve", "pesado", "textura do fluido", "viscoso"],
+     "formation_fluid": ["de formação"],
+     "fluid_origin": ["do mar", "evaporítico", "lacustre", "marinho", "meteórico", "origem do fluido"],
+     "fluid_composition": ["abiótico", "aromático", "biogênico", "composição de fluido", "doce", "fétido", "naftênico", "parafínico", "salgada", "salina", "salobra",
+                           "sulfuroso", "ácido"],
+     "thermogenic": ["termogênico", "termoquímico"]}, 
+ "disposition": { 
+     "hydrocarbon_state": ["biodegradado", "cru", "estado do hidrocarboneto", "morto", "vivo"]}
+}

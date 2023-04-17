@@ -1,0 +1,26 @@
+{"well": {
+    "storage_well": ["poço de estocagem"],
+    "special_well": ["poço especial"],
+    "exploratory_well": ["poço exploratório"],
+    "explotatory_well": ["poço de desenvolvimento", "poço explotatório"]},
+ "exploratory_well":{   
+     "appraisal_well": ["poço de extensão"],
+     "stratigraphic_well": ["poço estratigráfico"],
+     "shallower_prospect_well": ["poço para jazida mais rasa", "poço para prospecto mais raso"],
+     "deeper_prospect_well": ["poço para jazida mais profunda", "poço para prospecto mais profundo"],
+     "adjacent_well": ["pioneiro adjacente", "poço adjacente", "poço pioneiro adjacente"],
+     "wildcat_well": ["pioneiro", "poço pioneiro"]},
+ "well_quality": {
+     "abandonned_well": ["abandonado"],
+     "commercial_well": ["comercial"],
+     "discovery_well": ["descobridor"],
+     "dry_hole": ["seco"],
+     "subcommercial_well": ["produtor subcomercial"],
+     "well_with_hydrocarbon": ["portador"]},
+ "dry_hole": { 
+     "dry_hole_with_traces_of_hydrocarbon": ["seco com indícios"],
+     "dry_hole_without_traces_of_hydrocarbon": ["seco sem indícios"]},
+ "well_role":{
+     "injection_well": ["injetor"],
+     "production_well": ["produtor"]}
+}
