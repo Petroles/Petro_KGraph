@@ -1,0 +1,37 @@
+#!/bin/bash
+#SBATCH --nodes=1           #Numero de Nós
+#SBATCH --ntasks-per-node=1 #Numero de tarefas por Nó
+#SBATCH --ntasks=1          #Numero de tarefas
+#SBATCH -p gpu          #Fila (partition) a ser utilizada
+#SBATCH -J docs          #Nome job
+#SBATCH --account=tornado
+#SBATCH --time=10-10:00:00
+
+# optional
+
+# Show nodes
+echo $SLURM_JOB_NODELIST
+nodeset -e $SLURM_JOB_NODELIST
+echo "SLURM_JOBID: " $SLURM_JOBID
+
+JOBNAME=$SLURM_JOB_NAME            # re-use the job-name specified above
+
+DockerName_SIF='/nethome/projetos30/busca_semantica/buscaict/BigOil/NER/dockers/ner_pytorch_2.1_latest.sif'
+port=9970
+path_Start='/nethome/projetos30/busca_semantica/buscaict/BigOil/'
+
+cd $path_Start
+#cp /scratch/parceirosbr/bigoilict/share/scripts/run_jupyter.sh $path_Start'run_jupyter.sh'
+#echo $path_Start'run_jupyter.sh'
+
+# For GPU-NODE
+echo $DockerName_SIF
+pwd
+ls
+
+export HTTP_PROXY=http://db1m:Juliap08@inet-sys.petrobras.com.br:804
+export HTTPS_PROXY=$HTTP_PROXY
+export http_proxy=$HTTP_PROXY
+export https_proxy=$HTTP_PROXY
+
+singularity run -B $path_Start --nv $DockerName_SIF python './NER/run_ner_multiclasse.py' --data_dir './NER/petroles/dataset/' --bert_model 'neuralmind/bert-base-portuguese-cased' --train_batch_size 64  --task_name 'ner' --output_dir './NER/petroles/dataset/multiclass_bert_model' --max_seq_length 256 --do_train --num_train_epochs 10000 --do_eval --num_ealy_stoping_epochs 30  --warmup_proportion 0.1 --local_rank -1
