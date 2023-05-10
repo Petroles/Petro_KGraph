@@ -13,12 +13,6 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
-        <Class IRI="#abandonned_well"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#adjacent_well"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#agglomerate"/>
     </Declaration>
     <Declaration>
@@ -43,13 +37,13 @@
         <Class IRI="#anorthositic_rock"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#anthropogenic_material"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#antracite"/>
     </Declaration>
     <Declaration>
         <Class IRI="#aplite"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#appraisal_well"/>
     </Declaration>
     <Declaration>
         <Class IRI="#arcose"/>
@@ -166,9 +160,6 @@
         <Class IRI="#cobbles"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#commercial_well"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#conglomerate"/>
     </Declaration>
     <Declaration>
@@ -190,9 +181,6 @@
         <Class IRI="#dacitic_rock"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#deeper_prospect_well"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#dendrolito"/>
     </Declaration>
     <Declaration>
@@ -211,22 +199,10 @@
         <Class IRI="#dioritic_rock"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#discovery_well"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#dolocrete"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dolomite"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#dry_hole"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#dry_hole_with_traces_of_hydrocarbon"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#dry_hole_without_traces_of_hydrocarbon"/>
     </Declaration>
     <Declaration>
         <Class IRI="#earth_fluid"/>
@@ -250,12 +226,6 @@
         <Class IRI="#evaporite"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#exploratory_well"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#explotatory_well"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#fault_gouge"/>
     </Declaration>
     <Declaration>
@@ -266,9 +236,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#floatstone"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#fluid_quality"/>
     </Declaration>
     <Declaration>
         <Class IRI="#foidite"/>
@@ -407,9 +374,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#independent_continuant"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#injection_well"/>
     </Declaration>
     <Declaration>
         <Class IRI="#kimberlite"/>
@@ -616,12 +580,6 @@
         <Class IRI="#process"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#production_well"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#proper_interval"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#pyroclast"/>
     </Declaration>
     <Declaration>
@@ -661,9 +619,6 @@
         <Class IRI="#radiolarite"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#realizable_entity"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#rhyolite"/>
     </Declaration>
     <Declaration>
@@ -671,9 +626,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#rock"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#role"/>
     </Declaration>
     <Declaration>
         <Class IRI="#rudstone"/>
@@ -698,9 +650,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#shale"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#shallower_prospect_well"/>
     </Declaration>
     <Declaration>
         <Class IRI="#silcrete"/>
@@ -733,19 +682,7 @@
         <Class IRI="#slate"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#special_well"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#specifically_dependent_continuant"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#storage_well"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#stratigraphic_well"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#subcommercial_well"/>
     </Declaration>
     <Declaration>
         <Class IRI="#syenite"/>
@@ -785,9 +722,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#till"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#tipo_de_porosidade"/>
     </Declaration>
     <Declaration>
         <Class IRI="#tonalite"/>
@@ -835,15 +769,6 @@
         <Class IRI="#well"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#well_quality"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#well_role"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#well_with_hydrocarbon"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#western_european_age"/>
     </Declaration>
     <Declaration>
@@ -856,19 +781,13 @@
         <Class IRI="#western_european_subage"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#wildcat_well"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#after"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#age_of"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#atravessa"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#before"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#carrier_of"/>
@@ -923,6 +842,9 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#has_role"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#interval_after"/>
@@ -994,9 +916,6 @@
         <ObjectProperty IRI="#role_of"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#time_interval_property"/>
-    </Declaration>
-    <Declaration>
         <AnnotationProperty IRI="http://purl.org/dc/terms/description"/>
     </Declaration>
     <Declaration>
@@ -1023,14 +942,6 @@
             </ObjectAllValuesFrom>
         </ObjectIntersectionOf>
     </EquivalentClasses>
-    <SubClassOf>
-        <Class IRI="#abandonned_well"/>
-        <Class IRI="#well_quality"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#adjacent_well"/>
-        <Class IRI="#exploratory_well"/>
-    </SubClassOf>
     <SubClassOf>
         <Class IRI="#agglomerate"/>
         <Class IRI="#pyroclastic_rock"/>
@@ -1064,16 +975,16 @@
         <Class IRI="#plutonic_rock"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#anthropogenic_material"/>
+        <Class IRI="#material_entity"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#antracite"/>
         <Class IRI="#coal"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#aplite"/>
         <Class IRI="#hypabyssal_rock"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#appraisal_well"/>
-        <Class IRI="#exploratory_well"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#arcose"/>
@@ -1228,10 +1139,6 @@
         <Class IRI="#clastic_sediment"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#commercial_well"/>
-        <Class IRI="#well_quality"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#conglomerate"/>
         <Class IRI="#siliciclasticos"/>
     </SubClassOf>
@@ -1260,10 +1167,6 @@
         <Class IRI="#volcanic_rock"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#deeper_prospect_well"/>
-        <Class IRI="#exploratory_well"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#dendrolito"/>
         <Class IRI="#carbonatos"/>
     </SubClassOf>
@@ -1288,28 +1191,12 @@
         <Class IRI="#plutonic_rock"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#discovery_well"/>
-        <Class IRI="#well_quality"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#dolocrete"/>
         <Class IRI="#carbonatos"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dolomite"/>
         <Class IRI="#carbonatos"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#dry_hole"/>
-        <Class IRI="#well_quality"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#dry_hole_with_traces_of_hydrocarbon"/>
-        <Class IRI="#dry_hole"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#dry_hole_without_traces_of_hydrocarbon"/>
-        <Class IRI="#dry_hole"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#earth_fluid"/>
@@ -1336,14 +1223,6 @@
         <Class IRI="#sedimentary_rock"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#exploratory_well"/>
-        <Class IRI="#well"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#explotatory_well"/>
-        <Class IRI="#well"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#fault_gouge"/>
         <Class IRI="#fault_rock"/>
     </SubClassOf>
@@ -1358,10 +1237,6 @@
     <SubClassOf>
         <Class IRI="#floatstone"/>
         <Class IRI="#carbonatos"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#fluid_quality"/>
-        <Class IRI="#quality"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#foidite"/>
@@ -1473,7 +1348,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#geological_time_interval"/>
-        <Class IRI="#proper_interval"/>
+        <Class IRI="#one-dimensional_temporal_region"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gipsita"/>
@@ -1570,10 +1445,6 @@
     <SubClassOf>
         <Class IRI="#independent_continuant"/>
         <Class IRI="#continuant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#injection_well"/>
-        <Class IRI="#well_role"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#kimberlite"/>
@@ -1862,14 +1733,6 @@
         <Class IRI="#occurrent"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#production_well"/>
-        <Class IRI="#well_role"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#proper_interval"/>
-        <Class IRI="#one-dimensional_temporal_region"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#pyroclast"/>
         <Class IRI="#igneous_sediment"/>
     </SubClassOf>
@@ -1922,10 +1785,6 @@
         <Class IRI="#chert"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#realizable_entity"/>
-        <Class IRI="#specifically_dependent_continuant"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#rhyolite"/>
         <Class IRI="#rhyolitic_rock"/>
     </SubClassOf>
@@ -1943,17 +1802,6 @@
             <ObjectProperty IRI="#carrier_of"/>
             <Class IRI="#textura"/>
         </ObjectAllValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#rock"/>
-        <ObjectAllValuesFrom>
-            <ObjectProperty IRI="#carrier_of"/>
-            <Class IRI="#tipo_de_porosidade"/>
-        </ObjectAllValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#role"/>
-        <Class IRI="#realizable_entity"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rudstone"/>
@@ -1986,10 +1834,6 @@
     <SubClassOf>
         <Class IRI="#shale"/>
         <Class IRI="#siliciclasticos"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#shallower_prospect_well"/>
-        <Class IRI="#exploratory_well"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#silcrete"/>
@@ -2032,24 +1876,8 @@
         <Class IRI="#metamorphic_rock_per_composition"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#special_well"/>
-        <Class IRI="#well"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#specifically_dependent_continuant"/>
         <Class IRI="#continuant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#storage_well"/>
-        <Class IRI="#well"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#stratigraphic_well"/>
-        <Class IRI="#exploratory_well"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#subcommercial_well"/>
-        <Class IRI="#well_quality"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#syenite"/>
@@ -2102,10 +1930,6 @@
     <SubClassOf>
         <Class IRI="#till"/>
         <Class IRI="#siliciclasticos"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#tipo_de_porosidade"/>
-        <Class IRI="#generically_dependent_continuant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tonalite"/>
@@ -2181,32 +2005,6 @@
         </ObjectUnionOf>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#well"/>
-        <ObjectAllValuesFrom>
-            <ObjectProperty IRI="#has_quality"/>
-            <Class IRI="#well_quality"/>
-        </ObjectAllValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#well"/>
-        <ObjectAllValuesFrom>
-            <ObjectProperty IRI="#has_role"/>
-            <Class IRI="#well_role"/>
-        </ObjectAllValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#well_quality"/>
-        <Class IRI="#quality"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#well_role"/>
-        <Class IRI="#role"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#well_with_hydrocarbon"/>
-        <Class IRI="#well_quality"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#western_european_age"/>
         <Class IRI="#western_european_geochronologic_unit"/>
     </SubClassOf>
@@ -2223,17 +2021,9 @@
         <Class IRI="#western_european_geochronologic_unit"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#wildcat_well"/>
-        <Class IRI="#exploratory_well"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
+        <Class IRI="#earth_fluid"/>
     </SubClassOf>
-    <DisjointClasses>
-        <Class IRI="#adjacent_well"/>
-        <Class IRI="#appraisal_well"/>
-        <Class IRI="#deeper_prospect_well"/>
-        <Class IRI="#shallower_prospect_well"/>
-        <Class IRI="#stratigraphic_well"/>
-        <Class IRI="#wildcat_well"/>
-    </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#basin"/>
         <Class IRI="#field"/>
@@ -2258,10 +2048,6 @@
         </ObjectSomeValuesFrom>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#dry_hole_with_traces_of_hydrocarbon"/>
-        <Class IRI="#dry_hole_without_traces_of_hydrocarbon"/>
-    </DisjointClasses>
-    <DisjointClasses>
         <Class IRI="#earth_fluid"/>
         <Class IRI="#rock"/>
     </DisjointClasses>
@@ -2272,12 +2058,6 @@
     <DisjointClasses>
         <Class IRI="#earth_material"/>
         <Class IRI="#geological_object"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#exploratory_well"/>
-        <Class IRI="#explotatory_well"/>
-        <Class IRI="#special_well"/>
-        <Class IRI="#storage_well"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#generically_dependent_continuant"/>
@@ -2317,10 +2097,6 @@
         <Class IRI="#temporal_region"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#quality"/>
-        <Class IRI="#realizable_entity"/>
-    </DisjointClasses>
-    <DisjointClasses>
         <Class IRI="#rock"/>
         <Class IRI="#unconsolidated_earth_material"/>
     </DisjointClasses>
@@ -2330,16 +2106,8 @@
         <Class IRI="#western_european_subage"/>
     </DisjointClasses>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#after"/>
-        <ObjectProperty IRI="#time_interval_property"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
         <ObjectProperty IRI="#age_of"/>
         <ObjectProperty IRI="#quality_of"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#before"/>
-        <ObjectProperty IRI="#time_interval_property"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#disposition_of"/>
@@ -2379,15 +2147,7 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_after"/>
-        <ObjectProperty IRI="#after"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#interval_after"/>
         <ObjectProperty IRI="#interval_disjoint"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#interval_before"/>
-        <ObjectProperty IRI="#before"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_before"/>
@@ -2395,11 +2155,11 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_contains"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_disjoint"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_during"/>
@@ -2407,11 +2167,11 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_equals"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_finished_by"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_finishes"/>
@@ -2419,27 +2179,27 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_in"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_meets"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_met_by"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_overlapped_by"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_overlaps"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_started_by"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_starts"/>
@@ -2458,20 +2218,12 @@
         <ObjectProperty IRI="#characteristic_of"/>
     </SubObjectPropertyOf>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#after"/>
-        <ObjectProperty IRI="#after"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
         <ObjectProperty IRI="#age_of"/>
         <ObjectProperty IRI="#has_age"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="#atravessa"/>
         <ObjectProperty IRI="#crossed_by"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
-        <ObjectProperty IRI="#before"/>
-        <ObjectProperty IRI="#before"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="#carrier_of"/>
@@ -2551,9 +2303,6 @@
         <ObjectProperty IRI="#generated_by"/>
     </AsymmetricObjectProperty>
     <TransitiveObjectProperty>
-        <ObjectProperty IRI="#before"/>
-    </TransitiveObjectProperty>
-    <TransitiveObjectProperty>
         <ObjectProperty IRI="#has_part"/>
     </TransitiveObjectProperty>
     <TransitiveObjectProperty>
@@ -2607,64 +2356,8 @@
         <Class IRI="#independent_continuant"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_after"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_before"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_contains"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_disjoint"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_during"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_equals"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_finished_by"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_finishes"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_in"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_meets"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_met_by"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_overlapped_by"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_overlaps"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_started_by"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interval_starts"/>
-        <Class IRI="#proper_interval"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
+        <Class IRI="#one-dimensional_temporal_region"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#is_concretized_as"/>
@@ -2707,68 +2400,8 @@
         <Class IRI="#quality"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#has_role"/>
-        <Class IRI="#role"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_after"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_before"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_contains"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_disjoint"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_during"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_equals"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_finished_by"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_finishes"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_in"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_meets"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_met_by"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_overlapped_by"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_overlaps"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_started_by"/>
-        <Class IRI="#proper_interval"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interval_starts"/>
-        <Class IRI="#proper_interval"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
+        <Class IRI="#one-dimensional_temporal_region"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#is_concretized_as"/>
@@ -2790,31 +2423,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#FormationOfEarth_quality</IRI>
         <Literal>Formação da Terra</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#abandonned_well</IRI>
-        <Literal>abandonado</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#adjacent_well</IRI>
-        <Literal>pioneiro adjacente</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#adjacent_well</IRI>
-        <Literal>poço adjacente</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#adjacent_well</IRI>
-        <Literal>poço pioneiro adjacente</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#after</IRI>
-        <Literal>depois de</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -2873,6 +2481,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anthropogenic_material</IRI>
+        <Literal>material antropogênico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anthropogenic_material</IRI>
+        <Literal>material artificial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#antracite</IRI>
         <Literal>antracito</Literal>
     </AnnotationAssertion>
@@ -2880,11 +2498,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#aplite</IRI>
         <Literal>aplito</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#appraisal_well</IRI>
-        <Literal>poço de extensão</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -2950,11 +2563,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#basin</IRI>
         <Literal>bacia</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#before</IRI>
-        <Literal>antes de</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3208,11 +2816,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#commercial_well</IRI>
-        <Literal>comercial</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#concretizes</IRI>
         <Literal>concretiza</Literal>
     </AnnotationAssertion>
@@ -3278,16 +2881,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#deeper_prospect_well</IRI>
-        <Literal>poço para jazida mais profunda</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#deeper_prospect_well</IRI>
-        <Literal>poço para prospecto mais profundo</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#dendrolito</IRI>
         <Literal>dendrolito</Literal>
     </AnnotationAssertion>
@@ -3333,11 +2926,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#discovery_well</IRI>
-        <Literal>descobridor</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#disposition_of</IRI>
         <Literal>disposição de</Literal>
     </AnnotationAssertion>
@@ -3350,21 +2938,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#dolomite</IRI>
         <Literal>dolomite</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#dry_hole</IRI>
-        <Literal>seco</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#dry_hole_with_traces_of_hydrocarbon</IRI>
-        <Literal>seco com indícios</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#dry_hole_without_traces_of_hydrocarbon</IRI>
-        <Literal>seco sem indícios</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3418,16 +2991,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#exploratory_well</IRI>
-        <Literal>poço exploratório</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#explotatory_well</IRI>
-        <Literal>poço explotatório</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#fault_gouge</IRI>
         <Literal>goivagem de falha</Literal>
     </AnnotationAssertion>
@@ -3445,11 +3008,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#floatstone</IRI>
         <Literal>floatstone</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#fluid_quality</IRI>
-        <Literal>qualidade de fluido</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3783,6 +3341,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_temporal_relation</IRI>
+        <Literal>tem relação temporal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#high_pressure_metamorphic_rock</IRI>
         <Literal>rocha metamórfica de alta pressão</Literal>
     </AnnotationAssertion>
@@ -3865,11 +3428,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#independent_continuant</IRI>
         <Literal>independent continuant</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#injection_well</IRI>
-        <Literal>injetor</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4453,16 +4011,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#production_well</IRI>
-        <Literal>produtor</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#proper_interval</IRI>
-        <Literal>intervalo de tempo</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#pyroclast</IRI>
         <Literal>piroclasto</Literal>
     </AnnotationAssertion>
@@ -4553,16 +4101,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#realizable_entity</IRI>
-        <Literal>entidade realizável</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#realizable_entity</IRI>
-        <Literal>realizable entity</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#rhyolite</IRI>
         <Literal>riolito</Literal>
     </AnnotationAssertion>
@@ -4585,11 +4123,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#rock</IRI>
         <Literal>rock</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#role</IRI>
-        <Literal>role</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4645,16 +4178,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#shale</IRI>
         <Literal>folhelho</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#shallower_prospect_well</IRI>
-        <Literal>poço para jazida mais rasa</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#shallower_prospect_well</IRI>
-        <Literal>poço para prospecto mais raso</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4733,11 +4256,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#special_well</IRI>
-        <Literal>poço especial</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#specifically_dependent_continuant</IRI>
         <Literal>continuante especificamente dependente</Literal>
     </AnnotationAssertion>
@@ -4745,21 +4263,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#specifically_dependent_continuant</IRI>
         <Literal>specifically dependent continuant</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#storage_well</IRI>
-        <Literal>poço de estocagem</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#stratigraphic_well</IRI>
-        <Literal>poço estratigráfico</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#subcommercial_well</IRI>
-        <Literal>produtor subcomercial</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4840,11 +4343,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#till</IRI>
         <Literal>tilito</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#tipo_de_porosidade</IRI>
-        <Literal>tipo de porosidade</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4973,21 +4471,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#well_quality</IRI>
-        <Literal>qualidade de poço</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#well_role</IRI>
-        <Literal>papel de poço</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#well_with_hydrocarbon</IRI>
-        <Literal>portador</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#western_european_age</IRI>
         <Literal>idade</Literal>
     </AnnotationAssertion>
@@ -5048,13 +4531,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#wildcat_well</IRI>
-        <Literal>pioneiro</Literal>
+        <IRI>#o&amp;g_earth_fluid</IRI>
+        <Literal>fluido geológico da indústria de Óleo &amp; Gás</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#wildcat_well</IRI>
-        <Literal>poço pioneiro</Literal>
+        <IRI>#o&amp;g_earth_fluid</IRI>
+        <Literal>fluido geológico de O&amp;G</Literal>
     </AnnotationAssertion>
 </Ontology>
 

@@ -13,6 +13,12 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
+        <Class IRI="#anthropogenic_fluid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#anthropogenic_material"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#basin"/>
     </Declaration>
     <Declaration>
@@ -100,16 +106,10 @@
         <Class IRI="#well"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#after"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#age_of"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#atravessa"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#before"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#carrier_of"/>
@@ -125,6 +125,9 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#crossed_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#crosses"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#disposition_of"/>
@@ -164,6 +167,9 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#has_role"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#interval_after"/>
@@ -235,9 +241,6 @@
         <ObjectProperty IRI="#role_of"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#time_interval_property"/>
-    </Declaration>
-    <Declaration>
         <AnnotationProperty IRI="http://purl.org/dc/terms/description"/>
     </Declaration>
     <Declaration>
@@ -264,6 +267,14 @@
             </ObjectAllValuesFrom>
         </ObjectIntersectionOf>
     </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#anthropogenic_fluid"/>
+        <Class IRI="#anthropogenic_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anthropogenic_material"/>
+        <Class IRI="#material_entity"/>
+    </SubClassOf>
     <SubClassOf>
         <Class IRI="#basin"/>
         <Class IRI="#site"/>
@@ -420,6 +431,18 @@
             </ObjectSomeValuesFrom>
         </ObjectUnionOf>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#o&amp;g_earth_fluid"/>
+        <Class IRI="#earth_fluid"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#anthropogenic_material"/>
+        <Class IRI="#earth_material"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#anthropogenic_material"/>
+        <Class IRI="#geological_object"/>
+    </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#basin"/>
         <Class IRI="#field"/>
@@ -479,16 +502,8 @@
         <Class IRI="#unconsolidated_earth_material"/>
     </DisjointClasses>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="#after"/>
-        <ObjectProperty IRI="#time_interval_property"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
         <ObjectProperty IRI="#age_of"/>
         <ObjectProperty IRI="#quality_of"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#before"/>
-        <ObjectProperty IRI="#time_interval_property"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#disposition_of"/>
@@ -528,15 +543,7 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_after"/>
-        <ObjectProperty IRI="#after"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#interval_after"/>
         <ObjectProperty IRI="#interval_disjoint"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#interval_before"/>
-        <ObjectProperty IRI="#before"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_before"/>
@@ -544,11 +551,11 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_contains"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_disjoint"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_during"/>
@@ -556,11 +563,11 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_equals"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_finished_by"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_finishes"/>
@@ -568,27 +575,27 @@
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_in"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_meets"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_met_by"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_overlapped_by"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_overlaps"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_started_by"/>
-        <ObjectProperty IRI="#time_interval_property"/>
+        <ObjectProperty IRI="#has_temporal_relation"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#interval_starts"/>
@@ -607,20 +614,8 @@
         <ObjectProperty IRI="#characteristic_of"/>
     </SubObjectPropertyOf>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#after"/>
-        <ObjectProperty IRI="#after"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
         <ObjectProperty IRI="#age_of"/>
         <ObjectProperty IRI="#has_age"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
-        <ObjectProperty IRI="#atravessa"/>
-        <ObjectProperty IRI="#crossed_by"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
-        <ObjectProperty IRI="#before"/>
-        <ObjectProperty IRI="#before"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="#carrier_of"/>
@@ -633,6 +628,10 @@
     <InverseObjectProperties>
         <ObjectProperty IRI="#concretizes"/>
         <ObjectProperty IRI="#is_concretized_as"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#crossed_by"/>
+        <ObjectProperty IRI="#crosses"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="#disposition_of"/>
@@ -700,9 +699,6 @@
         <ObjectProperty IRI="#generated_by"/>
     </AsymmetricObjectProperty>
     <TransitiveObjectProperty>
-        <ObjectProperty IRI="#before"/>
-    </TransitiveObjectProperty>
-    <TransitiveObjectProperty>
         <ObjectProperty IRI="#has_part"/>
     </TransitiveObjectProperty>
     <TransitiveObjectProperty>
@@ -724,16 +720,16 @@
         <ObjectProperty IRI="#has_member"/>
     </IrreflexiveObjectProperty>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#atravessa"/>
-        <Class IRI="#well"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
         <ObjectProperty IRI="#carrier_of"/>
         <Class IRI="#independent_continuant"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#concretizes"/>
         <Class IRI="#specifically_dependent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#crosses"/>
+        <Class IRI="#well"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#generically_depends_on"/>
@@ -756,6 +752,10 @@
         <Class IRI="#independent_continuant"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_temporal_relation"/>
+        <Class IRI="#one-dimensional_temporal_region"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
         <ObjectProperty IRI="#is_concretized_as"/>
         <Class IRI="#generically_dependent_continuant"/>
     </ObjectPropertyDomain>
@@ -768,16 +768,16 @@
         <Class IRI="#continuant"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#atravessa"/>
-        <Class IRI="#geological_object"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
         <ObjectProperty IRI="#carrier_of"/>
         <Class IRI="#generically_dependent_continuant"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#concretizes"/>
         <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#crosses"/>
+        <Class IRI="#geological_object"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#generically_depends_on"/>
@@ -794,6 +794,10 @@
     <ObjectPropertyRange>
         <ObjectProperty IRI="#has_quality"/>
         <Class IRI="#quality"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_temporal_relation"/>
+        <Class IRI="#one-dimensional_temporal_region"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#is_concretized_as"/>
@@ -818,28 +822,33 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#after</IRI>
-        <Literal>depois de</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#age_of</IRI>
         <Literal>idade de</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#atravessa</IRI>
-        <Literal>atravessa</Literal>
+        <IRI>#anthropogenic_fluid</IRI>
+        <Literal>fluido antropogênico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anthropogenic_fluid</IRI>
+        <Literal>fluido artificial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anthropogenic_material</IRI>
+        <Literal>material antropogênico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anthropogenic_material</IRI>
+        <Literal>material artificial</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#basin</IRI>
         <Literal>bacia</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#before</IRI>
-        <Literal>antes de</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -875,6 +884,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#crossed_by</IRI>
         <Literal>atravessado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#crosses</IRI>
+        <Literal>atravessa</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1030,6 +1044,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#has_role</IRI>
         <Literal>tem papel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_temporal_relation</IRI>
+        <Literal>tem relação temporal</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1315,6 +1334,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#well</IRI>
         <Literal>poço</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#o&amp;g_earth_fluid</IRI>
+        <Literal>fluido geológico da indústria de óleo &amp; gás</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#o&amp;g_earth_fluid</IRI>
+        <Literal>fluido geológico de O&amp;G</Literal>
     </AnnotationAssertion>
 </Ontology>
 
