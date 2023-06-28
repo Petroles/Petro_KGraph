@@ -24,16 +24,9 @@
 11. Rodar o notebook Petro_KGraph/Corpora/PetroNER - Clustering/Triplet dataset.ipynb. Esse notebook criar o dataset para ser usado em contrastive learning (um exemplo âncora, um positivo e outro negativo). Os datasets são gravados na mesma pasta Petro_KGraph/Corpora/PetroNER - Clustering.
 
 ### Criando Relation Extraction dataset usando distant supervision
-12. Rodar o notebook Petro_KGraph/Corpora/PetroRE/Filter_Conllu_URIs_notebook.ipynb para filtar apenas as sentenças que possuem pelo menos URI anotadas. Esse notebook salva os arquivos df_filtred_petroner_uri_xxxxxxxxxxxx na mesma pasta.
-
-
-
-13. Rodar notebook ProcessFiltered_Conllu_URIs_notebook.ipynb
-
-
-
-
-
+12. Rodar o notebook Petro_KGraph/Corpora/PetroRE/Filter_Conllu_URIs_notebook.ipynb para filtrar apenas as sentenças que possuem pelo menos 2 URIs anotadas. Esse notebook salva os arquivos df_filtred_petroner_uri_xxxxxxxxxxxx na mesma pasta.
+13. **(Atenção - Essa extração pode demorar várias horas)** Rodar notebook ProcessFiltered_Conllu_URIs_notebook.ipynb para criar o dataset para Relation Extraction. Esse notebook salva os arquivos necessários para o treinamento do modelo na mesma pasta (df_bert_sentences_XXXX.csv, df_relation_xxxxxxx, lista_classe_xxxxx, lista_relacoes_xxxxx, lista_uris_xxxxx), além dos arquivos JSON para usar no label studio nas pastas Petro_KGraph/Corpora/PetroRE/JSONs_XXXXX.
 
 ### Criando os Petro KGraph Golden
-6. Rodar o notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Split ontology.ipynb. Com base nos datasets PetroNER separados em treino-validação-teste, esse notebook irá criar os grafos golden que serão referência na avaliação do povoamento dos knowledge graphs.
+14. Rodar o notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Split ontology.ipynb. Com base nos datasets PetroNER separados em treino-validação-teste, esse notebook irá criar os grafos golden que serão referência na avaliação do povoamento dos knowledge graphs (PetroKGraph_treino, PetroKGraph_valid, PetroKGraph_teste).
+15. O Notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Análise Ontologia.ipynb, levanta a quantidade de indivíduos, classes e labels na ontologia parcialmente povoada.
