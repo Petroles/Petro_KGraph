@@ -30,3 +30,14 @@
 ### Criando os Petro KGraph Golden
 14. Rodar o notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Split ontology.ipynb. Com base nos datasets PetroNER separados em treino-validação-teste, esse notebook irá criar os grafos golden que serão referência na avaliação do povoamento dos knowledge graphs (PetroKGraph_treino, PetroKGraph_valid, PetroKGraph_teste).
 15. O Notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Análise Ontologia.ipynb, levanta a quantidade de indivíduos, classes e labels na ontologia parcialmente povoada.
+
+## Treinar modelos
+### Treinar o modelo de Named Entity Recognition
+(Revisar código elaborado pela PUC)
+
+### Treinar Entity Linking 
+(Essa etapa treina um modelo apenas para o entity link, sem a clusterização)
+16. Rodar notebook Petro_KGraph/Model/Entity Linking/Training Entity Linking model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec".
+
+(Essa etapa treina um mesmo modelo para fazer o entity link e	 a clusterização)
+17. Rodar o notebook Petro_KGraph/Model/Instances clustering/Training Instances Clustering model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec_clustering".
