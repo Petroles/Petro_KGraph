@@ -41,3 +41,10 @@
 
 (Essa etapa treina um mesmo modelo para fazer o entity link e	 a clusterização)
 17. Rodar o notebook Petro_KGraph/Model/Instances clustering/Training Instances Clustering model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec_clustering".
+
+
+
+
+## Usar modelos para predição
+18. Rodar o notebook Petro_KGraph/Model/Instances clustering/Entity_Linking_and_clustering-Predict.ipynb. No início do notebook deve ser informado o caminho com o arquivo com as sentenças que deverão ser preditas. As entidades dessas sentenças já devem ter sido preditas. Na pasta Petro_KGraph/Model/Instances clustering/Prediction, serão salvas as listas com sentenças linkadas a URI já existentes no PetroKGraph, sentenças linkadas a URIs novas e sentenças não linkadas. 
+
