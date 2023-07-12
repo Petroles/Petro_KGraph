@@ -1,0 +1,1569 @@
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-1
+# text = 440- RELATÓRIO DA SITUAÇÃO DO PROJETO DE COMBUSTÃO IN - SITU DO CAMPO DE BURACICA
+1	440	440	NUM	_	NumType=Card	3	nummod	O	start_char=0|end_char=3
+2	-	-	PUNCT	_	_	1	punct	O	start_char=3|end_char=4
+3	RELATÓRIO	Relatãrio	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5|end_char=14
+4-5	DA	_	_	_	_	_	_	O	start_char=15|end_char=17
+4	DE	de	ADP	_	_	3	flat:name	O	_
+5	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	flat:name	O	_
+6	SITUAÇÃO	SITUAÇÃO	PROPN	_	Number=Sing	3	flat:name	O	start_char=18|end_char=26
+7-8	DO	_	_	_	_	_	_	O	start_char=27|end_char=29
+7	DE	de	ADP	_	_	3	flat:name	O	_
+8	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	flat:name	O	_
+9	PROJETO	Proleto	PROPN	_	Gender=Masc|Number=Sing	3	flat:name	O	start_char=30|end_char=37
+10	DE	de	ADP	_	_	9	flat:name	O	start_char=38|end_char=40
+11	COMBUSTÃO	COMBUSTÃO	PROPN	_	Number=Sing	9	flat:name	O	start_char=41|end_char=50
+12	IN	IN	PROPN	_	Number=Sing	9	flat:name	O	start_char=51|end_char=53
+13	-	-	PUNCT	_	_	14	punct	O	start_char=54|end_char=55
+14	SITU	SITU	PROPN	_	Gender=Masc|Number=Sing	3	conj	O	start_char=56|end_char=60
+15-16	DO	_	_	_	_	_	_	O	start_char=61|end_char=63
+15	DE	de	ADP	_	_	17	case	O	_
+16	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	O	_
+17	CAMPO	CAMPO	PROPN	_	Gender=Masc|Number=Sing	14	nmod	O	start_char=64|end_char=69
+18	DE	de	ADP	_	_	17	flat:name	O	start_char=70|end_char=72
+19	BURACICA	BURACIC	PROPN	_	Number=Sing	17	flat:name	O	start_char=73|end_char=81
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-2
+# text = Período: 1 a 15/03/79..
+1	Período	período	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=83|end_char=90
+2	:	:	PUNCT	_	_	3	punct	O	start_char=90|end_char=91
+3	1	1	NUM	_	NumType=Card	1	appos	O	start_char=92|end_char=93
+4	a	a	ADP	_	_	5	case	O	start_char=94|end_char=95
+5	15/03/79	15/03/79	NUM	_	NumType=Card	3	conj	O	start_char=96|end_char=104
+6	.	.	PUNCT	_	_	1	punct	O	start_char=104|end_char=105
+7	.	.	PUNCT	_	_	1	punct	O	start_char=105|end_char=106
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-3
+# text = INTRODUÇÃO
+1	INTRODUÇÃO	introdução	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=108|end_char=118
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-4
+# text = O presente relatório visa apresentar sucintamente a situação do Projeto de Combustão "In-Situ" do campo de Buracica durante o p~ riodo de 1 a 15 de março de 1979..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	O	start_char=120|end_char=121
+2	presente	presente	ADJ	_	Gender=Masc|Number=Sing	3	amod	O	start_char=122|end_char=130
+3	relatório	relatório	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	O	start_char=131|end_char=140
+4	visa	visar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=141|end_char=145
+5	apresentar	apresentar	VERB	_	VerbForm=Inf	4	xcomp	O	start_char=146|end_char=156
+6	sucintamente	sucintamente	ADV	_	_	5	advmod	O	start_char=157|end_char=169
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	O	start_char=170|end_char=171
+8	situação	situação	NOUN	_	Gender=Fem|Number=Sing	5	obj	O	start_char=172|end_char=180
+9-10	do	_	_	_	_	_	_	O	start_char=181|end_char=183
+9	de	de	ADP	_	_	11	case	O	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	_
+11	Projeto	Projeto	PROPN	_	Gender=Masc|Number=Sing	8	nmod	O	start_char=184|end_char=191
+12	de	de	ADP	_	_	11	flat:name	O	start_char=192|end_char=194
+13	Combustão	Combustão	PROPN	_	Number=Sing	11	flat:name	O	start_char=195|end_char=204
+14	"	«	PUNCT	_	_	15	punct	O	start_char=205|end_char=206
+15	In-Situ	In-Situ	PROPN	_	Gender=Masc|Number=Sing	11	appos	O	start_char=206|end_char=213
+16	"	«	PUNCT	_	_	19	punct	O	start_char=213|end_char=214
+17-18	do	_	_	_	_	_	_	O	start_char=215|end_char=217
+17	de	de	ADP	_	_	19	case	O	_
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	O	_
+19	campo	campo	NOUN	_	Gender=Masc|Number=Sing	8	conj	B=CAMPO	start_char=218|end_char=223
+20	de	de	ADP	_	_	21	case	I=CAMPO	start_char=224|end_char=226
+21	Buracica	Buracica	PROPN	_	Gender=Masc|Number=Sing	19	nmod	I=CAMPO	start_char=227|end_char=235
+22	durante	durante	ADP	_	_	24	case	O	start_char=236|end_char=243
+23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	O	start_char=244|end_char=245
+24	p~	p~	NOUN	_	Gender=Masc|Number=Sing	5	obl	O	start_char=246|end_char=248
+25	riodo	riodo	NOUN	_	Gender=Masc|Number=Sing	24	nmod	O	start_char=249|end_char=254
+26	de	de	ADP	_	_	27	case	O	start_char=255|end_char=257
+27	1	1	NUM	_	NumType=Card	24	nummod	O	start_char=258|end_char=259
+28	a	a	ADP	_	_	29	case	O	start_char=260|end_char=261
+29	15	15	NUM	_	NumType=Card	27	nmod	O	start_char=262|end_char=264
+30	de	de	ADP	_	_	31	case	O	start_char=265|end_char=267
+31	março	março	NOUN	_	Gender=Masc|Number=Sing	29	nmod	O	start_char=268|end_char=273
+32	de	de	ADP	_	_	33	case	O	start_char=274|end_char=276
+33	1979	1979	NUM	_	NumType=Card	31	nummod	O	start_char=277|end_char=281
+34	.	.	PUNCT	_	_	4	punct	O	start_char=281|end_char=282
+35	.	.	PUNCT	_	_	4	punct	O	start_char=282|end_char=283
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-5
+# text = 1.0)
+1	1.0	1.0	NUM	_	NumType=Card	0	root	O	start_char=285|end_char=288
+2	)	)	PUNCT	_	_	1	punct	O	start_char=288|end_char=289
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-6
+# text = Acompanhamento do projeto "Combustão In-Situ"..
+1	Acompanhamento	acompanhamento	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=291|end_char=305
+2-3	do	_	_	_	_	_	_	O	start_char=306|end_char=308
+2	de	de	ADP	_	_	4	case	O	_
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	O	_
+4	projeto	projeto	NOUN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=309|end_char=316
+5	"	«	PUNCT	_	_	6	punct	O	start_char=317|end_char=318
+6	Combustão	Combustão	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=318|end_char=327
+7	In-Situ	In-Situ	PROPN	_	Number=Sing	6	flat:name	O	start_char=328|end_char=335
+8	"	«	PUNCT	_	_	6	flat:name	O	start_char=335|end_char=336
+9	.	.	PUNCT	_	_	6	punct	O	start_char=336|end_char=337
+10	.	.	PUNCT	_	_	1	punct	O	start_char=337|end_char=338
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-7
+# text = l.a) Coleta de amostra p/ORSAT..
+1	l.a	l.a	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=340|end_char=343
+2	)	)	PUNCT	_	_	1	punct	O	start_char=343|end_char=344
+3	Coleta	coleta	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=345|end_char=351
+4	de	de	ADP	_	_	5	case	O	start_char=352|end_char=354
+5	amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	3	nmod	O	start_char=355|end_char=362
+6	p/ORSAT	p/orsat	ADJ	_	Gender=Fem|Number=Sing	5	amod	O	start_char=363|end_char=370
+7	.	.	PUNCT	_	_	3	punct	O	start_char=370|end_char=371
+8	.	.	PUNCT	_	_	3	punct	O	start_char=371|end_char=372
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-8
+# text = Realizada diariamente nos seguintes poços: BA-65 , 67, 104, 157 e 161..
+1	Realizada	realizar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	O	start_char=374|end_char=383
+2	diariamente	diariamente	ADV	_	_	1	advmod	O	start_char=384|end_char=395
+3-4	nos	_	_	_	_	_	_	O	start_char=396|end_char=399
+3	em	em	ADP	_	_	6	case	O	_
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	O	_
+5	seguintes	seguinte	ADJ	_	Gender=Masc|Number=Plur	6	amod	O	start_char=400|end_char=409
+6	poços	poço	NOUN	_	Gender=Masc|Number=Plur	1	obl	B=POÇO	start_char=410|end_char=415
+7	:	:	PUNCT	_	_	8	punct	O	start_char=415|end_char=416
+8	BA-65	BA-65	PROPN	_	Gender=Masc|Number=Sing	6	appos	B=POÇO	start_char=417|end_char=422
+9	,	,	PUNCT	_	_	10	punct	O	start_char=423|end_char=424
+10	67	67	NUM	_	NumType=Card	8	conj	O	start_char=425|end_char=427
+11	,	,	PUNCT	_	_	12	punct	O	start_char=427|end_char=428
+12	104	104	NUM	_	NumType=Card	8	conj	O	start_char=429|end_char=432
+13	,	,	PUNCT	_	_	14	punct	O	start_char=432|end_char=433
+14	157	157	NUM	_	NumType=Card	8	conj	O	start_char=434|end_char=437
+15	e	e	CCONJ	_	_	16	cc	O	start_char=438|end_char=439
+16	161..	161..	NUM	_	NumType=Card	8	conj	O	start_char=440|end_char=445
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-9
+# text = Este último está sem gás..
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	O	start_char=447|end_char=451
+2	último	último	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	5	nsubj	O	start_char=452|end_char=458
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	O	start_char=459|end_char=463
+4	sem	sem	ADP	_	_	5	case	O	start_char=464|end_char=467
+5	gás.	gás.	NOUN	_	Gender=Masc|Number=Sing	0	root	B=FLUIDODATERRA_i	start_char=468|end_char=472
+6	.	.	PUNCT	_	_	5	punct	O	start_char=472|end_char=473
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-10
+# text = por este motivo não está sendo # poss1vel coletar..
+1	por	por	ADP	_	_	3	case	O	start_char=475|end_char=478
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	O	start_char=479|end_char=483
+3	motivo	motivo	NOUN	_	Gender=Masc|Number=Sing	8	obl	O	start_char=484|end_char=490
+4	não	não	ADV	_	Polarity=Neg	8	advmod	O	start_char=491|end_char=494
+5	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	O	start_char=495|end_char=499
+6	sendo	ser	AUX	_	VerbForm=Ger	8	cop	O	start_char=500|end_char=505
+7	#	#	PUNCT	_	_	8	punct	O	start_char=506|end_char=507
+8	poss1vel	poss1vel	ADJ	_	Gender=Masc|Number=Sing	0	root	O	start_char=508|end_char=516
+9	coletar	coletar	VERB	_	VerbForm=Inf	8	csubj	O	start_char=517|end_char=524
+10	.	.	PUNCT	_	_	9	punct	O	start_char=524|end_char=525
+11	.	.	PUNCT	_	_	8	punct	O	start_char=525|end_char=526
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-11
+# text = Estes resultados são informados diariamente c/a produção p/DIRPRO!SEROL • O BA-157 é o poço que apresenta maior pressão no revesti - mento c/um valor de 35PSI..
+1	Estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	2	det	O	start_char=528|end_char=533
+2	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	4	nsubj:pass	O	start_char=534|end_char=544
+3	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	O	start_char=545|end_char=548
+4	informados	informar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=549|end_char=559
+5	diariamente	diariamente	ADV	_	_	4	advmod	O	start_char=560|end_char=571
+6	c/a	c/a	ADP	_	_	7	case	O	start_char=572|end_char=575
+7	produção	produção	NOUN	_	Gender=Fem|Number=Sing	4	obl	O	start_char=576|end_char=584
+8	p/DIRPRO	p/dirpro	ADJ	_	Gender=Fem|Number=Sing	7	amod	O	start_char=585|end_char=593
+9	!	!	PUNCT	_	_	10	punct	O	start_char=593|end_char=594
+10	SEROL	SEROL	PROPN	_	Gender=Masc|Number=Sing	7	appos	O	start_char=594|end_char=599
+11	•	•	PUNCT	_	_	16	punct	O	start_char=600|end_char=601
+12	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	O	start_char=602|end_char=603
+13	BA-157	BA-157	PROPN	_	Gender=Masc|Number=Sing	16	nsubj	B=POÇO	start_char=604|end_char=610
+14	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	O	start_char=611|end_char=612
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	O	start_char=613|end_char=614
+16	poço	poço	NOUN	_	Gender=Masc|Number=Sing	4	conj	B=POÇO	start_char=615|end_char=619
+17	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	O	start_char=620|end_char=623
+18	apresenta	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	O	start_char=624|end_char=633
+19	maior	grande	ADJ	_	Gender=Fem|Number=Sing	20	amod	O	start_char=634|end_char=639
+20	pressão	pressão	NOUN	_	Gender=Fem|Number=Sing	18	obj	O	start_char=640|end_char=647
+21-22	no	_	_	_	_	_	_	O	start_char=648|end_char=650
+21	em	em	ADP	_	_	23	case	O	_
+22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	O	_
+23	revesti	revesti	NOUN	_	Gender=Masc|Number=Sing	18	obl	O	start_char=651|end_char=658
+24	-	-	PUNCT	_	_	25	punct	O	start_char=659|end_char=660
+25	mento	mento	NOUN	_	Gender=Masc|Number=Sing	23	appos	O	start_char=661|end_char=666
+26	c/um	c/um	ADP	_	_	27	case	O	start_char=667|end_char=671
+27	valor	valor	NOUN	_	Gender=Masc|Number=Sing	18	obl	O	start_char=672|end_char=677
+28	de	de	ADP	_	_	29	case	O	start_char=678|end_char=680
+29	35PSI	35psi	NUM	_	NumType=Card	27	nummod	O	start_char=681|end_char=686
+30	.	.	PUNCT	_	_	4	punct	O	start_char=686|end_char=687
+31	.	.	PUNCT	_	_	4	punct	O	start_char=687|end_char=688
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-12
+# text = Esta análise está sendo feita pelo Capataz de Produção e , o seu controle tambem..
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	O	start_char=690|end_char=694
+2	análise	análise	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	O	start_char=695|end_char=702
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	O	start_char=703|end_char=707
+4	sendo	ser	AUX	_	VerbForm=Ger	5	aux:pass	O	start_char=708|end_char=713
+5	feita	fazer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=714|end_char=719
+6-7	pelo	_	_	_	_	_	_	O	start_char=720|end_char=724
+6	por	por	ADP	_	_	8	case	O	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	_
+8	Capataz	Capataz	PROPN	_	Gender=Masc|Number=Sing	5	obl:agent	O	start_char=725|end_char=732
+9	de	de	ADP	_	_	8	flat:name	O	start_char=733|end_char=735
+10	Produção	Produção	PROPN	_	Number=Sing	8	flat:name	O	start_char=736|end_char=744
+11	e	e	CCONJ	_	_	15	cc	O	start_char=745|end_char=746
+12	,	,	PUNCT	_	_	15	punct	O	start_char=747|end_char=748
+13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	start_char=749|end_char=750
+14	seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	15	det	O	start_char=751|end_char=754
+15	controle	controle	NOUN	_	Gender=Masc|Number=Sing	8	conj	O	start_char=755|end_char=763
+16	tambem	tambem	ADV	_	_	15	advmod	O	start_char=764|end_char=770
+17	.	.	PUNCT	_	_	5	punct	O	start_char=770|end_char=771
+18	.	.	PUNCT	_	_	5	punct	O	start_char=771|end_char=772
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-13
+# text = , O SEPRO-I esta tentando conseguir um analista com o SETMOL..
+1	,	,	PUNCT	_	_	3	punct	O	start_char=774|end_char=775
+2	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	O	start_char=776|end_char=777
+3	SEPRO-I	Seprori	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=778|end_char=785
+4	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	nmod	O	start_char=786|end_char=790
+5	tentando	tentar	VERB	_	VerbForm=Ger	3	acl	O	start_char=791|end_char=799
+6	conseguir	conseguir	VERB	_	VerbForm=Inf	5	xcomp	O	start_char=800|end_char=809
+7	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	O	start_char=810|end_char=812
+8	analista	analista	NOUN	_	Gender=Masc|Number=Sing	6	obj	O	start_char=813|end_char=821
+9	com	com	ADP	_	_	11	case	O	start_char=822|end_char=825
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	start_char=826|end_char=827
+11	SETMOL	SETMOL	PROPN	_	Gender=Masc|Number=Sing	6	obl	O	start_char=828|end_char=834
+12	.	.	PUNCT	_	_	11	flat:name	O	start_char=834|end_char=835
+13	.	.	PUNCT	_	_	3	punct	O	start_char=835|end_char=836
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-14
+# text = Os poços BA-53. 148, 149 e 74 estão em observação, para verificação do teor de CO2 e °2 - l.b)
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=838|end_char=840
+2	poços	poço	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	B=POÇO	start_char=841|end_char=846
+3	BA-53	BA-53	PROPN	_	Gender=Masc|Number=Sing	2	nmod	I=POÇO	start_char=847|end_char=852
+4	.	.	PUNCT	_	_	5	punct	O	start_char=852|end_char=853
+5	148	148	NUM	_	NumType=Card	3	conj	O	start_char=854|end_char=857
+6	,	,	PUNCT	_	_	7	punct	O	start_char=857|end_char=858
+7	149	149	NUM	_	NumType=Card	3	conj	O	start_char=859|end_char=862
+8	e	e	CCONJ	_	_	9	cc	O	start_char=863|end_char=864
+9	74	74	NUM	_	NumType=Card	3	conj	O	start_char=865|end_char=867
+10	estão	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	O	start_char=868|end_char=873
+11	em	em	ADP	_	_	12	case	O	start_char=874|end_char=876
+12	observação	observação	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=877|end_char=887
+13	,	,	PUNCT	_	_	15	punct	O	start_char=887|end_char=888
+14	para	para	ADP	_	_	15	case	O	start_char=889|end_char=893
+15	verificação	verificação	NOUN	_	Gender=Fem|Number=Sing	12	nmod	O	start_char=894|end_char=905
+16-17	do	_	_	_	_	_	_	O	start_char=906|end_char=908
+16	de	de	ADP	_	_	18	case	O	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	O	_
+18	teor	teor	NOUN	_	Gender=Masc|Number=Sing	15	nmod	O	start_char=909|end_char=913
+19	de	de	ADP	_	_	20	case	O	start_char=914|end_char=916
+20	CO2	CO2	PROPN	_	Gender=Masc|Number=Sing	18	nmod	B=FLUIDODATERRA_o	start_char=917|end_char=920
+21	e	e	CCONJ	_	_	22	cc	O	start_char=921|end_char=922
+22	°2	°2	PROPN	_	Gender=Masc|Number=Sing	20	conj	O	start_char=923|end_char=925
+23	-	-	PUNCT	_	_	24	punct	O	start_char=926|end_char=927
+24	l.b	l.b	NUM	_	NumType=Card	22	flat:name	O	start_char=928|end_char=931
+25	)	)	PUNCT	_	_	24	punct	O	start_char=931|end_char=932
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-15
+# text = Coleta de amostra para o CENPES..
+1	Coleta	coleta	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=934|end_char=940
+2	de	de	ADP	_	_	3	case	O	start_char=941|end_char=943
+3	amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=944|end_char=951
+4	para	para	ADP	_	_	6	case	O	start_char=952|end_char=956
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	O	start_char=957|end_char=958
+6	CENPES	CENPES	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=959|end_char=965
+7	.	.	PUNCT	_	_	1	punct	O	start_char=965|end_char=966
+8	.	.	PUNCT	_	_	1	punct	O	start_char=966|end_char=967
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-16
+# text = Estas coletas são realizadas de 8 em 8 dias e enviadas para o CENPES/DEPRO para o Eng2 PAULO VILANI t onde são realizadas ' as análises cromatográficas dos gases..
+1	Estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	O	start_char=969|end_char=974
+2	coletas	coleta	NOUN	_	Gender=Fem|Number=Plur	4	nsubj:pass	O	start_char=975|end_char=982
+3	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	O	start_char=983|end_char=986
+4	realizadas	realizar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=987|end_char=997
+5	de	de	ADP	_	_	6	case	O	start_char=998|end_char=1000
+6	8	8	NUM	_	NumType=Card	4	obl	O	start_char=1001|end_char=1002
+7	em	em	ADP	_	_	9	case	O	start_char=1003|end_char=1005
+8	8	8	NUM	_	NumType=Card	9	nummod	O	start_char=1006|end_char=1007
+9	dias	dia	NOUN	_	Gender=Masc|Number=Plur	4	obl	O	start_char=1008|end_char=1012
+10	e	e	CCONJ	_	_	11	cc	O	start_char=1013|end_char=1014
+11	enviadas	enviar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	4	conj	O	start_char=1015|end_char=1023
+12	para	para	ADP	_	_	14	case	O	start_char=1024|end_char=1028
+13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	O	start_char=1029|end_char=1030
+14	CENPES/DEPRO	CENPES/DEPRO	PROPN	_	Gender=Masc|Number=Sing	11	obl	O	start_char=1031|end_char=1043
+15	para	para	ADP	_	_	17	case	O	start_char=1044|end_char=1048
+16	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	O	start_char=1049|end_char=1050
+17	Eng2	Eng2	PROPN	_	Gender=Masc|Number=Sing	11	obl	O	start_char=1051|end_char=1055
+18	PAULO	Paulo	PROPN	_	Number=Sing	17	flat:name	O	start_char=1056|end_char=1061
+19	VILANI	VILANI	PROPN	_	Number=Sing	17	flat:name	O	start_char=1062|end_char=1068
+20	t	t	PROPN	_	Number=Sing	17	flat:name	O	start_char=1069|end_char=1070
+21	onde	onde	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	23	nsubj:pass	O	start_char=1071|end_char=1075
+22	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	O	start_char=1076|end_char=1079
+23	realizadas	realizar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	17	acl:relcl	O	start_char=1080|end_char=1090
+24	'	'	PUNCT	_	_	26	punct	O	start_char=1091|end_char=1092
+25	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	O	start_char=1093|end_char=1095
+26	análises	análise	NOUN	_	Gender=Fem|Number=Plur	23	nsubj:pass	O	start_char=1096|end_char=1104
+27	cromatográficas	cromatográfico	ADJ	_	Gender=Fem|Number=Plur	26	amod	O	start_char=1105|end_char=1120
+28-29	dos	_	_	_	_	_	_	O	start_char=1121|end_char=1124
+28	de	de	ADP	_	_	30	case	O	_
+29	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	O	_
+30	gases	gase	NOUN	_	Gender=Masc|Number=Plur	26	nmod	B=FLUIDODATERRA_i	start_char=1125|end_char=1130
+31	.	.	PUNCT	_	_	4	punct	O	start_char=1130|end_char=1131
+32	.	.	PUNCT	_	_	4	punct	O	start_char=1131|end_char=1132
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-17
+# text = 1.c)
+1	1.c	1.c	NUM	_	NumType=Card	0	root	O	start_char=1134|end_char=1137
+2	)	)	PUNCT	_	_	1	punct	O	start_char=1137|end_char=1138
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-18
+# text = Verificação de presença de H • Foi colocada durante o per:!odo de 7 a 14/03/79 uma amos tra de cloreto de cadtmo na sa:!
+1	Verificação	Verificação	NOUN	_	Gender=Fem|Number=Sing	8	nsubj:pass	O	start_char=1140|end_char=1151
+2	de	de	ADP	_	_	3	case	O	start_char=1152|end_char=1154
+3	presença	presença	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=1155|end_char=1163
+4	de	de	ADP	_	_	5	case	O	start_char=1164|end_char=1166
+5	H	h	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=1167|end_char=1168
+6	•	•	PUNCT	_	_	8	punct	O	start_char=1169|end_char=1170
+7	Foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	O	start_char=1171|end_char=1174
+8	colocada	colocar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1175|end_char=1183
+9	durante	durante	ADP	_	_	11	case	O	start_char=1184|end_char=1191
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	start_char=1192|end_char=1193
+11	per	per	NOUN	_	Gender=Masc|Number=Sing	8	obl	O	start_char=1194|end_char=1197
+12	:	:	PUNCT	_	_	13	punct	O	start_char=1197|end_char=1198
+13	!odo	!odo	NOUN	_	Gender=Masc|Number=Sing	11	appos	O	start_char=1198|end_char=1202
+14	de	de	ADP	_	_	15	case	O	start_char=1203|end_char=1205
+15	7	7	NUM	_	NumType=Card	13	nummod	O	start_char=1206|end_char=1207
+16	a	a	ADP	_	_	17	case	O	start_char=1208|end_char=1209
+17	14/03/79	14/03/79	NUM	_	NumType=Card	15	nmod	O	start_char=1210|end_char=1218
+18	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	O	start_char=1219|end_char=1222
+19	amos	amo	NOUN	_	Gender=Masc|Number=Plur	13	nmod	O	start_char=1223|end_char=1227
+20	tra	tra	X	_	_	19	flat:foreign	O	start_char=1228|end_char=1231
+21	de	de	ADP	_	_	22	case	O	start_char=1232|end_char=1234
+22	cloreto	cloreto	NOUN	_	Gender=Masc|Number=Sing	19	nmod	O	start_char=1235|end_char=1242
+23	de	de	ADP	_	_	24	case	O	start_char=1243|end_char=1245
+24	cadtmo	cadtmo	NOUN	_	Gender=Masc|Number=Sing	22	nmod	O	start_char=1246|end_char=1252
+25-26	na	_	_	_	_	_	_	O	start_char=1253|end_char=1255
+25	em	em	ADP	_	_	27	case	O	_
+26	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	O	_
+27	sa	sa	NOUN	_	Gender=Fem|Number=Sing	8	obl	O	start_char=1256|end_char=1258
+28	:	:	PUNCT	_	_	8	punct	O	start_char=1258|end_char=1259
+29	!	!	PUNCT	_	_	8	punct	O	start_char=1259|end_char=1260
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-19
+# text = da do revestimento do BA-para constatar a presença de gás sulff~ico (H2S) mas não houve nenhum ind:!cio..
+1	da	da	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=1262|end_char=1264
+2-3	do	_	_	_	_	_	_	O	start_char=1265|end_char=1267
+2	de	de	ADP	_	_	4	case	O	_
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	O	_
+4	revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	1	obl:arg	O	start_char=1268|end_char=1280
+5-6	do	_	_	_	_	_	_	O	start_char=1281|end_char=1283
+5	de	de	ADP	_	_	7	case	O	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	O	_
+7	BA-para	BA-para	PROPN	_	Gender=Masc|Number=Sing	4	nmod	O	start_char=1284|end_char=1291
+8	constatar	constatar	VERB	_	VerbForm=Inf	1	advcl	O	start_char=1292|end_char=1301
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	O	start_char=1302|end_char=1303
+10	presença	presença	NOUN	_	Gender=Fem|Number=Sing	8	obj	O	start_char=1304|end_char=1312
+11	de	de	ADP	_	_	12	case	O	start_char=1313|end_char=1315
+12	gás	gás	NOUN	_	Gender=Masc|Number=Sing	10	nmod	B=FLUIDODATERRA_i	start_char=1316|end_char=1319
+13	sulff~ico	sulff~ico	ADJ	_	Gender=Masc|Number=Sing	12	amod	O	start_char=1320|end_char=1329
+14	(	(	PUNCT	_	_	15	punct	O	start_char=1330|end_char=1331
+15	H2S	H2S	PROPN	_	Gender=Masc|Number=Sing	10	appos	O	start_char=1331|end_char=1334
+16	)	)	PUNCT	_	_	15	punct	O	start_char=1334|end_char=1335
+17	mas	mas	CCONJ	_	_	19	cc	O	start_char=1336|end_char=1339
+18	não	não	ADV	_	Polarity=Neg	19	advmod	O	start_char=1340|end_char=1343
+19	houve	haver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	O	start_char=1344|end_char=1349
+20	nenhum	nenhum	DET	_	Gender=Masc|Number=Sing|PronType=Neg	21	det	O	start_char=1350|end_char=1356
+21	ind	ind	NOUN	_	Gender=Masc|Number=Sing	19	obj	O	start_char=1357|end_char=1360
+22	:	:	PUNCT	_	_	23	punct	O	start_char=1360|end_char=1361
+23	!cio.	!cio.	NOUN	_	Gender=Masc|Number=Sing	21	appos	O	start_char=1361|end_char=1366
+24	.	.	PUNCT	_	_	1	punct	O	start_char=1366|end_char=1367
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-20
+# text = l.d) Registro de temperatura no BA-160..
+1	l.d	l.d	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=1369|end_char=1372
+2	)	)	PUNCT	_	_	1	punct	O	start_char=1372|end_char=1373
+3	Registro	registro	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1374|end_char=1382
+4	de	de	ADP	_	_	5	case	O	start_char=1383|end_char=1385
+5	temperatura	temperatura	NOUN	_	Gender=Fem|Number=Sing	3	nmod	O	start_char=1386|end_char=1397
+6-7	no	_	_	_	_	_	_	O	start_char=1398|end_char=1400
+6	em	em	ADP	_	_	8	case	O	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	_
+8	BA-160.	BA-160.	PROPN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=1401|end_char=1408
+9	.	.	PUNCT	_	_	3	punct	O	start_char=1408|end_char=1409
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-21
+# text = A temperatura está praticamente constante em torno de l240 F a ?l0I!}. l.e) Programação dos testes de produção..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=1411|end_char=1412
+2	temperatura	temperatura	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	O	start_char=1413|end_char=1424
+3	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	O	start_char=1425|end_char=1429
+4	praticamente	praticamente	ADV	_	_	5	advmod	O	start_char=1430|end_char=1442
+5	constante	constante	ADJ	_	Gender=Fem|Number=Sing	0	root	O	start_char=1443|end_char=1452
+6	em	em	ADP	_	_	9	case	O	start_char=1453|end_char=1455
+7	torno	torno	NOUN	_	Gender=Masc|Number=Sing	6	fixed	O	start_char=1456|end_char=1461
+8	de	de	ADP	_	_	6	fixed	O	start_char=1462|end_char=1464
+9	l240	l240	NOUN	_	Gender=Masc|Number=Sing	5	obl	O	start_char=1465|end_char=1469
+10	F	f	NOUN	_	Gender=Masc|Number=Sing	9	nmod	O	start_char=1470|end_char=1471
+11	a	a	ADP	_	_	13	case	O	start_char=1472|end_char=1473
+12	?	?	PUNCT	_	_	13	punct	O	start_char=1474|end_char=1475
+13	l0I!	l0I!	NOUN	_	Gender=Masc|Number=Sing	9	nmod	O	start_char=1475|end_char=1479
+14	}.	}.	X	_	_	13	flat:foreign	O	start_char=1479|end_char=1481
+15	l.e	l.e	X	_	_	13	flat:foreign	O	start_char=1482|end_char=1485
+16	)	)	PUNCT	_	_	13	punct	O	start_char=1485|end_char=1486
+17	Programação	programação	NOUN	_	Gender=Fem|Number=Sing	9	nmod	O	start_char=1487|end_char=1498
+18-19	dos	_	_	_	_	_	_	O	start_char=1499|end_char=1502
+18	de	de	ADP	_	_	20	case	O	_
+19	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	O	_
+20	testes	teste	NOUN	_	Gender=Masc|Number=Plur	17	nmod	O	start_char=1503|end_char=1509
+21	de	de	ADP	_	_	22	case	O	start_char=1510|end_char=1512
+22	produção	produção	NOUN	_	Gender=Fem|Number=Sing	20	nmod	O	start_char=1513|end_char=1521
+23	.	.	PUNCT	_	_	5	punct	O	start_char=1521|end_char=1522
+24	.	.	PUNCT	_	_	5	punct	O	start_char=1522|end_char=1523
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-22
+# text = Os testes de produção são realizados em média quatro por mês para cada poço..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=1525|end_char=1527
+2	testes	teste	NOUN	_	Gender=Masc|Number=Plur	6	nsubj:pass	O	start_char=1528|end_char=1534
+3	de	de	ADP	_	_	4	case	O	start_char=1535|end_char=1537
+4	produção	produção	NOUN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=1538|end_char=1546
+5	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	O	start_char=1547|end_char=1550
+6	realizados	realizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=1551|end_char=1561
+7	em	em	ADP	_	_	8	case	O	start_char=1562|end_char=1564
+8	média	média	NOUN	_	Gender=Fem|Number=Sing	6	obl	O	start_char=1565|end_char=1570
+9	quatro	quatro	NUM	_	NumType=Card	8	nummod	O	start_char=1571|end_char=1577
+10	por	por	ADP	_	_	11	case	O	start_char=1578|end_char=1581
+11	mês	mês	NOUN	_	Gender=Masc|Number=Sing	6	obl:agent	O	start_char=1582|end_char=1585
+12	para	para	ADP	_	_	14	case	O	start_char=1586|end_char=1590
+13	cada	cada	DET	_	Gender=Masc|Number=Sing|PronType=Tot	14	det	O	start_char=1591|end_char=1595
+14	poço	poço	NOUN	_	Gender=Masc|Number=Sing	6	obl	B=POÇO	start_char=1596|end_char=1600
+15	.	.	PUNCT	_	_	6	punct	O	start_char=1600|end_char=1601
+16	.	.	PUNCT	_	_	6	punct	O	start_char=1601|end_char=1602
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-23
+# text = Esta programação foi anexada na es~ ção de produção para facilitar a operação do bombeador..
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	O	start_char=1604|end_char=1608
+2	programação	programação	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	O	start_char=1609|end_char=1620
+3	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	O	start_char=1621|end_char=1624
+4	anexada	anexar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1625|end_char=1632
+5-6	na	_	_	_	_	_	_	O	start_char=1633|end_char=1635
+5	em	em	ADP	_	_	8	case	O	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	O	_
+7	es~	es~	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	8	amod	O	start_char=1636|end_char=1639
+8	ção	ção	NOUN	_	Gender=Fem|Number=Sing	4	obl	O	start_char=1640|end_char=1643
+9	de	de	ADP	_	_	10	case	O	start_char=1644|end_char=1646
+10	produção	produção	NOUN	_	Gender=Fem|Number=Sing	8	nmod	O	start_char=1647|end_char=1655
+11	para	para	SCONJ	_	_	12	mark	O	start_char=1656|end_char=1660
+12	facilitar	facilitar	VERB	_	VerbForm=Inf	4	advcl	O	start_char=1661|end_char=1670
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	O	start_char=1671|end_char=1672
+14	operação	operação	NOUN	_	Gender=Fem|Number=Sing	12	obj	O	start_char=1673|end_char=1681
+15-16	do	_	_	_	_	_	_	O	start_char=1682|end_char=1684
+15	de	de	ADP	_	_	17	case	O	_
+16	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	O	_
+17	bombeador	bombeador	NOUN	_	Gender=Masc|Number=Sing	14	nmod	O	start_char=1685|end_char=1694
+18	.	.	PUNCT	_	_	4	punct	O	start_char=1694|end_char=1695
+19	.	.	PUNCT	_	_	4	punct	O	start_char=1695|end_char=1696
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-24
+# text = l.~) Programação de Kobe..
+1	l.~	l.~	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1698|end_char=1701
+2	)	)	PUNCT	_	_	1	punct	O	start_char=1701|end_char=1702
+3	Programação	Programação	PROPN	_	Number=Sing	1	flat:name	O	start_char=1703|end_char=1714
+4	de	de	ADP	_	_	5	case	O	start_char=1715|end_char=1717
+5	Kobe.	Kobe.	PROPN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=1718|end_char=1723
+6	.	.	PUNCT	_	_	1	punct	O	start_char=1723|end_char=1724
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-25
+# text = Os poços que apresentarem teor de O maior do que 8% não 2 deverão sofrer intervenção do Kobe, por questão de segu rança..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=1726|end_char=1728
+2	poços	poço	NOUN	_	Gender=Masc|Number=Plur	16	nsubj	B=POÇO	start_char=1729|end_char=1734
+3	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	O	start_char=1735|end_char=1738
+4	apresentarem	apresentar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	O	start_char=1739|end_char=1751
+5	teor	teor	NOUN	_	Gender=Masc|Number=Sing	4	obj	O	start_char=1752|end_char=1756
+6	de	de	ADP	_	_	8	case	O	start_char=1757|end_char=1759
+7	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	start_char=1760|end_char=1761
+8	maior	grande	NOUN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=1762|end_char=1767
+9-10	do	_	_	_	_	_	_	O	start_char=1768|end_char=1770
+9	de	de	ADP	_	_	13	case	O	_
+10	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	9	fixed	O	_
+11	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	9	fixed	O	start_char=1771|end_char=1774
+12	8	8	NUM	_	NumType=Card	13	nummod	O	start_char=1775|end_char=1776
+13	%	%	SYM	_	_	4	obl	O	start_char=1776|end_char=1777
+14	não	não	ADV	_	Polarity=Neg	15	advmod	O	start_char=1778|end_char=1781
+15	2	2	NUM	_	NumType=Card	13	nummod	O	start_char=1782|end_char=1783
+16	deverão	dever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	O	start_char=1784|end_char=1791
+17	sofrer	sofrer	VERB	_	VerbForm=Inf	16	xcomp	O	start_char=1792|end_char=1798
+18	intervenção	intervenção	NOUN	_	Gender=Fem|Number=Sing	17	obj	O	start_char=1799|end_char=1810
+19-20	do	_	_	_	_	_	_	O	start_char=1811|end_char=1813
+19	de	de	ADP	_	_	21	case	O	_
+20	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	O	_
+21	Kobe	Kobe	PROPN	_	Gender=Masc|Number=Sing	18	nmod	O	start_char=1814|end_char=1818
+22	,	,	PUNCT	_	_	24	punct	O	start_char=1818|end_char=1819
+23	por	por	ADP	_	_	24	case	O	start_char=1820|end_char=1823
+24	questão	questão	NOUN	_	Gender=Fem|Number=Sing	17	obl	O	start_char=1824|end_char=1831
+25	de	de	ADP	_	_	26	case	O	start_char=1832|end_char=1834
+26	segu	segu	NOUN	_	Gender=Fem|Number=Sing	24	nmod	O	start_char=1835|end_char=1839
+27	rança	ranço	ADJ	_	Gender=Fem|Number=Sing	26	amod	O	start_char=1840|end_char=1845
+28	.	.	PUNCT	_	_	16	punct	O	start_char=1845|end_char=1846
+29	.	.	PUNCT	_	_	16	punct	O	start_char=1846|end_char=1847
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-26
+# text = Em função disto os poços BA-67, 157 e 161 não p~ derão em HIPÓTESE ALGUMA sofrer intervenção..
+1	Em	em	ADP	_	_	2	case	O	start_char=1849|end_char=1851
+2	função	função	NOUN	_	Gender=Fem|Number=Sing	13	obl	O	start_char=1852|end_char=1858
+3	disto	disto	ADP	_	_	5	case	O	start_char=1859|end_char=1864
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	O	start_char=1865|end_char=1867
+5	poços	poço	NOUN	_	Gender=Masc|Number=Plur	2	nmod	B=POÇO	start_char=1868|end_char=1873
+6	BA-67	BA-67	PROPN	_	Gender=Masc|Number=Sing	5	nmod	I=POÇO	start_char=1874|end_char=1879
+7	,	,	PUNCT	_	_	8	punct	O	start_char=1879|end_char=1880
+8	157	157	NUM	_	NumType=Card	6	conj	O	start_char=1881|end_char=1884
+9	e	e	CCONJ	_	_	10	cc	O	start_char=1885|end_char=1886
+10	161	161	NUM	_	NumType=Card	6	conj	O	start_char=1887|end_char=1890
+11	não	não	ADV	_	Polarity=Neg	13	advmod	O	start_char=1891|end_char=1894
+12	p~	p~	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obj	O	start_char=1895|end_char=1897
+13	derão	derar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	O	start_char=1898|end_char=1903
+14	em	em	ADP	_	_	15	case	O	start_char=1904|end_char=1906
+15	HIPÓTESE	hipótese	NOUN	_	Gender=Fem|Number=Sing	13	obl	O	start_char=1907|end_char=1915
+16	ALGUMA	alguma	DET	_	Gender=Fem|Number=Sing|PronType=Ind	17	det	O	start_char=1916|end_char=1922
+17	sofrer	sofrer	VERB	_	VerbForm=Inf	13	advcl	O	start_char=1923|end_char=1929
+18	intervenção	intervenção	NOUN	_	Gender=Fem|Number=Sing	17	obj	O	start_char=1930|end_char=1941
+19	.	.	PUNCT	_	_	17	punct	O	start_char=1941|end_char=1942
+20	.	.	PUNCT	_	_	13	punct	O	start_char=1942|end_char=1943
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-27
+# text = l.g) Programação de sonolog..
+1	l.g	l.g	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=1945|end_char=1948
+2	)	)	PUNCT	_	_	1	punct	O	start_char=1948|end_char=1949
+3	Programação	programação	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=1950|end_char=1961
+4	de	de	ADP	_	_	5	case	O	start_char=1962|end_char=1964
+5	sonolog.	sonolog.	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=1965|end_char=1973
+6	.	.	PUNCT	_	_	3	punct	O	start_char=1973|end_char=1974
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-28
+# text = Os poços programados para sonolog são os seguintes: BA-65, 67, 104, 157, 161, 148, 149 e 53..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=1976|end_char=1978
+2	poços	poço	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	B=POÇO	start_char=1979|end_char=1984
+3	programados	programar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	O	start_char=1985|end_char=1996
+4	para	para	ADP	_	_	5	case	O	start_char=1997|end_char=2001
+5	sonolog	sonolog	NOUN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=2002|end_char=2009
+6	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	O	start_char=2010|end_char=2013
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	O	start_char=2014|end_char=2016
+8	seguintes	seguinte	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2017|end_char=2026
+9	:	:	PUNCT	_	_	10	punct	O	start_char=2026|end_char=2027
+10	BA-65	BA-65	PROPN	_	Gender=Masc|Number=Sing	8	appos	B=POÇO	start_char=2028|end_char=2033
+11	,	,	PUNCT	_	_	12	punct	O	start_char=2033|end_char=2034
+12	67	67	NUM	_	NumType=Card	10	conj	O	start_char=2035|end_char=2037
+13	,	,	PUNCT	_	_	14	punct	O	start_char=2037|end_char=2038
+14	104	104	NUM	_	NumType=Card	10	conj	O	start_char=2039|end_char=2042
+15	,	,	PUNCT	_	_	16	punct	O	start_char=2042|end_char=2043
+16	157	157	NUM	_	NumType=Card	10	conj	O	start_char=2044|end_char=2047
+17	,	,	PUNCT	_	_	18	punct	O	start_char=2047|end_char=2048
+18	161	161	NUM	_	NumType=Card	10	conj	O	start_char=2049|end_char=2052
+19	,	,	PUNCT	_	_	20	punct	O	start_char=2052|end_char=2053
+20	148	148	NUM	_	NumType=Card	10	conj	O	start_char=2054|end_char=2057
+21	,	,	PUNCT	_	_	22	punct	O	start_char=2057|end_char=2058
+22	149	149	NUM	_	NumType=Card	10	conj	O	start_char=2059|end_char=2062
+23	e	e	CCONJ	_	_	24	cc	O	start_char=2063|end_char=2064
+24	53.	53.	NUM	_	NumType=Card	10	conj	O	start_char=2065|end_char=2068
+25	.	.	PUNCT	_	_	8	punct	O	start_char=2068|end_char=2069
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-29
+# text = A frequência para o mês de março são quatro "sonologs" nos dias 7, 14, 21, e 28..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=2071|end_char=2072
+2	frequência	frequência	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	O	start_char=2073|end_char=2083
+3	para	para	ADP	_	_	5	case	O	start_char=2084|end_char=2088
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	O	start_char=2089|end_char=2090
+5	mês	mês	NOUN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=2091|end_char=2094
+6	de	de	ADP	_	_	7	case	O	start_char=2095|end_char=2097
+7	março	março	NOUN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=2098|end_char=2103
+8	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	O	start_char=2104|end_char=2107
+9	quatro	quatro	NUM	_	NumType=Card	11	nummod	O	start_char=2108|end_char=2114
+10	"	«	PUNCT	_	_	11	punct	O	start_char=2115|end_char=2116
+11	sonologs	sonolog	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2116|end_char=2124
+12	"	«	PUNCT	_	_	11	punct	O	start_char=2124|end_char=2125
+13-14	nos	_	_	_	_	_	_	O	start_char=2126|end_char=2129
+13	em	em	ADP	_	_	15	case	O	_
+14	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	O	_
+15	dias	dia	NOUN	_	Gender=Masc|Number=Plur	11	nmod	O	start_char=2130|end_char=2134
+16	7	7	NUM	_	NumType=Card	15	nummod	O	start_char=2135|end_char=2136
+17	,	,	PUNCT	_	_	18	punct	O	start_char=2136|end_char=2137
+18	14	14	NUM	_	NumType=Card	16	conj	O	start_char=2138|end_char=2140
+19	,	,	PUNCT	_	_	20	punct	O	start_char=2140|end_char=2141
+20	21	21	NUM	_	NumType=Card	16	conj	O	start_char=2142|end_char=2144
+21	,	,	PUNCT	_	_	23	punct	O	start_char=2144|end_char=2145
+22	e	e	CCONJ	_	_	23	cc	O	start_char=2146|end_char=2147
+23	28.	28.	NUM	_	NumType=Card	16	conj	O	start_char=2148|end_char=2151
+24	.	.	PUNCT	_	_	11	punct	O	start_char=2151|end_char=2152
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-30
+# text = l.h) Pastas de controles..
+1	l.h	l.h	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=2154|end_char=2157
+2	)	)	PUNCT	_	_	1	punct	O	start_char=2157|end_char=2158
+3	Pastas	pasta	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=2159|end_char=2165
+4	de	de	ADP	_	_	5	case	O	start_char=2166|end_char=2168
+5	controles	controle	NOUN	_	Gender=Masc|Number=Plur	3	nmod	O	start_char=2169|end_char=2178
+6	..	..	PUNCT	_	_	3	punct	O	start_char=2178|end_char=2180
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-31
+# text = Para controle dos resultados, cada poço possui uma "FI IA DE ACOr1P.ANHAMENTO DOS POÇOS" onde são regis - CH..tL D l.e)
+1	Para	para	ADP	_	_	2	case	O	start_char=2182|end_char=2186
+2	controle	controle	NOUN	_	Gender=Masc|Number=Sing	9	obl	O	start_char=2187|end_char=2195
+3-4	dos	_	_	_	_	_	_	O	start_char=2196|end_char=2199
+3	de	de	ADP	_	_	5	case	O	_
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	O	_
+5	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	2	nmod	O	start_char=2200|end_char=2210
+6	,	,	PUNCT	_	_	2	punct	O	start_char=2210|end_char=2211
+7	cada	cada	DET	_	Gender=Masc|Number=Sing|PronType=Tot	8	det	O	start_char=2212|end_char=2216
+8	poço	poço	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	B=POÇO	start_char=2217|end_char=2221
+9	possui	possuir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=2222|end_char=2228
+10	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	O	start_char=2229|end_char=2232
+11	"	«	PUNCT	_	_	12	punct	O	start_char=2233|end_char=2234
+12	FI	FI	PROPN	_	Gender=Fem|Number=Sing	9	obj	O	start_char=2234|end_char=2236
+13	IA	IA	PROPN	_	Number=Sing	12	flat:name	O	start_char=2237|end_char=2239
+14	DE	DE	PROPN	_	Number=Sing	12	flat:name	O	start_char=2240|end_char=2242
+15	ACOr1P.ANHAMENTO	ACOr1P.ANHAMENTO	PROPN	_	Number=Sing	12	flat:name	O	start_char=2243|end_char=2259
+16-17	DOS	_	_	_	_	_	_	O	start_char=2260|end_char=2263
+16	DE	de	ADP	_	_	12	flat:name	O	_
+17	OS	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	flat:name	O	_
+18	POÇOS	Poços	PROPN	_	Number=Sing	12	flat:name	O	start_char=2264|end_char=2269
+19	"	«	PUNCT	_	_	9	punct	O	start_char=2269|end_char=2270
+20	onde	onde	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	22	nsubj	O	start_char=2271|end_char=2275
+21	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	cop	O	start_char=2276|end_char=2279
+22	regis	regi	NOUN	_	Gender=Masc|Number=Plur	12	acl:relcl	O	start_char=2280|end_char=2285
+23	-	-	PUNCT	_	_	24	punct	O	start_char=2286|end_char=2287
+24	CH..	CH..	PROPN	_	Gender=Masc|Number=Sing	22	appos	O	start_char=2288|end_char=2292
+25	tL	tL	PROPN	_	Number=Sing	24	flat:name	O	start_char=2292|end_char=2294
+26	D	D	PROPN	_	Number=Sing	24	flat:name	O	start_char=2295|end_char=2296
+27	l.e	l.e	PROPN	_	Number=Sing	24	flat:name	O	start_char=2297|end_char=2300
+28	)	)	PUNCT	_	_	22	punct	O	start_char=2300|end_char=2301
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-32
+# text = Programação dos testes de produção..
+1	Programação	programação	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=2303|end_char=2314
+2-3	dos	_	_	_	_	_	_	O	start_char=2315|end_char=2318
+2	de	de	ADP	_	_	4	case	O	_
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	O	_
+4	testes	teste	NOUN	_	Gender=Masc|Number=Plur	1	nmod	O	start_char=2319|end_char=2325
+5	de	de	ADP	_	_	6	case	O	start_char=2326|end_char=2328
+6	produção	produção	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=2329|end_char=2337
+7	.	.	PUNCT	_	_	1	punct	O	start_char=2337|end_char=2338
+8	.	.	PUNCT	_	_	1	punct	O	start_char=2338|end_char=2339
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-33
+# text = Os poços programados para sonolog são os seguintes: BA-65, 67, 104, 157, 161, 148, 149 e 53..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=2341|end_char=2343
+2	poços	poço	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	B=POÇO	start_char=2344|end_char=2349
+3	programados	programar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	O	start_char=2350|end_char=2361
+4	para	para	ADP	_	_	5	case	O	start_char=2362|end_char=2366
+5	sonolog	sonolog	NOUN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=2367|end_char=2374
+6	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	O	start_char=2375|end_char=2378
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	O	start_char=2379|end_char=2381
+8	seguintes	seguinte	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2382|end_char=2391
+9	:	:	PUNCT	_	_	10	punct	O	start_char=2391|end_char=2392
+10	BA-65	BA-65	PROPN	_	Gender=Masc|Number=Sing	8	appos	B=POÇO	start_char=2393|end_char=2398
+11	,	,	PUNCT	_	_	12	punct	O	start_char=2398|end_char=2399
+12	67	67	NUM	_	NumType=Card	10	conj	O	start_char=2400|end_char=2402
+13	,	,	PUNCT	_	_	14	punct	O	start_char=2402|end_char=2403
+14	104	104	NUM	_	NumType=Card	10	conj	O	start_char=2404|end_char=2407
+15	,	,	PUNCT	_	_	16	punct	O	start_char=2407|end_char=2408
+16	157	157	NUM	_	NumType=Card	10	conj	O	start_char=2409|end_char=2412
+17	,	,	PUNCT	_	_	18	punct	O	start_char=2412|end_char=2413
+18	161	161	NUM	_	NumType=Card	10	conj	O	start_char=2414|end_char=2417
+19	,	,	PUNCT	_	_	20	punct	O	start_char=2417|end_char=2418
+20	148	148	NUM	_	NumType=Card	10	conj	O	start_char=2419|end_char=2422
+21	,	,	PUNCT	_	_	22	punct	O	start_char=2422|end_char=2423
+22	149	149	NUM	_	NumType=Card	10	conj	O	start_char=2424|end_char=2427
+23	e	e	CCONJ	_	_	24	cc	O	start_char=2428|end_char=2429
+24	53.	53.	NUM	_	NumType=Card	10	conj	O	start_char=2430|end_char=2433
+25	.	.	PUNCT	_	_	8	punct	O	start_char=2433|end_char=2434
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-34
+# text = A frequência para o mês de março são quatro "sonologs" nos dias 7, 14, 21, e 28..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=2436|end_char=2437
+2	frequência	frequência	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	O	start_char=2438|end_char=2448
+3	para	para	ADP	_	_	5	case	O	start_char=2449|end_char=2453
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	O	start_char=2454|end_char=2455
+5	mês	mês	NOUN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=2456|end_char=2459
+6	de	de	ADP	_	_	7	case	O	start_char=2460|end_char=2462
+7	março	março	NOUN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=2463|end_char=2468
+8	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	O	start_char=2469|end_char=2472
+9	quatro	quatro	NUM	_	NumType=Card	11	nummod	O	start_char=2473|end_char=2479
+10	"	«	PUNCT	_	_	11	punct	O	start_char=2480|end_char=2481
+11	sonologs	sonolog	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2481|end_char=2489
+12	"	«	PUNCT	_	_	11	punct	O	start_char=2489|end_char=2490
+13-14	nos	_	_	_	_	_	_	O	start_char=2491|end_char=2494
+13	em	em	ADP	_	_	15	case	O	_
+14	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	O	_
+15	dias	dia	NOUN	_	Gender=Masc|Number=Plur	11	nmod	O	start_char=2495|end_char=2499
+16	7	7	NUM	_	NumType=Card	15	nummod	O	start_char=2500|end_char=2501
+17	,	,	PUNCT	_	_	18	punct	O	start_char=2501|end_char=2502
+18	14	14	NUM	_	NumType=Card	16	conj	O	start_char=2503|end_char=2505
+19	,	,	PUNCT	_	_	20	punct	O	start_char=2505|end_char=2506
+20	21	21	NUM	_	NumType=Card	16	conj	O	start_char=2507|end_char=2509
+21	,	,	PUNCT	_	_	23	punct	O	start_char=2509|end_char=2510
+22	e	e	CCONJ	_	_	23	cc	O	start_char=2511|end_char=2512
+23	28.	28.	NUM	_	NumType=Card	16	conj	O	start_char=2513|end_char=2516
+24	.	.	PUNCT	_	_	11	punct	O	start_char=2516|end_char=2517
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-35
+# text = Para controle dos resultados, cada poço possui uma "FI IA DE ACOr1P.ANHAMENTO DOS POÇOS" onde são regis - CH..tL D trados: análise de gás, pressão de revestimento, vazão de gás no revestimento, sonolog produção BSW salinida - do e circulação de óleo quante (Kobe)..
+1	Para	para	ADP	_	_	2	case	O	start_char=2519|end_char=2523
+2	controle	controle	NOUN	_	Gender=Masc|Number=Sing	9	obl	O	start_char=2524|end_char=2532
+3-4	dos	_	_	_	_	_	_	O	start_char=2533|end_char=2536
+3	de	de	ADP	_	_	5	case	O	_
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	O	_
+5	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	2	nmod	O	start_char=2537|end_char=2547
+6	,	,	PUNCT	_	_	2	punct	O	start_char=2547|end_char=2548
+7	cada	cada	DET	_	Gender=Masc|Number=Sing|PronType=Tot	8	det	O	start_char=2549|end_char=2553
+8	poço	poço	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	B=POÇO	start_char=2554|end_char=2558
+9	possui	possuir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=2559|end_char=2565
+10	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	O	start_char=2566|end_char=2569
+11	"	«	PUNCT	_	_	12	punct	O	start_char=2570|end_char=2571
+12	FI	FI	PROPN	_	Gender=Fem|Number=Sing	9	obj	O	start_char=2571|end_char=2573
+13	IA	IA	PROPN	_	Number=Sing	12	flat:name	O	start_char=2574|end_char=2576
+14	DE	DE	PROPN	_	Number=Sing	12	flat:name	O	start_char=2577|end_char=2579
+15	ACOr1P.ANHAMENTO	ACOr1P.ANHAMENTO	PROPN	_	Number=Sing	12	flat:name	O	start_char=2580|end_char=2596
+16-17	DOS	_	_	_	_	_	_	O	start_char=2597|end_char=2600
+16	DE	de	ADP	_	_	12	flat:name	O	_
+17	OS	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	flat:name	O	_
+18	POÇOS	Poços	PROPN	_	Number=Sing	12	flat:name	O	start_char=2601|end_char=2606
+19	"	«	PUNCT	_	_	22	punct	O	start_char=2606|end_char=2607
+20	onde	onde	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	22	nsubj	O	start_char=2608|end_char=2612
+21	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	cop	O	start_char=2613|end_char=2616
+22	regis	regi	NOUN	_	Gender=Masc|Number=Plur	12	acl:relcl	O	start_char=2617|end_char=2622
+23	-	-	PUNCT	_	_	24	punct	O	start_char=2623|end_char=2624
+24	CH..	CH..	PROPN	_	Gender=Masc|Number=Sing	22	appos	O	start_char=2625|end_char=2629
+25	tL	tL	PROPN	_	Number=Sing	24	flat:name	O	start_char=2629|end_char=2631
+26	D	D	NOUN	_	Gender=Masc|Number=Sing	24	flat:name	O	start_char=2632|end_char=2633
+27	trados	trar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	24	acl	O	start_char=2634|end_char=2640
+28	:	:	PUNCT	_	_	29	punct	O	start_char=2640|end_char=2641
+29	análise	análise	NOUN	_	Gender=Fem|Number=Sing	22	appos	O	start_char=2642|end_char=2649
+30	de	de	ADP	_	_	31	case	O	start_char=2650|end_char=2652
+31	gás	gás	NOUN	_	Gender=Masc|Number=Sing	29	nmod	B=FLUIDODATERRA_i	start_char=2653|end_char=2656
+32	,	,	PUNCT	_	_	33	punct	O	start_char=2656|end_char=2657
+33	pressão	pressão	NOUN	_	Gender=Fem|Number=Sing	29	conj	O	start_char=2658|end_char=2665
+34	de	de	ADP	_	_	35	case	O	start_char=2666|end_char=2668
+35	revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	33	nmod	O	start_char=2669|end_char=2681
+36	,	,	PUNCT	_	_	37	punct	O	start_char=2681|end_char=2682
+37	vazão	vazão	NOUN	_	Gender=Fem|Number=Sing	29	conj	O	start_char=2683|end_char=2688
+38	de	de	ADP	_	_	39	case	O	start_char=2689|end_char=2691
+39	gás	gás	NOUN	_	Gender=Masc|Number=Sing	37	nmod	B=FLUIDODATERRA_i	start_char=2692|end_char=2695
+40-41	no	_	_	_	_	_	_	O	start_char=2696|end_char=2698
+40	em	em	ADP	_	_	42	case	O	_
+41	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	O	_
+42	revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	37	nmod	O	start_char=2699|end_char=2711
+43	,	,	PUNCT	_	_	45	punct	O	start_char=2711|end_char=2712
+44	sonolog	sonolog	ADJ	_	Gender=Masc|Number=Sing	45	amod	O	start_char=2713|end_char=2720
+45	produção	produção	NOUN	_	Gender=Fem|Number=Sing	29	conj	O	start_char=2721|end_char=2729
+46	BSW	BSW	PROPN	_	Gender=Fem|Number=Sing	45	nmod	O	start_char=2730|end_char=2733
+47	salinida	salinido	ADJ	_	Gender=Fem|Number=Sing	46	amod	O	start_char=2734|end_char=2742
+48	-	-	PUNCT	_	_	52	punct	O	start_char=2743|end_char=2744
+49-50	do	_	_	_	_	_	_	O	start_char=2745|end_char=2747
+49	de	de	ADP	_	_	52	case	O	_
+50	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	52	det	O	_
+51	e	e	CCONJ	_	_	52	cc	O	start_char=2748|end_char=2749
+52	circulação	circulação	NOUN	_	Gender=Fem|Number=Sing	29	conj	O	start_char=2750|end_char=2760
+53	de	de	ADP	_	_	54	case	O	start_char=2761|end_char=2763
+54	óleo	óleo	NOUN	_	Gender=Masc|Number=Sing	52	nmod	B=FLUIDODATERRA_i	start_char=2764|end_char=2768
+55	quante	quante	ADJ	_	Gender=Masc|Number=Sing	54	amod	O	start_char=2769|end_char=2775
+56	(	(	PUNCT	_	_	57	punct	O	start_char=2776|end_char=2777
+57	Kobe	Kobe	PROPN	_	Gender=Masc|Number=Sing	52	appos	O	start_char=2777|end_char=2781
+58	)	)	PUNCT	_	_	57	punct	O	start_char=2781|end_char=2782
+59	.	.	PUNCT	_	_	57	punct	O	start_char=2782|end_char=2783
+60	.	.	PUNCT	_	_	9	punct	O	start_char=2783|end_char=2784
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-36
+# text = l.i) Pasta de comunicações..
+1	l.i	l.i	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=2786|end_char=2789
+2	)	)	PUNCT	_	_	1	punct	O	start_char=2789|end_char=2790
+3	Pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=2791|end_char=2796
+4	de	de	ADP	_	_	5	case	O	start_char=2797|end_char=2799
+5	comunicações	comunicação	NOUN	_	Gender=Fem|Number=Plur	3	nmod	O	start_char=2800|end_char=2812
+6	.	.	PUNCT	_	_	3	punct	O	start_char=2812|end_char=2813
+7	.	.	PUNCT	_	_	3	punct	O	start_char=2813|end_char=2814
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-37
+# text = Esta pasta contém as comunicações internas e outras do projeto, desde o in!cio do mesmo..
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	O	start_char=2816|end_char=2820
+2	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	O	start_char=2821|end_char=2826
+3	contém	conter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=2827|end_char=2833
+4	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	O	start_char=2834|end_char=2836
+5	comunicações	comunicação	NOUN	_	Gender=Fem|Number=Plur	3	obj	O	start_char=2837|end_char=2849
+6	internas	interno	ADJ	_	Gender=Fem|Number=Plur	5	amod	O	start_char=2850|end_char=2858
+7	e	e	CCONJ	_	_	8	cc	O	start_char=2859|end_char=2860
+8	outras	outro	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	5	conj	O	start_char=2861|end_char=2867
+9-10	do	_	_	_	_	_	_	O	start_char=2868|end_char=2870
+9	de	de	ADP	_	_	11	case	O	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	_
+11	projeto	projeto	NOUN	_	Gender=Masc|Number=Sing	8	nmod	O	start_char=2871|end_char=2878
+12	,	,	PUNCT	_	_	3	punct	O	start_char=2878|end_char=2879
+13	desde	desde	ADP	_	_	15	case	O	start_char=2880|end_char=2885
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	start_char=2886|end_char=2887
+15	in!cio	in!cio	NOUN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=2888|end_char=2894
+16-17	do	_	_	_	_	_	_	O	start_char=2895|end_char=2897
+16	de	de	ADP	_	_	18	case	O	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	O	_
+18	mesmo	mesmo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	15	nmod	O	start_char=2898|end_char=2903
+19	.	.	PUNCT	_	_	3	punct	O	start_char=2903|end_char=2904
+20	.	.	PUNCT	_	_	3	punct	O	start_char=2904|end_char=2905
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-38
+# text = l.j) Pasta do boletim diário de acompanhamento..
+1	l.j	l.j	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=2907|end_char=2910
+2	)	)	PUNCT	_	_	1	punct	O	start_char=2910|end_char=2911
+3	Pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=2912|end_char=2917
+4-5	do	_	_	_	_	_	_	O	start_char=2918|end_char=2920
+4	de	de	ADP	_	_	6	case	O	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	O	_
+6	boletim	boletim	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=2921|end_char=2928
+7	diário	diário	ADJ	_	Gender=Masc|Number=Sing	6	amod	O	start_char=2929|end_char=2935
+8	de	de	ADP	_	_	9	case	O	start_char=2936|end_char=2938
+9	acompanhamento	acompanhamento	NOUN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=2939|end_char=2953
+10	.	.	PUNCT	_	_	3	punct	O	start_char=2953|end_char=2954
+11	.	.	PUNCT	_	_	3	punct	O	start_char=2954|end_char=2955
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-39
+# text = 'Esta pasta contém as cópias das informações diárias en viadas para a DIRPRO/SEROL..
+1	'	'	PUNCT	_	_	4	punct	O	start_char=2957|end_char=2958
+2	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	O	start_char=2958|end_char=2962
+3	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	O	start_char=2963|end_char=2968
+4	contém	conter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=2969|end_char=2975
+5	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	O	start_char=2976|end_char=2978
+6	cópias	cópia	NOUN	_	Gender=Fem|Number=Plur	4	obj	O	start_char=2979|end_char=2985
+7-8	das	_	_	_	_	_	_	O	start_char=2986|end_char=2989
+7	de	de	ADP	_	_	9	case	O	_
+8	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	O	_
+9	informações	informação	NOUN	_	Gender=Fem|Number=Plur	6	nmod	O	start_char=2990|end_char=3001
+10	diárias	diária	ADJ	_	Gender=Fem|Number=Plur	9	amod	O	start_char=3002|end_char=3009
+11	en	en	X	_	_	9	nmod	O	start_char=3010|end_char=3012
+12	viadas	viar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	9	acl	O	start_char=3013|end_char=3019
+13	para	para	ADP	_	_	15	case	O	start_char=3020|end_char=3024
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	O	start_char=3025|end_char=3026
+15	DIRPRO/SEROL	DIRPRO/SEROL	PROPN	_	Gender=Fem|Number=Sing	12	obl	O	start_char=3027|end_char=3039
+16	.	.	PUNCT	_	_	4	punct	O	start_char=3039|end_char=3040
+17	.	.	PUNCT	_	_	4	punct	O	start_char=3040|end_char=3041
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-40
+# text = 1.1) Visitas programadas..
+1	1.1	1.1	NUM	_	NumType=Card	3	nummod	O	start_char=3043|end_char=3046
+2	)	)	PUNCT	_	_	1	punct	O	start_char=3046|end_char=3047
+3	Visitas	visita	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=3048|end_char=3055
+4	programadas	programar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	3	acl	O	start_char=3056|end_char=3067
+5	..	..	PUNCT	_	_	3	punct	O	start_char=3067|end_char=3069
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-41
+# text = No próximo dia 26/03 está previsto a vinda ao campo do coordenador do projeto o EngQ Danilo e o consultor técni co do projeto o Mr. Moss, para verificação da situação atual..
+1-2	No	_	_	_	_	_	_	O	start_char=3071|end_char=3073
+1	Em	em	ADP	_	_	4	case	O	_
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	O	_
+3	próximo	próximo	ADJ	_	Gender=Masc|Number=Sing	4	amod	O	start_char=3074|end_char=3081
+4	dia	dia	NOUN	_	Gender=Masc|Number=Sing	7	obl	O	start_char=3082|end_char=3085
+5	26/03	26/03	NUM	_	NumType=Card	4	nummod	O	start_char=3086|end_char=3091
+6	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	O	start_char=3092|end_char=3096
+7	previsto	previsto	ADJ	_	Gender=Masc|Number=Sing	0	root	O	start_char=3097|end_char=3105
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	O	start_char=3106|end_char=3107
+9	vinda	vinda	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	O	start_char=3108|end_char=3113
+10-11	ao	_	_	_	_	_	_	O	start_char=3114|end_char=3116
+10	a	a	ADP	_	_	12	case	O	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	O	_
+12	campo	campo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	O	start_char=3117|end_char=3122
+13-14	do	_	_	_	_	_	_	O	start_char=3123|end_char=3125
+13	de	de	ADP	_	_	15	case	O	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	_
+15	coordenador	coordenador	NOUN	_	Gender=Masc|Number=Sing	12	nmod	O	start_char=3126|end_char=3137
+16-17	do	_	_	_	_	_	_	O	start_char=3138|end_char=3140
+16	de	de	ADP	_	_	18	case	O	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	O	_
+18	projeto	projeto	NOUN	_	Gender=Masc|Number=Sing	15	nmod	O	start_char=3141|end_char=3148
+19	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	O	start_char=3149|end_char=3150
+20	EngQ	EngQ	PROPN	_	Gender=Masc|Number=Sing	15	nmod	O	start_char=3151|end_char=3155
+21	Danilo	Danilo	PROPN	_	Number=Sing	20	flat:name	O	start_char=3156|end_char=3162
+22	e	e	CCONJ	_	_	24	cc	O	start_char=3163|end_char=3164
+23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	O	start_char=3165|end_char=3166
+24	consultor	consultor	NOUN	_	Gender=Masc|Number=Sing	9	conj	O	start_char=3167|end_char=3176
+25	técni	técni	ADJ	_	Gender=Masc|Number=Sing	24	amod	O	start_char=3177|end_char=3182
+26	co	co	X	_	_	24	nmod	O	start_char=3183|end_char=3185
+27-28	do	_	_	_	_	_	_	O	start_char=3186|end_char=3188
+27	de	de	ADP	_	_	29	case	O	_
+28	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	O	_
+29	projeto	projeto	NOUN	_	Gender=Masc|Number=Sing	24	nmod	O	start_char=3189|end_char=3196
+30	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	O	start_char=3197|end_char=3198
+31	Mr.	Mr.	PROPN	_	Gender=Masc|Number=Sing	24	nmod	O	start_char=3199|end_char=3202
+32	Moss	Moss	PROPN	_	Number=Sing	31	flat:name	O	start_char=3203|end_char=3207
+33	,	,	PUNCT	_	_	35	punct	O	start_char=3207|end_char=3208
+34	para	para	ADP	_	_	35	case	O	start_char=3209|end_char=3213
+35	verificação	verificação	NOUN	_	Gender=Fem|Number=Sing	7	obl	O	start_char=3214|end_char=3225
+36-37	da	_	_	_	_	_	_	O	start_char=3226|end_char=3228
+36	de	de	ADP	_	_	38	case	O	_
+37	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	O	_
+38	situação	situação	NOUN	_	Gender=Fem|Number=Sing	35	nmod	O	start_char=3229|end_char=3237
+39	atual	atual	ADJ	_	Gender=Fem|Number=Sing	38	amod	O	start_char=3238|end_char=3243
+40	.	.	PUNCT	_	_	31	punct	O	start_char=3243|end_char=3244
+41	.	.	PUNCT	_	_	7	punct	O	start_char=3244|end_char=3245
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-42
+# text = l.m) Equipe de acompanhamento..
+1	l.m	l.m	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=3247|end_char=3250
+2	)	)	PUNCT	_	_	1	punct	O	start_char=3250|end_char=3251
+3	Equipe	equipe	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=3252|end_char=3258
+4	de	de	ADP	_	_	5	case	O	start_char=3259|end_char=3261
+5	acompanhamento	acompanhamento	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=3262|end_char=3276
+6	.	.	PUNCT	_	_	3	punct	O	start_char=3276|end_char=3277
+7	.	.	PUNCT	_	_	3	punct	O	start_char=3277|end_char=3278
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-43
+# text = Sugerimo s que o campo consiga um engenheiro para acompa nhar o projeto, uma vez que os poços vizinhos a área pi loto poderão sofrer influência da frente de combustão..
+1	Sugerimo	Sugerimo	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	O	start_char=3280|end_char=3288
+2	s	s	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=3289|end_char=3290
+3	que	que	SCONJ	_	_	6	mark	O	start_char=3291|end_char=3294
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	O	start_char=3295|end_char=3296
+5	campo	campo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	B=CAMPO	start_char=3297|end_char=3302
+6	consiga	conseguir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	O	start_char=3303|end_char=3310
+7	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	O	start_char=3311|end_char=3313
+8	engenheiro	engenheiro	NOUN	_	Gender=Masc|Number=Sing	6	obj	O	start_char=3314|end_char=3324
+9	para	para	SCONJ	_	_	11	mark	O	start_char=3325|end_char=3329
+10	acompa	acompa	ADV	_	_	11	advmod	O	start_char=3330|end_char=3336
+11	nhar	nhar	VERB	_	VerbForm=Inf	6	advcl	O	start_char=3337|end_char=3341
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	O	start_char=3342|end_char=3343
+13	projeto	projeto	NOUN	_	Gender=Masc|Number=Sing	11	obj	O	start_char=3344|end_char=3351
+14	,	,	PUNCT	_	_	11	punct	O	start_char=3351|end_char=3352
+15	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	mark	O	start_char=3353|end_char=3356
+16	vez	vez	NOUN	_	Gender=Fem|Number=Sing	15	fixed	O	start_char=3357|end_char=3360
+17	que	que	SCONJ	_	_	15	fixed	O	start_char=3361|end_char=3364
+18	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	O	start_char=3365|end_char=3367
+19	poços	poço	NOUN	_	Gender=Masc|Number=Plur	25	nsubj	B=POÇO	start_char=3368|end_char=3373
+20	vizinhos	vizinho	ADJ	_	Gender=Masc|Number=Plur	19	amod	O	start_char=3374|end_char=3382
+21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	O	start_char=3383|end_char=3384
+22	área	área	NOUN	_	Gender=Fem|Number=Sing	19	nmod	O	start_char=3385|end_char=3389
+23	pi	pi	ADP	_	_	24	case	O	start_char=3390|end_char=3392
+24	loto	loto	NOUN	_	Gender=Masc|Number=Sing	22	nmod	O	start_char=3393|end_char=3397
+25	poderão	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	6	advcl	O	start_char=3398|end_char=3405
+26	sofrer	sofrer	VERB	_	VerbForm=Inf	25	xcomp	O	start_char=3406|end_char=3412
+27	influência	influência	NOUN	_	Gender=Fem|Number=Sing	26	obj	O	start_char=3413|end_char=3423
+28-29	da	_	_	_	_	_	_	O	start_char=3424|end_char=3426
+28	de	de	ADP	_	_	30	case	O	_
+29	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	O	_
+30	frente	frente	NOUN	_	Gender=Fem|Number=Sing	27	nmod	O	start_char=3427|end_char=3433
+31	de	de	ADP	_	_	32	case	O	start_char=3434|end_char=3436
+32	combustão	combustão	NOUN	_	Gender=Fem|Number=Sing	30	nmod	O	start_char=3437|end_char=3446
+33	.	.	PUNCT	_	_	25	punct	O	start_char=3446|end_char=3447
+34	.	.	PUNCT	_	_	2	punct	O	start_char=3447|end_char=3448
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-44
+# text = 2.0) Situação operacional do projeto..
+1	2.0	2.0	NUM	_	NumType=Card	3	nummod	O	start_char=3450|end_char=3453
+2	)	)	PUNCT	_	_	1	punct	O	start_char=3453|end_char=3454
+3	Situação	situação	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=3455|end_char=3463
+4	operacional	operacional	ADJ	_	Gender=Fem|Number=Sing	3	amod	O	start_char=3464|end_char=3475
+5-6	do	_	_	_	_	_	_	O	start_char=3476|end_char=3478
+5	de	de	ADP	_	_	7	case	O	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	O	_
+7	projeto	projeto	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=3479|end_char=3486
+8	.	.	PUNCT	_	_	3	punct	O	start_char=3486|end_char=3487
+9	.	.	PUNCT	_	_	3	punct	O	start_char=3487|end_char=3488
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-45
+# text = 2.a)
+1	2.a	2.a	NUM	_	NumType=Card	0	root	O	start_char=3490|end_char=3493
+2	)	)	PUNCT	_	_	1	punct	O	start_char=3493|end_char=3494
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-46
+# text = Estação de compressores -
+1	Estação	Estação	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=3496|end_char=3503
+2	de	de	ADP	_	_	3	case	O	start_char=3504|end_char=3506
+3	compressores	compressor	NOUN	_	Gender=Masc|Number=Plur	1	nmod	O	start_char=3507|end_char=3519
+4	-	-	PUNCT	_	_	1	punct	O	start_char=3520|end_char=3521
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-47
+# text = Compressor nQ 1 - Está dispon!vel p/operar, no entanto está apresentando problemas de alta temperatura no 4Q estAgio..
+1	Compressor	compressor	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	O	start_char=3523|end_char=3533
+2	nQ	nQ	PROPN	_	Number=Sing	1	flat:name	O	start_char=3534|end_char=3536
+3	1	1	PROPN	_	Number=Sing	1	flat:name	O	start_char=3537|end_char=3538
+4	-	-	PUNCT	_	_	1	punct	O	start_char=3539|end_char=3540
+5	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	O	start_char=3541|end_char=3545
+6	dispon	dispon	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3546|end_char=3552
+7	!vel	!vel	NOUN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=3552|end_char=3556
+8	p/operar	p/operar	VERB	_	VerbForm=Inf	6	acl	O	start_char=3557|end_char=3565
+9	,	,	PUNCT	_	_	8	punct	O	start_char=3565|end_char=3566
+10-11	no	_	_	_	_	_	_	O	start_char=3567|end_char=3569
+10	em	em	ADP	_	_	14	cc	O	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	O	_
+12	entanto	entanto	NOUN	_	Gender=Masc|Number=Sing	10	fixed	O	start_char=3570|end_char=3577
+13	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	O	start_char=3578|end_char=3582
+14	apresentando	apresentar	VERB	_	VerbForm=Ger	8	ccomp	O	start_char=3583|end_char=3595
+15	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	14	obj	O	start_char=3596|end_char=3605
+16	de	de	ADP	_	_	18	case	O	start_char=3606|end_char=3608
+17	alta	alto	ADJ	_	Gender=Fem|Number=Sing	18	amod	O	start_char=3609|end_char=3613
+18	temperatura	temperatura	NOUN	_	Gender=Fem|Number=Sing	15	nmod	O	start_char=3614|end_char=3625
+19-20	no	_	_	_	_	_	_	O	start_char=3626|end_char=3628
+19	em	em	ADP	_	_	22	case	O	_
+20	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	O	_
+21	4Q	4q	NUM	_	NumType=Card	22	nummod	O	start_char=3629|end_char=3631
+22	estAgio	estAgio	NOUN	_	Gender=Masc|Number=Sing	14	obl	O	start_char=3632|end_char=3639
+23	.	.	PUNCT	_	_	14	punct	O	start_char=3639|end_char=3640
+24	.	.	PUNCT	_	_	6	punct	O	start_char=3640|end_char=3641
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-48
+# text = Fornece uma vazão de gás de ~ .00Qm3/d (Nominal - 15.000m3/d)..
+1	Fornece	fornecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=3643|end_char=3650
+2	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=3651|end_char=3654
+3	vazão	vazão	NOUN	_	Gender=Fem|Number=Sing	1	obj	O	start_char=3655|end_char=3660
+4	de	de	ADP	_	_	5	case	O	start_char=3661|end_char=3663
+5	gás	gás	NOUN	_	Gender=Masc|Number=Sing	3	nmod	B=FLUIDODATERRA_i	start_char=3664|end_char=3667
+6	de	de	ADP	_	_	8	case	O	start_char=3668|end_char=3670
+7	~	~	PUNCT	_	_	8	punct	O	start_char=3671|end_char=3672
+8	.00Qm3/d	.00Qm3/d	PROPN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=3673|end_char=3681
+9	(	(	PUNCT	_	_	10	punct	O	start_char=3682|end_char=3683
+10	Nominal	Nominal	PROPN	_	Gender=Masc|Number=Sing	1	parataxis	O	start_char=3683|end_char=3690
+11	-	-	PUNCT	_	_	10	flat:name	O	start_char=3691|end_char=3692
+12	15.000m3/d	15.000m3/d	NUM	_	NumType=Card	10	flat:name	O	start_char=3693|end_char=3703
+13	)	)	PUNCT	_	_	10	punct	O	start_char=3703|end_char=3704
+14	.	.	PUNCT	_	_	1	punct	O	start_char=3704|end_char=3705
+15	.	.	PUNCT	_	_	1	punct	O	start_char=3705|end_char=3706
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-49
+# text = Um técnico da Demag está acompanhando este problema • -
+1	Um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=3708|end_char=3710
+2	técnico	técnico	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	O	start_char=3711|end_char=3718
+3-4	da	_	_	_	_	_	_	O	start_char=3719|end_char=3721
+3	de	de	ADP	_	_	5	case	O	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	O	_
+5	Demag	Demag	PROPN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=3722|end_char=3727
+6	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	O	start_char=3728|end_char=3732
+7	acompanhando	acompanhar	VERB	_	VerbForm=Ger	0	root	O	start_char=3733|end_char=3745
+8	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	O	start_char=3746|end_char=3750
+9	problema	problema	NOUN	_	Gender=Masc|Number=Sing	7	obj	O	start_char=3751|end_char=3759
+10	•	•	PUNCT	_	_	7	punct	O	start_char=3760|end_char=3761
+11	-	-	PUNCT	_	_	7	punct	O	start_char=3762|end_char=3763
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-50
+# text = Compressor nQ 2 - Está dispon!vel p/operar e normal..
+1	Compressor	compressor	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	O	start_char=3765|end_char=3775
+2	nQ	nQ	PROPN	_	Number=Sing	1	flat:name	O	start_char=3776|end_char=3778
+3	2	2	PROPN	_	Number=Sing	1	flat:name	O	start_char=3779|end_char=3780
+4	-	-	PUNCT	_	_	1	flat:name	O	start_char=3781|end_char=3782
+5	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	O	start_char=3783|end_char=3787
+6	dispon	dispon	X	_	_	0	root	O	start_char=3788|end_char=3794
+7	!vel	!vel	X	_	_	6	flat:foreign	O	start_char=3794|end_char=3798
+8	p/operar	p/operar	ADJ	_	Gender=Masc|Number=Sing	6	amod	O	start_char=3799|end_char=3807
+9	e	e	CCONJ	_	_	10	cc	O	start_char=3808|end_char=3809
+10	normal	normal	ADJ	_	Gender=Masc|Number=Sing	8	conj	O	start_char=3810|end_char=3816
+11	.	.	PUNCT	_	_	6	punct	O	start_char=3816|end_char=3817
+12	.	.	PUNCT	_	_	6	punct	O	start_char=3817|end_char=3818
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-51
+# text = Fornece uma vazão de ~ .500m3/d..
+1	Fornece	fornecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=3820|end_char=3827
+2	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=3828|end_char=3831
+3	vazão	vazão	NOUN	_	Gender=Fem|Number=Sing	1	obj	O	start_char=3832|end_char=3837
+4	de	de	ADP	_	_	6	case	O	start_char=3838|end_char=3840
+5	~	~	PUNCT	_	_	6	punct	O	start_char=3841|end_char=3842
+6	.500m3	.500m3	NUM	_	NumType=Card	3	nummod	O	start_char=3843|end_char=3849
+7	/d..	/d..	PUNCT	_	_	1	punct	O	start_char=3849|end_char=3853
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-52
+# text = - Compressor nº 3 - Está em fase de montagem c/o SECONS..
+1	-	-	PUNCT	_	_	2	punct	O	start_char=3855|end_char=3856
+2	Compressor	Compressor	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3857|end_char=3867
+3	nº	nº	NOUN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=3868|end_char=3870
+4	3	3	NUM	_	NumType=Card	2	flat:name	O	start_char=3871|end_char=3872
+5	-	-	PUNCT	_	_	8	punct	O	start_char=3873|end_char=3874
+6	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	O	start_char=3875|end_char=3879
+7	em	em	ADP	_	_	8	case	O	start_char=3880|end_char=3882
+8	fase	fase	NOUN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=3883|end_char=3887
+9	de	de	ADP	_	_	10	case	O	start_char=3888|end_char=3890
+10	montagem	montagem	NOUN	_	Gender=Fem|Number=Sing	8	nmod	O	start_char=3891|end_char=3899
+11	c/o	c/o	ADP	_	_	12	case	O	start_char=3900|end_char=3903
+12	SECONS	Secons	PROPN	_	Gender=Masc|Number=Sing	10	nmod	O	start_char=3904|end_char=3910
+13	.	.	PUNCT	_	_	8	punct	O	start_char=3910|end_char=3911
+14	.	.	PUNCT	_	_	2	punct	O	start_char=3911|end_char=3912
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-53
+# text = 2.b)
+1	2.b	2.b	NUM	_	NumType=Card	0	root	O	start_char=3914|end_char=3917
+2	)	)	PUNCT	_	_	1	punct	O	start_char=3917|end_char=3918
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-54
+# text = Bombas de água..
+1	Bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=3920|end_char=3926
+2	de	de	ADP	_	_	3	case	O	start_char=3927|end_char=3929
+3	água.	água.	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=3930|end_char=3935
+4	.	.	PUNCT	_	_	1	punct	O	start_char=3935|end_char=3936
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-55
+# text = Está apenas c/a base pronta..
+1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	O	start_char=3938|end_char=3942
+2	apenas	apenas	ADV	_	_	4	advmod	O	start_char=3943|end_char=3949
+3	c/a	c/a	ADP	_	_	4	case	O	start_char=3950|end_char=3953
+4	base	base	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=3954|end_char=3958
+5	pronta	pronto	ADJ	_	Gender=Fem|Number=Sing	4	amod	O	start_char=3959|end_char=3965
+6	.	.	PUNCT	_	_	4	punct	O	start_char=3965|end_char=3966
+7	.	.	PUNCT	_	_	4	punct	O	start_char=3966|end_char=3967
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-56
+# text = As bombas nao se encontram no local, painel
+1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	O	start_char=3969|end_char=3971
+2	bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	O	start_char=3972|end_char=3978
+3	nao	nao	ADV	_	_	5	advmod	O	start_char=3979|end_char=3982
+4	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	expl	O	start_char=3983|end_char=3985
+5	encontram	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=3986|end_char=3995
+6-7	no	_	_	_	_	_	_	O	start_char=3996|end_char=3998
+6	em	em	ADP	_	_	8	case	O	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	_
+8	local	local	NOUN	_	Gender=Masc|Number=Sing	5	obl	O	start_char=3999|end_char=4004
+9	,	,	PUNCT	_	_	10	punct	O	start_char=4004|end_char=4005
+10	painel	painel	NOUN	_	Gender=Masc|Number=Sing	8	appos	O	start_char=4006|end_char=4012
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-57
+# text = Ja esta proa - .# # to. 2.c)
+1	Ja	jar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	O	start_char=4014|end_char=4016
+2	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	O	start_char=4017|end_char=4021
+3	proa	proa	NOUN	_	Gender=Fem|Number=Sing	1	obj	O	start_char=4022|end_char=4026
+4	-	-	PUNCT	_	_	5	punct	O	start_char=4027|end_char=4028
+5	.#	.#	NOUN	_	Gender=Masc|Number=Sing	3	appos	O	start_char=4029|end_char=4031
+6	#	#	PUNCT	_	_	7	punct	O	start_char=4032|end_char=4033
+7	to.	to.	NOUN	_	Gender=Masc|Number=Sing	5	flat:foreign	O	start_char=4034|end_char=4037
+8	2.c	2.c	NUM	_	NumType=Card	7	nummod	O	start_char=4038|end_char=4041
+9	)	)	PUNCT	_	_	5	punct	O	start_char=4041|end_char=4042
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-58
+# text = Foxboro
+1	Foxboro	Foxboro	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4044|end_char=4051
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-59
+# text = Está operando normal sem problemas de condensado após a mudança de posição da válvula Daniel..
+1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	O	start_char=4053|end_char=4057
+2	operando	operar	VERB	_	VerbForm=Ger	0	root	O	start_char=4058|end_char=4066
+3	normal	normal	ADJ	_	Gender=Masc|Number=Sing	2	xcomp	O	start_char=4067|end_char=4073
+4	sem	sem	ADP	_	_	5	case	O	start_char=4074|end_char=4077
+5	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	2	obl	O	start_char=4078|end_char=4087
+6	de	de	ADP	_	_	7	case	O	start_char=4088|end_char=4090
+7	condensado	condensado	NOUN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=4091|end_char=4101
+8	após	após	ADP	_	_	10	case	O	start_char=4102|end_char=4106
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	O	start_char=4107|end_char=4108
+10	mudança	mudança	NOUN	_	Gender=Fem|Number=Sing	2	obl	O	start_char=4109|end_char=4116
+11	de	de	ADP	_	_	12	case	O	start_char=4117|end_char=4119
+12	posição	posição	NOUN	_	Gender=Fem|Number=Sing	10	nmod	O	start_char=4120|end_char=4127
+13-14	da	_	_	_	_	_	_	O	start_char=4128|end_char=4130
+13	de	de	ADP	_	_	15	case	O	_
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	O	_
+15	válvula	válvula	NOUN	_	Gender=Fem|Number=Sing	12	nmod	O	start_char=4131|end_char=4138
+16	Daniel	Daniel	PROPN	_	Gender=Fem|Number=Sing	15	nmod	O	start_char=4139|end_char=4145
+17	.	.	PUNCT	_	_	2	punct	O	start_char=4145|end_char=4146
+18	.	.	PUNCT	_	_	2	punct	O	start_char=4146|end_char=4147
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-60
+# text = 4.0) Poços observadores..
+1	4.0	4.0	NUM	_	NumType=Card	3	nummod	O	start_char=4149|end_char=4152
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4152|end_char=4153
+3	Poços	poço	NOUN	_	Gender=Masc|Number=Plur	0	root	B=POÇO	start_char=4154|end_char=4159
+4	observadores	observador	ADJ	_	Gender=Masc|Number=Plur	3	amod	O	start_char=4160|end_char=4172
+5	.	.	PUNCT	_	_	3	punct	O	start_char=4172|end_char=4173
+6	.	.	PUNCT	_	_	3	punct	O	start_char=4173|end_char=4174
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-61
+# text = 4.a) Poço BA-l6l - Este poço, atualmente está equipado para produção..
+1	4.a	4.a	NUM	_	NumType=Card	3	parataxis	O	start_char=4176|end_char=4179
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4179|end_char=4180
+3	Poço	Poço	PROPN	_	Gender=Masc|Number=Sing	0	root	B=POÇO	start_char=4181|end_char=4185
+4	BA-l6l	BA-l6l	PROPN	_	Gender=Masc|Number=Sing	3	nmod	I=POÇO	start_char=4186|end_char=4192
+5	-	-	PUNCT	_	_	7	punct	O	start_char=4193|end_char=4194
+6	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	O	start_char=4195|end_char=4199
+7	poço	poço	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	B=POÇO	start_char=4200|end_char=4204
+8	,	,	PUNCT	_	_	11	punct	O	start_char=4204|end_char=4205
+9	atualmente	atualmente	ADV	_	_	11	advmod	O	start_char=4206|end_char=4216
+10	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	O	start_char=4217|end_char=4221
+11	equipado	equipar	ADJ	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=4222|end_char=4230
+12	para	para	ADP	_	_	13	case	O	start_char=4231|end_char=4235
+13	produção	produção	NOUN	_	Gender=Fem|Number=Sing	11	obl	O	start_char=4236|end_char=4244
+14	.	.	PUNCT	_	_	11	punct	O	start_char=4244|end_char=4245
+15	.	.	PUNCT	_	_	3	punct	O	start_char=4245|end_char=4246
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-62
+# text = 4.b)
+1	4.b	4.b	NUM	_	NumType=Card	0	root	O	start_char=4248|end_char=4251
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4251|end_char=4252
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-63
+# text = Poço BA-160..
+1	Poço	poço	NOUN	_	Gender=Masc|Number=Sing	0	root	B=POÇO	start_char=4254|end_char=4258
+2	BA-160	BA-160	PROPN	_	Gender=Masc|Number=Sing	1	nmod	I=POÇO	start_char=4259|end_char=4265
+3	.	.	PUNCT	_	_	1	punct	O	start_char=4265|end_char=4266
+4	.	.	PUNCT	_	_	1	punct	O	start_char=4266|end_char=4267
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-64
+# text = Este poço continua funcionando como observ~ dor mas está..
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	O	start_char=4269|end_char=4273
+2	poço	poço	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	B=POÇO	start_char=4274|end_char=4278
+3	continua	continuar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=4279|end_char=4287
+4	funcionando	funcionar	VERB	_	VerbForm=Ger	3	advcl	O	start_char=4288|end_char=4299
+5	como	como	ADP	_	_	6	mark	O	start_char=4300|end_char=4304
+6	observ~	observar	VERB	_	VerbForm=Inf	4	xcomp	O	start_char=4305|end_char=4312
+7	dor	dor	NOUN	_	Gender=Fem|Number=Sing	6	obj	O	start_char=4313|end_char=4316
+8	mas	mas	CCONJ	_	_	6	cc	O	start_char=4317|end_char=4320
+9	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	O	start_char=4321|end_char=4325
+10	.	.	PUNCT	_	_	6	punct	O	start_char=4325|end_char=4326
+11	.	.	PUNCT	_	_	3	punct	O	start_char=4326|end_char=4327
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-65
+# text = aguardando uma SPl'..
+1	aguardando	aguardar	VERB	_	VerbForm=Ger	0	root	O	start_char=4329|end_char=4339
+2	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=4340|end_char=4343
+3	SPl'.	SPl'.	PROPN	_	Gender=Fem|Number=Sing	1	obj	O	start_char=4344|end_char=4349
+4	.	.	PUNCT	_	_	1	punct	O	start_char=4349|end_char=4350
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-66
+# text = Antes da ida da SPI' s~ rá retirado o termopar do poço, para ser completado p/pr~ dução..
+1	Antes	antes	ADV	_	_	11	advmod	O	start_char=4352|end_char=4357
+2-3	da	_	_	_	_	_	_	O	start_char=4358|end_char=4360
+2	de	de	ADP	_	_	4	case	O	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	_
+4	ida	ida	NOUN	_	Gender=Fem|Number=Sing	1	obl	O	start_char=4361|end_char=4364
+5-6	da	_	_	_	_	_	_	O	start_char=4365|end_char=4367
+5	de	de	ADP	_	_	7	case	O	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	O	_
+7	SPI	SPI	PROPN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=4368|end_char=4371
+8	'	'	PUNCT	_	_	1	punct	O	start_char=4371|end_char=4372
+9	s~	s~	PUNCT	_	_	11	punct	O	start_char=4373|end_char=4375
+10	rá	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	O	start_char=4376|end_char=4378
+11	retirado	retirar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	O	start_char=4379|end_char=4387
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	O	start_char=4388|end_char=4389
+13	termopar	termopar	NOUN	_	Gender=Masc|Number=Sing	11	obj	O	start_char=4390|end_char=4398
+14-15	do	_	_	_	_	_	_	O	start_char=4399|end_char=4401
+14	de	de	ADP	_	_	16	case	O	_
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	O	_
+16	poço	poço	NOUN	_	Gender=Masc|Number=Sing	13	nmod	B=POÇO	start_char=4402|end_char=4406
+17	,	,	PUNCT	_	_	20	punct	O	start_char=4406|end_char=4407
+18	para	para	SCONJ	_	_	20	mark	O	start_char=4408|end_char=4412
+19	ser	ser	AUX	_	VerbForm=Inf	20	aux:pass	O	start_char=4413|end_char=4416
+20	completado	completar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	11	advcl	O	start_char=4417|end_char=4427
+21	p/pr~	p/pr~	ADP	_	_	22	case	O	start_char=4428|end_char=4433
+22	dução	dução	NOUN	_	Gender=Fem|Number=Sing	20	obl:arg	O	start_char=4434|end_char=4439
+23	.	.	PUNCT	_	_	11	punct	O	start_char=4439|end_char=4440
+24	.	.	PUNCT	_	_	11	punct	O	start_char=4440|end_char=4441
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-67
+# text = Esta conversão será necessário os seguintes serviços: b.l)
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	O	start_char=4443|end_char=4447
+2	conversão	conversão	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	O	start_char=4448|end_char=4457
+3	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	O	start_char=4458|end_char=4462
+4	necessário	necessário	ADJ	_	Gender=Fem|Number=Sing	0	root	O	start_char=4463|end_char=4473
+5	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	O	start_char=4474|end_char=4476
+6	seguintes	seguinte	ADJ	_	Gender=Masc|Number=Plur	7	amod	O	start_char=4477|end_char=4486
+7	serviços	serviço	NOUN	_	Gender=Masc|Number=Plur	4	obl	O	start_char=4487|end_char=4495
+8	:	:	PUNCT	_	_	9	punct	O	start_char=4495|end_char=4496
+9	b.l	b.l	NOUN	_	Gender=Masc|Number=Sing	7	appos	O	start_char=4497|end_char=4500
+10	)	)	PUNCT	_	_	9	punct	O	start_char=4500|end_char=4501
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-68
+# text = Linha de produção que será entroncada no BA-65..
+1	Linha	Linha	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=4503|end_char=4508
+2	de	de	ADP	_	_	3	case	O	start_char=4509|end_char=4511
+3	produção	produção	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=4512|end_char=4520
+4	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	6	nsubj:pass	O	start_char=4521|end_char=4524
+5	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	aux:pass	O	start_char=4525|end_char=4529
+6	entroncada	entroncar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	1	acl:relcl	O	start_char=4530|end_char=4540
+7-8	no	_	_	_	_	_	_	O	start_char=4541|end_char=4543
+7	em	em	ADP	_	_	9	case	O	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	_
+9	BA-65	BA-65	PROPN	_	Gender=Masc|Number=Sing	6	obl	O	start_char=4544|end_char=4549
+10	.	.	PUNCT	_	_	1	punct	O	start_char=4549|end_char=4550
+11	.	.	PUNCT	_	_	1	punct	O	start_char=4550|end_char=4551
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-69
+# text = b.2) Rede elétrica..
+1	b.2	b.2	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=4553|end_char=4556
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4556|end_char=4557
+3	Rede	Rede	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=4558|end_char=4562
+4	elétrica.	elétrica.	ADJ	_	Gender=Fem|Number=Sing	3	amod	O	start_char=4563|end_char=4572
+5	.	.	PUNCT	_	_	3	punct	O	start_char=4572|end_char=4573
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-70
+# text = b.3) Motor el~trico..
+1	b.3	b.3	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=4575|end_char=4578
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4578|end_char=4579
+3	Motor	motor	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4580|end_char=4585
+4	el~trico.	el~trico.	ADJ	_	Gender=Masc|Number=Sing	3	amod	O	start_char=4586|end_char=4595
+5	.	.	PUNCT	_	_	3	punct	O	start_char=4595|end_char=4596
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-71
+# text = ').4) Qua<1l'o elétrico..
+1	'	'	PUNCT	_	_	3	punct	O	start_char=4598|end_char=4599
+2	)	)	PUNCT	_	_	3	punct	O	start_char=4599|end_char=4600
+3	.4	.4	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4600|end_char=4602
+4	)	)	PUNCT	_	_	3	punct	O	start_char=4602|end_char=4603
+5	Qua	qua	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=4604|end_char=4607
+6	<1l'o	<1l'o	NOUN	_	Gender=Masc|Number=Sing	5	flat:foreign	O	start_char=4607|end_char=4612
+7	elétrico	elétrico	ADJ	_	Gender=Masc|Number=Sing	5	amod	O	start_char=4613|end_char=4621
+8	.	.	PUNCT	_	_	5	punct	O	start_char=4621|end_char=4622
+9	.	.	PUNCT	_	_	3	punct	O	start_char=4622|end_char=4623
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-72
+# text = b.5) Caixa de contenção..
+1	b.5	b.5	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=4625|end_char=4628
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4628|end_char=4629
+3	Caixa	caixa	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=4630|end_char=4635
+4	de	de	ADP	_	_	5	case	O	start_char=4636|end_char=4638
+5	contenção	contenção	NOUN	_	Gender=Fem|Number=Sing	3	nmod	O	start_char=4639|end_char=4648
+6	.	.	PUNCT	_	_	3	punct	O	start_char=4648|end_char=4649
+7	.	.	PUNCT	_	_	3	punct	O	start_char=4649|end_char=4650
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-73
+# text = b.6) Unidade de bombeio e base..
+1	b.6	b.6	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=4652|end_char=4655
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4655|end_char=4656
+3	Unidade	Unidade	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=4657|end_char=4664
+4	de	de	ADP	_	_	5	case	O	start_char=4665|end_char=4667
+5	bombeio	bombeio	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=4668|end_char=4675
+6	e	e	CCONJ	_	_	7	cc	O	start_char=4676|end_char=4677
+7	base.	base.	NOUN	_	Gender=Masc|Number=Sing	5	conj	O	start_char=4678|end_char=4683
+8	.	.	PUNCT	_	_	3	punct	O	start_char=4683|end_char=4684
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-74
+# text = 5.0) Poços de Produção 5.a)
+1	5.0	5.0	NUM	_	NumType=Card	3	nummod	O	start_char=4686|end_char=4689
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4689|end_char=4690
+3	Poços	Poços	PROPN	_	Gender=Masc|Number=Sing	0	root	B=POÇO	start_char=4691|end_char=4696
+4	de	de	ADP	_	_	3	flat:name	O	start_char=4697|end_char=4699
+5	Produção	Produção	PROPN	_	Number=Sing	3	flat:name	O	start_char=4700|end_char=4708
+6	5.a	5.a	PROPN	_	Number=Sing	3	flat:name	O	start_char=4709|end_char=4712
+7	)	)	PUNCT	_	_	3	flat:name	O	start_char=4712|end_char=4713
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-75
+# text = Poço BA-65 - Este poço está com uma produção de 6,Om3/d após a última intervenção de SFT durante o per1odo 5 a 7/03..
+1	Poço	Poço	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	B=POÇO	start_char=4715|end_char=4719
+2	BA-65	BA-65	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	I=POÇO	start_char=4720|end_char=4725
+3	-	-	PUNCT	_	_	1	punct	O	start_char=4726|end_char=4727
+4	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	O	start_char=4728|end_char=4732
+5	poço	poço	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	B=POÇO	start_char=4733|end_char=4737
+6	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	O	start_char=4738|end_char=4742
+7	com	com	ADP	_	_	9	case	O	start_char=4743|end_char=4746
+8	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	O	start_char=4747|end_char=4750
+9	produção	produção	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=4751|end_char=4759
+10	de	de	ADP	_	_	11	case	O	start_char=4760|end_char=4762
+11	6,Om3/d	6,Om3/	NUM	_	NumType=Card	9	nummod	O	start_char=4763|end_char=4770
+12	após	após	ADP	_	_	15	case	O	start_char=4771|end_char=4775
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	O	start_char=4776|end_char=4777
+14	última	último	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	15	amod	O	start_char=4778|end_char=4784
+15	intervenção	intervenção	NOUN	_	Gender=Fem|Number=Sing	9	nmod	O	start_char=4785|end_char=4796
+16	de	de	ADP	_	_	17	case	O	start_char=4797|end_char=4799
+17	SFT	SFT	PROPN	_	Gender=Masc|Number=Sing	15	nmod	O	start_char=4800|end_char=4803
+18	durante	durante	ADP	_	_	20	case	O	start_char=4804|end_char=4811
+19	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	O	start_char=4812|end_char=4813
+20	per1odo	per1odo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	O	start_char=4814|end_char=4821
+21	5	5	NUM	_	NumType=Card	20	nummod	O	start_char=4822|end_char=4823
+22	a	a	ADP	_	_	23	case	O	start_char=4824|end_char=4825
+23	7/03	7/03	NUM	_	NumType=Card	21	conj	O	start_char=4826|end_char=4830
+24	.	.	PUNCT	_	_	9	punct	O	start_char=4830|end_char=4831
+25	.	.	PUNCT	_	_	9	punct	O	start_char=4831|end_char=4832
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-76
+# text = Necessita centralizar a Unidade de Bombeio..
+1	Necessita	necessitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=4834|end_char=4843
+2	centralizar	centralizar	VERB	_	VerbForm=Inf	1	xcomp	O	start_char=4844|end_char=4855
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	start_char=4856|end_char=4857
+4	Unidade	Unidade	PROPN	_	Gender=Fem|Number=Sing	2	obj	O	start_char=4858|end_char=4865
+5	de	de	ADP	_	_	4	flat:name	O	start_char=4866|end_char=4868
+6	Bombeio.	Bombeio.	PROPN	_	Number=Sing	4	flat:name	O	start_char=4869|end_char=4877
+7	.	.	PUNCT	_	_	1	punct	O	start_char=4877|end_char=4878
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-77
+# text = .b)
+1	.b	.b	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4880|end_char=4882
+2	)	)	PUNCT	_	_	1	punct	O	start_char=4882|end_char=4883
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-78
+# text = Poço BA-I04 - Está produzindo 28m3/d mas está em obser~ ção devido variações nos últimos dias..
+1	Poço	Poço	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	B=POÇO	start_char=4885|end_char=4889
+2	BA-I04	BA-I04	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	I=POÇO	start_char=4890|end_char=4896
+3	-	-	PUNCT	_	_	1	punct	O	start_char=4897|end_char=4898
+4	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	O	start_char=4899|end_char=4903
+5	produzindo	produzir	VERB	_	VerbForm=Ger	0	root	O	start_char=4904|end_char=4914
+6	28m3	28m3	NOUN	_	Gender=Masc|Number=Plur	5	obj	O	start_char=4915|end_char=4919
+7	/	/	ADP	_	_	8	case	O	start_char=4919|end_char=4920
+8	d	d	NOUN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=4920|end_char=4921
+9	mas	mas	CCONJ	_	_	12	cc	O	start_char=4922|end_char=4925
+10	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	O	start_char=4926|end_char=4930
+11	em	em	ADP	_	_	12	case	O	start_char=4931|end_char=4933
+12	obser~	obser~	NOUN	_	Gender=Masc|Number=Sing	5	conj	O	start_char=4934|end_char=4940
+13	ção	ção	NOUN	_	Gender=Masc|Number=Sing	12	nmod	O	start_char=4941|end_char=4944
+14	devido	devido	ADV	_	_	15	advmod	O	start_char=4945|end_char=4951
+15	variações	variação	NOUN	_	Gender=Fem|Number=Plur	12	nmod	O	start_char=4952|end_char=4961
+16-17	nos	_	_	_	_	_	_	O	start_char=4962|end_char=4965
+16	em	em	ADP	_	_	19	case	B=POÇO	_
+17	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	B=POÇO	_
+18	últimos	último	ADJ	_	Gender=Masc|NumType=Ord|Number=Plur	19	amod	O	start_char=4966|end_char=4973
+19	dias	dia	NOUN	_	Gender=Masc|Number=Plur	15	nmod	O	start_char=4974|end_char=4978
+20	.	.	PUNCT	_	_	5	punct	O	start_char=4978|end_char=4979
+21	.	.	PUNCT	_	_	1	punct	O	start_char=4979|end_char=4980
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-79
+# text = A Unidade de Bom - beio necessita do reparo devido ruido estranho..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=4982|end_char=4983
+2	Unidade	Unidade	PROPN	_	Gender=Fem|Number=Sing	7	nsubj	O	start_char=4984|end_char=4991
+3	de	de	ADP	_	_	2	flat:name	O	start_char=4992|end_char=4994
+4	Bom	Bom	PROPN	_	Number=Sing	2	flat:name	O	start_char=4995|end_char=4998
+5	-	-	PUNCT	_	_	2	flat:name	O	start_char=4999|end_char=5000
+6	beio	beio	PROPN	_	Number=Sing	2	flat:name	O	start_char=5001|end_char=5005
+7	necessita	necessitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=5006|end_char=5015
+8-9	do	_	_	_	_	_	_	O	start_char=5016|end_char=5018
+8	de	de	ADP	_	_	10	case	O	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	O	_
+10	reparo	reparo	NOUN	_	Gender=Masc|Number=Sing	7	obl:arg	O	start_char=5019|end_char=5025
+11	devido	devido	ADV	_	_	12	advmod	O	start_char=5026|end_char=5032
+12	ruido	ruido	NOUN	_	Gender=Masc|Number=Sing	10	nmod	O	start_char=5033|end_char=5038
+13	estranho	estranho	ADJ	_	Gender=Masc|Number=Sing	12	amod	O	start_char=5039|end_char=5047
+14	.	.	PUNCT	_	_	7	punct	O	start_char=5047|end_char=5048
+15	.	.	PUNCT	_	_	7	punct	O	start_char=5048|end_char=5049
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-80
+# text = 5.c)
+1	5.c	5.c	NUM	_	NumType=Card	0	root	O	start_char=5051|end_char=5054
+2	)	)	PUNCT	_	_	1	punct	O	start_char=5054|end_char=5055
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-81
+# text = Poço BA-157 - Este é o melhor poço do sistema "Combustão In Situ" com uma produção de 33m3/d pelo teste base..
+1	Poço	Poço	PROPN	_	Gender=Masc|Number=Sing	8	nsubj	B=POÇO	start_char=5057|end_char=5061
+2	BA-157	BA-157	PROPN	_	Number=Sing	1	flat:name	I=POÇO	start_char=5062|end_char=5068
+3	-	-	PUNCT	_	_	1	flat:name	O	start_char=5069|end_char=5070
+4	Este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	1	conj	O	start_char=5071|end_char=5075
+5	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	O	start_char=5076|end_char=5077
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	start_char=5078|end_char=5079
+7	melhor	bom	ADJ	_	Gender=Masc|Number=Sing	8	amod	O	start_char=5080|end_char=5086
+8	poço	poço	NOUN	_	Gender=Masc|Number=Sing	0	root	B=POÇO	start_char=5087|end_char=5091
+9-10	do	_	_	_	_	_	_	O	start_char=5092|end_char=5094
+9	de	de	ADP	_	_	11	case	B=POÇO	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	B=POÇO	_
+11	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	8	nmod	O	start_char=5095|end_char=5102
+12	"	«	PUNCT	_	_	13	punct	O	start_char=5103|end_char=5104
+13	Combustão	Combustão	PROPN	_	Gender=Masc|Number=Sing	8	appos	O	start_char=5104|end_char=5113
+14	In	In	PROPN	_	Number=Sing	13	flat:name	O	start_char=5114|end_char=5116
+15	Situ	Situ	PROPN	_	Number=Sing	13	flat:name	O	start_char=5117|end_char=5121
+16	"	«	PUNCT	_	_	19	punct	O	start_char=5121|end_char=5122
+17	com	com	ADP	_	_	19	case	O	start_char=5123|end_char=5126
+18	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	O	start_char=5127|end_char=5130
+19	produção	produção	NOUN	_	Gender=Fem|Number=Sing	8	nmod	O	start_char=5131|end_char=5139
+20	de	de	ADP	_	_	21	case	O	start_char=5140|end_char=5142
+21	33m3/d	33m3/d	NOUN	_	Gender=Masc|Number=Plur	19	nmod	O	start_char=5143|end_char=5149
+22-23	pelo	_	_	_	_	_	_	O	start_char=5150|end_char=5154
+22	por	por	ADP	_	_	24	case	B=POÇO	_
+23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	B=POÇO	_
+24	teste	teste	NOUN	_	Gender=Masc|Number=Sing	19	nmod	O	start_char=5155|end_char=5160
+25	base	base	NOUN	_	Gender=Fem|Number=Sing	24	nmod	O	start_char=5161|end_char=5165
+26	.	.	PUNCT	_	_	8	punct	O	start_char=5165|end_char=5166
+27	.	.	PUNCT	_	_	8	punct	O	start_char=5166|end_char=5167
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-82
+# text = So freu uma intervenção de SFT durante o per!odo de 9 a 13/03/79 • . 5.d)
+1	So	so	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	O	start_char=5169|end_char=5171
+2	freu	frer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	start_char=5172|end_char=5176
+3	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	O	start_char=5177|end_char=5180
+4	intervenção	intervenção	NOUN	_	Gender=Fem|Number=Sing	2	obj	O	start_char=5181|end_char=5192
+5	de	de	ADP	_	_	6	case	O	start_char=5193|end_char=5195
+6	SFT	SFT	PROPN	_	Gender=Masc|Number=Sing	4	nmod	O	start_char=5196|end_char=5199
+7	durante	durante	ADP	_	_	9	case	O	start_char=5200|end_char=5207
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	start_char=5208|end_char=5209
+9	per	per	X	_	_	2	obl	O	start_char=5210|end_char=5213
+10	!	!	PUNCT	_	_	11	punct	O	start_char=5213|end_char=5214
+11	odo	odo	X	_	_	9	appos	O	start_char=5214|end_char=5217
+12	de	de	ADP	_	_	13	case	O	start_char=5218|end_char=5220
+13	9	9	NUM	_	NumType=Card	11	nummod	O	start_char=5221|end_char=5222
+14	a	a	ADP	_	_	15	case	O	start_char=5223|end_char=5224
+15	13/03/79	13/03/79	NUM	_	NumType=Card	13	nmod	O	start_char=5225|end_char=5233
+16	•	•	PUNCT	_	_	18	punct	O	start_char=5234|end_char=5235
+17	.	.	PUNCT	_	_	18	punct	O	start_char=5236|end_char=5237
+18	5.d	5.d	NUM	_	NumType=Card	15	conj	O	start_char=5238|end_char=5241
+19	)	)	PUNCT	_	_	18	punct	O	start_char=5241|end_char=5242
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-83
+# text = Poço BA-67 - Este é o poço mais problemático em termos op~ racionais, geralmente apresenta problemas de fundo (are ia na bomba)..
+1	Poço	Poço	PROPN	_	Gender=Masc|Number=Sing	7	nsubj	B=POÇO	start_char=5244|end_char=5248
+2	BA-67	BA-67	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	I=POÇO	start_char=5249|end_char=5254
+3	-	-	PUNCT	_	_	1	flat:name	O	start_char=5255|end_char=5256
+4	Este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	1	conj	O	start_char=5257|end_char=5261
+5	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	O	start_char=5262|end_char=5263
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	O	start_char=5264|end_char=5265
+7	poço	poço	NOUN	_	Gender=Masc|Number=Sing	0	root	B=POÇO	start_char=5266|end_char=5270
+8	mais	mais	ADV	_	_	9	advmod	O	start_char=5271|end_char=5275
+9	problemático	problemático	ADJ	_	Gender=Masc|Number=Sing	7	amod	O	start_char=5276|end_char=5288
+10	em	em	ADP	_	_	11	case	O	start_char=5289|end_char=5291
+11	termos	termos	NOUN	_	Gender=Masc|Number=Plur	7	nmod	O	start_char=5292|end_char=5298
+12	op~	op~	ADJ	_	Gender=Masc|Number=Plur	11	amod	O	start_char=5299|end_char=5302
+13	racionais	racional	ADJ	_	Gender=Masc|Number=Plur	11	amod	O	start_char=5303|end_char=5312
+14	,	,	PUNCT	_	_	16	punct	O	start_char=5312|end_char=5313
+15	geralmente	geralmente	ADV	_	_	16	advmod	O	start_char=5314|end_char=5324
+16	apresenta	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	O	start_char=5325|end_char=5334
+17	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	16	obj	O	start_char=5335|end_char=5344
+18	de	de	ADP	_	_	19	case	O	start_char=5345|end_char=5347
+19	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	17	nmod	O	start_char=5348|end_char=5353
+20	(	(	PUNCT	_	_	21	punct	O	start_char=5354|end_char=5355
+21	are	are	NOUN	_	Gender=Masc|Number=Sing	17	appos	O	start_char=5355|end_char=5358
+22	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	cop	O	start_char=5359|end_char=5361
+23-24	na	_	_	_	_	_	_	O	start_char=5362|end_char=5364
+23	em	em	ADP	_	_	25	case	B=POÇO	_
+24	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	B=POÇO	_
+25	bomba	bomba	NOUN	_	Gender=Fem|Number=Sing	16	obl	O	start_char=5365|end_char=5370
+26	)	)	PUNCT	_	_	21	punct	O	start_char=5370|end_char=5371
+27	.	.	PUNCT	_	_	16	punct	O	start_char=5371|end_char=5372
+28	.	.	PUNCT	_	_	7	punct	O	start_char=5372|end_char=5373
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-84
+# text = Está operando em regime devido a sua peque na capacidade de produção..
+1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	O	start_char=5375|end_char=5379
+2	operando	operar	VERB	_	VerbForm=Ger	0	root	O	start_char=5380|end_char=5388
+3	em	em	ADP	_	_	4	case	O	start_char=5389|end_char=5391
+4	regime	regime	NOUN	_	Gender=Masc|Number=Sing	2	obl	O	start_char=5392|end_char=5398
+5	devido	devido	ADV	_	_	2	advmod	O	start_char=5399|end_char=5405
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	O	start_char=5406|end_char=5407
+7	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	8	det	O	start_char=5408|end_char=5411
+8	peque	peque	NOUN	_	Gender=Fem|Number=Sing	2	obj	O	start_char=5412|end_char=5417
+9-10	na	_	_	_	_	_	_	O	start_char=5418|end_char=5420
+9	em	em	ADP	_	_	11	case	O	_
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	O	_
+11	capacidade	capacidade	NOUN	_	Gender=Fem|Number=Sing	2	obl	O	start_char=5421|end_char=5431
+12	de	de	ADP	_	_	13	case	O	start_char=5432|end_char=5434
+13	produção	produção	NOUN	_	Gender=Fem|Number=Sing	11	nmod	O	start_char=5435|end_char=5443
+14	.	.	PUNCT	_	_	2	punct	O	start_char=5443|end_char=5444
+15	.	.	PUNCT	_	_	2	punct	O	start_char=5444|end_char=5445
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-85
+# text = 5.e)
+1	5.e	5.e	NUM	_	NumType=Card	0	root	O	start_char=5447|end_char=5450
+2	)	)	PUNCT	_	_	1	punct	O	start_char=5450|end_char=5451
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-86
+# text = Poço BA-161 - Este poço foi transformado em produção para substituir o BA-67 pelos problemas operacionais deste úl timo, no entanto sua capacidade de produção é baixa e es tá operando também em regime..
+1	Poço	Poço	PROPN	_	Gender=Masc|Number=Sing	7	nsubj:pass	B=POÇO	start_char=5453|end_char=5457
+2	BA-161	BA-161	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	I=POÇO	start_char=5458|end_char=5464
+3	-	-	PUNCT	_	_	1	punct	O	start_char=5465|end_char=5466
+4	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	O	start_char=5467|end_char=5471
+5	poço	poço	NOUN	_	Gender=Masc|Number=Sing	7	nsubj:pass	B=POÇO	start_char=5472|end_char=5476
+6	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	O	start_char=5477|end_char=5480
+7	transformado	transformar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=5481|end_char=5493
+8	em	em	ADP	_	_	9	case	O	start_char=5494|end_char=5496
+9	produção	produção	NOUN	_	Gender=Fem|Number=Sing	7	obl	O	start_char=5497|end_char=5505
+10	para	para	SCONJ	_	_	11	mark	O	start_char=5506|end_char=5510
+11	substituir	substituir	VERB	_	VerbForm=Inf	7	advcl	O	start_char=5511|end_char=5521
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	O	start_char=5522|end_char=5523
+13	BA-67	BA-67	PROPN	_	Gender=Masc|Number=Sing	11	obj	B=POÇO	start_char=5524|end_char=5529
+14-15	pelos	_	_	_	_	_	_	O	start_char=5530|end_char=5535
+14	por	por	ADP	_	_	16	case	B=POÇO	_
+15	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	B=POÇO	_
+16	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	11	obl	O	start_char=5536|end_char=5545
+17	operacionais	operacional	ADJ	_	Gender=Masc|Number=Plur	16	amod	O	start_char=5546|end_char=5558
+18-19	deste	_	_	_	_	_	_	O	start_char=5559|end_char=5564
+18	de	de	ADP	_	_	20	case	B=POÇO	_
+19	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	20	det	B=POÇO	_
+20	úl	úl	NOUN	_	Gender=Masc|Number=Sing	16	nmod	O	start_char=5565|end_char=5567
+21	timo	mimo	ADJ	_	Gender=Masc|Number=Sing	20	amod	O	start_char=5568|end_char=5572
+22	,	,	PUNCT	_	_	11	punct	O	start_char=5572|end_char=5573
+23-24	no	_	_	_	_	_	_	O	start_char=5574|end_char=5576
+23	em	em	ADP	_	_	31	cc	B=POÇO	_
+24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	fixed	B=POÇO	_
+25	entanto	entanto	NOUN	_	Gender=Masc|Number=Sing	23	fixed	O	start_char=5577|end_char=5584
+26	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	27	det	O	start_char=5585|end_char=5588
+27	capacidade	capacidade	NOUN	_	Gender=Fem|Number=Sing	31	nsubj	O	start_char=5589|end_char=5599
+28	de	de	ADP	_	_	29	case	O	start_char=5600|end_char=5602
+29	produção	produção	NOUN	_	Gender=Fem|Number=Sing	27	nmod	O	start_char=5603|end_char=5611
+30	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	O	start_char=5612|end_char=5613
+31	baixa	baixo	ADJ	_	Gender=Fem|Number=Sing	7	advcl	O	start_char=5614|end_char=5619
+32	e	e	CCONJ	_	_	35	cc	O	start_char=5620|end_char=5621
+33	es	es	ADV	_	_	35	advmod	O	start_char=5622|end_char=5624
+34	tá	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	cop	O	start_char=5625|end_char=5627
+35	operando	operar	VERB	_	VerbForm=Ger	31	conj	O	start_char=5628|end_char=5636
+36	também	também	ADV	_	_	35	advmod	O	start_char=5637|end_char=5643
+37	em	em	ADP	_	_	38	case	O	start_char=5644|end_char=5646
+38	regime	regime	NOUN	_	Gender=Masc|Number=Sing	35	obl	O	start_char=5647|end_char=5653
+39	.	.	PUNCT	_	_	31	punct	O	start_char=5653|end_char=5654
+40	.	.	PUNCT	_	_	7	punct	O	start_char=5654|end_char=5655
+
+# sent_id = 1320994ED7D95391E0534EEB1D0AA77A-87
+# text = Atenciosamente,
+1	Atenciosamente	atenciosamente	ADV	_	_	0	root	O	start_char=5657|end_char=5671
+2	,	,	PUNCT	_	_	1	punct	O	start_char=5671|end_char=5672

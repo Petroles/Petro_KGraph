@@ -1,0 +1,1242 @@
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-1
+# text = c/c.: DIPRO/DEXPRO (3) DIRPRO SETAV SEPRO 7630 - 960 - =  Apôs deliberação da DIPRO a respeito da locação dos poços de injeção em Siririzinho, achamos conveniente apresen-tar este levantamento, feito com o intuito de ser investigada e sumarizada a situação atual - MAR/74 - dos poços a serem converti dos de produtores em injetores..
+1	c/c.	c/c.	NOUN	_	Gender=Masc|Number=Sing	33	nsubj	O	start_char=0|end_char=4
+2	:	:	PUNCT	_	_	3	punct	O	start_char=4|end_char=5
+3	DIPRO/DEXPRO	DIPRO/DEXPRO	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=6|end_char=18
+4	(	(	PUNCT	_	_	3	flat:name	O	start_char=19|end_char=20
+5	3	3	NUM	_	NumType=Card	3	nmod:appos	O	start_char=20|end_char=21
+6	)	)	PUNCT	_	_	3	punct	O	start_char=21|end_char=22
+7	DIRPRO	DIRPRO	PROPN	_	Gender=Masc|Number=Sing	3	appos	O	start_char=23|end_char=29
+8	SETAV	SETAV	PROPN	_	Gender=Masc|Number=Sing	7	flat:name	O	start_char=30|end_char=35
+9	SEPRO	SEPRO	PROPN	_	Number=Sing	8	flat:name	O	start_char=36|end_char=41
+10	7630	7630	NUM	_	NumType=Card	8	flat:name	O	start_char=42|end_char=46
+11	-	-	PUNCT	_	_	12	punct	O	start_char=47|end_char=48
+12	960	960	NUM	_	NumType=Card	7	appos	O	start_char=49|end_char=52
+13	-	-	PUNCT	_	_	16	punct	O	start_char=53|end_char=54
+14	=	=	PUNCT	_	_	16	punct	O	start_char=55|end_char=56
+15	Apôs	apôs	ADP	_	_	16	case	O	start_char=58|end_char=62
+16	deliberação	deliberação	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=63|end_char=74
+17-18	da	_	_	_	_	_	_	O	start_char=75|end_char=77
+17	de	de	ADP	_	_	19	case	O	_
+18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	O	_
+19	DIPRO	DIPRO	PROPN	_	Gender=Fem|Number=Sing	16	nmod	O	start_char=78|end_char=83
+20	a	a	ADP	_	_	21	case	O	start_char=84|end_char=85
+21	respeito	respeito	NOUN	_	Gender=Masc|Number=Sing	16	nmod	O	start_char=86|end_char=94
+22-23	da	_	_	_	_	_	_	O	start_char=95|end_char=97
+22	de	de	ADP	_	_	24	case	O	_
+23	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	O	_
+24	locação	locação	NOUN	_	Gender=Fem|Number=Sing	21	nmod	O	start_char=98|end_char=105
+25-26	dos	_	_	_	_	_	_	O	start_char=106|end_char=109
+25	de	de	ADP	_	_	27	case	O	_
+26	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	O	_
+27	poços	poço	NOUN	_	Gender=Masc|Number=Plur	24	nmod	B=POÇO	start_char=110|end_char=115
+28	de	de	ADP	_	_	29	case	O	start_char=116|end_char=118
+29	injeção	injeção	NOUN	_	Gender=Fem|Number=Sing	27	nmod	O	start_char=119|end_char=126
+30	em	em	ADP	_	_	31	case	O	start_char=127|end_char=129
+31	Siririzinho	Siririzinho	PROPN	_	Gender=Masc|Number=Sing	27	nmod	B=CAMPO	start_char=130|end_char=141
+32	,	,	PUNCT	_	_	33	punct	O	start_char=141|end_char=142
+33	achamos	achar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	O	start_char=143|end_char=150
+34	conveniente	conveniente	ADJ	_	Gender=Masc|Number=Sing	33	xcomp	O	start_char=151|end_char=162
+35	apresen-tar	apresen-tar	VERB	_	VerbForm=Inf	33	xcomp	O	start_char=163|end_char=174
+36	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	37	det	O	start_char=175|end_char=179
+37	levantamento	levantamento	NOUN	_	Gender=Masc|Number=Sing	35	obj	O	start_char=180|end_char=192
+38	,	,	PUNCT	_	_	39	punct	O	start_char=192|end_char=193
+39	feito	fazer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	37	acl	O	start_char=194|end_char=199
+40	com	com	ADP	_	_	42	case	O	start_char=200|end_char=203
+41	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	O	start_char=204|end_char=205
+42	intuito	intuito	NOUN	_	Gender=Masc|Number=Sing	39	obl	O	start_char=206|end_char=213
+43	de	de	SCONJ	_	_	45	mark	O	start_char=214|end_char=216
+44	ser	ser	AUX	_	VerbForm=Inf	45	aux:pass	O	start_char=217|end_char=220
+45	investigada	investigar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	39	advcl	O	start_char=221|end_char=232
+46	e	e	CCONJ	_	_	47	cc	O	start_char=233|end_char=234
+47	sumarizada	sumarizar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	45	conj	O	start_char=235|end_char=245
+48	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	O	start_char=246|end_char=247
+49	situação	situação	NOUN	_	Gender=Fem|Number=Sing	47	obj	O	start_char=248|end_char=256
+50	atual	atual	ADJ	_	Gender=Fem|Number=Sing	49	amod	O	start_char=257|end_char=262
+51	-	-	PUNCT	_	_	52	punct	O	start_char=263|end_char=264
+52	MAR/74	MAR/74	PROPN	_	Gender=Fem|Number=Sing	49	appos	B=POÇO	start_char=265|end_char=271
+53	-	-	PUNCT	_	_	56	punct	O	start_char=272|end_char=273
+54-55	dos	_	_	_	_	_	_	O	start_char=274|end_char=277
+54	de	de	ADP	_	_	56	case	O	_
+55	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	56	det	O	_
+56	poços	poço	NOUN	_	Gender=Masc|Number=Plur	49	nmod	B=POÇO	start_char=278|end_char=283
+57	a	a	SCONJ	_	_	59	mark	O	start_char=284|end_char=285
+58	serem	ser	AUX	_	Number=Plur|Person=3|VerbForm=Inf	59	aux	O	start_char=286|end_char=291
+59	converti	converter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	45	advcl	O	start_char=292|end_char=300
+60-61	dos	_	_	_	_	_	_	O	start_char=301|end_char=304
+60	de	de	ADP	_	_	61	case	O	_
+61	os	o	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	59	obl	O	_
+62	de	de	ADP	_	_	63	case	O	start_char=305|end_char=307
+63	produtores	produtor	NOUN	_	Gender=Masc|Number=Plur	61	nmod	O	start_char=308|end_char=318
+64	em	em	ADP	_	_	65	case	O	start_char=319|end_char=321
+65	injetores	injetor	NOUN	_	Gender=Masc|Number=Plur	63	nmod	O	start_char=322|end_char=331
+66	.	.	PUNCT	_	_	65	amod	O	start_char=331|end_char=332
+67	.	.	PUNCT	_	_	33	punct	O	start_char=332|end_char=333
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-2
+# text = 7530 - 960 - y - Realizar testes de fechamento no fundo e de injetividade nas zonas a serem convertidas..
+1	7530	7530	NUM	_	NumType=Card	5	nummod	O	start_char=335|end_char=339
+2	-	-	PUNCT	_	_	1	punct	O	start_char=340|end_char=341
+3	960	960	NUM	_	NumType=Card	5	nummod	O	start_char=342|end_char=345
+4	-	-	PUNCT	_	_	5	punct	O	start_char=346|end_char=347
+5	y	y	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=348|end_char=349
+6	-	-	PUNCT	_	_	7	punct	O	start_char=350|end_char=351
+7	Realizar	realizar	VERB	_	VerbForm=Inf	5	acl	O	start_char=352|end_char=360
+8	testes	teste	NOUN	_	Gender=Masc|Number=Plur	7	obj	O	start_char=361|end_char=367
+9	de	de	ADP	_	_	10	case	O	start_char=368|end_char=370
+10	fechamento	fechamento	NOUN	_	Gender=Masc|Number=Sing	8	nmod	O	start_char=371|end_char=381
+11-12	no	_	_	_	_	_	_	O	start_char=382|end_char=384
+11	em	em	ADP	_	_	13	case	O	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	O	_
+13	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	7	obl	O	start_char=385|end_char=390
+14	e	e	CCONJ	_	_	16	cc	O	start_char=391|end_char=392
+15	de	de	ADP	_	_	16	case	O	start_char=393|end_char=395
+16	injetividade	injetividade	NOUN	_	Gender=Fem|Number=Sing	13	conj	O	start_char=396|end_char=408
+17-18	nas	_	_	_	_	_	_	O	start_char=409|end_char=412
+17	em	em	ADP	_	_	19	case	O	_
+18	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	O	_
+19	zonas	zona	NOUN	_	Gender=Fem|Number=Plur	7	obl	O	start_char=413|end_char=418
+20	a	a	SCONJ	_	_	22	mark	O	start_char=419|end_char=420
+21	serem	ser	AUX	_	Number=Plur|Person=3|VerbForm=Inf	22	aux:pass	O	start_char=421|end_char=426
+22	convertidas	converter	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	7	advcl	O	start_char=427|end_char=438
+23	.	.	PUNCT	_	_	22	punct	O	start_char=438|end_char=439
+24	.	.	PUNCT	_	_	5	punct	O	start_char=439|end_char=440
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-3
+# text = -
+1	-	-	PUNCT	_	_	0	root	O	start_char=442|end_char=443
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-4
+# text = Em todos os poços submetidos a fraturamentos e/ou acidificações , deverão ser realizados testes de comunicação entre zonas,antes de cualauer outra oneracão..
+1	Em	em	ADP	_	_	4	case	O	start_char=445|end_char=447
+2	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	4	det	O	start_char=448|end_char=453
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	O	start_char=454|end_char=456
+4	poços	poço	NOUN	_	Gender=Masc|Number=Plur	11	obl	B=POÇO	start_char=457|end_char=462
+5	submetidos	submeter	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	4	acl	O	start_char=463|end_char=473
+6	a	a	ADP	_	_	7	case	O	start_char=474|end_char=475
+7	fraturamentos	fraturamento	NOUN	_	Gender=Masc|Number=Plur	5	obl:arg	O	start_char=476|end_char=489
+8	e/ou	e/ou	CCONJ	_	_	9	cc	O	start_char=490|end_char=494
+9	acidificações	acidificação	NOUN	_	Gender=Fem|Number=Plur	7	conj	O	start_char=495|end_char=508
+10	,	,	PUNCT	_	_	5	punct	O	start_char=509|end_char=510
+11	deverão	dever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	O	start_char=511|end_char=518
+12	ser	ser	AUX	_	VerbForm=Inf	13	aux:pass	O	start_char=519|end_char=522
+13	realizados	realizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	11	xcomp	O	start_char=523|end_char=533
+14	testes	teste	NOUN	_	Gender=Masc|Number=Plur	13	nsubj:pass	O	start_char=534|end_char=540
+15	de	de	ADP	_	_	16	case	O	start_char=541|end_char=543
+16	comunicação	comunicação	NOUN	_	Gender=Fem|Number=Sing	14	nmod	O	start_char=544|end_char=555
+17	entre	entre	ADP	_	_	18	case	O	start_char=556|end_char=561
+18	zonas	zona	NOUN	_	Gender=Fem|Number=Plur	16	nmod	O	start_char=562|end_char=567
+19	,	,	PUNCT	_	_	13	punct	O	start_char=567|end_char=568
+20	antes	antes	ADV	_	_	13	advmod	O	start_char=568|end_char=573
+21	de	de	ADP	_	_	24	case	O	start_char=574|end_char=576
+22	cualauer	cualauer	DET	_	Gender=Fem|Number=Sing|PronType=Art	24	det	O	start_char=577|end_char=585
+23	outra	outro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	24	det	O	start_char=586|end_char=591
+24	oneracão	oneracão	NOUN	_	Gender=Fem|Number=Sing	20	obl	O	start_char=592|end_char=600
+25	.	.	PUNCT	_	_	11	punct	O	start_char=600|end_char=601
+26	.	.	PUNCT	_	_	11	punct	O	start_char=601|end_char=602
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-5
+# text = 7530 - 960 - SZ- BHO = 50,0 mM Revestimento : 5 1/2"0D, 17 1b/pê, N-80 Sapata : 525,17 m Colar : 515,71 m zona 1 : 461,3-467,3 m - canhoneado Zona 2 +: 472,7-497,7 m 474,2-497,5 m - canhoneado Zona 3 : 500,9-506,2 m - canhoneado Contato 6leo-agua : nao atingido Testemunhos : nao obtidos
+1	7530	7530	NUM	_	NumType=Card	5	nummod	O	start_char=604|end_char=608
+2	-	-	PUNCT	_	_	5	punct	O	start_char=609|end_char=610
+3	960	960	NUM	_	NumType=Card	5	nummod	O	start_char=611|end_char=614
+4	-	-	PUNCT	_	_	5	punct	O	start_char=615|end_char=616
+5	SZ-	SZ-	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=617|end_char=620
+6	BHO	BHO	PROPN	_	Number=Sing	5	flat:name	O	start_char=621|end_char=624
+7	=	=	PUNCT	_	_	9	punct	O	start_char=625|end_char=626
+8	50,0	50,0	NUM	_	NumType=Card	9	nummod	O	start_char=627|end_char=631
+9	mM	mm	NOUN	_	Gender=Masc|Number=Plur	5	appos	O	start_char=632|end_char=634
+10	Revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	9	flat:foreign	O	start_char=635|end_char=647
+11	:	:	PUNCT	_	_	13	punct	O	start_char=648|end_char=649
+12	5	5	NUM	_	NumType=Card	13	appos	O	start_char=650|end_char=651
+13	1/2"0D	1/2"0d	NUM	_	NumType=Card	9	nummod	O	start_char=652|end_char=658
+14	,	,	PUNCT	_	_	16	punct	O	start_char=658|end_char=659
+15	17	17	NUM	_	NumType=Card	13	conj	O	start_char=660|end_char=662
+16	1b	1b	NUM	_	NumType=Card	13	conj	O	start_char=663|end_char=665
+17	/	/	PUNCT	_	_	18	punct	O	start_char=665|end_char=666
+18	pê	pê	NOUN	_	Gender=Masc|Number=Sing	13	conj	O	start_char=666|end_char=668
+19	,	,	PUNCT	_	_	20	punct	O	start_char=668|end_char=669
+20	N-80	N-80	PROPN	_	Gender=Masc|Number=Sing	13	conj	O	start_char=670|end_char=674
+21	Sapata	Sapata	PROPN	_	Number=Sing	20	flat:name	O	start_char=675|end_char=681
+22	:	:	PUNCT	_	_	24	punct	O	start_char=682|end_char=683
+23	525,17	525,17	NUM	_	NumType=Card	24	nummod	O	start_char=684|end_char=690
+24	m	m	NOUN	_	Gender=Masc|Number=Plur	20	appos	O	start_char=691|end_char=692
+25	Colar	Colar	PROPN	_	Gender=Masc|Number=Sing	24	nmod	O	start_char=693|end_char=698
+26	:	:	PUNCT	_	_	28	punct	O	start_char=699|end_char=700
+27	515,71	515,71	NUM	_	NumType=Card	28	nummod	O	start_char=701|end_char=707
+28	m	m	NOUN	_	Gender=Masc|Number=Plur	24	appos	O	start_char=708|end_char=709
+29	zona	zona	NOUN	_	Gender=Fem|Number=Sing	28	nmod	O	start_char=710|end_char=714
+30	1	1	NUM	_	NumType=Card	28	nummod	O	start_char=715|end_char=716
+31	:	:	PUNCT	_	_	33	punct	O	start_char=717|end_char=718
+32	461,3-467,3	461,3-467,3	NUM	_	NumType=Card	33	nummod	O	start_char=719|end_char=730
+33	m	m	NOUN	_	Gender=Masc|Number=Plur	28	appos	O	start_char=731|end_char=732
+34	-	-	PUNCT	_	_	35	punct	O	start_char=733|end_char=734
+35	canhoneado	canhonear	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	33	acl	O	start_char=735|end_char=745
+36	Zona	Zona	PROPN	_	Gender=Fem|Number=Sing	33	appos	O	start_char=746|end_char=750
+37	2	2	PROPN	_	Number=Sing	36	flat:name	O	start_char=751|end_char=752
+38	+	+	PUNCT	_	_	41	punct	O	start_char=753|end_char=754
+39	:	:	PUNCT	_	_	41	punct	O	start_char=754|end_char=755
+40	472,7-497,7	472,7-497,7	NUM	_	NumType=Card	41	nummod	O	start_char=756|end_char=767
+41	m	m	NOUN	_	Gender=Masc|Number=Plur	33	appos	O	start_char=768|end_char=769
+42	474,2-497,5	474,2-497,5	NUM	_	NumType=Card	43	nummod	O	start_char=770|end_char=781
+43	m	m	NOUN	_	Gender=Masc|Number=Plur	41	nmod	O	start_char=782|end_char=783
+44	-	-	PUNCT	_	_	45	punct	O	start_char=784|end_char=785
+45	canhoneado	canhonear	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	41	acl	O	start_char=786|end_char=796
+46	Zona	Zona	PROPN	_	Gender=Fem|Number=Sing	41	nmod	O	start_char=797|end_char=801
+47	3	3	PROPN	_	Number=Sing	46	flat:name	O	start_char=802|end_char=803
+48	:	:	PUNCT	_	_	50	punct	O	start_char=804|end_char=805
+49	500,9-506,2	500,9-506,2	NUM	_	NumType=Card	50	nummod	O	start_char=806|end_char=817
+50	m	m	NOUN	_	Gender=Masc|Number=Plur	46	appos	O	start_char=818|end_char=819
+51	-	-	PUNCT	_	_	52	punct	O	start_char=820|end_char=821
+52	canhoneado	canhonear	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	50	acl	O	start_char=822|end_char=832
+53	Contato	Contato	PROPN	_	Gender=Masc|Number=Sing	52	obj	O	start_char=833|end_char=840
+54	6leo-agua	6leo-agua	PROPN	_	Number=Sing	53	flat:name	O	start_char=841|end_char=850
+55	:	:	PUNCT	_	_	50	punct	O	start_char=851|end_char=852
+56-57	nao	_	_	_	_	_	_	O	start_char=853|end_char=856
+56	em	em	ADP	_	_	59	case	O	_
+57	ao	ao	ADP	_	_	59	case	O	_
+58	atingido	atingir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	59	acl	O	start_char=857|end_char=865
+59	Testemunhos	Testemunhos	PROPN	_	Gender=Masc|Number=Plur	50	nmod	O	start_char=866|end_char=877
+60	:	:	PUNCT	_	_	63	punct	O	start_char=878|end_char=879
+61-62	nao	_	_	_	_	_	_	O	start_char=880|end_char=883
+61	em	em	ADP	_	_	63	case	O	_
+62	ao	ao	ADP	_	_	63	case	O	_
+63	obtidos	obter	NOUN	_	Gender=Masc|Number=Plur	59	nmod	O	start_char=884|end_char=891
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-6
+# text = Perfis disponíveis : Laterolog, sônico e Raios Gama..
+1	Perfis	perfi	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=893|end_char=899
+2	disponíveis	disponível	ADJ	_	Gender=Masc|Number=Plur	1	amod	O	start_char=900|end_char=911
+3	:	:	PUNCT	_	_	4	punct	O	start_char=912|end_char=913
+4	Laterolog	Laterolog	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=914|end_char=923
+5	,	,	PUNCT	_	_	6	punct	O	start_char=923|end_char=924
+6	sônico	sônico	NOUN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=925|end_char=931
+7	e	e	CCONJ	_	_	8	cc	O	start_char=932|end_char=933
+8	Raios	Raios	PROPN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=934|end_char=939
+9	Gama.	Gama.	PROPN	_	Number=Sing	8	flat:name	O	start_char=940|end_char=945
+10	.	.	PUNCT	_	_	1	punct	O	start_char=945|end_char=946
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-7
+# text = Estimulação : Fraturamento das zonas 1,2 e 3, em 23/03/69
+1	Estimulação	estimulação	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=948|end_char=959
+2	:	:	PUNCT	_	_	3	punct	O	start_char=960|end_char=961
+3	Fraturamento	fraturamento	NOUN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=962|end_char=974
+4-5	das	_	_	_	_	_	_	O	start_char=975|end_char=978
+4	de	de	ADP	_	_	6	case	O	_
+5	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	O	_
+6	zonas	zona	NOUN	_	Gender=Fem|Number=Plur	3	nmod	O	start_char=979|end_char=984
+7	1,2	1,2	NUM	_	NumType=Card	6	nummod	O	start_char=985|end_char=988
+8	e	e	CCONJ	_	_	9	cc	O	start_char=989|end_char=990
+9	3	3	NUM	_	NumType=Card	7	conj	O	start_char=991|end_char=992
+10	,	,	PUNCT	_	_	12	punct	O	start_char=992|end_char=993
+11	em	em	ADP	_	_	12	case	O	start_char=994|end_char=996
+12	23/03/69	23/03/69	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=997|end_char=1005
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-8
+# text = Comentários : Pretende-se injetar 80 m?/a de agua na zona 2 des-te poço..
+1	Comentários	comentário	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=1007|end_char=1018
+2	:	:	PUNCT	_	_	3	punct	O	start_char=1019|end_char=1020
+3-4	Pretende-se	_	_	_	_	_	_	O	start_char=1021|end_char=1032
+3	Pretende	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	O	_
+4	se	se	PRON	_	Case=Acc|PronType=Prs	3	expl	O	_
+5	injetar	injetar	VERB	_	VerbForm=Inf	3	xcomp	O	start_char=1033|end_char=1040
+6	80	80	NUM	_	NumType=Card	7	nummod	O	start_char=1041|end_char=1043
+7	m	m	NOUN	_	Gender=Masc|Number=Plur	5	obj	O	start_char=1044|end_char=1045
+8	?	?	PUNCT	_	_	9	punct	O	start_char=1045|end_char=1046
+9	/a	/a	NOUN	_	Gender=Masc|Number=Sing	7	conj	O	start_char=1046|end_char=1048
+10	de	de	ADP	_	_	11	case	O	start_char=1049|end_char=1051
+11	agua	agua	NOUN	_	Gender=Fem|Number=Sing	9	nmod	B=FLUIDODATERRA_o	start_char=1052|end_char=1056
+12-13	na	_	_	_	_	_	_	O	start_char=1057|end_char=1059
+12	em	em	ADP	_	_	14	case	O	_
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	O	_
+14	zona	zona	NOUN	_	Gender=Fem|Number=Sing	5	obl	O	start_char=1060|end_char=1064
+15	2	2	NUM	_	NumType=Card	14	nummod	O	start_char=1065|end_char=1066
+16-17	des-te	_	_	_	_	_	_	O	start_char=1067|end_char=1073
+16	de	de	ADP	_	_	18	case	O	_
+17	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	18	det	O	_
+18	poço	poço	NOUN	_	Gender=Masc|Number=Sing	14	nmod	B=POÇO	start_char=1074|end_char=1078
+19	.	.	PUNCT	_	_	1	punct	O	start_char=1078|end_char=1079
+20	.	.	PUNCT	_	_	1	punct	O	start_char=1079|end_char=1080
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-9
+# text = O poço produz atualmente 2,0 m>/d com BSW baixo e alta RGO..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=1082|end_char=1083
+2	poço	poço	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	B=POÇO	start_char=1084|end_char=1088
+3	produz	produzir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=1089|end_char=1095
+4	atualmente	atualmente	ADV	_	_	5	advmod	O	start_char=1096|end_char=1106
+5	2,0	2,0	NUM	_	NumType=Card	6	nummod	O	start_char=1107|end_char=1110
+6	m>/d	m>/d	NOUN	_	Gender=Masc|Number=Plur	3	obj	O	start_char=1111|end_char=1115
+7	com	com	ADP	_	_	8	case	O	start_char=1116|end_char=1119
+8	BSW	BSW	PROPN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=1120|end_char=1123
+9	baixo	baixo	ADJ	_	Gender=Masc|Number=Sing	8	amod	O	start_char=1124|end_char=1129
+10	e	e	CCONJ	_	_	12	cc	O	start_char=1130|end_char=1131
+11	alta	alto	ADJ	_	Gender=Fem|Number=Sing	8	conj	O	start_char=1132|end_char=1136
+12	RGO	RGO	PROPN	_	Gender=Fem|Number=Sing	8	conj	O	start_char=1137|end_char=1140
+13	.	.	PUNCT	_	_	3	punct	O	start_char=1140|end_char=1141
+14	.	.	PUNCT	_	_	3	punct	O	start_char=1141|end_char=1142
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-10
+# text = O Ultimo teste realizado mostrou uma pressao de 20 Kg/cmê..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	O	start_char=1144|end_char=1145
+2	Ultimo	ultimo	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	3	amod	O	start_char=1146|end_char=1152
+3	teste	teste	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	O	start_char=1153|end_char=1158
+4	realizado	realizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	O	start_char=1159|end_char=1168
+5	mostrou	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	start_char=1169|end_char=1176
+6	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	O	start_char=1177|end_char=1180
+7	pressao	pressao	NOUN	_	Gender=Fem|Number=Sing	5	obj	O	start_char=1181|end_char=1188
+8	de	de	ADP	_	_	10	case	O	start_char=1189|end_char=1191
+9	20	20	NUM	_	NumType=Card	10	nummod	O	start_char=1192|end_char=1194
+10	Kg/cmê.	kg/cmê.	NOUN	_	Gender=Masc|Number=Plur	7	nmod	O	start_char=1195|end_char=1202
+11	.	.	PUNCT	_	_	5	punct	O	start_char=1202|end_char=1203
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-11
+# text = A baixa pressão estática e o fraturamento devem ser as cawãas da produção ' de gãs..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=1205|end_char=1206
+2	baixa	baixo	ADJ	_	Gender=Fem|Number=Sing	3	amod	O	start_char=1207|end_char=1212
+3	pressão	pressão	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	O	start_char=1213|end_char=1220
+4	estática	estático	ADJ	_	Gender=Fem|Number=Sing	3	amod	O	start_char=1221|end_char=1229
+5	e	e	CCONJ	_	_	7	cc	O	start_char=1230|end_char=1231
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	O	start_char=1232|end_char=1233
+7	fraturamento	fraturamento	NOUN	_	Gender=Masc|Number=Sing	3	conj	O	start_char=1234|end_char=1246
+8	devem	dever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=1247|end_char=1252
+9	ser	ser	AUX	_	VerbForm=Inf	11	cop	O	start_char=1253|end_char=1256
+10	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	O	start_char=1257|end_char=1259
+11	cawãas	cawãa	NOUN	_	Gender=Fem|Number=Plur	8	xcomp	O	start_char=1260|end_char=1266
+12-13	da	_	_	_	_	_	_	O	start_char=1267|end_char=1269
+12	de	de	ADP	_	_	14	case	O	_
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	O	_
+14	produção	produção	NOUN	_	Gender=Fem|Number=Sing	11	nmod	O	start_char=1270|end_char=1278
+15	'	'	PUNCT	_	_	17	punct	O	start_char=1279|end_char=1280
+16	de	de	ADP	_	_	17	case	O	start_char=1281|end_char=1283
+17	gãs	gã	NOUN	_	Gender=Fem|Number=Sing	14	nmod	O	start_char=1284|end_char=1287
+18	.	.	PUNCT	_	_	17	punct	O	start_char=1287|end_char=1288
+19	.	.	PUNCT	_	_	8	punct	O	start_char=1288|end_char=1289
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-12
+# text = RECOMENDAÇÕES: Isolar a zona 1..
+1	RECOMENDAÇÕES	recomendaçãe	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=1291|end_char=1304
+2	:	:	PUNCT	_	_	3	punct	O	start_char=1304|end_char=1305
+3	Isolar	isolar	VERB	_	VerbForm=Inf	1	parataxis	O	start_char=1306|end_char=1312
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	O	start_char=1313|end_char=1314
+5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obj	O	start_char=1315|end_char=1319
+6	1.	1.	NUM	_	NumType=Card	5	nummod	O	start_char=1320|end_char=1322
+7	.	.	PUNCT	_	_	1	punct	O	start_char=1322|end_char=1323
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-13
+# text = SZ-67 7530 - 960 - Testemunhos : nao obtidos
+1	SZ-67	SZ-67	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1325|end_char=1330
+2	7530	7530	NUM	_	NumType=Card	1	nummod	O	start_char=1331|end_char=1335
+3	-	-	PUNCT	_	_	4	punct	O	start_char=1336|end_char=1337
+4	960	960	NUM	_	NumType=Card	1	appos	O	start_char=1338|end_char=1341
+5	-	-	PUNCT	_	_	6	punct	O	start_char=1342|end_char=1343
+6	Testemunhos	testemunho	NOUN	_	Gender=Masc|Number=Plur	1	appos	O	start_char=1344|end_char=1355
+7	:	:	PUNCT	_	_	10	punct	O	start_char=1356|end_char=1357
+8-9	nao	_	_	_	_	_	_	O	start_char=1358|end_char=1361
+8	em	em	ADP	_	_	10	case	O	_
+9	ao	ao	ADP	_	_	10	case	O	_
+10	obtidos	obter	NOUN	_	Gender=Masc|Number=Plur	6	nmod	O	start_char=1362|end_char=1369
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-14
+# text = Perfis disponíveis : Laterolog, sônico, Raios Gama CBL : bom Estimulações : Acidificação da zona 2, intervalo 509,3-519,3 m, em 28~29/05/73..
+1	Perfis	perfi	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=1371|end_char=1377
+2	disponíveis	disponível	ADJ	_	Gender=Masc|Number=Plur	1	amod	O	start_char=1378|end_char=1389
+3	:	:	PUNCT	_	_	4	punct	O	start_char=1390|end_char=1391
+4	Laterolog	Laterolog	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=1392|end_char=1401
+5	,	,	PUNCT	_	_	6	punct	O	start_char=1401|end_char=1402
+6	sônico	sônico	NOUN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=1403|end_char=1409
+7	,	,	PUNCT	_	_	8	punct	O	start_char=1409|end_char=1410
+8	Raios	Raios	PROPN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=1411|end_char=1416
+9	Gama	Gama	PROPN	_	Number=Sing	8	flat:name	O	start_char=1417|end_char=1421
+10	CBL	CBL	PROPN	_	Number=Sing	8	flat:name	O	start_char=1422|end_char=1425
+11	:	:	PUNCT	_	_	13	punct	O	start_char=1426|end_char=1427
+12	bom	bom	ADJ	_	Gender=Masc|Number=Sing	13	amod	O	start_char=1428|end_char=1431
+13	Estimulações	Estimulações	PROPN	_	Gender=Fem|Number=Sing	1	appos	O	start_char=1432|end_char=1444
+14	:	:	PUNCT	_	_	15	punct	O	start_char=1445|end_char=1446
+15	Acidificação	Acidificação	PROPN	_	Gender=Fem|Number=Sing	13	appos	O	start_char=1447|end_char=1459
+16-17	da	_	_	_	_	_	_	O	start_char=1460|end_char=1462
+16	de	de	ADP	_	_	18	case	O	_
+17	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	O	_
+18	zona	zona	NOUN	_	Gender=Fem|Number=Sing	15	nmod	O	start_char=1463|end_char=1467
+19	2	2	NUM	_	NumType=Card	18	nummod	O	start_char=1468|end_char=1469
+20	,	,	PUNCT	_	_	21	punct	O	start_char=1469|end_char=1470
+21	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	15	conj	O	start_char=1471|end_char=1480
+22	509,3-519,3	509,3-519,3	NUM	_	NumType=Card	23	nummod	O	start_char=1481|end_char=1492
+23	m	m	NOUN	_	Gender=Masc|Number=Plur	21	nmod	O	start_char=1493|end_char=1494
+24	,	,	PUNCT	_	_	26	punct	O	start_char=1494|end_char=1495
+25	em	em	ADP	_	_	26	case	O	start_char=1496|end_char=1498
+26	28~29/05/73	28~29/05/73	NUM	_	NumType=Card	15	nmod	O	start_char=1499|end_char=1510
+27	.	.	PUNCT	_	_	26	punct	O	start_char=1510|end_char=1511
+28	.	.	PUNCT	_	_	1	punct	O	start_char=1511|end_char=1512
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-15
+# text = Comentários : Pretende-se injetar 70 m>/d na zona 2 e 30 m?/a na zona 3..
+1	Comentários	comentário	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=1514|end_char=1525
+2	:	:	PUNCT	_	_	3	punct	O	start_char=1526|end_char=1527
+3-4	Pretende-se	_	_	_	_	_	_	O	start_char=1528|end_char=1539
+3	Pretende	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	O	_
+4	se	se	PRON	_	Case=Acc|PronType=Prs	3	expl	O	_
+5	injetar	injetar	VERB	_	VerbForm=Inf	3	xcomp	O	start_char=1540|end_char=1547
+6	70	70	NUM	_	NumType=Card	7	nummod	O	start_char=1548|end_char=1550
+7	m>/d	m>/d	NOUN	_	Gender=Masc|Number=Plur	5	obj	O	start_char=1551|end_char=1555
+8-9	na	_	_	_	_	_	_	O	start_char=1556|end_char=1558
+8	em	em	ADP	_	_	10	case	O	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	O	_
+10	zona	zona	NOUN	_	Gender=Fem|Number=Sing	5	obl	O	start_char=1559|end_char=1563
+11	2	2	NUM	_	NumType=Card	10	nummod	O	start_char=1564|end_char=1565
+12	e	e	CCONJ	_	_	14	cc	O	start_char=1566|end_char=1567
+13	30	30	NUM	_	NumType=Card	14	nummod	O	start_char=1568|end_char=1570
+14	m	m	NOUN	_	Gender=Masc|Number=Plur	10	conj	O	start_char=1571|end_char=1572
+15	?	?	PUNCT	_	_	16	punct	O	start_char=1572|end_char=1573
+16	/a	/a	NOUN	_	Gender=Masc|Number=Sing	10	appos	O	start_char=1573|end_char=1575
+17-18	na	_	_	_	_	_	_	O	start_char=1576|end_char=1578
+17	em	em	ADP	_	_	19	case	O	_
+18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	O	_
+19	zona	zona	NOUN	_	Gender=Fem|Number=Sing	16	nmod	O	start_char=1579|end_char=1583
+20	3.	3.	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	19	amod	O	start_char=1584|end_char=1586
+21	.	.	PUNCT	_	_	1	punct	O	start_char=1586|end_char=1587
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-16
+# text = Poco produz atualmente 4,0 m>/a com valores baixos de BSW e RGO..
+1	Poco	Poco	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	B=POÇO	start_char=1589|end_char=1593
+2	produz	produzir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=1594|end_char=1600
+3	atualmente	atualmente	ADV	_	_	4	advmod	O	start_char=1601|end_char=1611
+4	4,0	4,0	NUM	_	NumType=Card	5	nummod	O	start_char=1612|end_char=1615
+5	m>/a	m>/a	NOUN	_	Gender=Masc|Number=Plur	2	obj	O	start_char=1616|end_char=1620
+6	com	com	ADP	_	_	7	case	O	start_char=1621|end_char=1624
+7	valores	valor	NOUN	_	Gender=Masc|Number=Plur	2	obl	O	start_char=1625|end_char=1632
+8	baixos	baixo	ADJ	_	Gender=Masc|Number=Plur	7	amod	O	start_char=1633|end_char=1639
+9	de	de	ADP	_	_	10	case	O	start_char=1640|end_char=1642
+10	BSW	BSW	PROPN	_	Gender=Masc|Number=Sing	7	nmod	O	start_char=1643|end_char=1646
+11	e	e	CCONJ	_	_	12	cc	O	start_char=1647|end_char=1648
+12	RGO	RGO	PROPN	_	Gender=Masc|Number=Sing	10	conj	O	start_char=1649|end_char=1652
+13	.	.	PUNCT	_	_	2	punct	O	start_char=1652|end_char=1653
+14	.	.	PUNCT	_	_	2	punct	O	start_char=1653|end_char=1654
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-17
+# text = Foi realizado teste de fechamento no fundo, seletivo, zona 1, para ' se saber da possibilidade de estimular a zona tes tada..
+1	Foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	O	start_char=1656|end_char=1659
+2	realizado	realizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1660|end_char=1669
+3	teste	teste	NOUN	_	Gender=Masc|Number=Sing	2	nsubj:pass	O	start_char=1670|end_char=1675
+4	de	de	ADP	_	_	5	case	O	start_char=1676|end_char=1678
+5	fechamento	fechamento	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=1679|end_char=1689
+6-7	no	_	_	_	_	_	_	O	start_char=1690|end_char=1692
+6	em	em	ADP	_	_	8	case	O	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	_
+8	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	2	obl	O	start_char=1693|end_char=1698
+9	,	,	PUNCT	_	_	10	punct	O	start_char=1698|end_char=1699
+10	seletivo	seletivo	ADJ	_	Gender=Masc|Number=Sing	8	amod	O	start_char=1700|end_char=1708
+11	,	,	PUNCT	_	_	12	punct	O	start_char=1708|end_char=1709
+12	zona	zona	NOUN	_	Gender=Fem|Number=Sing	8	conj	O	start_char=1710|end_char=1714
+13	1	1	NUM	_	NumType=Card	12	nummod	O	start_char=1715|end_char=1716
+14	,	,	PUNCT	_	_	2	punct	O	start_char=1716|end_char=1717
+15	para	para	SCONJ	_	_	18	mark	O	start_char=1718|end_char=1722
+16	'	'	PUNCT	_	_	18	punct	O	start_char=1723|end_char=1724
+17	se	se	PRON	_	Case=Acc|PronType=Prs	18	expl	O	start_char=1725|end_char=1727
+18	saber	saber	VERB	_	VerbForm=Inf	2	advcl	O	start_char=1728|end_char=1733
+19-20	da	_	_	_	_	_	_	O	start_char=1734|end_char=1736
+19	de	de	ADP	_	_	21	case	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	O	_
+21	possibilidade	possibilidade	NOUN	_	Gender=Fem|Number=Sing	18	obl:arg	O	start_char=1737|end_char=1750
+22	de	de	SCONJ	_	_	23	mark	O	start_char=1751|end_char=1753
+23	estimular	estimular	VERB	_	VerbForm=Inf	18	advcl	O	start_char=1754|end_char=1763
+24	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	O	start_char=1764|end_char=1765
+25	zona	zona	NOUN	_	Gender=Fem|Number=Sing	23	obj	O	start_char=1766|end_char=1770
+26	tes	tes	ADP	_	_	27	case	O	start_char=1771|end_char=1774
+27	tada	tada	NOUN	_	Gender=Fem|Number=Sing	25	nmod	O	start_char=1775|end_char=1779
+28	.	.	PUNCT	_	_	2	punct	O	start_char=1779|end_char=1780
+29	.	.	PUNCT	_	_	2	punct	O	start_char=1780|end_char=1781
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-18
+# text = A produção de agua contra-indicou a estimu lação..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=1783|end_char=1784
+2	produção	produção	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	O	start_char=1785|end_char=1793
+3	de	de	ADP	_	_	4	case	O	start_char=1794|end_char=1796
+4	agua	agua	NOUN	_	Gender=Fem|Number=Sing	2	nmod	B=FLUIDODATERRA_o	start_char=1797|end_char=1801
+5	contra-indicou	contra-indicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	start_char=1802|end_char=1816
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	O	start_char=1817|end_char=1818
+7	estimu	estimu	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	8	amod	O	start_char=1819|end_char=1825
+8	lação	lação	NOUN	_	Gender=Fem|Number=Sing	5	obj	O	start_char=1826|end_char=1831
+9	.	.	PUNCT	_	_	5	punct	O	start_char=1831|end_char=1832
+10	.	.	PUNCT	_	_	5	punct	O	start_char=1832|end_char=1833
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-19
+# text = Recomendações: Realizar testes de fechamento no fundo e de inje tividade na zona 2 e na zona 3 (a canhonear) apôs fm piamanaAa
+1	Recomendações	recomendação	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=1835|end_char=1848
+2	:	:	PUNCT	_	_	3	punct	O	start_char=1848|end_char=1849
+3	Realizar	realizar	VERB	_	VerbForm=Inf	1	parataxis	O	start_char=1850|end_char=1858
+4	testes	teste	NOUN	_	Gender=Masc|Number=Plur	3	obj	O	start_char=1859|end_char=1865
+5	de	de	ADP	_	_	6	case	O	start_char=1866|end_char=1868
+6	fechamento	fechamento	NOUN	_	Gender=Masc|Number=Sing	4	nmod	O	start_char=1869|end_char=1879
+7-8	no	_	_	_	_	_	_	O	start_char=1880|end_char=1882
+7	em	em	ADP	_	_	9	case	O	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	_
+9	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=1883|end_char=1888
+10	e	e	CCONJ	_	_	13	cc	O	start_char=1889|end_char=1890
+11	de	de	ADP	_	_	13	case	O	start_char=1891|end_char=1893
+12	inje	inje	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	O	start_char=1894|end_char=1898
+13	tividade	tividade	NOUN	_	Gender=Fem|Number=Sing	9	conj	O	start_char=1899|end_char=1907
+14-15	na	_	_	_	_	_	_	O	start_char=1908|end_char=1910
+14	em	em	ADP	_	_	16	case	O	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	O	_
+16	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obl	O	start_char=1911|end_char=1915
+17	2	2	NUM	_	NumType=Card	16	nummod	O	start_char=1916|end_char=1917
+18	e	e	CCONJ	_	_	21	cc	O	start_char=1918|end_char=1919
+19-20	na	_	_	_	_	_	_	O	start_char=1920|end_char=1922
+19	em	em	ADP	_	_	21	case	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	O	_
+21	zona	zona	NOUN	_	Gender=Fem|Number=Sing	16	conj	O	start_char=1923|end_char=1927
+22	3	3	NUM	_	NumType=Card	21	nummod	O	start_char=1928|end_char=1929
+23	(	(	PUNCT	_	_	25	punct	O	start_char=1930|end_char=1931
+24	a	a	SCONJ	_	_	25	mark	O	start_char=1931|end_char=1932
+25	canhonear	canhonear	VERB	_	VerbForm=Inf	3	advcl	O	start_char=1933|end_char=1942
+26	)	)	PUNCT	_	_	25	punct	O	start_char=1942|end_char=1943
+27	apôs	apôs	ADP	_	_	28	case	O	start_char=1944|end_char=1948
+28	fm	fm	NOUN	_	Gender=Fem|Number=Sing	21	nmod	O	start_char=1949|end_char=1951
+29	piamanaAa	piamanal	ADJ	_	Gender=Fem|Number=Sing	28	amod	O	start_char=1952|end_char=1961
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-20
+# text = Aa ans 3..
+1-2	Aa	_	_	_	_	_	_	O	start_char=1963|end_char=1965
+1	A	a	ADP	_	_	3	case	O	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	_
+3	ans	am	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=1966|end_char=1969
+4	3.	3.	NUM	_	NumType=Card	3	nummod	O	start_char=1970|end_char=1972
+5	.	.	PUNCT	_	_	3	punct	O	start_char=1972|end_char=1973
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-21
+# text = 82-51  BHQ = 95,0 m Revestimento : 5 1/2"0D, 17 lb/pé, N-80 Sapata : 606,66 m - Colar : 595,79 m zona 1 : 575,4-585,6 m - canhoneado Zona 2 : 590,5-610,1 m - não Contato 6leo-agua gradacional inicia-se a 594 m Testemunhos : não obtidos Perfis disponíveis : Laterolog, sônico e Raios Gama..
+1	82-51	82-51	NUM	_	NumType=Card	2	nummod	O	start_char=1975|end_char=1980
+2	BHQ	BHQ	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1982|end_char=1985
+3	=	=	PUNCT	_	_	5	punct	O	start_char=1986|end_char=1987
+4	95,0	95,0	NUM	_	NumType=Card	5	nummod	O	start_char=1988|end_char=1992
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	2	appos	O	start_char=1993|end_char=1994
+6	Revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	5	flat:foreign	O	start_char=1995|end_char=2007
+7	:	:	PUNCT	_	_	9	punct	O	start_char=2008|end_char=2009
+8	5	5	NUM	_	NumType=Card	9	conj	O	start_char=2010|end_char=2011
+9	1/2"0D	1/2"0d	NUM	_	NumType=Card	5	nummod	O	start_char=2012|end_char=2018
+10	,	,	PUNCT	_	_	12	punct	O	start_char=2018|end_char=2019
+11	17	17	NUM	_	NumType=Card	12	nummod	O	start_char=2020|end_char=2022
+12	lb/	lb/	NOUN	_	Gender=Masc|Number=Plur	9	conj	O	start_char=2023|end_char=2026
+13	pé	pé	NOUN	_	Gender=Masc|Number=Sing	12	nmod	O	start_char=2026|end_char=2028
+14	,	,	PUNCT	_	_	15	punct	O	start_char=2028|end_char=2029
+15	N-80	N-80	PROPN	_	Gender=Masc|Number=Sing	9	conj	O	start_char=2030|end_char=2034
+16	Sapata	Sapata	PROPN	_	Number=Sing	15	flat:name	O	start_char=2035|end_char=2041
+17	:	:	PUNCT	_	_	19	punct	O	start_char=2042|end_char=2043
+18	606,66	606,66	NUM	_	NumType=Card	19	nummod	O	start_char=2044|end_char=2050
+19	m	m	NOUN	_	Gender=Masc|Number=Plur	15	appos	O	start_char=2051|end_char=2052
+20	-	-	PUNCT	_	_	21	punct	O	start_char=2053|end_char=2054
+21	Colar	Colar	PROPN	_	Gender=Masc|Number=Sing	19	conj	O	start_char=2055|end_char=2060
+22	:	:	PUNCT	_	_	24	punct	O	start_char=2061|end_char=2062
+23	595,79	595,79	NUM	_	NumType=Card	24	nummod	O	start_char=2063|end_char=2069
+24	m	m	NOUN	_	Gender=Masc|Number=Plur	21	appos	O	start_char=2070|end_char=2071
+25	zona	zona	NOUN	_	Gender=Fem|Number=Sing	24	nmod	O	start_char=2072|end_char=2076
+26	1	1	NUM	_	NumType=Card	24	nummod	O	start_char=2077|end_char=2078
+27	:	:	PUNCT	_	_	29	punct	O	start_char=2079|end_char=2080
+28	575,4-585,6	575,4-585,6	NUM	_	NumType=Card	29	nummod	O	start_char=2081|end_char=2092
+29	m	m	NOUN	_	Gender=Masc|Number=Plur	24	appos	O	start_char=2093|end_char=2094
+30	-	-	PUNCT	_	_	31	punct	O	start_char=2095|end_char=2096
+31	canhoneado	canhonear	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	29	acl	O	start_char=2097|end_char=2107
+32	Zona	Zona	PROPN	_	Gender=Fem|Number=Sing	29	appos	O	start_char=2108|end_char=2112
+33	2	2	PROPN	_	Number=Sing	32	flat:name	O	start_char=2113|end_char=2114
+34	:	:	PUNCT	_	_	36	punct	O	start_char=2115|end_char=2116
+35	590,5-610,1	590,5-610,1	NUM	_	NumType=Card	36	nummod	O	start_char=2117|end_char=2128
+36	m	m	NOUN	_	Gender=Masc|Number=Plur	32	appos	O	start_char=2129|end_char=2130
+37	-	-	PUNCT	_	_	39	punct	O	start_char=2131|end_char=2132
+38	não	não	ADV	_	Polarity=Neg	39	advmod	O	start_char=2133|end_char=2136
+39	Contato	Contato	PROPN	_	Gender=Masc|Number=Sing	36	conj	O	start_char=2137|end_char=2144
+40	6leo-agua	6leo-agua	PROPN	_	Number=Sing	39	flat:name	O	start_char=2145|end_char=2154
+41	gradacional	gradacional	ADJ	_	Gender=Masc|Number=Sing	39	amod	O	start_char=2155|end_char=2166
+42-43	inicia-se	_	_	_	_	_	_	O	start_char=2167|end_char=2176
+42	inicia	iniciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	acl:relcl	O	_
+43	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	expl	O	_
+44	a	a	ADP	_	_	46	case	O	start_char=2177|end_char=2178
+45	594	594	NUM	_	NumType=Card	46	nummod	O	start_char=2179|end_char=2182
+46	m	m	NOUN	_	Gender=Masc|Number=Plur	42	obl	O	start_char=2183|end_char=2184
+47	Testemunhos	Testemunhos	PROPN	_	Gender=Masc|Number=Sing	46	nmod	O	start_char=2185|end_char=2196
+48	:	:	PUNCT	_	_	51	punct	O	start_char=2197|end_char=2198
+49	não	não	ADV	_	Polarity=Neg	50	advmod	O	start_char=2199|end_char=2202
+50	obtidos	obter	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	51	acl	O	start_char=2203|end_char=2210
+51	Perfis	perfi	NOUN	_	Gender=Masc|Number=Plur	46	appos	O	start_char=2211|end_char=2217
+52	disponíveis	disponível	ADJ	_	Gender=Masc|Number=Plur	51	amod	O	start_char=2218|end_char=2229
+53	:	:	PUNCT	_	_	54	punct	O	start_char=2230|end_char=2231
+54	Laterolog	Laterolog	PROPN	_	Gender=Masc|Number=Sing	51	appos	O	start_char=2232|end_char=2241
+55	,	,	PUNCT	_	_	56	punct	O	start_char=2241|end_char=2242
+56	sônico	sônico	NOUN	_	Gender=Masc|Number=Sing	54	conj	O	start_char=2243|end_char=2249
+57	e	e	CCONJ	_	_	58	cc	O	start_char=2250|end_char=2251
+58	Raios	Raios	PROPN	_	Gender=Masc|Number=Sing	54	conj	O	start_char=2252|end_char=2257
+59	Gama.	Gama.	PROPN	_	Number=Sing	58	flat:name	O	start_char=2258|end_char=2263
+60	.	.	PUNCT	_	_	2	punct	O	start_char=2263|end_char=2264
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-22
+# text = CBL : ruim | Estimulações : Nao realizadas Comentários : Pretende-se injetar 50 m>/a de Agua na zona 2..
+1	CBL	CBL	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2266|end_char=2269
+2	:	:	PUNCT	_	_	3	punct	O	start_char=2270|end_char=2271
+3	ruim	ruim	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	O	start_char=2272|end_char=2276
+4	|	|	PUNCT	_	_	5	punct	O	start_char=2277|end_char=2278
+5	Estimulações	estimulação	NOUN	_	Gender=Fem|Number=Plur	3	appos	O	start_char=2279|end_char=2291
+6	:	:	PUNCT	_	_	1	punct	O	start_char=2292|end_char=2293
+7-8	Nao	_	_	_	_	_	_	O	start_char=2294|end_char=2297
+7	Em	em	ADP	_	_	10	case	O	_
+8	ao	ao	ADP	_	_	10	case	O	_
+9	realizadas	realizar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	10	acl	O	start_char=2298|end_char=2308
+10	Comentários	Comentários	PROPN	_	Gender=Masc|Number=Plur	3	obl	O	start_char=2309|end_char=2320
+11	:	:	PUNCT	_	_	1	punct	O	start_char=2321|end_char=2322
+12-13	Pretende-se	_	_	_	_	_	_	O	start_char=2323|end_char=2334
+12	Pretende	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	O	_
+13	se	se	PRON	_	Case=Acc|PronType=Prs	12	expl	O	_
+14	injetar	injetar	VERB	_	VerbForm=Inf	12	xcomp	O	start_char=2335|end_char=2342
+15	50	50	NUM	_	NumType=Card	16	nummod	O	start_char=2343|end_char=2345
+16	m>/a	m>/a	NOUN	_	Gender=Masc|Number=Plur	14	obj	O	start_char=2346|end_char=2350
+17	de	de	ADP	_	_	18	case	O	start_char=2351|end_char=2353
+18	Agua	Agua	PROPN	_	Gender=Fem|Number=Sing	16	nmod	O	start_char=2354|end_char=2358
+19-20	na	_	_	_	_	_	_	O	start_char=2359|end_char=2361
+19	em	em	ADP	_	_	21	case	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	O	_
+21	zona	zona	NOUN	_	Gender=Fem|Number=Sing	14	obl	O	start_char=2362|end_char=2366
+22	2.	2.	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	21	amod	O	start_char=2367|end_char=2369
+23	.	.	PUNCT	_	_	1	punct	O	start_char=2369|end_char=2370
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-23
+# text = Recomendações: Necessário isolar a zona 1..
+1	Recomendações	recomendação	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=2372|end_char=2385
+2	:	:	PUNCT	_	_	3	punct	O	start_char=2385|end_char=2386
+3	Necessário	necessário	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	O	start_char=2387|end_char=2397
+4	isolar	isolar	VERB	_	VerbForm=Inf	3	csubj	O	start_char=2398|end_char=2404
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	O	start_char=2405|end_char=2406
+6	zona	zona	NOUN	_	Gender=Fem|Number=Sing	4	obj	O	start_char=2407|end_char=2411
+7	1.	1.	NUM	_	NumType=Card	6	nummod	O	start_char=2412|end_char=2414
+8	.	.	PUNCT	_	_	1	punct	O	start_char=2414|end_char=2415
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-24
+# text = Canhonear a zona 2 e realizar testes de fechamei to no fundo e injetividade nesta zona..
+1	Canhonear	canhonear	VERB	_	VerbForm=Inf	0	root	O	start_char=2417|end_char=2426
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=2427|end_char=2428
+3	zona	zona	NOUN	_	Gender=Fem|Number=Sing	1	obj	O	start_char=2429|end_char=2433
+4	2	2	NUM	_	NumType=Card	3	nummod	O	start_char=2434|end_char=2435
+5	e	e	CCONJ	_	_	6	cc	O	start_char=2436|end_char=2437
+6	realizar	realizar	VERB	_	VerbForm=Inf	1	conj	O	start_char=2438|end_char=2446
+7	testes	teste	NOUN	_	Gender=Masc|Number=Plur	6	obj	O	start_char=2447|end_char=2453
+8	de	de	ADP	_	_	9	mark	O	start_char=2454|end_char=2456
+9	fechamei	fechamer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl	O	start_char=2457|end_char=2465
+10	to	to	X	_	_	9	obj	O	start_char=2466|end_char=2468
+11-12	no	_	_	_	_	_	_	O	start_char=2469|end_char=2471
+11	em	em	ADP	_	_	13	case	O	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	O	_
+13	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	9	obl	O	start_char=2472|end_char=2477
+14	e	e	CCONJ	_	_	15	cc	O	start_char=2478|end_char=2479
+15	injetividade	injetividade	NOUN	_	Gender=Fem|Number=Sing	13	conj	O	start_char=2480|end_char=2492
+16-17	nesta	_	_	_	_	_	_	O	start_char=2493|end_char=2498
+16	em	em	ADP	_	_	18	case	O	_
+17	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	18	det	O	_
+18	zona	zona	NOUN	_	Gender=Fem|Number=Sing	15	nmod	O	start_char=2499|end_char=2503
+19	.	.	PUNCT	_	_	1	punct	O	start_char=2503|end_char=2504
+20	.	.	PUNCT	_	_	1	punct	O	start_char=2504|end_char=2505
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-25
+# text = -2-7530 - 960 - SZ7..
+1	-2-7530	-2-7530	NUM	_	NumType=Card	5	nummod	O	start_char=2507|end_char=2514
+2	-	-	PUNCT	_	_	1	punct	O	start_char=2515|end_char=2516
+3	960	960	NUM	_	NumType=Card	5	nummod	O	start_char=2517|end_char=2520
+4	-	-	PUNCT	_	_	5	punct	O	start_char=2521|end_char=2522
+5	SZ7.	SZ7.	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2523|end_char=2527
+6	.	.	PUNCT	_	_	5	punct	O	start_char=2527|end_char=2528
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-26
+# text = Revestimento : 5 1/2"0D, 17 lb/pe, N-80 Sapata : 552,64 m - Colar : 544,05 m Zona 1 : 437,2-449,3 m - canhoneado Zona 2 : 459,5-468,7 m - canhoneado zona 3 : 485-518 m Zona 4 : 524-597 m Contato ôleo-água transacional a partir de 469 m (zona 3)
+1	Revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2530|end_char=2542
+2	:	:	PUNCT	_	_	4	punct	O	start_char=2543|end_char=2544
+3	5	5	NUM	_	NumType=Card	4	nummod	O	start_char=2545|end_char=2546
+4	1/2"0D	1/2"0d	NUM	_	NumType=Card	1	appos	O	start_char=2547|end_char=2553
+5	,	,	PUNCT	_	_	7	punct	O	start_char=2553|end_char=2554
+6	17	17	NUM	_	NumType=Card	7	nummod	O	start_char=2555|end_char=2557
+7	lb/pe	lb/pe	NOUN	_	Gender=Masc|Number=Plur	4	conj	O	start_char=2558|end_char=2563
+8	,	,	PUNCT	_	_	9	punct	O	start_char=2563|end_char=2564
+9	N-80	N-80	PROPN	_	Gender=Masc|Number=Sing	7	appos	O	start_char=2565|end_char=2569
+10	Sapata	Sapata	PROPN	_	Number=Sing	9	flat:name	O	start_char=2570|end_char=2576
+11	:	:	PUNCT	_	_	13	punct	O	start_char=2577|end_char=2578
+12	552,64	552,64	NUM	_	NumType=Card	13	nummod	O	start_char=2579|end_char=2585
+13	m	m	NOUN	_	Gender=Masc|Number=Plur	9	appos	O	start_char=2586|end_char=2587
+14	-	-	PUNCT	_	_	15	punct	O	start_char=2588|end_char=2589
+15	Colar	Colar	PROPN	_	Gender=Masc|Number=Sing	13	conj	O	start_char=2590|end_char=2595
+16	:	:	PUNCT	_	_	18	punct	O	start_char=2596|end_char=2597
+17	544,05	544,05	NUM	_	NumType=Card	18	nummod	O	start_char=2598|end_char=2604
+18	m	m	NOUN	_	Gender=Masc|Number=Plur	13	appos	O	start_char=2605|end_char=2606
+19	Zona	Zona	PROPN	_	Gender=Fem|Number=Sing	18	nmod	O	start_char=2607|end_char=2611
+20	1	1	NUM	_	NumType=Card	19	flat:name	O	start_char=2612|end_char=2613
+21	:	:	PUNCT	_	_	23	punct	O	start_char=2614|end_char=2615
+22	437,2-449,3	437,2-449,3	NUM	_	NumType=Card	23	nummod	O	start_char=2616|end_char=2627
+23	m	m	NOUN	_	Gender=Masc|Number=Plur	18	appos	O	start_char=2628|end_char=2629
+24	-	-	PUNCT	_	_	25	punct	O	start_char=2630|end_char=2631
+25	canhoneado	canhonear	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	23	acl	O	start_char=2632|end_char=2642
+26	Zona	Zona	PROPN	_	Gender=Fem|Number=Sing	23	appos	O	start_char=2643|end_char=2647
+27	2	2	PROPN	_	Number=Sing	26	flat:name	O	start_char=2648|end_char=2649
+28	:	:	PUNCT	_	_	30	punct	O	start_char=2650|end_char=2651
+29	459,5-468,7	459,5-468,7	NUM	_	NumType=Card	30	nummod	O	start_char=2652|end_char=2663
+30	m	m	NOUN	_	Gender=Masc|Number=Plur	26	appos	O	start_char=2664|end_char=2665
+31	-	-	PUNCT	_	_	32	punct	O	start_char=2666|end_char=2667
+32	canhoneado	canhonear	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	30	acl	O	start_char=2668|end_char=2678
+33	zona	zona	NOUN	_	Gender=Fem|Number=Sing	30	conj	O	start_char=2679|end_char=2683
+34	3	3	NUM	_	NumType=Card	33	nummod	O	start_char=2684|end_char=2685
+35	:	:	PUNCT	_	_	37	punct	O	start_char=2686|end_char=2687
+36	485-518	485-518	NUM	_	NumType=Card	37	nummod	O	start_char=2688|end_char=2695
+37	m	m	NOUN	_	Gender=Masc|Number=Plur	33	appos	O	start_char=2696|end_char=2697
+38	Zona	Zona	PROPN	_	Gender=Fem|Number=Sing	37	nmod	O	start_char=2698|end_char=2702
+39	4	4	NUM	_	NumType=Card	38	flat:name	O	start_char=2703|end_char=2704
+40	:	:	PUNCT	_	_	42	punct	O	start_char=2705|end_char=2706
+41	524-597	524-597	NUM	_	NumType=Card	42	nummod	O	start_char=2707|end_char=2714
+42	m	m	NOUN	_	Gender=Masc|Number=Plur	37	appos	O	start_char=2715|end_char=2716
+43	Contato	contato	ADJ	_	Gender=Masc|Number=Sing	42	amod	O	start_char=2717|end_char=2724
+44	ôleo-água	ôleo-água	NOUN	_	Gender=Masc|Number=Sing	42	nmod	O	start_char=2725|end_char=2734
+45	transacional	transacional	ADJ	_	Gender=Masc|Number=Sing	42	amod	O	start_char=2735|end_char=2747
+46	a	a	ADP	_	_	50	case	O	start_char=2748|end_char=2749
+47	partir	partir	NOUN	_	_	46	fixed	O	start_char=2750|end_char=2756
+48	de	de	ADP	_	_	46	fixed	O	start_char=2757|end_char=2759
+49	469	469	NUM	_	NumType=Card	50	nummod	O	start_char=2760|end_char=2763
+50	m	m	NOUN	_	Gender=Masc|Number=Plur	42	nmod	O	start_char=2764|end_char=2765
+51	(	(	PUNCT	_	_	52	punct	O	start_char=2766|end_char=2767
+52	zona	zona	NOUN	_	Gender=Fem|Number=Sing	50	appos	O	start_char=2767|end_char=2771
+53	3	3	NUM	_	NumType=Card	52	nummod	O	start_char=2772|end_char=2773
+54	)	)	PUNCT	_	_	52	punct	O	start_char=2773|end_char=2774
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-27
+# text = Testemunhos : nao obtidos
+1	Testemunhos	testemunho	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2776|end_char=2787
+2	:	:	PUNCT	_	_	5	punct	O	start_char=2788|end_char=2789
+3-4	nao	_	_	_	_	_	_	O	start_char=2790|end_char=2793
+3	em	em	ADP	_	_	5	case	O	_
+4	ao	ao	ADP	_	_	5	case	O	_
+5	obtidos	obter	NOUN	_	Gender=Masc|Number=Plur	1	nmod	O	start_char=2794|end_char=2801
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-28
+# text = Perfis corridos : Laterolog, sônico e raios gama..
+1	Perfis	perfi	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2803|end_char=2809
+2	corridos	correr	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	1	acl	O	start_char=2810|end_char=2818
+3	:	:	PUNCT	_	_	4	punct	O	start_char=2819|end_char=2820
+4	Laterolog	Laterolog	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=2821|end_char=2830
+5	,	,	PUNCT	_	_	6	punct	O	start_char=2830|end_char=2831
+6	sônico	sônico	NOUN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=2832|end_char=2838
+7	e	e	CCONJ	_	_	8	cc	O	start_char=2839|end_char=2840
+8	raios	raio	NOUN	_	Gender=Masc|Number=Plur	4	conj	O	start_char=2841|end_char=2846
+9	gama.	gama.	ADJ	_	Gender=Masc|Number=Plur	8	amod	O	start_char=2847|end_char=2852
+10	.	.	PUNCT	_	_	1	punct	O	start_char=2852|end_char=2853
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-29
+# text = Comentários : Pretende-se injetar 50 m>/a nas zonas 2 e 3 res-pectivamente..
+1	Comentários	comentário	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2855|end_char=2866
+2	:	:	PUNCT	_	_	3	punct	O	start_char=2867|end_char=2868
+3-4	Pretende-se	_	_	_	_	_	_	O	start_char=2869|end_char=2880
+3	Pretende	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	O	_
+4	se	se	PRON	_	Case=Acc|PronType=Prs	3	expl	O	_
+5	injetar	injetar	VERB	_	VerbForm=Inf	3	xcomp	O	start_char=2881|end_char=2888
+6	50	50	NUM	_	NumType=Card	7	nummod	O	start_char=2889|end_char=2891
+7	m>/a	m>/a	NOUN	_	Gender=Masc|Number=Plur	5	obj	O	start_char=2892|end_char=2896
+8-9	nas	_	_	_	_	_	_	O	start_char=2897|end_char=2900
+8	em	em	ADP	_	_	10	case	O	_
+9	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	O	_
+10	zonas	zona	NOUN	_	Gender=Fem|Number=Plur	5	obl	O	start_char=2901|end_char=2906
+11	2	2	NUM	_	NumType=Card	10	nummod	O	start_char=2907|end_char=2908
+12	e	e	CCONJ	_	_	13	cc	O	start_char=2909|end_char=2910
+13	3	3	NUM	_	NumType=Card	11	conj	O	start_char=2911|end_char=2912
+14	res-pectivamente	res-pectivamente	ADV	_	_	5	advmod	O	start_char=2913|end_char=2929
+15	.	.	PUNCT	_	_	1	punct	O	start_char=2929|end_char=2930
+16	.	.	PUNCT	_	_	1	punct	O	start_char=2930|end_char=2931
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-30
+# text = Serã necessário isolar a zona 1, e canhonear a zona 3..
+1	Serã	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	cop	O	start_char=2933|end_char=2937
+2	necessário	necessário	ADJ	_	Gender=Masc|Number=Sing	0	root	O	start_char=2938|end_char=2948
+3	isolar	isolar	VERB	_	VerbForm=Inf	2	csubj	O	start_char=2949|end_char=2955
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	O	start_char=2956|end_char=2957
+5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obj	O	start_char=2958|end_char=2962
+6	1	1	NUM	_	NumType=Card	5	nummod	O	start_char=2963|end_char=2964
+7	,	,	PUNCT	_	_	9	punct	O	start_char=2964|end_char=2965
+8	e	e	CCONJ	_	_	9	cc	O	start_char=2966|end_char=2967
+9	canhonear	canhonear	VERB	_	VerbForm=Inf	3	conj	O	start_char=2968|end_char=2977
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	O	start_char=2978|end_char=2979
+11	zona	zona	NOUN	_	Gender=Fem|Number=Sing	9	obj	O	start_char=2980|end_char=2984
+12	3..	3..	NUM	_	NumType=Card	11	nummod	O	start_char=2985|end_char=2988
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-31
+# text = O único teste realizado foi em AGO/69 e amostrou um dano de 4..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	O	start_char=2990|end_char=2991
+2	único	único	ADJ	_	Gender=Masc|Number=Sing	3	amod	O	start_char=2992|end_char=2997
+3	teste	teste	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	O	start_char=2998|end_char=3003
+4	realizado	realizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	O	start_char=3004|end_char=3013
+5	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	O	start_char=3014|end_char=3017
+6	em	em	ADP	_	_	7	case	O	start_char=3018|end_char=3020
+7	AGO/69	AGO/69	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3021|end_char=3027
+8	e	e	CCONJ	_	_	9	cc	O	start_char=3028|end_char=3029
+9	amostrou	amostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	O	start_char=3030|end_char=3038
+10	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	O	start_char=3039|end_char=3041
+11	dano	dano	NOUN	_	Gender=Masc|Number=Sing	9	obj	O	start_char=3042|end_char=3046
+12	de	de	ADP	_	_	13	case	O	start_char=3047|end_char=3049
+13	4..	4..	NUM	_	NumType=Card	11	nummod	O	start_char=3050|end_char=3053
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-32
+# text = O poço situa-se na região de capa de gas e um fraturamento pro vavelmente faria aumentar a RGO e o BSW..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=3055|end_char=3056
+2	poço	poço	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	B=POÇO	start_char=3057|end_char=3061
+3-4	situa-se	_	_	_	_	_	_	O	start_char=3062|end_char=3070
+3	situa	situar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	_
+4	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	O	_
+5-6	na	_	_	_	_	_	_	O	start_char=3071|end_char=3073
+5	em	em	ADP	_	_	7	case	O	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	O	_
+7	região	região	NOUN	_	Gender=Fem|Number=Sing	3	obl	O	start_char=3074|end_char=3080
+8	de	de	ADP	_	_	9	case	O	start_char=3081|end_char=3083
+9	capa	capa	NOUN	_	Gender=Fem|Number=Sing	7	nmod	O	start_char=3084|end_char=3088
+10	de	de	ADP	_	_	11	case	O	start_char=3089|end_char=3091
+11	gas	gas	NOUN	_	Gender=Masc|Number=Sing	9	nmod	O	start_char=3092|end_char=3095
+12	e	e	CCONJ	_	_	14	cc	O	start_char=3096|end_char=3097
+13	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	O	start_char=3098|end_char=3100
+14	fraturamento	fraturamento	NOUN	_	Gender=Masc|Number=Sing	7	conj	O	start_char=3101|end_char=3113
+15	pro	pro	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	O	start_char=3114|end_char=3117
+16	vavelmente	vavelmente	ADV	_	_	17	advmod	O	start_char=3118|end_char=3128
+17	faria	fazer	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	conj	O	start_char=3129|end_char=3134
+18	aumentar	aumentar	VERB	_	VerbForm=Inf	17	xcomp	O	start_char=3135|end_char=3143
+19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	O	start_char=3144|end_char=3145
+20	RGO	RGO	PROPN	_	Gender=Fem|Number=Sing	18	obj	O	start_char=3146|end_char=3149
+21	e	e	CCONJ	_	_	23	cc	O	start_char=3150|end_char=3151
+22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	O	start_char=3152|end_char=3153
+23	BSW	BSW	PROPN	_	Gender=Masc|Number=Sing	20	conj	O	start_char=3154|end_char=3157
+24	.	.	PUNCT	_	_	23	flat:name	O	start_char=3157|end_char=3158
+25	.	.	PUNCT	_	_	3	punct	O	start_char=3158|end_char=3159
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-33
+# text = Atual - mente o poço produz em torno de 6,0 m>/a ea , pressão estática do SZ-15, adjacente, @ igual a 29 kg/em2..
+1	Atual	atual	ADJ	_	Gender=Masc|Number=Sing	3	amod	O	start_char=3161|end_char=3166
+2	-	-	PUNCT	_	_	1	punct	O	start_char=3167|end_char=3168
+3	mente	mente	NOUN	_	Gender=Fem|Number=Sing	6	obl	O	start_char=3169|end_char=3174
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	O	start_char=3175|end_char=3176
+5	poço	poço	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	B=POÇO	start_char=3177|end_char=3181
+6	produz	produzir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=3182|end_char=3188
+7	em	em	ADP	_	_	11	case	O	start_char=3189|end_char=3191
+8	torno	torno	NOUN	_	Gender=Masc|Number=Sing	7	fixed	O	start_char=3192|end_char=3197
+9	de	de	ADP	_	_	7	fixed	O	start_char=3198|end_char=3200
+10	6,0	6,0	NUM	_	NumType=Card	11	nummod	O	start_char=3201|end_char=3204
+11	m>/a	m>/a	NOUN	_	Gender=Masc|Number=Sing	6	obl	O	start_char=3205|end_char=3209
+12	ea	ea	NOUN	_	Gender=Masc|Number=Sing	11	compound	O	start_char=3210|end_char=3212
+13	,	,	PUNCT	_	_	14	punct	O	start_char=3213|end_char=3214
+14	pressão	pressão	NOUN	_	Gender=Fem|Number=Sing	11	conj	O	start_char=3215|end_char=3222
+15	estática	estático	ADJ	_	Gender=Fem|Number=Sing	14	amod	O	start_char=3223|end_char=3231
+16-17	do	_	_	_	_	_	_	O	start_char=3232|end_char=3234
+16	de	de	ADP	_	_	18	case	O	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	O	_
+18	SZ-15	SZ-15	PROPN	_	Gender=Masc|Number=Sing	14	nmod	O	start_char=3235|end_char=3240
+19	,	,	PUNCT	_	_	20	punct	O	start_char=3240|end_char=3241
+20	adjacente	adjacente	ADJ	_	Gender=Fem|Number=Sing	14	amod	O	start_char=3242|end_char=3251
+21	,	,	PUNCT	_	_	22	punct	O	start_char=3251|end_char=3252
+22	@	@	NOUN	_	Gender=Masc|Number=Sing	11	conj	O	start_char=3253|end_char=3254
+23	igual	igual	ADJ	_	Gender=Masc|Number=Sing	22	amod	O	start_char=3255|end_char=3260
+24	a	a	ADP	_	_	26	case	O	start_char=3261|end_char=3262
+25	29	29	NUM	_	NumType=Card	26	nummod	O	start_char=3263|end_char=3265
+26	kg/em2	kg/em2	NOUN	_	Gender=Masc|Number=Plur	23	obl	O	start_char=3266|end_char=3272
+27	.	.	PUNCT	_	_	6	punct	O	start_char=3272|end_char=3273
+28	.	.	PUNCT	_	_	6	punct	O	start_char=3273|end_char=3274
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-34
+# text = Recomendações: Realizar teste de fechamento no fundo e teste de injetividade na zona 2..
+1	Recomendações	recomendação	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=3276|end_char=3289
+2	:	:	PUNCT	_	_	3	punct	O	start_char=3289|end_char=3290
+3	Realizar	realizar	VERB	_	VerbForm=Inf	1	parataxis	O	start_char=3291|end_char=3299
+4	teste	teste	NOUN	_	Gender=Masc|Number=Sing	3	obj	O	start_char=3300|end_char=3305
+5	de	de	ADP	_	_	6	case	O	start_char=3306|end_char=3308
+6	fechamento	fechamento	NOUN	_	Gender=Masc|Number=Sing	4	nmod	O	start_char=3309|end_char=3319
+7-8	no	_	_	_	_	_	_	O	start_char=3320|end_char=3322
+7	em	em	ADP	_	_	9	case	O	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	_
+9	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=3323|end_char=3328
+10	e	e	CCONJ	_	_	11	cc	O	start_char=3329|end_char=3330
+11	teste	teste	NOUN	_	Gender=Masc|Number=Sing	9	conj	O	start_char=3331|end_char=3336
+12	de	de	ADP	_	_	13	case	O	start_char=3337|end_char=3339
+13	injetividade	injetividade	NOUN	_	Gender=Fem|Number=Sing	11	nmod	O	start_char=3340|end_char=3352
+14-15	na	_	_	_	_	_	_	O	start_char=3353|end_char=3355
+14	em	em	ADP	_	_	16	case	O	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	O	_
+16	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obl	O	start_char=3356|end_char=3360
+17	2.	2.	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	16	amod	O	start_char=3361|end_char=3363
+18	.	.	PUNCT	_	_	1	punct	O	start_char=3363|end_char=3364
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-35
+# text = Apôs canhoneio da zona 3, fazer teste de fecha - wm waa funds bens Sa Tso a 7530 - 960 - Form..
+1	Apôs	apôs	ADP	_	_	2	case	O	start_char=3366|end_char=3370
+2	canhoneio	canhoneio	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3371|end_char=3380
+3-4	da	_	_	_	_	_	_	O	start_char=3381|end_char=3383
+3	de	de	ADP	_	_	5	case	O	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	O	_
+5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=3384|end_char=3388
+6	3	3	NUM	_	NumType=Card	5	nummod	O	start_char=3389|end_char=3390
+7	,	,	PUNCT	_	_	8	punct	O	start_char=3390|end_char=3391
+8	fazer	fazer	VERB	_	VerbForm=Inf	2	acl	O	start_char=3392|end_char=3397
+9	teste	teste	NOUN	_	Gender=Masc|Number=Sing	8	obj	O	start_char=3398|end_char=3403
+10	de	de	ADP	_	_	11	case	O	start_char=3404|end_char=3406
+11	fecha	fechar	NOUN	_	Gender=Fem|Number=Sing	9	nmod	O	start_char=3407|end_char=3412
+12	-	-	PUNCT	_	_	13	punct	O	start_char=3413|end_char=3414
+13	wm	wm	X	_	_	11	appos	O	start_char=3415|end_char=3417
+14	waa	waa	X	_	_	13	flat:foreign	O	start_char=3418|end_char=3421
+15	funds	funds	X	_	_	13	flat:foreign	O	start_char=3422|end_char=3427
+16	bens	bem	X	_	_	13	flat:foreign	O	start_char=3428|end_char=3432
+17	Sa	Sa	PROPN	_	Gender=Masc|Number=Sing	13	flat:foreign	O	start_char=3433|end_char=3435
+18	Tso	Tso	PROPN	_	Number=Sing	13	flat:foreign	O	start_char=3436|end_char=3439
+19	a	a	ADP	_	_	20	case	O	start_char=3440|end_char=3441
+20	7530	7530	NUM	_	NumType=Card	17	flat:name	O	start_char=3442|end_char=3446
+21	-	-	PUNCT	_	_	22	punct	O	start_char=3447|end_char=3448
+22	960	960	NUM	_	NumType=Card	20	conj	O	start_char=3449|end_char=3452
+23	-	-	PUNCT	_	_	24	punct	O	start_char=3453|end_char=3454
+24	Form.	Form.	PROPN	_	Gender=Masc|Number=Sing	22	conj	O	start_char=3455|end_char=3460
+25	.	.	PUNCT	_	_	8	punct	O	start_char=3460|end_char=3461
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-36
+# text = Bananeiras : 645,1-65/,4 m Contato gásfgua a 404 m na zona anômala Contato Sleo-agua a 513 m na zona 3 - gradacional
+1	Bananeiras	bananeira	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	O	start_char=3463|end_char=3473
+2	:	:	PUNCT	_	_	4	punct	O	start_char=3474|end_char=3475
+3	645,1-65/,4	645,1-65/,4	NUM	_	NumType=Card	4	nummod	O	start_char=3476|end_char=3487
+4	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	O	start_char=3488|end_char=3489
+5	Contato	Contato	PROPN	_	Gender=Masc|Number=Sing	4	nmod	O	start_char=3490|end_char=3497
+6	gásfgua	gásfguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=3498|end_char=3505
+7	a	a	ADP	_	_	9	case	O	start_char=3506|end_char=3507
+8	404	404	NUM	_	NumType=Card	9	nummod	O	start_char=3508|end_char=3511
+9	m	m	NOUN	_	Gender=Masc|Number=Plur	6	obl:arg	O	start_char=3512|end_char=3513
+10-11	na	_	_	_	_	_	_	O	start_char=3514|end_char=3516
+10	em	em	ADP	_	_	12	case	O	_
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	O	_
+12	zona	zona	NOUN	_	Gender=Fem|Number=Sing	6	obl	O	start_char=3517|end_char=3521
+13	anômala	anômalo	ADJ	_	Gender=Fem|Number=Sing	12	amod	O	start_char=3522|end_char=3529
+14	Contato	Contato	PROPN	_	Gender=Masc|Number=Sing	12	nmod	O	start_char=3530|end_char=3537
+15	Sleo-agua	Sleo-agua	PROPN	_	Number=Sing	14	flat:name	O	start_char=3538|end_char=3547
+16	a	a	ADP	_	_	18	case	O	start_char=3548|end_char=3549
+17	513	513	NUM	_	NumType=Card	18	nummod	O	start_char=3550|end_char=3553
+18	m	m	NOUN	_	Gender=Masc|Number=Plur	12	nmod	O	start_char=3554|end_char=3555
+19-20	na	_	_	_	_	_	_	O	start_char=3556|end_char=3558
+19	em	em	ADP	_	_	21	case	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	O	_
+21	zona	zona	NOUN	_	Gender=Fem|Number=Sing	6	obl	O	start_char=3559|end_char=3563
+22	3	3	NUM	_	NumType=Card	21	nummod	O	start_char=3564|end_char=3565
+23	-	-	PUNCT	_	_	24	punct	O	start_char=3566|end_char=3567
+24	gradacional	gradacional	ADJ	_	Gender=Masc|Number=Sing	21	amod	O	start_char=3568|end_char=3579
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-37
+# text = Perfis disponíveis : Laterolog, sônico, Raios Gama..
+1	Perfis	perfi	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=3581|end_char=3587
+2	disponíveis	disponível	ADJ	_	Gender=Masc|Number=Plur	1	amod	O	start_char=3588|end_char=3599
+3	:	:	PUNCT	_	_	4	punct	O	start_char=3600|end_char=3601
+4	Laterolog	Laterolog	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=3602|end_char=3611
+5	,	,	PUNCT	_	_	6	punct	O	start_char=3611|end_char=3612
+6	sônico	sônico	NOUN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=3613|end_char=3619
+7	,	,	PUNCT	_	_	8	punct	O	start_char=3619|end_char=3620
+8	Raios	Raios	PROPN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=3621|end_char=3626
+9	Gama.	Gama.	PROPN	_	Number=Sing	8	flat:name	O	start_char=3627|end_char=3632
+10	.	.	PUNCT	_	_	1	punct	O	start_char=3632|end_char=3633
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-38
+# text = Testemunhos : não foram obtidos CBL - regular
+1	Testemunhos	testemunho	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=3635|end_char=3646
+2	:	:	PUNCT	_	_	5	punct	O	start_char=3647|end_char=3648
+3	não	não	ADV	_	Polarity=Neg	5	advmod	O	start_char=3649|end_char=3652
+4	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	5	aux:pass	O	start_char=3653|end_char=3658
+5	obtidos	obter	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	1	parataxis	O	start_char=3659|end_char=3666
+6	CBL	CBL	PROPN	_	Gender=Masc|Number=Sing	5	nsubj:pass	B=POÇO	start_char=3667|end_char=3670
+7	-	-	PUNCT	_	_	8	punct	O	start_char=3671|end_char=3672
+8	regular	regular	NOUN	_	Gender=Masc|Number=Sing	6	appos	O	start_char=3673|end_char=3680
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-39
+# text = Estimulações : As zonas 1 e 2 foram fraturadas em 03/10/69
+1	Estimulações	estimulação	NOUN	_	Gender=Fem|Number=Plur	9	nsubj:pass	O	start_char=3682|end_char=3694
+2	:	:	PUNCT	_	_	9	punct	O	start_char=3695|end_char=3696
+3	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	O	start_char=3697|end_char=3699
+4	zonas	zona	NOUN	_	Gender=Fem|Number=Plur	9	nsubj:pass	O	start_char=3700|end_char=3705
+5	1	1	NUM	_	NumType=Card	4	nummod	O	start_char=3706|end_char=3707
+6	e	e	CCONJ	_	_	7	cc	O	start_char=3708|end_char=3709
+7	2	2	NUM	_	NumType=Card	5	conj	O	start_char=3710|end_char=3711
+8	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	9	aux:pass	O	start_char=3712|end_char=3717
+9	fraturadas	fraturar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=3718|end_char=3728
+10	em	em	ADP	_	_	11	case	O	start_char=3729|end_char=3731
+11	03/10/69	03/10/69	NUM	_	NumType=Card	9	obl	O	start_char=3732|end_char=3740
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-40
+# text = Condições atuais : fechado - último BSW = 78% Comentários : Pretende-se injetar 50 m>/a na zona 2 e 50 m>/na zona 3..
+1	Condições	condição	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=3742|end_char=3751
+2	atuais	atual	ADJ	_	Gender=Fem|Number=Plur	1	amod	O	start_char=3752|end_char=3758
+3	:	:	PUNCT	_	_	4	punct	O	start_char=3759|end_char=3760
+4	fechado	fechar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	O	start_char=3761|end_char=3768
+5	-	-	PUNCT	_	_	7	punct	O	start_char=3769|end_char=3770
+6	último	último	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	7	amod	O	start_char=3771|end_char=3777
+7	BSW	BSW	PROPN	_	Gender=Masc|Number=Sing	4	obl	O	start_char=3778|end_char=3781
+8	=	=	PUNCT	_	_	10	punct	O	start_char=3782|end_char=3783
+9	78	78	NUM	_	NumType=Card	10	nummod	O	start_char=3784|end_char=3786
+10	%	%	SYM	_	_	7	appos	O	start_char=3786|end_char=3787
+11	Comentários	comentário	ADJ	_	Gender=Masc|Number=Plur	10	amod	O	start_char=3788|end_char=3799
+12	:	:	PUNCT	_	_	13	punct	O	start_char=3800|end_char=3801
+13-14	Pretende-se	_	_	_	_	_	_	O	start_char=3802|end_char=3813
+13	Pretende	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	O	_
+14	se	se	PRON	_	Case=Acc|PronType=Prs	13	expl	O	_
+15	injetar	injetar	VERB	_	VerbForm=Inf	13	xcomp	O	start_char=3814|end_char=3821
+16	50	50	NUM	_	NumType=Card	17	nummod	O	start_char=3822|end_char=3824
+17	m>/a	m>/a	NOUN	_	Gender=Masc|Number=Plur	15	obj	O	start_char=3825|end_char=3829
+18-19	na	_	_	_	_	_	_	O	start_char=3830|end_char=3832
+18	em	em	ADP	_	_	20	case	O	_
+19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	O	_
+20	zona	zona	NOUN	_	Gender=Fem|Number=Sing	15	obl	O	start_char=3833|end_char=3837
+21	2	2	NUM	_	NumType=Card	20	nummod	O	start_char=3838|end_char=3839
+22	e	e	CCONJ	_	_	24	cc	O	start_char=3840|end_char=3841
+23	50	50	NUM	_	NumType=Card	24	nummod	O	start_char=3842|end_char=3844
+24	m>	m>	NOUN	_	Gender=Masc|Number=Plur	20	conj	O	start_char=3845|end_char=3847
+25	/	/	PUNCT	_	_	28	punct	O	start_char=3847|end_char=3848
+26-27	na	_	_	_	_	_	_	O	start_char=3848|end_char=3850
+26	em	em	ADP	_	_	28	case	O	_
+27	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	O	_
+28	zona	zona	NOUN	_	Gender=Fem|Number=Sing	15	obl	O	start_char=3851|end_char=3855
+29	3.	3.	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	28	amod	O	start_char=3856|end_char=3858
+30	.	.	PUNCT	_	_	1	punct	O	start_char=3858|end_char=3859
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-41
+# text = Sera necessário isolar a zona l e Ca nhonear a zona 3..
+1	Sera	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	O	start_char=3861|end_char=3865
+2	necessário	necessário	ADJ	_	Gender=Masc|Number=Sing	0	root	O	start_char=3866|end_char=3876
+3	isolar	isolar	VERB	_	VerbForm=Inf	2	csubj	O	start_char=3877|end_char=3883
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	O	start_char=3884|end_char=3885
+5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	3	obj	O	start_char=3886|end_char=3890
+6	l	l	PROPN	_	Gender=Fem|Number=Sing	5	nmod	O	start_char=3891|end_char=3892
+7	e	e	CCONJ	_	_	8	cc	O	start_char=3893|end_char=3894
+8	Ca	Ca	PROPN	_	Gender=Masc|Number=Sing	6	conj	O	start_char=3895|end_char=3897
+9	nhonear	nhonear	VERB	_	VerbForm=Inf	3	conj	O	start_char=3898|end_char=3905
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	O	start_char=3906|end_char=3907
+11	zona	zona	NOUN	_	Gender=Fem|Number=Sing	9	obj	O	start_char=3908|end_char=3912
+12	3..	3..	NUM	_	NumType=Card	11	nummod	O	start_char=3913|end_char=3916
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-42
+# text = SO foi realizado um único tes te com Amerada em ABR/69..
+1	SO	SO	PROPN	_	Gender=Masc|Number=Sing	3	nsubj:pass	O	start_char=3918|end_char=3920
+2	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	O	start_char=3921|end_char=3924
+3	realizado	realizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=3925|end_char=3934
+4	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	O	start_char=3935|end_char=3937
+5	único	único	NOUN	_	Gender=Masc|Number=Sing	3	nsubj:pass	O	start_char=3938|end_char=3943
+6	tes	te	NOUN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=3944|end_char=3947
+7	te	tu	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nmod	O	start_char=3948|end_char=3950
+8	com	com	ADP	_	_	9	case	O	start_char=3951|end_char=3954
+9	Amerada	Amerada	PROPN	_	Gender=Fem|Number=Sing	3	obl	O	start_char=3955|end_char=3962
+10	em	em	ADP	_	_	11	case	O	start_char=3963|end_char=3965
+11	ABR/69..	ABR/69..	PROPN	_	Gender=Masc|Number=Sing	9	nmod	O	start_char=3966|end_char=3974
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-43
+# text = A pressão estática n: zona 2, do SZ-35 ao lado, situa-se em 22 Kg/cm!
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=3976|end_char=3977
+2	pressão	pressão	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	O	start_char=3978|end_char=3985
+3	estática	estático	ADJ	_	Gender=Fem|Number=Sing	2	amod	O	start_char=3986|end_char=3994
+4	n	n	PROPN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=3995|end_char=3996
+5	:	:	PUNCT	_	_	6	punct	O	start_char=3996|end_char=3997
+6	zona	zona	NOUN	_	Gender=Fem|Number=Sing	2	appos	O	start_char=3998|end_char=4002
+7	2	2	NUM	_	NumType=Card	6	nummod	O	start_char=4003|end_char=4004
+8	,	,	PUNCT	_	_	11	punct	O	start_char=4004|end_char=4005
+9-10	do	_	_	_	_	_	_	O	start_char=4006|end_char=4008
+9	de	de	ADP	_	_	11	case	O	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	_
+11	SZ-35	SZ-35	PROPN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=4009|end_char=4014
+12-13	ao	_	_	_	_	_	_	O	start_char=4015|end_char=4017
+12	a	a	ADP	_	_	14	case	O	_
+13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	O	_
+14	lado	lado	NOUN	_	Gender=Masc|Number=Sing	11	nmod	O	start_char=4018|end_char=4022
+15	,	,	PUNCT	_	_	11	punct	O	start_char=4022|end_char=4023
+16-17	situa-se	_	_	_	_	_	_	O	start_char=4024|end_char=4032
+16	situa	situar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	_
+17	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl	O	_
+18	em	em	ADP	_	_	20	case	O	start_char=4033|end_char=4035
+19	22	22	NUM	_	NumType=Card	20	nummod	O	start_char=4036|end_char=4038
+20	Kg/cm	kg/cm	NOUN	_	Gender=Masc|Number=Plur	16	obl	O	start_char=4039|end_char=4044
+21	!	!	PUNCT	_	_	16	punct	O	start_char=4044|end_char=4045
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-44
+# text = Recomendações: Realizar teste de fechamento no fundo e de inje +ividado nac vonasc 92 e 2 (3 cer... canhoneada )..
+1	Recomendações	recomendação	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=4047|end_char=4060
+2	:	:	PUNCT	_	_	3	punct	O	start_char=4060|end_char=4061
+3	Realizar	realizar	VERB	_	VerbForm=Inf	1	parataxis	O	start_char=4062|end_char=4070
+4	teste	teste	NOUN	_	Gender=Masc|Number=Sing	3	obj	O	start_char=4071|end_char=4076
+5	de	de	ADP	_	_	6	case	O	start_char=4077|end_char=4079
+6	fechamento	fechamento	NOUN	_	Gender=Masc|Number=Sing	4	nmod	O	start_char=4080|end_char=4090
+7-8	no	_	_	_	_	_	_	O	start_char=4091|end_char=4093
+7	em	em	ADP	_	_	9	case	O	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	_
+9	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=4094|end_char=4099
+10	e	e	CCONJ	_	_	12	cc	O	start_char=4100|end_char=4101
+11	de	de	ADP	_	_	12	case	O	start_char=4102|end_char=4104
+12	inje	inje	NOUN	_	Gender=Masc|Number=Sing	9	conj	O	start_char=4105|end_char=4109
+13	+ividado	+ividar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	acl	O	start_char=4110|end_char=4118
+14-15	nac	_	_	_	_	_	_	O	start_char=4119|end_char=4122
+14	em	em	ADP	_	_	15	case	O	_
+15	ac	ac	NOUN	_	Gender=Masc|Number=Sing	13	obl	O	_
+16	vonasc	vonasc	NOUN	_	Gender=Fem|Number=Plur	15	nmod	O	start_char=4123|end_char=4129
+17	92	92	NUM	_	NumType=Card	15	nummod	O	start_char=4130|end_char=4132
+18	e	e	CCONJ	_	_	19	cc	O	start_char=4133|end_char=4134
+19	2	2	NUM	_	NumType=Card	17	conj	O	start_char=4135|end_char=4136
+20	(	(	PUNCT	_	_	22	punct	O	start_char=4137|end_char=4138
+21	3	3	NUM	_	NumType=Card	22	nummod	O	start_char=4138|end_char=4139
+22	cer	cer	NOUN	_	Gender=Masc|Number=Sing	19	appos	O	start_char=4140|end_char=4143
+23	...	...	PUNCT	_	_	24	punct	O	start_char=4143|end_char=4146
+24	canhoneada	canhonear	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	22	acl	O	start_char=4147|end_char=4157
+25	)	)	PUNCT	_	_	22	punct	O	start_char=4158|end_char=4159
+26	..	..	PUNCT	_	_	1	punct	O	start_char=4159|end_char=4161
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-45
+# text = sz-116
+1	sz-116	sz-116	NUM	_	NumType=Card	0	root	O	start_char=4163|end_char=4169
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-46
+# text = Perfis corridos : Flétrico-Indução, Densidade e Raios
+1	Perfis	perfi	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=4171|end_char=4177
+2	corridos	correr	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	1	acl	O	start_char=4178|end_char=4186
+3	:	:	PUNCT	_	_	4	punct	O	start_char=4187|end_char=4188
+4	Flétrico-Indução	Flétrico-Indução	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=4189|end_char=4205
+5	,	,	PUNCT	_	_	6	punct	O	start_char=4205|end_char=4206
+6	Densidade	Densidade	PROPN	_	Gender=Fem|Number=Sing	4	conj	O	start_char=4207|end_char=4216
+7	e	e	CCONJ	_	_	8	cc	O	start_char=4217|end_char=4218
+8	Raios	Raios	PROPN	_	Number=Sing	4	conj	O	start_char=4219|end_char=4224
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-47
+# text = Gama CBL - bom o e E o . P=]
+1	Gama	Gama	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=4226|end_char=4230
+2	CBL	CBL	PROPN	_	Gender=Fem|Number=Sing	1	flat:name	O	start_char=4231|end_char=4234
+3	-	-	PUNCT	_	_	4	punct	O	start_char=4235|end_char=4236
+4	bom	bom	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	O	start_char=4237|end_char=4240
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	O	start_char=4241|end_char=4242
+6	e	e	CCONJ	_	_	10	cc	O	start_char=4243|end_char=4244
+7	E	e	CCONJ	_	_	10	cc	O	start_char=4245|end_char=4246
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	O	start_char=4247|end_char=4248
+9	.	.	PUNCT	_	_	10	punct	O	start_char=4249|end_char=4250
+10	P=	P=	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=4251|end_char=4253
+11	]	]	PUNCT	_	_	10	punct	O	start_char=4253|end_char=4254
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-48
+# text = Je 4 7 a quai 3... é - o o ~ Comentários : Pretende-se injetar 50 m/d de agua na zona 2 e 30 m>/a na zona 3..
+1	Je	Je	PROPN	_	Gender=Masc|Number=Sing	12	nsubj	O	start_char=4256|end_char=4258
+2	4	4	PROPN	_	Number=Sing	1	flat:name	O	start_char=4259|end_char=4260
+3	7	7	PROPN	_	Number=Sing	1	flat:name	O	start_char=4261|end_char=4262
+4	a	a	ADP	_	_	1	flat:name	O	start_char=4263|end_char=4264
+5	quai	quai	PROPN	_	Number=Sing	1	flat:name	O	start_char=4265|end_char=4269
+6	3...	3...	PROPN	_	Number=Sing	1	flat:name	O	start_char=4270|end_char=4274
+7	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	O	start_char=4275|end_char=4276
+8	-	-	PUNCT	_	_	12	punct	O	start_char=4277|end_char=4278
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	O	start_char=4279|end_char=4280
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	O	start_char=4281|end_char=4282
+11	~	~	PUNCT	_	_	12	punct	O	start_char=4283|end_char=4284
+12	Comentários	Comentários	PROPN	_	Number=Sing	0	root	O	start_char=4285|end_char=4296
+13	:	:	PUNCT	_	_	14	punct	O	start_char=4297|end_char=4298
+14-15	Pretende-se	_	_	_	_	_	_	O	start_char=4299|end_char=4310
+14	Pretende	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	O	_
+15	se	se	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	14	expl	O	_
+16	injetar	injetar	VERB	_	VerbForm=Inf	14	xcomp	O	start_char=4311|end_char=4318
+17	50	50	NUM	_	NumType=Card	18	nummod	O	start_char=4319|end_char=4321
+18	m/d	m/d	NOUN	_	Gender=Masc|Number=Plur	16	obj	O	start_char=4322|end_char=4325
+19	de	de	ADP	_	_	20	case	O	start_char=4326|end_char=4328
+20	agua	agua	NOUN	_	Gender=Fem|Number=Sing	18	nmod	B=FLUIDODATERRA_o	start_char=4329|end_char=4333
+21-22	na	_	_	_	_	_	_	O	start_char=4334|end_char=4336
+21	em	em	ADP	_	_	23	case	O	_
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	O	_
+23	zona	zona	NOUN	_	Gender=Fem|Number=Sing	16	obl	O	start_char=4337|end_char=4341
+24	2	2	NUM	_	NumType=Card	23	nummod	O	start_char=4342|end_char=4343
+25	e	e	CCONJ	_	_	27	cc	O	start_char=4344|end_char=4345
+26	30	30	NUM	_	NumType=Card	27	nummod	O	start_char=4346|end_char=4348
+27	m>/a	m>/a	NOUN	_	Gender=Masc|Number=Plur	23	conj	O	start_char=4349|end_char=4353
+28-29	na	_	_	_	_	_	_	O	start_char=4354|end_char=4356
+28	em	em	ADP	_	_	30	case	O	_
+29	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	O	_
+30	zona	zona	NOUN	_	Gender=Fem|Number=Sing	16	obl	O	start_char=4357|end_char=4361
+31	3.	3.	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	30	amod	O	start_char=4362|end_char=4364
+32	.	.	PUNCT	_	_	12	punct	O	start_char=4364|end_char=4365
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-49
+# text = A zona 3 foi estimulada por fraturamento..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=4367|end_char=4368
+2	zona	zona	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	O	start_char=4369|end_char=4373
+3	3	3	NUM	_	NumType=Card	2	nummod	O	start_char=4374|end_char=4375
+4	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	O	start_char=4376|end_char=4379
+5	estimulada	estimular	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=4380|end_char=4390
+6	por	por	ADP	_	_	7	case	O	start_char=4391|end_char=4394
+7	fraturamento	fraturamento	NOUN	_	Gender=Masc|Number=Sing	5	obl:agent	O	start_char=4395|end_char=4407
+8	.	.	PUNCT	_	_	5	punct	O	start_char=4407|end_char=4408
+9	.	.	PUNCT	_	_	5	punct	O	start_char=4408|end_char=4409
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-50
+# text = O poco produz atualmente 8,0 mº/d. BSW = 28%..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=4411|end_char=4412
+2	poco	poco	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	B=POÇO	start_char=4413|end_char=4417
+3	produz	produzir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=4418|end_char=4424
+4	atualmente	atualmente	ADV	_	_	6	advmod	O	start_char=4425|end_char=4435
+5	8,0	8,0	NUM	_	NumType=Card	6	nummod	O	start_char=4436|end_char=4439
+6	mº/d.	mº/d.	NOUN	_	Gender=Masc|Number=Plur	3	obj	O	start_char=4440|end_char=4445
+7	BSW	BSW	PROPN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=4446|end_char=4449
+8	=	=	PUNCT	_	_	10	punct	O	start_char=4450|end_char=4451
+9	28	28	NUM	_	NumType=Card	10	nummod	O	start_char=4452|end_char=4454
+10	%	%	SYM	_	_	6	appos	O	start_char=4454|end_char=4455
+11	.	.	PUNCT	_	_	3	punct	O	start_char=4455|end_char=4456
+12	.	.	PUNCT	_	_	3	punct	O	start_char=4456|end_char=4457
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-51
+# text = Não ha dado de pressão estática apôs' haver sido posto em produção..
+1	Não	não	ADV	_	Polarity=Neg	3	advmod	O	start_char=4459|end_char=4462
+2	ha	ha	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	O	start_char=4463|end_char=4465
+3	dado	dar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	O	start_char=4466|end_char=4470
+4	de	de	ADP	_	_	5	case	O	start_char=4471|end_char=4473
+5	pressão	pressão	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	O	start_char=4474|end_char=4481
+6	estática	estático	ADJ	_	Gender=Fem|Number=Sing	5	amod	O	start_char=4482|end_char=4490
+7	apôs	apor	VERB	_	Number=Sing|VerbForm=Part	3	advcl	O	start_char=4491|end_char=4495
+8	'	'	PUNCT	_	_	11	punct	O	start_char=4495|end_char=4496
+9	haver	haver	AUX	_	VerbForm=Inf	11	aux	O	start_char=4497|end_char=4502
+10	sido	ser	AUX	_	VerbForm=Part	11	aux:pass	O	start_char=4503|end_char=4507
+11	posto	pôr	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	advcl	O	start_char=4508|end_char=4513
+12	em	em	ADP	_	_	13	case	O	start_char=4514|end_char=4516
+13	produção	produção	NOUN	_	Gender=Fem|Number=Sing	11	obl	O	start_char=4517|end_char=4525
+14	.	.	PUNCT	_	_	11	punct	O	start_char=4525|end_char=4526
+15	.	.	PUNCT	_	_	3	punct	O	start_char=4526|end_char=4527
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-52
+# text = 7530 - 960 - Recomendações : Realizar teste de fechamento de fundo e teste de injetividade na zona 3, em produção, e na zona 2 a ser canhoneada, MC/hnsr
+1	7530	7530	NUM	_	NumType=Card	5	nummod	O	start_char=4529|end_char=4533
+2	-	-	PUNCT	_	_	1	punct	O	start_char=4534|end_char=4535
+3	960	960	NUM	_	NumType=Card	5	nummod	O	start_char=4536|end_char=4539
+4	-	-	PUNCT	_	_	5	punct	O	start_char=4540|end_char=4541
+5	Recomendações	recomendação	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=4542|end_char=4555
+6	:	:	PUNCT	_	_	7	punct	O	start_char=4556|end_char=4557
+7	Realizar	realizar	VERB	_	VerbForm=Inf	5	appos	O	start_char=4558|end_char=4566
+8	teste	teste	NOUN	_	Gender=Masc|Number=Sing	7	obj	O	start_char=4567|end_char=4572
+9	de	de	ADP	_	_	10	case	O	start_char=4573|end_char=4575
+10	fechamento	fechamento	NOUN	_	Gender=Masc|Number=Sing	8	nmod	O	start_char=4576|end_char=4586
+11	de	de	ADP	_	_	12	case	O	start_char=4587|end_char=4589
+12	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	O	start_char=4590|end_char=4595
+13	e	e	CCONJ	_	_	14	cc	O	start_char=4596|end_char=4597
+14	teste	teste	NOUN	_	Gender=Masc|Number=Sing	12	conj	O	start_char=4598|end_char=4603
+15	de	de	ADP	_	_	16	case	O	start_char=4604|end_char=4606
+16	injetividade	injetividade	NOUN	_	Gender=Fem|Number=Sing	14	nmod	O	start_char=4607|end_char=4619
+17-18	na	_	_	_	_	_	_	O	start_char=4620|end_char=4622
+17	em	em	ADP	_	_	19	case	O	_
+18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	O	_
+19	zona	zona	NOUN	_	Gender=Fem|Number=Sing	7	obl	O	start_char=4623|end_char=4627
+20	3	3	NUM	_	NumType=Card	19	nummod	O	start_char=4628|end_char=4629
+21	,	,	PUNCT	_	_	23	punct	O	start_char=4629|end_char=4630
+22	em	em	ADP	_	_	23	case	O	start_char=4631|end_char=4633
+23	produção	produção	NOUN	_	Gender=Fem|Number=Sing	7	obl	O	start_char=4634|end_char=4642
+24	,	,	PUNCT	_	_	28	punct	O	start_char=4642|end_char=4643
+25	e	e	CCONJ	_	_	28	cc	O	start_char=4644|end_char=4645
+26-27	na	_	_	_	_	_	_	O	start_char=4646|end_char=4648
+26	em	em	ADP	_	_	28	case	O	_
+27	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	O	_
+28	zona	zona	NOUN	_	Gender=Fem|Number=Sing	8	conj	O	start_char=4649|end_char=4653
+29	2	2	NUM	_	NumType=Card	28	nummod	O	start_char=4654|end_char=4655
+30	a	a	SCONJ	_	_	32	mark	O	start_char=4656|end_char=4657
+31	ser	ser	AUX	_	VerbForm=Inf	32	aux:pass	O	start_char=4658|end_char=4661
+32	canhoneada	canhonear	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	28	acl	O	start_char=4662|end_char=4672
+33	,	,	PUNCT	_	_	32	punct	O	start_char=4672|end_char=4673
+34	MC/hnsr	MC/hnsr	PROPN	_	Gender=Masc|Number=Sing	32	appos	O	start_char=4674|end_char=4681
+
+# sent_id = 389C64DE09863805E0534EEB1D0A5A96-53
+# text = Aracaju, 19 de abril de 1974 7530 - 960 -
+1	Aracaju	Aracaju	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4683|end_char=4690
+2	,	,	PUNCT	_	_	3	punct	O	start_char=4690|end_char=4691
+3	19	19	NUM	_	NumType=Card	1	nmod:appos	O	start_char=4692|end_char=4694
+4	de	de	ADP	_	_	5	case	O	start_char=4695|end_char=4697
+5	abril	abril	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=4698|end_char=4703
+6	de	de	ADP	_	_	7	case	O	start_char=4704|end_char=4706
+7	1974	1974	NUM	_	NumType=Card	5	nummod	O	start_char=4707|end_char=4711
+8	7530	7530	NUM	_	NumType=Card	7	flat	O	start_char=4712|end_char=4716
+9	-	-	PUNCT	_	_	10	punct	O	start_char=4717|end_char=4718
+10	960	960	NUM	_	NumType=Card	1	appos	O	start_char=4719|end_char=4722
+11	-	-	PUNCT	_	_	1	punct	O	start_char=4723|end_char=4724

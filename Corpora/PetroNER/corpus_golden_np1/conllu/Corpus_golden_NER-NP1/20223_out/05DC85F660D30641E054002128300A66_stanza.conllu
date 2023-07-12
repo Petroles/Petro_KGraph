@@ -1,0 +1,2149 @@
+# sent_id = 05DC85F660D30641E054002128300A66-1
+# text = 1..
+1	1	1	NUM	_	NumType=Card	0	root	_	start_char=0|end_char=1
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1|end_char=2
+3	.	.	PUNCT	_	_	1	punct	_	start_char=2|end_char=3
+
+# sent_id = 05DC85F660D30641E054002128300A66-2
+# text = - Since the southern area of Pojuca-Central oil field ia directly related to the Mata-Catu structuràl trend, and primarily of first interest for the structural drilling, we may say that enough strat holes have been drilled in the surveyed area..
+1	-	-	PUNCT	_	_	2	punct	_	start_char=5|end_char=6
+2	Since	Since	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7|end_char=12
+3	the	the	PROPN	_	Number=Sing	2	flat:name	_	start_char=13|end_char=16
+4	southern	southern	PROPN	_	Number=Sing	2	flat:name	_	start_char=17|end_char=25
+5	area	area	PROPN	_	Number=Sing	2	flat:name	_	start_char=26|end_char=30
+6	of	of	PROPN	_	Number=Sing	2	flat:name	_	start_char=31|end_char=33
+7	Pojuca-Central	Pojuca-Central	PROPN	_	Number=Sing	2	flat:name	_	start_char=34|end_char=48
+8	oil	oil	PROPN	_	Number=Sing	2	flat:name	_	start_char=49|end_char=52
+9	field	field	PROPN	_	Number=Sing	2	flat:name	_	start_char=53|end_char=58
+10	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	start_char=59|end_char=61
+11	directly	directly	PROPN	_	Number=Sing	2	flat:name	_	start_char=62|end_char=70
+12	related	related	PROPN	_	Number=Sing	11	flat:name	_	start_char=71|end_char=78
+13	to	to	PROPN	_	Number=Sing	11	flat:name	_	start_char=79|end_char=81
+14	the	the	PROPN	_	Number=Sing	2	flat:name	_	start_char=82|end_char=85
+15	Mata-Catu	Mata-Catu	PROPN	_	Number=Sing	2	flat:name	_	start_char=86|end_char=95
+16	structuràl	structuràl	PROPN	_	Number=Sing	2	flat:name	_	start_char=96|end_char=106
+17	trend	trend	PROPN	_	Number=Sing	2	flat:name	_	start_char=107|end_char=112
+18	,	,	PUNCT	_	_	11	flat:name	_	start_char=112|end_char=113
+19	and	and	PROPN	_	Number=Sing	2	flat:name	_	start_char=114|end_char=117
+20	primarily	primarily	PROPN	_	Number=Sing	2	flat:name	_	start_char=118|end_char=127
+21	of	of	PROPN	_	Number=Sing	2	flat:name	_	start_char=128|end_char=130
+22	first	first	PROPN	_	Number=Sing	2	flat:name	_	start_char=131|end_char=136
+23	interest	interest	PROPN	_	Number=Sing	2	flat:name	_	start_char=137|end_char=145
+24	for	for	PROPN	_	Number=Sing	2	flat:name	_	start_char=146|end_char=149
+25	the	the	PROPN	_	Number=Sing	2	flat:name	_	start_char=150|end_char=153
+26	structural	structural	PROPN	_	Number=Sing	2	flat:name	_	start_char=154|end_char=164
+27	drilling	drilling	PROPN	_	Number=Sing	2	flat:name	_	start_char=165|end_char=173
+28	,	,	PUNCT	_	_	2	flat:name	_	start_char=173|end_char=174
+29	we	we	PROPN	_	Number=Sing	2	flat:name	_	start_char=175|end_char=177
+30	may	may	PROPN	_	Number=Sing	2	flat:name	_	start_char=178|end_char=181
+31	say	say	PROPN	_	Number=Sing	2	flat:name	_	start_char=182|end_char=185
+32	that	that	PROPN	_	Number=Sing	2	flat:name	_	start_char=186|end_char=190
+33	enough	enough	PROPN	_	Number=Sing	2	flat:name	_	start_char=191|end_char=197
+34	strat	strat	PROPN	_	Number=Sing	2	flat:name	_	start_char=198|end_char=203
+35	holes	holes	PROPN	_	Number=Sing	2	flat:name	_	start_char=204|end_char=209
+36	have	have	PROPN	_	Number=Sing	2	flat:name	_	start_char=210|end_char=214
+37	been	been	PROPN	_	Number=Sing	2	flat:name	_	start_char=215|end_char=219
+38	drilled	drilled	PROPN	_	Number=Sing	2	flat:name	_	start_char=220|end_char=227
+39	in	in	PROPN	_	Number=Sing	2	flat:name	_	start_char=228|end_char=230
+40	the	the	PROPN	_	Number=Sing	2	flat:name	_	start_char=231|end_char=234
+41	surveyed	surveyed	PROPN	_	Number=Sing	2	flat:name	_	start_char=235|end_char=243
+42	area	area	PROPN	_	Number=Sing	2	flat:name	_	start_char=244|end_char=248
+43	.	.	PUNCT	_	_	2	punct	_	start_char=248|end_char=249
+44	.	.	PUNCT	_	_	2	punct	_	start_char=249|end_char=250
+
+# sent_id = 05DC85F660D30641E054002128300A66-3
+# text = 2. - As indicated by Água Grande, pojuca and Mata oil field structural maps, the area surveyed is probably highly faulted..
+1	2	2	NUM	_	NumType=Card	5	nummod	_	start_char=252|end_char=253
+2	.	.	PUNCT	_	_	1	punct	_	start_char=253|end_char=254
+3	-	-	PUNCT	_	_	5	punct	_	start_char=255|end_char=256
+4	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	start_char=257|end_char=259
+5	indicated	indicated	PROPN	_	Number=Sing	0	root	_	start_char=260|end_char=269
+6	by	by	PROPN	_	Number=Sing	5	flat:name	_	start_char=270|end_char=272
+7	Água	Água	PROPN	_	Number=Sing	5	flat:name	_	start_char=273|end_char=277
+8	Grande	Grande	PROPN	_	Number=Sing	5	flat:name	_	start_char=278|end_char=284
+9	,	,	PUNCT	_	_	5	flat:name	_	start_char=284|end_char=285
+10	pojuca	pojuca	PROPN	_	Number=Sing	5	flat:name	_	start_char=286|end_char=292
+11	and	and	PROPN	_	Number=Sing	5	flat:name	_	start_char=293|end_char=296
+12	Mata	Mata	PROPN	_	Number=Sing	10	flat:name	_	start_char=297|end_char=301
+13	oil	oil	PROPN	_	Number=Sing	5	flat:name	_	start_char=302|end_char=305
+14	field	field	PROPN	_	Number=Sing	10	flat:name	_	start_char=306|end_char=311
+15	structural	structural	PROPN	_	Number=Sing	10	flat:name	_	start_char=312|end_char=322
+16	maps	maps	PROPN	_	Number=Sing	5	flat:name	_	start_char=323|end_char=327
+17	,	,	PUNCT	_	_	5	flat:name	_	start_char=327|end_char=328
+18	the	the	PROPN	_	Number=Sing	5	flat:name	_	start_char=329|end_char=332
+19	area	area	PROPN	_	Number=Sing	18	flat:name	_	start_char=333|end_char=337
+20	surveyed	surveyed	PROPN	_	Number=Sing	18	flat:name	_	start_char=338|end_char=346
+21	is	is	PROPN	_	Number=Sing	18	flat:name	_	start_char=347|end_char=349
+22	probably	probably	PROPN	_	Number=Sing	18	flat:name	_	start_char=350|end_char=358
+23	highly	highly	PROPN	_	Number=Sing	18	flat:name	_	start_char=359|end_char=365
+24	faulted.	faulted.	PROPN	_	Number=Sing	18	flat:name	_	start_char=366|end_char=374
+25	.	.	PUNCT	_	_	5	punct	_	start_char=374|end_char=375
+
+# sent_id = 05DC85F660D30641E054002128300A66-4
+# text = On the other hand, the sand facies of the Ilhas formation in which most of the wells were drilled gives no correlatable markers on the e-Ioga..
+1	On	On	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=377|end_char=379
+2	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=380|end_char=383
+3	other	other	PROPN	_	Number=Sing	1	flat:name	_	start_char=384|end_char=389
+4	hand	hand	PROPN	_	Number=Sing	1	flat:name	_	start_char=390|end_char=394
+5	,	,	PUNCT	_	_	1	flat:name	_	start_char=394|end_char=395
+6	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=396|end_char=399
+7	sand	sand	PROPN	_	Number=Sing	1	flat:name	_	start_char=400|end_char=404
+8	facies	facies	PROPN	_	Number=Sing	1	flat:name	_	start_char=405|end_char=411
+9	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=412|end_char=414
+10	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=415|end_char=418
+11	Ilhas	Ilhas	PROPN	_	Number=Sing	1	flat:name	_	start_char=419|end_char=424
+12	formation	formation	PROPN	_	Number=Sing	1	flat:name	_	start_char=425|end_char=434
+13	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=435|end_char=437
+14	which	which	PROPN	_	Number=Sing	1	flat:name	_	start_char=438|end_char=443
+15	most	most	PROPN	_	Number=Sing	1	flat:name	_	start_char=444|end_char=448
+16	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=449|end_char=451
+17	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=452|end_char=455
+18	wells	wells	PROPN	_	Number=Sing	1	flat:name	_	start_char=456|end_char=461
+19	were	were	PROPN	_	Number=Sing	1	flat:name	_	start_char=462|end_char=466
+20	drilled	drilled	PROPN	_	Number=Sing	1	flat:name	_	start_char=467|end_char=474
+21	gives	gives	PROPN	_	Number=Sing	1	flat:name	_	start_char=475|end_char=480
+22-23	no	_	_	_	_	_	_	_	start_char=481|end_char=483
+22	em	em	ADP	_	_	1	flat:name	_	_
+23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat:name	_	_
+24	correlatable	correlatable	PROPN	_	Number=Sing	1	flat:name	_	start_char=484|end_char=496
+25	markers	markers	PROPN	_	Number=Sing	1	flat:name	_	start_char=497|end_char=504
+26	on	on	PROPN	_	Number=Sing	1	flat:name	_	start_char=505|end_char=507
+27	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=508|end_char=511
+28	e-Ioga	e-Ioga	PROPN	_	Number=Sing	1	flat:name	_	start_char=512|end_char=518
+29	.	.	PUNCT	_	_	1	punct	_	start_char=518|end_char=519
+30	.	.	PUNCT	_	_	1	punct	_	start_char=519|end_char=520
+
+# sent_id = 05DC85F660D30641E054002128300A66-5
+# text = The assumption that "structllral contours were drawn on a distinctive , ca!careous, silty sandstone approximately 55 meters above the CatU-Sao Paulo sandstone sequence" is possibly a mis leading..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=522|end_char=525
+2	assumption	assumption	X	_	_	1	flat:name	_	start_char=526|end_char=536
+3	that	that	PROPN	_	Number=Sing	1	flat:name	_	start_char=537|end_char=541
+4	"	«	PUNCT	_	_	1	flat:name	_	start_char=542|end_char=543
+5	structllral	structllral	PROPN	_	Number=Sing	1	flat:name	_	start_char=543|end_char=554
+6	contours	contours	PROPN	_	Number=Sing	1	flat:name	_	start_char=555|end_char=563
+7	were	were	PROPN	_	Number=Sing	1	flat:name	_	start_char=564|end_char=568
+8	drawn	drawn	PROPN	_	Number=Sing	1	flat:name	_	start_char=569|end_char=574
+9	on	on	PROPN	_	Number=Sing	1	flat:name	_	start_char=575|end_char=577
+10	a	a	PROPN	_	Number=Sing	1	flat:name	_	start_char=578|end_char=579
+11	distinctive	distinctive	PROPN	_	Number=Sing	1	flat:name	_	start_char=580|end_char=591
+12	,	,	PUNCT	_	_	1	flat:name	_	start_char=592|end_char=593
+13	ca	ca	PROPN	_	Number=Sing	1	flat:name	_	start_char=594|end_char=596
+14	!	!	PUNCT	_	_	15	punct	_	start_char=596|end_char=597
+15	careous	carear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	start_char=597|end_char=604
+16	,	,	PUNCT	_	_	15	punct	_	start_char=604|end_char=605
+17	silty	silty	PROPN	_	Number=Sing	15	obl	_	start_char=606|end_char=611
+18	sandstone	sandstone	PROPN	_	Number=Sing	17	flat:name	_	start_char=612|end_char=621
+19	approximately	approximately	PROPN	_	Number=Sing	17	flat:name	_	start_char=622|end_char=635
+20	55	55	PROPN	_	Number=Sing	17	flat:name	_	start_char=636|end_char=638
+21	meters	meters	PROPN	_	Number=Sing	17	flat:name	_	start_char=639|end_char=645
+22	above	above	PROPN	_	Number=Sing	17	flat:name	_	start_char=646|end_char=651
+23	the	the	PROPN	_	Number=Sing	17	flat:name	_	start_char=652|end_char=655
+24	CatU-Sao	CatU-Sao	PROPN	_	Number=Sing	17	flat:name	_	start_char=656|end_char=664
+25	Paulo	Paulo	PROPN	_	Number=Sing	17	flat:name	_	start_char=665|end_char=670
+26	sandstone	sandstone	PROPN	_	Number=Sing	17	flat:name	_	start_char=671|end_char=680
+27	sequence	sequence	PROPN	_	Number=Sing	17	flat:name	_	start_char=681|end_char=689
+28	"	«	PUNCT	_	_	15	punct	_	start_char=689|end_char=690
+29	is	is	PROPN	_	Number=Sing	17	flat:name	_	start_char=691|end_char=693
+30	possibly	possibly	X	_	_	29	flat:name	_	start_char=694|end_char=702
+31	a	a	ADP	_	_	30	flat:name	_	start_char=703|end_char=704
+32	mis	mis	PROPN	_	Number=Sing	30	flat:name	_	start_char=705|end_char=708
+33	leading	leading	PROPN	_	Number=Sing	30	flat:name	_	start_char=709|end_char=716
+34	.	.	PUNCT	_	_	15	punct	_	start_char=716|end_char=717
+35	.	.	PUNCT	_	_	15	punct	_	start_char=717|end_char=718
+
+# sent_id = 05DC85F660D30641E054002128300A66-6
+# text = 3. - As a consequence of what was mentioned in the above
+1	3	3	NUM	_	NumType=Card	5	nummod	_	start_char=720|end_char=721
+2	.	.	PUNCT	_	_	1	punct	_	start_char=721|end_char=722
+3	-	-	PUNCT	_	_	5	punct	_	start_char=723|end_char=724
+4	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	start_char=725|end_char=727
+5	a	a	PROPN	_	Number=Sing	0	root	_	start_char=728|end_char=729
+6	consequence	consequence	PROPN	_	Number=Sing	5	flat:name	_	start_char=730|end_char=741
+7	of	of	PROPN	_	Number=Sing	5	flat:name	_	start_char=742|end_char=744
+8	what	what	PROPN	_	Number=Sing	5	flat:name	_	start_char=745|end_char=749
+9-10	was	_	_	_	_	_	_	_	start_char=750|end_char=753
+9	wm	wm	PROPN	_	Number=Sing	5	flat:name	_	_
+10	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	flat:name	_	_
+11	mentioned	mentioned	PROPN	_	Number=Sing	5	flat:name	_	start_char=754|end_char=763
+12	in	in	PROPN	_	Number=Sing	5	flat:name	_	start_char=764|end_char=766
+13	the	the	PROPN	_	Number=Sing	5	flat:name	_	start_char=767|end_char=770
+14	above	above	PROPN	_	Number=Sing	5	flat:name	_	start_char=771|end_char=776
+
+# sent_id = 05DC85F660D30641E054002128300A66-7
+# text = Item 2, interpretation based here only on the shallow· strat holes is unreliable..
+1	Item	Item	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=778|end_char=782
+2	2	2	PROPN	_	Number=Sing	1	flat:name	_	start_char=783|end_char=784
+3	,	,	PUNCT	_	_	4	punct	_	start_char=784|end_char=785
+4	interpretation	interpretation	X	_	_	1	appos	_	start_char=786|end_char=800
+5	based	based	X	_	_	4	flat:foreign	_	start_char=801|end_char=806
+6	here	here	X	_	_	4	flat:foreign	_	start_char=807|end_char=811
+7	only	only	X	_	_	4	flat:foreign	_	start_char=812|end_char=816
+8	on	on	PROPN	_	Number=Sing	4	flat:foreign	_	start_char=817|end_char=819
+9	the	the	PROPN	_	Number=Sing	4	flat:foreign	_	start_char=820|end_char=823
+10	shallow·	shallow·	PROPN	_	Number=Sing	4	flat:foreign	_	start_char=824|end_char=832
+11	strat	strat	X	_	_	4	flat:foreign	_	start_char=833|end_char=838
+12	holes	holes	PROPN	_	Number=Sing	4	flat:foreign	_	start_char=839|end_char=844
+13	is	is	PROPN	_	Number=Sing	4	flat:foreign	_	start_char=845|end_char=847
+14	unreliable	unreliable	X	_	_	4	flat:foreign	_	start_char=848|end_char=858
+15	.	.	PUNCT	_	_	1	punct	_	start_char=858|end_char=859
+16	.	.	PUNCT	_	_	1	punct	_	start_char=859|end_char=860
+
+# sent_id = 05DC85F660D30641E054002128300A66-8
+# text = 4. - The drillsite resulting from the structural drilling program, in my opinion, is of questionable value..
+1	4	4	NUM	_	NumType=Card	4	nummod	_	start_char=862|end_char=863
+2	.	.	PUNCT	_	_	1	punct	_	start_char=863|end_char=864
+3	-	-	PUNCT	_	_	4	punct	_	start_char=865|end_char=866
+4	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=867|end_char=870
+5	drillsite	drillsite	PROPN	_	Number=Sing	4	flat:name	_	start_char=871|end_char=880
+6	resulting	resulting	PROPN	_	Number=Sing	4	flat:name	_	start_char=881|end_char=890
+7	from	from	PROPN	_	Number=Sing	4	flat:name	_	start_char=891|end_char=895
+8	the	the	PROPN	_	Number=Sing	4	flat:name	_	start_char=896|end_char=899
+9	structural	structural	PROPN	_	Number=Sing	4	flat:name	_	start_char=900|end_char=910
+10	drilling	drilling	PROPN	_	Number=Sing	4	flat:name	_	start_char=911|end_char=919
+11	program	program	PROPN	_	Number=Sing	4	flat:name	_	start_char=920|end_char=927
+12	,	,	PUNCT	_	_	4	flat:name	_	start_char=927|end_char=928
+13	in	in	PROPN	_	Number=Sing	4	flat:name	_	start_char=929|end_char=931
+14	my	my	PROPN	_	Number=Sing	4	flat:name	_	start_char=932|end_char=934
+15	opinion	opinion	PROPN	_	Number=Sing	4	flat:name	_	start_char=935|end_char=942
+16	,	,	PUNCT	_	_	4	flat:name	_	start_char=942|end_char=943
+17	is	is	PROPN	_	Number=Sing	4	flat:name	_	start_char=944|end_char=946
+18	of	of	PROPN	_	Number=Sing	4	flat:name	_	start_char=947|end_char=949
+19	questionable	questionable	PROPN	_	Number=Sing	4	flat:name	_	start_char=950|end_char=962
+20	value	value	PROPN	_	Number=Sing	4	flat:name	_	start_char=963|end_char=968
+21	.	.	PUNCT	_	_	4	punct	_	start_char=968|end_char=969
+22	.	.	PUNCT	_	_	4	punct	_	start_char=969|end_char=970
+
+# sent_id = 05DC85F660D30641E054002128300A66-9
+# text = However, as a regional inference from Pojuca-Central oil field maps and residual gravity interpretation of the area, testi~g of the prospect i8 re quired..
+1	However	However	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=972|end_char=979
+2	,	,	PUNCT	_	_	5	punct	_	start_char=979|end_char=980
+3	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	start_char=981|end_char=983
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=984|end_char=985
+5	regional	regional	NOUN	_	Gender=Fem|Number=Sing	1	appos	_	start_char=986|end_char=994
+6	inference	inference	X	_	_	5	flat:foreign	_	start_char=995|end_char=1004
+7	from	from	X	_	_	5	flat:foreign	_	start_char=1005|end_char=1009
+8	Pojuca-Central	Pojuca-Central	X	_	_	5	flat:foreign	_	start_char=1010|end_char=1024
+9	oil	oil	X	_	_	5	flat:foreign	_	start_char=1025|end_char=1028
+10	field	field	X	_	_	5	flat:foreign	_	start_char=1029|end_char=1034
+11	maps	maps	X	_	_	5	flat:foreign	_	start_char=1035|end_char=1039
+12	and	and	X	_	_	5	flat:foreign	_	start_char=1040|end_char=1043
+13	residual	residual	X	_	_	10	flat:foreign	_	start_char=1044|end_char=1052
+14	gravity	gravity	X	_	_	11	flat:foreign	_	start_char=1053|end_char=1060
+15	interpretation	interpretation	X	_	_	11	flat:foreign	_	start_char=1061|end_char=1075
+16	of	of	PROPN	_	Number=Sing	14	flat:foreign	_	start_char=1076|end_char=1078
+17	the	the	PROPN	_	Number=Sing	14	flat:foreign	_	start_char=1079|end_char=1082
+18	area	area	X	_	_	14	flat:foreign	_	start_char=1083|end_char=1087
+19	,	,	PUNCT	_	_	5	punct	_	start_char=1087|end_char=1088
+20	testi~g	testi~g	PROPN	_	Number=Sing	5	flat:foreign	_	start_char=1089|end_char=1096
+21	of	of	PROPN	_	Number=Sing	20	flat:name	_	start_char=1097|end_char=1099
+22	the	the	PROPN	_	Number=Sing	20	flat:name	_	start_char=1100|end_char=1103
+23	prospect	prospect	PROPN	_	Number=Sing	20	flat:name	_	start_char=1104|end_char=1112
+24	i8	i8	PROPN	_	Number=Sing	20	flat:name	_	start_char=1113|end_char=1115
+25	re	re	PUNCT	_	_	26	punct	_	start_char=1116|end_char=1118
+26	quired	quired	PROPN	_	Number=Sing	20	flat:name	_	start_char=1119|end_char=1125
+27	.	.	PUNCT	_	_	26	punct	_	start_char=1125|end_char=1126
+28	.	.	PUNCT	_	_	1	punct	_	start_char=1126|end_char=1127
+
+# sent_id = 05DC85F660D30641E054002128300A66-10
+# text = 5. - In order .to make possible the use of a palinologic para meter control in such difficult surveyed area it i8 suggested that alI wells of the structural drilling program, always that is possible, terminate in a sbale bed..
+1	5	5	NUM	_	NumType=Card	4	nummod	_	start_char=1129|end_char=1130
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1130|end_char=1131
+3	-	-	PUNCT	_	_	4	punct	_	start_char=1132|end_char=1133
+4	In	In	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1134|end_char=1136
+5	order	order	PROPN	_	Number=Sing	4	flat:name	_	start_char=1137|end_char=1142
+6	.to	.to	PROPN	_	Number=Sing	4	flat:name	_	start_char=1143|end_char=1146
+7	make	make	PROPN	_	Number=Sing	4	flat:name	_	start_char=1147|end_char=1151
+8	possible	possible	PROPN	_	Number=Sing	4	flat:name	_	start_char=1152|end_char=1160
+9	the	the	PROPN	_	Number=Sing	4	flat:name	_	start_char=1161|end_char=1164
+10	use	usar	PROPN	_	Number=Sing	4	flat:name	_	start_char=1165|end_char=1168
+11	of	of	PROPN	_	Number=Sing	4	flat:name	_	start_char=1169|end_char=1171
+12	a	a	PROPN	_	Number=Sing	4	flat:name	_	start_char=1172|end_char=1173
+13	palinologic	palinologic	PROPN	_	Number=Sing	4	flat:name	_	start_char=1174|end_char=1185
+14	para	para	SCONJ	_	_	4	flat:name	_	start_char=1186|end_char=1190
+15	meter	meter	PROPN	_	Number=Sing	4	flat:name	_	start_char=1191|end_char=1196
+16	control	control	PROPN	_	Number=Sing	15	flat:name	_	start_char=1197|end_char=1204
+17	in	in	PROPN	_	Number=Sing	15	flat:name	_	start_char=1205|end_char=1207
+18	such	such	PROPN	_	Number=Sing	15	flat:name	_	start_char=1208|end_char=1212
+19	difficult	difficult	PROPN	_	Number=Sing	15	flat:name	_	start_char=1213|end_char=1222
+20	surveyed	surveyed	PROPN	_	Number=Sing	15	flat:name	_	start_char=1223|end_char=1231
+21	area	area	PROPN	_	Number=Sing	15	flat:name	_	start_char=1232|end_char=1236
+22	it	it	PROPN	_	Number=Sing	15	flat:name	_	start_char=1237|end_char=1239
+23	i8	i8	PROPN	_	Number=Sing	15	flat:name	_	start_char=1240|end_char=1242
+24	suggested	suggested	PROPN	_	Number=Sing	15	flat:name	_	start_char=1243|end_char=1252
+25	that	that	PROPN	_	Number=Sing	15	flat:name	_	start_char=1253|end_char=1257
+26	alI	alI	PROPN	_	Number=Sing	4	flat:name	_	start_char=1258|end_char=1261
+27	wells	wells	PROPN	_	Number=Sing	4	flat:name	_	start_char=1262|end_char=1267
+28	of	of	PROPN	_	Number=Sing	4	flat:name	_	start_char=1268|end_char=1270
+29	the	the	PROPN	_	Number=Sing	4	flat:name	_	start_char=1271|end_char=1274
+30	structural	structural	PROPN	_	Number=Sing	4	flat:name	_	start_char=1275|end_char=1285
+31	drilling	drilling	PROPN	_	Number=Sing	4	flat:name	_	start_char=1286|end_char=1294
+32	program	program	PROPN	_	Number=Sing	4	flat:name	_	start_char=1295|end_char=1302
+33	,	,	PUNCT	_	_	34	punct	_	start_char=1302|end_char=1303
+34	always	always	PROPN	_	Number=Sing	4	flat:name	_	start_char=1304|end_char=1310
+35	that	that	PROPN	_	Number=Sing	34	flat:name	_	start_char=1311|end_char=1315
+36	is	is	PROPN	_	Number=Sing	34	flat:name	_	start_char=1316|end_char=1318
+37	possible	possible	PROPN	_	Number=Sing	34	flat:name	_	start_char=1319|end_char=1327
+38	,	,	PUNCT	_	_	39	punct	_	start_char=1327|end_char=1328
+39	terminate	terminate	PROPN	_	Number=Sing	34	flat:name	_	start_char=1329|end_char=1338
+40	in	in	PROPN	_	Number=Sing	39	flat:name	_	start_char=1339|end_char=1341
+41	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	flat:name	_	start_char=1342|end_char=1343
+42	sbale	sbale	PROPN	_	Number=Sing	39	flat:name	_	start_char=1344|end_char=1349
+43	bed.	bed.	PROPN	_	Number=Sing	39	flat:name	_	start_char=1350|end_char=1354
+44	.	.	PUNCT	_	_	4	punct	_	start_char=1354|end_char=1355
+
+# sent_id = 05DC85F660D30641E054002128300A66-11
+# text = After care circulation, a representative sample of it should be collected for future pollen analyses..
+1	After	after	X	_	_	0	root	_	start_char=1357|end_char=1362
+2	care	care	X	_	_	1	flat:name	_	start_char=1363|end_char=1367
+3	circulation	circulation	X	_	_	1	flat:foreign	_	start_char=1368|end_char=1379
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1379|end_char=1380
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=1381|end_char=1382
+6	representative	representative	X	_	_	1	appos	_	start_char=1383|end_char=1397
+7	sample	sample	PROPN	_	Number=Sing	6	flat:name	_	start_char=1398|end_char=1404
+8	of	of	PROPN	_	Number=Sing	6	flat:name	_	start_char=1405|end_char=1407
+9	it	it	PROPN	_	Number=Sing	6	flat:name	_	start_char=1408|end_char=1410
+10	should	should	PROPN	_	Number=Sing	6	flat:name	_	start_char=1411|end_char=1417
+11	be	be	PROPN	_	Number=Sing	6	flat:name	_	start_char=1418|end_char=1420
+12	collected	collected	PROPN	_	Number=Sing	6	flat:name	_	start_char=1421|end_char=1430
+13	for	for	PROPN	_	Number=Sing	6	flat:name	_	start_char=1431|end_char=1434
+14	future	future	PROPN	_	Number=Sing	6	flat:name	_	start_char=1435|end_char=1441
+15	pollen	pollen	PROPN	_	Number=Sing	6	flat:name	_	start_char=1442|end_char=1448
+16	analyses	analyses	PROPN	_	Number=Sing	6	flat:name	_	start_char=1449|end_char=1457
+17	.	.	PUNCT	_	_	1	punct	_	start_char=1457|end_char=1458
+18	.	.	PUNCT	_	_	1	punct	_	start_char=1458|end_char=1459
+
+# sent_id = 05DC85F660D30641E054002128300A66-12
+# text = outhem are. 0'1 P03110 -OelJ.trai oil f1e14
+1	outhem	outhem	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1461|end_char=1467
+2	are.	are.	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	start_char=1468|end_char=1472
+3	0'1	0'1	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	start_char=1473|end_char=1476
+4	P03110	p03110	NUM	_	NumType=Card	3	flat:foreign	_	start_char=1477|end_char=1483
+5	-	-	PUNCT	_	_	6	punct	_	start_char=1484|end_char=1485
+6	OelJ.trai	OelJ.trai	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=1485|end_char=1494
+7	oil	oil	X	_	_	6	flat:foreign	_	start_char=1495|end_char=1498
+8	f1e14	f1e14	PUNCT	_	_	6	punct	_	start_char=1499|end_char=1504
+
+# sent_id = 05DC85F660D30641E054002128300A66-13
+# text = Q ~. r1Mr1l7 dlrectly r.elate" to ~h. Mate.-OaW struotural trenl, 8I1d rof ZJ.ra' 1nterest t r the etructural 4r.l111tig .. 1aÇ s&:f that .noup..
+1	Q	Q	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1506|end_char=1507
+2	~.	~.	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	_	start_char=1508|end_char=1510
+3	r1Mr1l7	r1Mr1l7	PROPN	_	Number=Sing	1	flat:name	_	start_char=1511|end_char=1518
+4	dlrectly	dlrectly	PROPN	_	Number=Sing	2	flat:name	_	start_char=1519|end_char=1527
+5	r.elate	r.elate	PROPN	_	Number=Sing	2	flat:name	_	start_char=1528|end_char=1535
+6	"	«	PUNCT	_	_	1	flat:name	_	start_char=1535|end_char=1536
+7	to	to	PROPN	_	Number=Sing	1	flat:name	_	start_char=1537|end_char=1539
+8	~h.	~h.	PROPN	_	Number=Sing	1	flat:name	_	start_char=1540|end_char=1543
+9	Mate	Mate	PROPN	_	Number=Sing	1	flat:name	_	start_char=1544|end_char=1548
+10	.	.	PUNCT	_	_	1	flat:name	_	start_char=1548|end_char=1549
+11	-	-	PUNCT	_	_	1	flat:name	_	start_char=1549|end_char=1550
+12	OaW	OaW	PROPN	_	Number=Sing	1	flat:name	_	start_char=1550|end_char=1553
+13	struotural	struotural	PROPN	_	Number=Sing	1	flat:name	_	start_char=1554|end_char=1564
+14	trenl	trenl	PROPN	_	Number=Sing	1	flat:name	_	start_char=1565|end_char=1570
+15	,	,	PUNCT	_	_	12	punct	_	start_char=1570|end_char=1571
+16	8I1d	8I1d	PROPN	_	Number=Sing	12	flat:name	_	start_char=1572|end_char=1576
+17	rof	rof	PROPN	_	Number=Sing	12	flat:name	_	start_char=1577|end_char=1580
+18	ZJ.ra	ZJ.ra	PROPN	_	Number=Sing	12	flat:name	_	start_char=1581|end_char=1586
+19	'	'	PUNCT	_	_	1	flat:name	_	start_char=1586|end_char=1587
+20	1nterest	1nterest	PROPN	_	Number=Sing	1	flat:name	_	start_char=1588|end_char=1596
+21	t	t	PROPN	_	Number=Sing	1	flat:name	_	start_char=1597|end_char=1598
+22	r	r	PROPN	_	Number=Sing	20	flat:name	_	start_char=1599|end_char=1600
+23	the	the	PROPN	_	Number=Sing	20	flat:name	_	start_char=1601|end_char=1604
+24	etructural	etructural	PROPN	_	Number=Sing	20	flat:name	_	start_char=1605|end_char=1615
+25	4r.l111	4r.l111	PROPN	_	Number=Sing	20	flat:name	_	start_char=1616|end_char=1623
+26	tig	tig	PROPN	_	Number=Sing	20	flat:name	_	start_char=1623|end_char=1626
+27	..	..	PUNCT	_	_	1	flat:name	_	start_char=1627|end_char=1629
+28	1aÇ	1aÇ	PROPN	_	Number=Sing	1	flat:name	_	start_char=1630|end_char=1633
+29	s&	s&	PROPN	_	Number=Sing	28	flat:name	_	start_char=1634|end_char=1636
+30	:f	:f	PROPN	_	Number=Sing	28	flat:name	_	start_char=1636|end_char=1638
+31	that	that	PROPN	_	Number=Sing	28	flat:name	_	start_char=1639|end_char=1643
+32	.	.	PUNCT	_	_	33	punct	_	start_char=1644|end_char=1645
+33	noup	noup	PROPN	_	Number=Sing	28	flat:name	_	start_char=1645|end_char=1649
+34	.	.	PUNCT	_	_	1	punct	_	start_char=1649|end_char=1650
+35	.	.	PUNCT	_	_	1	punct	_	start_char=1650|end_char=1651
+
+# sent_id = 05DC85F660D30641E054002128300A66-14
+# text = trat holes .bave be&Jl dr1ll.ed bl. the SlUTelea area..
+1	trat	trat	X	_	_	0	root	_	start_char=1653|end_char=1657
+2	holes	holes	X	_	_	1	flat:name	_	start_char=1658|end_char=1663
+3	.	.	PUNCT	_	_	4	punct	_	start_char=1664|end_char=1665
+4	bave	bave	X	_	_	1	appos	_	start_char=1665|end_char=1669
+5	be&	be&	X	_	_	4	flat:foreign	_	start_char=1670|end_char=1673
+6	Jl	Jl	PROPN	_	Gender=Masc|Number=Sing	4	flat:foreign	_	start_char=1673|end_char=1675
+7	dr1ll.ed	dr1ll.ed	PROPN	_	Number=Sing	4	flat:name	_	start_char=1676|end_char=1684
+8	bl.	bl.	PROPN	_	Number=Sing	4	flat:name	_	start_char=1685|end_char=1688
+9	the	the	PROPN	_	Number=Sing	4	flat:name	_	start_char=1689|end_char=1692
+10	SlUTelea	SlUTelea	PROPN	_	Number=Sing	4	flat:name	_	start_char=1693|end_char=1701
+11	area.	area.	PROPN	_	Number=Sing	4	flat:name	_	start_char=1702|end_char=1707
+12	.	.	PUNCT	_	_	1	punct	_	start_char=1707|end_char=1708
+
+# sent_id = 05DC85F660D30641E054002128300A66-15
+# text = Gl'ái1Ie, ojuca ua..
+1	Gl'ái1	Gl'ái1	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1710|end_char=1716
+2	Ie	Ie	PROPN	_	Number=Sing	1	flat:name	_	start_char=1716|end_char=1718
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1718|end_char=1719
+4	ojuca	ojuca	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	start_char=1720|end_char=1725
+5	ua.	ua.	NOUN	_	Gender=Fem|Number=Sing	4	flat:foreign	_	start_char=1726|end_char=1729
+6	.	.	PUNCT	_	_	1	punct	_	start_char=1729|end_char=1730
+
+# sent_id = 05DC85F660D30641E054002128300A66-16
+# text = lIata 011 ti_ 8 in410a'e4 b;y _ '2. 'traotural I18.pe, tu area survelecl ta probably ldghlt f te4_ 00 -the .-l~..
+1	l	l	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1732|end_char=1733
+2	Iata	Iata	PROPN	_	Number=Sing	1	flat:name	_	start_char=1733|end_char=1737
+3	011	011	PROPN	_	Number=Sing	1	flat:name	_	start_char=1738|end_char=1741
+4	ti_	ti_	PUNCT	_	_	6	punct	_	start_char=1742|end_char=1745
+5	8	8	NUM	_	NumType=Card	6	nummod	_	start_char=1746|end_char=1747
+6	in410a'e4	in410a'e4	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=1748|end_char=1757
+7	b;y	b;y	PROPN	_	Number=Sing	6	compound	_	start_char=1758|end_char=1761
+8	_	_	PUNCT	_	_	10	punct	_	start_char=1762|end_char=1763
+9	'	'	PUNCT	_	_	10	punct	_	start_char=1764|end_char=1765
+10	2.	2.	X	_	_	1	conj	_	start_char=1765|end_char=1767
+11	'	'	PUNCT	_	_	12	punct	_	start_char=1768|end_char=1769
+12	traotural	traotural	X	_	_	1	conj	_	start_char=1769|end_char=1778
+13	I18.	I18.	PROPN	_	Gender=Masc|Number=Sing	12	nmod	_	start_char=1779|end_char=1783
+14	pe	pe	PROPN	_	Number=Sing	12	flat:name	_	start_char=1783|end_char=1785
+15	,	,	PUNCT	_	_	12	punct	_	start_char=1785|end_char=1786
+16	tu	tu	PROPN	_	Number=Sing	12	flat:name	_	start_char=1787|end_char=1789
+17	area	area	PROPN	_	Number=Sing	12	flat:name	_	start_char=1790|end_char=1794
+18	survelecl	survelecl	PROPN	_	Number=Sing	12	flat:name	_	start_char=1795|end_char=1804
+19	ta	ta	PROPN	_	Number=Sing	12	flat:name	_	start_char=1805|end_char=1807
+20	probably	probably	PROPN	_	Number=Sing	12	flat:name	_	start_char=1808|end_char=1816
+21	ldghlt	ldghlt	PROPN	_	Number=Sing	12	flat:name	_	start_char=1817|end_char=1823
+22	f	f	PROPN	_	Number=Sing	12	flat:name	_	start_char=1824|end_char=1825
+23	te4	te4	PROPN	_	Number=Sing	12	flat:name	_	start_char=1826|end_char=1829
+24	_	_	PUNCT	_	_	25	punct	_	start_char=1829|end_char=1830
+25	00	00	PROPN	_	Number=Sing	1	conj	_	start_char=1831|end_char=1833
+26	-the	-the	PROPN	_	Number=Sing	25	flat:name	_	start_char=1834|end_char=1838
+27	.-l~.	.-l~.	PROPN	_	Number=Sing	25	flat:name	_	start_char=1839|end_char=1844
+28	.	.	PUNCT	_	_	1	punct	_	start_char=1844|end_char=1845
+
+# sent_id = 05DC85F660D30641E054002128300A66-17
+# text = lhe ssu,ptlon 1bate "81:ru..
+1-2	lhe	_	_	_	_	_	_	_	start_char=1847|end_char=1850
+1	Em	em	ADP	_	_	2	case	_	_
+2	he	he	X	_	_	0	root	_	_
+3	ssu	ssu	X	_	_	2	nmod	_	start_char=1851|end_char=1854
+4	,	,	PUNCT	_	_	2	punct	_	start_char=1854|end_char=1855
+5	ptlon	ptlon	X	_	_	2	flat:foreign	_	start_char=1855|end_char=1860
+6	1bate	1bate	NOUN	_	Gender=Masc|Number=Sing	5	flat:foreign	_	start_char=1861|end_char=1866
+7	"	«	PUNCT	_	_	5	punct	_	start_char=1867|end_char=1868
+8	81	81	NUM	_	NumType=Card	5	nummod	_	start_char=1868|end_char=1870
+9	:	:	PUNCT	_	_	10	punct	_	start_char=1870|end_char=1871
+10	ru	ru	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	start_char=1871|end_char=1873
+11	.	.	PUNCT	_	_	10	punct	_	start_char=1873|end_char=1874
+12	.	.	PUNCT	_	_	2	punct	_	start_char=1874|end_char=1875
+
+# sent_id = 05DC85F660D30641E054002128300A66-18
+# text = Q~ contours"re n_ o. the oth.r ~aD4, the aand ~acles of tbe Ilhas toraatlon la Vb1 IBOSt of the QUa ... r8 ü!Ued «1V8S ao anela: bl. iIàl'kera . . e. dúiinotive c%oareoua..
+1	Q~	Q~	PUNCT	_	_	2	punct	_	start_char=1877|end_char=1879
+2	contours	contours	X	_	_	0	root	_	start_char=1880|end_char=1888
+3	"	«	PUNCT	_	_	2	punct	_	start_char=1888|end_char=1889
+4	re	re	PUNCT	_	_	6	punct	_	start_char=1889|end_char=1891
+5-6	n_	_	_	_	_	_	_	_	start_char=1892|end_char=1894
+5	em	em	ADP	_	_	6	case	_	_
+6	<UNK>	<UNK>	PROPN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+7	o.	o.	PROPN	_	Number=Sing	6	flat:name	_	start_char=1895|end_char=1897
+8	the	the	PROPN	_	Number=Sing	6	flat:name	_	start_char=1898|end_char=1901
+9	oth.r	oth.r	PROPN	_	Number=Sing	6	flat:name	_	start_char=1902|end_char=1907
+10	~aD4	~aD4	PROPN	_	Number=Sing	6	flat:name	_	start_char=1908|end_char=1912
+11	,	,	PUNCT	_	_	6	flat:name	_	start_char=1912|end_char=1913
+12	the	the	PROPN	_	Number=Sing	6	flat:name	_	start_char=1914|end_char=1917
+13	aand	aand	PROPN	_	Number=Sing	6	flat:name	_	start_char=1918|end_char=1922
+14	~acles	~acles	PROPN	_	Number=Sing	6	flat:name	_	start_char=1923|end_char=1929
+15	of	of	PROPN	_	Number=Sing	6	flat:name	_	start_char=1930|end_char=1932
+16	tbe	tbe	PROPN	_	Number=Sing	6	flat:name	_	start_char=1933|end_char=1936
+17	Ilhas	Ilhas	PROPN	_	Number=Sing	6	flat:name	_	start_char=1937|end_char=1942
+18	toraatlon	toraatlon	PROPN	_	Number=Sing	6	flat:name	_	start_char=1943|end_char=1952
+19	la	la	PROPN	_	Number=Sing	6	flat:name	_	start_char=1953|end_char=1955
+20	Vb1	Vb1	PROPN	_	Number=Sing	6	flat:name	_	start_char=1956|end_char=1959
+21	IBOSt	IBOSt	PROPN	_	Number=Sing	6	flat:name	_	start_char=1960|end_char=1965
+22	of	of	PROPN	_	Number=Sing	6	flat:name	_	start_char=1966|end_char=1968
+23	the	the	PROPN	_	Number=Sing	6	flat:name	_	start_char=1969|end_char=1972
+24	QUa	QUa	PROPN	_	Number=Sing	6	flat:name	_	start_char=1973|end_char=1976
+25	...	...	PUNCT	_	_	26	punct	_	start_char=1977|end_char=1980
+26	r8	r8	PROPN	_	Number=Sing	6	flat:name	_	start_char=1981|end_char=1983
+27	ü	ü	PUNCT	_	_	29	punct	_	start_char=1984|end_char=1985
+28	!	!	PUNCT	_	_	29	punct	_	start_char=1985|end_char=1986
+29	Ued	Ued	PROPN	_	Number=Sing	26	flat:name	_	start_char=1986|end_char=1989
+30	«	«	PUNCT	_	_	31	punct	_	start_char=1990|end_char=1991
+31	1V8S	1v8s	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	29	amod	_	start_char=1991|end_char=1995
+32-33	ao	_	_	_	_	_	_	_	start_char=1996|end_char=1998
+32	a	a	ADP	_	_	31	obl	_	_
+33	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	flat:name	_	_
+34	anela	anela	PROPN	_	Number=Sing	31	obl	_	start_char=1999|end_char=2004
+35	:	:	PUNCT	_	_	36	punct	_	start_char=2004|end_char=2005
+36	bl.	bl.	NOUN	_	Gender=Masc|Number=Sing	31	appos	_	start_char=2006|end_char=2009
+37	iIàl'kera	iIàl'kera	X	_	_	36	flat:foreign	_	start_char=2010|end_char=2019
+38	.	.	PUNCT	_	_	40	punct	_	start_char=2020|end_char=2021
+39	.	.	PUNCT	_	_	40	punct	_	start_char=2022|end_char=2023
+40	e.	e.	NOUN	_	Gender=Masc|Number=Sing	36	conj	_	start_char=2024|end_char=2026
+41	dúiinotive	dúiinotive	X	_	_	40	flat:foreign	_	start_char=2027|end_char=2037
+42	c	c	NUM	_	NumType=Card	43	nummod	_	start_char=2038|end_char=2039
+43	%	%	SYM	_	_	40	nmod	_	start_char=2039|end_char=2040
+44	oareoua	oareouar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	conj	_	start_char=2040|end_char=2047
+45	.	.	PUNCT	_	_	44	punct	_	start_char=2047|end_char=2048
+46	.	.	PUNCT	_	_	2	punct	_	start_char=2048|end_char=2049
+
+# sent_id = 05DC85F660D30641E054002128300A66-19
+# text = sUi)r sandstone aIProx..
+1	sUi	sui	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	_	start_char=2051|end_char=2054
+2	)	)	PUNCT	_	_	1	punct	_	start_char=2054|end_char=2055
+3	r	r	X	_	_	0	root	_	start_char=2055|end_char=2056
+4	sandstone	sandstone	X	_	_	3	flat:foreign	_	start_char=2057|end_char=2066
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=2067|end_char=2068
+6	IProx	IProx	PROPN	_	Gender=Fem|Number=Sing	3	nmod	_	start_char=2068|end_char=2073
+7	.	.	PUNCT	_	_	3	punct	_	start_char=2073|end_char=2074
+8	.	.	PUNCT	_	_	3	punct	_	start_char=2074|end_char=2075
+
+# sent_id = 05DC85F660D30641E054002128300A66-20
+# text = ju.te17 5~ .. ra oas1b~ a JIi ... aboY" the OatU-Sao ~o san48tone sequeno..
+1	ju.te17	ju.te17	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2077|end_char=2084
+2	5	5	NUM	_	NumType=Card	1	nummod	_	start_char=2085|end_char=2086
+3	~	~	PUNCT	_	_	5	punct	_	start_char=2086|end_char=2087
+4	..	..	PUNCT	_	_	5	punct	_	start_char=2088|end_char=2090
+5	ra	ra	PROPN	_	Number=Sing	1	appos	_	start_char=2091|end_char=2093
+6	oas1b	oas1b	PROPN	_	Number=Sing	5	flat:name	_	start_char=2094|end_char=2099
+7	~	~	PUNCT	_	_	5	punct	_	start_char=2099|end_char=2100
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	flat:name	_	start_char=2101|end_char=2102
+9	JIi	JIi	PROPN	_	Number=Sing	5	flat:name	_	start_char=2103|end_char=2106
+10	...	...	PUNCT	_	_	11	punct	_	start_char=2107|end_char=2110
+11	aboY	aboY	PROPN	_	Number=Sing	1	conj	_	start_char=2111|end_char=2115
+12	"	«	PUNCT	_	_	13	punct	_	start_char=2115|end_char=2116
+13	the	the	PROPN	_	Number=Sing	1	conj	_	start_char=2117|end_char=2120
+14	OatU-Sao	OatU-Sao	PROPN	_	Number=Sing	13	flat:name	_	start_char=2121|end_char=2129
+15-16	~o	_	_	_	_	_	_	_	start_char=2130|end_char=2132
+15	<UNK>	<UNK>	PROPN	_	Number=Sing	13	flat:name	_	_
+16	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	san48tone	san48tone	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=2133|end_char=2142
+18	sequeno	sequeno	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	start_char=2143|end_char=2150
+19	.	.	PUNCT	_	_	1	punct	_	start_char=2150|end_char=2151
+20	.	.	PUNCT	_	_	1	punct	_	start_char=2151|end_char=2152
+
+# sent_id = 05DC85F660D30641E054002128300A66-21
+# text = la 1.ad~..
+1	la	la	PROPN	_	Gender=Fem|Number=Sing	0	root	_	start_char=2154|end_char=2156
+2	1.ad~.	1.ad~.	NUM	_	NumType=Card	1	nummod	_	start_char=2157|end_char=2163
+3	.	.	PUNCT	_	_	1	punct	_	start_char=2163|end_char=2164
+
+# sent_id = 05DC85F660D30641E054002128300A66-22
+# text = 3. - AS a oonse<1U4lnoe of ldlat y ••• n1;10n a in th. ab v. Ite. 2, 1hterpret 1:10n 'baaed are onl:7 011 'u ahallow atrat hol •• 18 '9'&111e..
+1	3	3	NUM	_	NumType=Card	6	nummod	_	start_char=2166|end_char=2167
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2167|end_char=2168
+3	-	-	PUNCT	_	_	6	punct	_	start_char=2169|end_char=2170
+4	AS	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	start_char=2171|end_char=2173
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=2174|end_char=2175
+6	oonse<1U4	oonse<1U4	PROPN	_	Number=Sing	0	root	_	start_char=2176|end_char=2185
+7	lnoe	lnoe	PROPN	_	Number=Sing	6	flat:name	_	start_char=2185|end_char=2189
+8	of	of	PROPN	_	Number=Sing	6	flat:name	_	start_char=2190|end_char=2192
+9	ldlat	ldlat	PROPN	_	Number=Sing	6	flat:name	_	start_char=2193|end_char=2198
+10	y	y	PROPN	_	Number=Sing	6	flat:name	_	start_char=2199|end_char=2200
+11	•••	•••	PROPN	_	Number=Sing	6	flat:name	_	start_char=2201|end_char=2204
+12	n1;10n	n1;10n	PROPN	_	Number=Sing	6	flat:name	_	start_char=2205|end_char=2211
+13	a	a	PROPN	_	Number=Sing	6	flat:name	_	start_char=2212|end_char=2213
+14	in	in	PROPN	_	Number=Sing	6	flat:name	_	start_char=2214|end_char=2216
+15	th.	th.	PROPN	_	Number=Sing	6	flat:name	_	start_char=2217|end_char=2220
+16	ab	ab	PROPN	_	Number=Sing	6	flat:name	_	start_char=2221|end_char=2223
+17	v.	v.	PROPN	_	Number=Sing	6	flat:name	_	start_char=2224|end_char=2226
+18	Ite.	Ite.	PROPN	_	Number=Sing	6	flat:name	_	start_char=2227|end_char=2231
+19	2	2	PROPN	_	Number=Sing	6	flat:name	_	start_char=2232|end_char=2233
+20	,	,	PUNCT	_	_	21	punct	_	start_char=2233|end_char=2234
+21	1hterpret	1hterprar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=2235|end_char=2244
+22	1:10n	1:10n	NUM	_	NumType=Card	21	obj	_	start_char=2245|end_char=2250
+23	'	'	PUNCT	_	_	24	punct	_	start_char=2251|end_char=2252
+24	baaed	baaed	X	_	_	21	appos	_	start_char=2252|end_char=2257
+25	are	are	X	_	_	24	flat:foreign	_	start_char=2258|end_char=2261
+26	onl:7	onl:7	X	_	_	24	flat:foreign	_	start_char=2262|end_char=2267
+27	011	011	PROPN	_	Number=Sing	24	flat:foreign	_	start_char=2268|end_char=2271
+28	'u	'u	X	_	_	24	flat:foreign	_	start_char=2272|end_char=2274
+29	ahallow	ahallow	X	_	_	24	flat:foreign	_	start_char=2275|end_char=2282
+30	atrat	atrat	X	_	_	24	flat:foreign	_	start_char=2283|end_char=2288
+31	hol	hol	X	_	_	28	flat:foreign	_	start_char=2289|end_char=2292
+32	••	••	PUNCT	_	_	34	punct	_	start_char=2293|end_char=2295
+33	18	18	NUM	_	NumType=Card	34	nummod	_	start_char=2296|end_char=2298
+34	'9'&	'9'&	NOUN	_	Gender=Masc|Number=Plur	24	conj	_	start_char=2299|end_char=2303
+35	111	111	NUM	_	NumType=Card	36	nummod	_	start_char=2303|end_char=2306
+36	e..	e..	NOUN	_	Gender=Masc|Number=Plur	34	nmod	_	start_char=2306|end_char=2309
+
+# sent_id = 05DC85F660D30641E054002128300A66-23
+# text = ~.X'... . \UlI"ellable.
+'9'&111e..
+1	~.X'	~.X'	NUM	_	NumType=Card	5	nummod	_	start_char=2311|end_char=2315
+2	...	...	PUNCT	_	_	1	punct	_	start_char=2315|end_char=2318
+3	.	.	PUNCT	_	_	5	punct	_	start_char=2319|end_char=2320
+4	\	\	PUNCT	_	_	5	punct	_	start_char=2321|end_char=2322
+5	UlI	UlI	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2322|end_char=2325
+6	"	«	PUNCT	_	_	7	punct	_	start_char=2325|end_char=2326
+7	ellable	ellable	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	start_char=2326|end_char=2333
+8	.	.	PUNCT	_	_	9	punct	_	start_char=2333|end_char=2334
+9	'9'&	'9'&	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	start_char=2335|end_char=2339
+10	111	111	NUM	_	NumType=Card	9	nummod	_	start_char=2339|end_char=2342
+11	e	e	CCONJ	_	_	9	cc	_	start_char=2342|end_char=2343
+12	..	..	PUNCT	_	_	5	punct	_	start_char=2343|end_char=2345
+
+# sent_id = 05DC85F660D30641E054002128300A66-24
+# text = ~.X'... . 4. Thê 4r1lls1te resultl
+1	~.X'	~.X'	NUM	_	NumType=Card	4	nummod	_	start_char=2347|end_char=2351
+2	...	...	PUNCT	_	_	1	punct	_	start_char=2351|end_char=2354
+3	.	.	PUNCT	_	_	4	punct	_	start_char=2355|end_char=2356
+4	4	4	NUM	_	NumType=Card	0	root	_	start_char=2357|end_char=2358
+5	.	.	PUNCT	_	_	6	punct	_	start_char=2358|end_char=2359
+6	Thê	Thê	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	start_char=2360|end_char=2363
+7	4r1lls1te	4r1lls1te	NUM	_	NumType=Card	8	nummod	_	start_char=2364|end_char=2373
+8	resultl	resultl	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=2374|end_char=2381
+
+# sent_id = 05DC85F660D30641E054002128300A66-25
+# text = Da ~rom ~he st.Not1U'âl Ul11lq Pro":i 1i11V opimon" la 'Ót questionab'! taference t~ Po~o~O.ntral oil 11.14 aps aaa reala..l ~e110 ~V1tr ~nt.~retatlonot \he area; test~ bf th »roe,eot 18 re qu1re4..
+1-2	Da	_	_	_	_	_	_	_	start_char=2383|end_char=2385
+1	De	de	ADP	_	_	3	case	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	~rom	~rom	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=2386|end_char=2390
+4	~he	~he	PUNCT	_	_	5	punct	_	start_char=2391|end_char=2394
+5	st.Not1U'âl	st.Not1U'âl	PROPN	_	Gender=Fem|Number=Sing	3	appos	_	start_char=2395|end_char=2406
+6	Ul11lq	Ul11lq	PROPN	_	Number=Sing	5	flat:name	_	start_char=2407|end_char=2413
+7	Pro	Pro	PROPN	_	Number=Sing	5	flat:name	_	start_char=2414|end_char=2417
+8	"	«	PUNCT	_	_	5	flat:name	_	start_char=2417|end_char=2418
+9	:i	:i	PROPN	_	Number=Sing	5	flat:name	_	start_char=2418|end_char=2420
+10	1i11V	1i11V	PROPN	_	Number=Sing	5	flat:name	_	start_char=2421|end_char=2426
+11	opimon	opimon	PROPN	_	Number=Sing	5	flat:name	_	start_char=2427|end_char=2433
+12	"	«	PUNCT	_	_	15	punct	_	start_char=2433|end_char=2434
+13	la	la	PROPN	_	Number=Sing	5	flat:name	_	start_char=2435|end_char=2437
+14	'	'	PUNCT	_	_	15	punct	_	start_char=2438|end_char=2439
+15	Ót	Ót	PROPN	_	Gender=Fem|Number=Sing	5	conj	_	start_char=2439|end_char=2441
+16	questionab'	questionab'	PROPN	_	Number=Sing	15	flat:name	_	start_char=2442|end_char=2453
+17	!	!	PUNCT	_	_	15	flat:name	_	start_char=2453|end_char=2454
+18	taference	taference	PROPN	_	Number=Sing	15	flat:name	_	start_char=2455|end_char=2464
+19	t~	t~	PROPN	_	Number=Sing	15	flat:name	_	start_char=2465|end_char=2467
+20	Po~o~O.ntral	Po~o~O.ntral	PROPN	_	Number=Sing	15	flat:name	_	start_char=2468|end_char=2480
+21	oil	oil	PROPN	_	Number=Sing	15	flat:name	_	start_char=2481|end_char=2484
+22	11.14	11.14	PROPN	_	Number=Sing	15	flat:name	_	start_char=2485|end_char=2490
+23	aps	aps	PROPN	_	Number=Sing	15	flat:name	_	start_char=2491|end_char=2494
+24-25	aaa	_	_	_	_	_	_	_	start_char=2495|end_char=2498
+24	a	a	ADP	_	_	15	flat:name	_	_
+25	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	flat:name	_	_
+26	reala	reala	PROPN	_	Number=Sing	15	flat:name	_	start_char=2499|end_char=2504
+27	..l	..l	PROPN	_	Number=Sing	15	flat:name	_	start_char=2504|end_char=2507
+28	~e110	~e110	PROPN	_	Number=Sing	15	flat:name	_	start_char=2508|end_char=2513
+29	~	~	PUNCT	_	_	30	punct	_	start_char=2514|end_char=2515
+30	V1tr	V1tr	PROPN	_	Number=Sing	15	flat:name	_	start_char=2515|end_char=2519
+31	~nt.	~nt.	PROPN	_	Number=Sing	30	flat:name	_	start_char=2520|end_char=2524
+32	~retatlonot	~retatlonot	PROPN	_	Number=Sing	30	flat:name	_	start_char=2524|end_char=2535
+33	\he	\he	PROPN	_	Number=Sing	30	flat:name	_	start_char=2536|end_char=2539
+34	area	area	PROPN	_	Number=Sing	30	flat:name	_	start_char=2540|end_char=2544
+35	;	;	PUNCT	_	_	37	punct	_	start_char=2544|end_char=2545
+36	test~	test~	PUNCT	_	_	37	punct	_	start_char=2546|end_char=2551
+37	bf	bf	X	_	_	5	conj	_	start_char=2552|end_char=2554
+38	th	th	X	_	_	37	flat:foreign	_	start_char=2555|end_char=2557
+39	»	»	PUNCT	_	_	40	punct	_	start_char=2558|end_char=2559
+40	roe	roe	X	_	_	37	flat:foreign	_	start_char=2559|end_char=2562
+41	,	,	PUNCT	_	_	42	punct	_	start_char=2562|end_char=2563
+42	eot	eot	NOUN	_	Gender=Masc|Number=Sing	37	conj	_	start_char=2563|end_char=2566
+43	18	18	NUM	_	NumType=Card	42	nummod	_	start_char=2567|end_char=2569
+44	re	re	PUNCT	_	_	45	punct	_	start_char=2570|end_char=2572
+45	qu1re4	qu1re4	NOUN	_	Gender=Masc|Number=Sing	37	appos	_	start_char=2573|end_char=2579
+46	.	.	PUNCT	_	_	45	punct	_	start_char=2579|end_char=2580
+47	.	.	PUNCT	_	_	3	punct	_	start_char=2580|end_char=2581
+
+# sent_id = 05DC85F660D30641E054002128300A66-26
+# text = 5. - In order o iIlake poa 1b1.8 tlle use of a pâ1ino10 C,&I"&- a.t r oontrol..
+1	5	5	NUM	_	NumType=Card	4	nummod	_	start_char=2583|end_char=2584
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2584|end_char=2585
+3	-	-	PUNCT	_	_	4	punct	_	start_char=2586|end_char=2587
+4	In	In	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2588|end_char=2590
+5	order	order	X	_	_	4	flat:name	_	start_char=2591|end_char=2596
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	flat:name	_	start_char=2597|end_char=2598
+7	iIlake	iIlake	PROPN	_	Number=Sing	4	flat:name	_	start_char=2599|end_char=2605
+8	poa	poa	PROPN	_	Number=Sing	4	flat:name	_	start_char=2606|end_char=2609
+9	1b1.8	1b1.8	PROPN	_	Number=Sing	4	flat:name	_	start_char=2610|end_char=2615
+10	tlle	tlle	PROPN	_	Number=Sing	4	flat:name	_	start_char=2616|end_char=2620
+11	use	usar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=2621|end_char=2624
+12	of	of	PROPN	_	Number=Sing	11	obj	_	start_char=2625|end_char=2627
+13	a	a	ADP	_	_	11	obl	_	start_char=2628|end_char=2629
+14	pâ1ino10	pâ1ino10	PROPN	_	Number=Sing	12	flat:name	_	start_char=2630|end_char=2638
+15	C,&I"	C,&I"	PROPN	_	Number=Sing	12	flat:name	_	start_char=2639|end_char=2644
+16	&-	&-	PUNCT	_	_	11	punct	_	start_char=2644|end_char=2646
+17	a.t	a.t	PROPN	_	Number=Sing	11	obl	_	start_char=2647|end_char=2650
+18	r	r	PROPN	_	Number=Sing	17	flat:name	_	start_char=2651|end_char=2652
+19	oontrol	oontrol	PROPN	_	Number=Sing	17	flat:name	_	start_char=2653|end_char=2660
+20	.	.	PUNCT	_	_	11	punct	_	start_char=2660|end_char=2661
+21	.	.	PUNCT	_	_	11	punct	_	start_char=2661|end_char=2662
+
+# sent_id = 05DC85F660D30641E054002128300A66-27
+# text = in 8l1Ch di1'tlcult 8urv.;y..
+1	in	in	X	_	_	0	root	_	start_char=2664|end_char=2666
+2	8l1	8l1	NUM	_	NumType=Card	1	nummod	_	start_char=2667|end_char=2670
+3	Ch	ch	X	_	_	1	flat:foreign	_	start_char=2670|end_char=2672
+4	di1'tlcult	di1'tlcult	X	_	_	1	flat:foreign	_	start_char=2673|end_char=2683
+5	8urv	8urv	X	_	_	3	flat:foreign	_	start_char=2684|end_char=2688
+6	.	.	PUNCT	_	_	7	punct	_	start_char=2688|end_char=2689
+7	;y	;y	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=2689|end_char=2691
+8	..	..	PUNCT	_	_	1	punct	_	start_char=2691|end_char=2693
+
+# sent_id = 05DC85F660D30641E054002128300A66-28
+# text = are 11; 18 elilCBee 1hat al1 wells of t~ tl'UOw.ral..
+1	are	are	X	_	_	6	nsubj	_	start_char=2695|end_char=2698
+2	11	11	NUM	_	NumType=Card	1	nummod	_	start_char=2699|end_char=2701
+3	;	;	PUNCT	_	_	5	punct	_	start_char=2701|end_char=2702
+4	18	18	NUM	_	NumType=Card	5	nummod	_	start_char=2703|end_char=2705
+5	elilCBee	elilcbee	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	start_char=2706|end_char=2714
+6	1hat	1hatar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2715|end_char=2719
+7	al1	al1	PUNCT	_	_	8	punct	_	start_char=2720|end_char=2723
+8	wells	wells	X	_	_	6	obj	_	start_char=2724|end_char=2729
+9	of	of	PROPN	_	Number=Sing	8	flat:name	_	start_char=2730|end_char=2732
+10	t~	t~	PROPN	_	Number=Sing	8	flat:name	_	start_char=2733|end_char=2735
+11	tl'UOw.ral	tl'UOw.ral	PROPN	_	Number=Sing	8	flat:name	_	start_char=2736|end_char=2746
+12	.	.	PUNCT	_	_	6	punct	_	start_char=2746|end_char=2747
+13	.	.	PUNCT	_	_	6	punct	_	start_char=2747|end_char=2748
+
+# sent_id = 05DC85F660D30641E054002128300A66-29
+# text = 4r111ut ograa..
+1	4r111ut	4r111ut	NUM	_	NumType=Card	2	nummod	_	start_char=2750|end_char=2757
+2	ograa	ograa	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2758|end_char=2763
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2763|end_char=2764
+4	.	.	PUNCT	_	_	2	punct	_	start_char=2764|end_char=2765
+
+# sent_id = 05DC85F660D30641E054002128300A66-30
+# text = that 18 wrq p08s1'ble, teratltáte in a abale 'b.a..
+1	that	that	X	_	_	9	nsubj	_	start_char=2767|end_char=2771
+2	18	18	NUM	_	NumType=Card	1	nummod	_	start_char=2772|end_char=2774
+3	wrq	wrq	PUNCT	_	_	4	punct	_	start_char=2775|end_char=2778
+4	p08s1'ble	p08s1'ble	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=2779|end_char=2788
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2788|end_char=2789
+6	teratltáte	teratltáte	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	start_char=2790|end_char=2800
+7	in	in	X	_	_	6	flat:foreign	_	start_char=2801|end_char=2803
+8	a	ela	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=2804|end_char=2805
+9	abale	abalar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2806|end_char=2811
+10	'	'	PUNCT	_	_	11	punct	_	start_char=2812|end_char=2813
+11	b.a	b.a	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	start_char=2813|end_char=2816
+12	.	.	PUNCT	_	_	11	punct	_	start_char=2816|end_char=2817
+13	.	.	PUNCT	_	_	9	punct	_	start_char=2817|end_char=2818
+
+# sent_id = 05DC85F660D30641E054002128300A66-31
+# text = After are o roulat1oa, a pr.a.n~at1v..
+1	After	After	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2820|end_char=2825
+2	are	are	PROPN	_	Number=Sing	1	flat:name	_	start_char=2826|end_char=2829
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat:name	_	start_char=2830|end_char=2831
+4	roulat1oa	roulat1oa	PROPN	_	Number=Sing	1	flat:name	_	start_char=2832|end_char=2841
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2841|end_char=2842
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=2843|end_char=2844
+7	pr.a	pr.a	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	start_char=2845|end_char=2849
+8	.	.	PUNCT	_	_	9	punct	_	start_char=2849|end_char=2850
+9	n~at1	n~at1	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	start_char=2850|end_char=2855
+10	v.	v.	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	start_char=2855|end_char=2857
+11	.	.	PUNCT	_	_	1	punct	_	start_char=2857|end_char=2858
+
+# sent_id = 05DC85F660D30641E054002128300A66-32
+# text = sample of lt hould e collectta for fU~ o~n .
+1	sample	sample	X	_	_	8	nsubj	_	start_char=2860|end_char=2866
+2	of	of	X	_	_	1	flat:foreign	_	start_char=2867|end_char=2869
+3	lt	lt	X	_	_	1	flat:foreign	_	start_char=2870|end_char=2872
+4	hould	hould	X	_	_	1	flat:foreign	_	start_char=2873|end_char=2878
+5	e	e	CCONJ	_	_	6	cc	_	start_char=2879|end_char=2880
+6	collectta	collectta	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	start_char=2881|end_char=2890
+7	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	cop	_	start_char=2891|end_char=2894
+8	fU~	fu~	ADJ	_	Gender=Masc|Number=Sing	0	root	_	start_char=2895|end_char=2898
+9	o~n	o~n	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	start_char=2899|end_char=2902
+10	.	.	PUNCT	_	_	9	punct	_	start_char=2903|end_char=2904
+
+# sent_id = 05DC85F660D30641E054002128300A66-33
+# text = ~~~..
+GP/is..
+1	~~	~~	INTJ	_	_	2	nummod	_	start_char=2906|end_char=2908
+2	~..	~..	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2908|end_char=2911
+3	GP/is	GP/is	PROPN	_	Gender=Masc|Number=Sing	2	flat:name	_	start_char=2912|end_char=2917
+4	..	..	PUNCT	_	_	2	punct	_	start_char=2917|end_char=2919
+
+# sent_id = 05DC85F660D30641E054002128300A66-34
+# text = Pile: Report nº 251,RPBA-Depex , D1I=5, PETROBRÁS IPE-4-A PETRÓLEO BRASILEIRO Enc10se p1ease find a copy of Mr .
+1	Pile	Pile	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2921|end_char=2925
+2	:	:	PUNCT	_	_	3	punct	_	start_char=2925|end_char=2926
+3	Report	Report	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=2927|end_char=2933
+4	nº	nº	NOUN	_	Gender=Masc|Number=Sing	3	flat:name	_	start_char=2934|end_char=2936
+5	251,	251,	NUM	_	NumType=Card	3	flat:name	_	start_char=2937|end_char=2941
+6	RPBA-Depex	RPBA-Depex	PROPN	_	Number=Sing	3	flat:name	_	start_char=2941|end_char=2951
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2952|end_char=2953
+8	D1I=5	D1I=5	PROPN	_	Gender=Masc|Number=Sing	3	conj	_	start_char=2954|end_char=2959
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2959|end_char=2960
+10	PETROBRÁS	Petrorres	PROPN	_	Gender=Fem|Number=Sing	3	conj	_	start_char=2961|end_char=2970
+11	IPE-4-A	IPE-4-A	PROPN	_	Number=Sing	10	flat:name	_	start_char=2971|end_char=2978
+12	PETRÓLEO	PETRÓLEO	PROPN	_	Number=Sing	10	flat:name	_	start_char=2979|end_char=2987
+13	BRASILEIRO	BRasileiro	PROPN	_	Number=Sing	10	flat:name	_	start_char=2988|end_char=2998
+14	Enc10se	Enc10se	PROPN	_	Number=Sing	10	flat:name	_	start_char=2999|end_char=3006
+15	p1ease	p1ease	PROPN	_	Number=Sing	10	flat:name	_	start_char=3007|end_char=3013
+16	find	find	PROPN	_	Number=Sing	10	flat:name	_	start_char=3014|end_char=3018
+17	a	a	PROPN	_	Number=Sing	10	flat:name	_	start_char=3019|end_char=3020
+18	copy	copy	PROPN	_	Number=Sing	10	flat:name	_	start_char=3021|end_char=3025
+19	of	of	PROPN	_	Number=Sing	10	flat:name	_	start_char=3026|end_char=3028
+20	Mr	Mr	PROPN	_	Number=Sing	10	flat:name	_	start_char=3029|end_char=3031
+21	.	.	PUNCT	_	_	1	punct	_	start_char=3032|end_char=3033
+
+# sent_id = 05DC85F660D30641E054002128300A66-35
+# text = Conrads report on the Pojuca Area Structure Drilling..
+1	Conrads	Conrads	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3035|end_char=3042
+2	report	report	X	_	_	1	flat:name	_	start_char=3043|end_char=3049
+3	on	on	PROPN	_	Number=Sing	1	flat:name	_	start_char=3050|end_char=3052
+4	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=3053|end_char=3056
+5	Pojuca	Pojuca	PROPN	_	Number=Sing	1	flat:name	_	start_char=3057|end_char=3063
+6	Area	Area	PROPN	_	Number=Sing	1	flat:name	_	start_char=3064|end_char=3068
+7	Structure	Structure	PROPN	_	Number=Sing	1	flat:name	_	start_char=3069|end_char=3078
+8	Drilling	Drilling	PROPN	_	Number=Sing	1	flat:name	_	start_char=3079|end_char=3087
+9	.	.	PUNCT	_	_	1	flat:name	_	start_char=3087|end_char=3088
+10	.	.	PUNCT	_	_	1	punct	_	start_char=3088|end_char=3089
+
+# sent_id = 05DC85F660D30641E054002128300A66-36
+# text = This was done during a 9 day period is a good example of the results tha t can be obtained by this party in suitab1e area .
+1	This	This	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3091|end_char=3095
+2-3	was	_	_	_	_	_	_	_	start_char=3096|end_char=3099
+2	wm	wm	PROPN	_	Number=Sing	1	flat:name	_	_
+3	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	flat:name	_	_
+4	done	done	PROPN	_	Number=Sing	1	flat:name	_	start_char=3100|end_char=3104
+5	during	during	PROPN	_	Number=Sing	1	flat:name	_	start_char=3105|end_char=3111
+6	a	a	PROPN	_	Number=Sing	1	flat:name	_	start_char=3112|end_char=3113
+7	9	9	PROPN	_	Number=Sing	1	flat:name	_	start_char=3114|end_char=3115
+8	day	day	PROPN	_	Number=Sing	1	flat:name	_	start_char=3116|end_char=3119
+9	period	period	PROPN	_	Number=Sing	1	flat:name	_	start_char=3120|end_char=3126
+10	is	is	PROPN	_	Number=Sing	1	flat:name	_	start_char=3127|end_char=3129
+11	a	a	PROPN	_	Number=Sing	1	flat:name	_	start_char=3130|end_char=3131
+12	good	good	PROPN	_	Number=Sing	1	flat:name	_	start_char=3132|end_char=3136
+13	example	example	PROPN	_	Number=Sing	1	flat:name	_	start_char=3137|end_char=3144
+14	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=3145|end_char=3147
+15	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=3148|end_char=3151
+16	results	results	PROPN	_	Number=Sing	1	flat:name	_	start_char=3152|end_char=3159
+17	tha	tha	PROPN	_	Number=Sing	1	flat:name	_	start_char=3160|end_char=3163
+18	t	t	PROPN	_	Number=Sing	1	flat:name	_	start_char=3164|end_char=3165
+19	can	can	PROPN	_	Number=Sing	1	flat:name	_	start_char=3166|end_char=3169
+20	be	be	PROPN	_	Number=Sing	1	flat:name	_	start_char=3170|end_char=3172
+21	obtained	obtained	PROPN	_	Number=Sing	1	flat:name	_	start_char=3173|end_char=3181
+22	by	by	PROPN	_	Number=Sing	1	flat:name	_	start_char=3182|end_char=3184
+23	this	this	PROPN	_	Number=Sing	1	flat:name	_	start_char=3185|end_char=3189
+24	party	party	PROPN	_	Number=Sing	1	flat:name	_	start_char=3190|end_char=3195
+25	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=3196|end_char=3198
+26	suitab1e	suitab1e	PROPN	_	Number=Sing	1	flat:name	_	start_char=3199|end_char=3207
+27	area	area	PROPN	_	Number=Sing	1	flat:name	_	start_char=3208|end_char=3212
+28	.	.	PUNCT	_	_	1	punct	_	start_char=3213|end_char=3214
+
+# sent_id = 05DC85F660D30641E054002128300A66-37
+# text = I agree wi th 11r .
+1	I	I	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3216|end_char=3217
+2	agree	agree	X	_	_	1	flat:name	_	start_char=3218|end_char=3223
+3	wi	wi	X	_	_	1	flat:name	_	start_char=3224|end_char=3226
+4	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=3227|end_char=3229
+5	11r	11r	PROPN	_	Number=Sing	1	flat:name	_	start_char=3230|end_char=3233
+6	.	.	PUNCT	_	_	1	punct	_	start_char=3234|end_char=3235
+
+# sent_id = 05DC85F660D30641E054002128300A66-38
+# text = Conrads conclusions in this area and a location has already been re c ommended and approved 2620 meters south and 1660 meters east of PC-lI .
+1	Conrads	Conrads	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3237|end_char=3244
+2	conclusions	conclusions	X	_	_	1	flat:name	_	start_char=3245|end_char=3256
+3	in	in	X	_	_	1	flat:name	_	start_char=3257|end_char=3259
+4	this	this	X	_	_	1	flat:name	_	start_char=3260|end_char=3264
+5	area	area	X	_	_	1	flat:name	_	start_char=3265|end_char=3269
+6	and	and	PROPN	_	Number=Sing	1	flat:name	_	start_char=3270|end_char=3273
+7	a	a	PROPN	_	Number=Sing	1	flat:name	_	start_char=3274|end_char=3275
+8	location	location	PROPN	_	Number=Sing	1	flat:name	_	start_char=3276|end_char=3284
+9	has	has	PROPN	_	Number=Sing	1	flat:name	_	start_char=3285|end_char=3288
+10	already	already	PROPN	_	Number=Sing	1	flat:name	_	start_char=3289|end_char=3296
+11	been	been	PROPN	_	Number=Sing	1	flat:name	_	start_char=3297|end_char=3301
+12	re	re	PROPN	_	Number=Sing	1	flat:name	_	start_char=3302|end_char=3304
+13	c	c	PROPN	_	Number=Sing	1	flat:name	_	start_char=3305|end_char=3306
+14	ommended	ommended	PROPN	_	Number=Sing	1	flat:name	_	start_char=3307|end_char=3315
+15	and	and	PROPN	_	Number=Sing	1	flat:name	_	start_char=3316|end_char=3319
+16	approved	approved	PROPN	_	Number=Sing	1	flat:name	_	start_char=3320|end_char=3328
+17	2620	2620	PROPN	_	Number=Sing	1	flat:name	_	start_char=3329|end_char=3333
+18	meters	meters	PROPN	_	Number=Sing	1	flat:name	_	start_char=3334|end_char=3340
+19	south	south	PROPN	_	Number=Sing	1	flat:name	_	start_char=3341|end_char=3346
+20	and	and	PROPN	_	Number=Sing	1	flat:name	_	start_char=3347|end_char=3350
+21	1660	1660	PROPN	_	Number=Sing	1	flat:name	_	start_char=3351|end_char=3355
+22	meters	meters	PROPN	_	Number=Sing	1	flat:name	_	start_char=3356|end_char=3362
+23	east	east	PROPN	_	Number=Sing	1	flat:name	_	start_char=3363|end_char=3367
+24	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=3368|end_char=3370
+25	PC-lI	PC-lI	PROPN	_	Number=Sing	1	flat:name	_	start_char=3371|end_char=3376
+26	.	.	PUNCT	_	_	1	punct	_	start_char=3377|end_char=3378
+
+# sent_id = 05DC85F660D30641E054002128300A66-39
+# text = There is some risk as a structura1 rise in the Ilhas does not necessarily indicate a corresponding rise in the Sergi , however it is fe1t that the area is well worth a wildcat we11 .
+1	There	There	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3380|end_char=3385
+2	is	is	PROPN	_	Number=Sing	1	flat:name	_	start_char=3386|end_char=3388
+3	some	sumir	PROPN	_	Number=Sing	1	flat:name	_	start_char=3389|end_char=3393
+4	risk	risk	PROPN	_	Number=Sing	1	flat:name	_	start_char=3394|end_char=3398
+5	as	o	DET	_	Gender=Fem|Number=Plur|PronType=Art	1	flat:name	_	start_char=3399|end_char=3401
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	flat:name	_	start_char=3402|end_char=3403
+7	structura1	structura1	PROPN	_	Number=Sing	1	flat:name	_	start_char=3404|end_char=3414
+8	rise	rise	PROPN	_	Number=Sing	1	flat:name	_	start_char=3415|end_char=3419
+9	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=3420|end_char=3422
+10	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=3423|end_char=3426
+11	Ilhas	Ilhas	PROPN	_	Number=Sing	1	flat:name	_	start_char=3427|end_char=3432
+12	does	does	PROPN	_	Number=Sing	1	flat:name	_	start_char=3433|end_char=3437
+13	not	not	PROPN	_	Number=Sing	1	flat:name	_	start_char=3438|end_char=3441
+14	necessarily	necessarily	PROPN	_	Number=Sing	1	flat:name	_	start_char=3442|end_char=3453
+15	indicate	indicate	PROPN	_	Number=Sing	1	flat:name	_	start_char=3454|end_char=3462
+16	a	a	PROPN	_	Number=Sing	1	flat:name	_	start_char=3463|end_char=3464
+17	corresponding	corresponding	PROPN	_	Number=Sing	1	flat:name	_	start_char=3465|end_char=3478
+18	rise	rise	PROPN	_	Number=Sing	1	flat:name	_	start_char=3479|end_char=3483
+19	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=3484|end_char=3486
+20	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=3487|end_char=3490
+21	Sergi	Sergi	PROPN	_	Number=Sing	1	flat:name	_	start_char=3491|end_char=3496
+22	,	,	PUNCT	_	_	1	flat:name	_	start_char=3497|end_char=3498
+23	however	however	PROPN	_	Number=Sing	1	flat:name	_	start_char=3499|end_char=3506
+24	it	it	PROPN	_	Number=Sing	1	flat:name	_	start_char=3507|end_char=3509
+25	is	is	PROPN	_	Number=Sing	1	flat:name	_	start_char=3510|end_char=3512
+26	fe1t	fe1t	PROPN	_	Number=Sing	1	flat:name	_	start_char=3513|end_char=3517
+27	that	that	PROPN	_	Number=Sing	1	flat:name	_	start_char=3518|end_char=3522
+28	the	the	PROPN	_	Number=Sing	23	flat:name	_	start_char=3523|end_char=3526
+29	area	area	PROPN	_	Number=Sing	1	flat:name	_	start_char=3527|end_char=3531
+30	is	is	PROPN	_	Number=Sing	1	flat:name	_	start_char=3532|end_char=3534
+31	well	well	PROPN	_	Number=Sing	1	flat:name	_	start_char=3535|end_char=3539
+32	worth	worth	PROPN	_	Number=Sing	1	flat:name	_	start_char=3540|end_char=3545
+33	a	a	PROPN	_	Number=Sing	1	flat:name	_	start_char=3546|end_char=3547
+34	wildcat	wildcat	PROPN	_	Number=Sing	1	flat:name	_	start_char=3548|end_char=3555
+35	we11	we11	PROPN	_	Number=Sing	1	flat:name	_	start_char=3556|end_char=3560
+36	.	.	PUNCT	_	_	1	punct	_	start_char=3561|end_char=3562
+
+# sent_id = 05DC85F660D30641E054002128300A66-40
+# text = During th period
+1	During	During	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3564|end_char=3570
+2	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=3571|end_char=3573
+3	period	period	PROPN	_	Number=Sing	1	flat:name	_	start_char=3574|end_char=3580
+
+# sent_id = 05DC85F660D30641E054002128300A66-41
+# text = Deee b r 10. through
+1	Deee	Deee	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3582|end_char=3586
+2	b	b	NOUN	_	Gender=Masc|Number=Sing	1	flat:name	_	start_char=3587|end_char=3588
+3	r	r	PROPN	_	Number=Sing	1	flat:name	_	start_char=3589|end_char=3590
+4	10.	10.	NUM	_	NumType=Card	1	flat:name	_	start_char=3591|end_char=3594
+5	through	through	PROPN	_	Number=Sing	1	flat:name	_	start_char=3595|end_char=3602
+
+# sent_id = 05DC85F660D30641E054002128300A66-42
+# text = D ember 18, 1958..
+1	D	D	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3604|end_char=3605
+2	ember	ember	X	_	_	1	flat:name	_	start_char=3606|end_char=3611
+3	18	18	NUM	_	NumType=Card	1	flat:name	_	start_char=3612|end_char=3614
+4	,	,	PUNCT	_	_	1	flat:name	_	start_char=3614|end_char=3615
+5	1958	1958	NUM	_	NumType=Card	1	flat:name	_	start_char=3616|end_char=3620
+6	.	.	PUNCT	_	_	1	flat:name	_	start_char=3620|end_char=3621
+7	.	.	PUNCT	_	_	1	punct	_	start_char=3621|end_char=3622
+
+# sent_id = 05DC85F660D30641E054002128300A66-43
+# text = conduat d in an area 80uth shallow structural drUling progr w of the Pojuea Central 1e14 with the co pl tion and 10gg1ng of s v n toen shallow sub-surlaee holea..
+1	conduat	conduat	PUNCT	_	_	0	root	_	start_char=3624|end_char=3631
+2	d	d	PROPN	_	Number=Sing	1	flat:name	_	start_char=3632|end_char=3633
+3	in	in	X	_	_	1	flat:name	_	start_char=3634|end_char=3636
+4	an	an	PROPN	_	Number=Sing	1	flat:name	_	start_char=3637|end_char=3639
+5	area	area	PROPN	_	Number=Sing	1	flat:name	_	start_char=3640|end_char=3644
+6	80	80	PROPN	_	Number=Sing	1	flat:name	_	start_char=3645|end_char=3647
+7	uth	uth	PROPN	_	Number=Sing	1	flat:name	_	start_char=3647|end_char=3650
+8	shallow	shallow	X	_	_	1	flat:name	_	start_char=3651|end_char=3658
+9	structural	structural	X	_	_	1	flat:name	_	start_char=3659|end_char=3669
+10	drUling	drUling	PROPN	_	Number=Sing	1	flat:name	_	start_char=3670|end_char=3677
+11	progr	progr	PROPN	_	Number=Sing	1	flat:name	_	start_char=3678|end_char=3683
+12	w	w	PROPN	_	Number=Sing	1	flat:name	_	start_char=3684|end_char=3685
+13	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=3686|end_char=3688
+14	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=3689|end_char=3692
+15	Pojuea	Pojuea	PROPN	_	Number=Sing	1	flat:name	_	start_char=3693|end_char=3699
+16	Central	Central	PROPN	_	Number=Sing	1	flat:name	_	start_char=3700|end_char=3707
+17	1e14	1e14	PROPN	_	Number=Sing	1	flat:name	_	start_char=3708|end_char=3712
+18	with	with	PROPN	_	Number=Sing	1	flat:name	_	start_char=3713|end_char=3717
+19	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=3718|end_char=3721
+20	co	co	PROPN	_	Number=Sing	1	flat:name	_	start_char=3722|end_char=3724
+21	pl	pl	PROPN	_	Number=Sing	1	flat:name	_	start_char=3725|end_char=3727
+22	tion	tion	PROPN	_	Number=Sing	1	flat:name	_	start_char=3728|end_char=3732
+23	and	and	PROPN	_	Number=Sing	1	flat:name	_	start_char=3733|end_char=3736
+24	10gg1ng	10gg1ng	PROPN	_	Number=Sing	1	flat:name	_	start_char=3737|end_char=3744
+25	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=3745|end_char=3747
+26	s	s	PROPN	_	Number=Sing	1	flat:name	_	start_char=3748|end_char=3749
+27	v	v	PROPN	_	Number=Sing	1	flat:name	_	start_char=3750|end_char=3751
+28	n	n	PROPN	_	Number=Sing	1	flat:name	_	start_char=3752|end_char=3753
+29	toen	toen	PROPN	_	Number=Sing	1	flat:name	_	start_char=3754|end_char=3758
+30	shallow	shallow	PROPN	_	Number=Sing	1	flat:name	_	start_char=3759|end_char=3766
+31	sub-surlaee	sub-surlaee	PROPN	_	Number=Sing	1	flat:name	_	start_char=3767|end_char=3778
+32	holea	holea	PROPN	_	Number=Sing	1	flat:name	_	start_char=3779|end_char=3784
+33	.	.	PUNCT	_	_	1	punct	_	start_char=3784|end_char=3785
+34	.	.	PUNCT	_	_	1	punct	_	start_char=3785|end_char=3786
+
+# sent_id = 05DC85F660D30641E054002128300A66-44
+# text = Interes in th Prospeet was d riTed through an interpre tat10D of th pojuca
+1	Interes	Interes	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3788|end_char=3795
+2	in	in	X	_	_	1	flat:name	_	start_char=3796|end_char=3798
+3	th	th	X	_	_	1	flat:name	_	start_char=3799|end_char=3801
+4	Prospeet	Prospeet	PROPN	_	Number=Sing	1	flat:name	_	start_char=3802|end_char=3810
+5	was	was	PROPN	_	Number=Sing	1	flat:name	_	start_char=3811|end_char=3814
+6	d	d	PROPN	_	Number=Sing	1	flat:name	_	start_char=3815|end_char=3816
+7	riTed	riTed	PROPN	_	Number=Sing	1	flat:name	_	start_char=3817|end_char=3822
+8	through	through	PROPN	_	Number=Sing	1	flat:name	_	start_char=3823|end_char=3830
+9	an	an	PROPN	_	Number=Sing	1	flat:name	_	start_char=3831|end_char=3833
+10	interpre	interpre	PROPN	_	Number=Sing	1	flat:name	_	start_char=3834|end_char=3842
+11	tat10D	tat10D	PROPN	_	Number=Sing	1	flat:name	_	start_char=3843|end_char=3849
+12	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=3850|end_char=3852
+13	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=3853|end_char=3855
+14	pojuca	pojuca	PROPN	_	Number=Sing	1	flat:name	_	start_char=3856|end_char=3862
+
+# sent_id = 05DC85F660D30641E054002128300A66-45
+# text = Fi ld strueture by Mr. W.M..
+1	Fi	Fi	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3864|end_char=3866
+2	ld	ld	PROPN	_	Number=Sing	1	flat:name	_	start_char=3867|end_char=3869
+3	strueture	strueture	PROPN	_	Number=Sing	1	flat:name	_	start_char=3870|end_char=3879
+4	by	by	PROPN	_	Number=Sing	1	flat:name	_	start_char=3880|end_char=3882
+5	Mr.	Mr.	PROPN	_	Number=Sing	1	flat:name	_	start_char=3883|end_char=3886
+6	W.M.	W.M.	PROPN	_	Number=Sing	1	flat:name	_	start_char=3887|end_char=3891
+7	.	.	PUNCT	_	_	1	punct	_	start_char=3891|end_char=3892
+
+# sent_id = 05DC85F660D30641E054002128300A66-46
+# text = Joung in Rio whieh to th aouth of PC-ll • indieated th prob bility of ri ing structur
+1	Joung	Joung	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3894|end_char=3899
+2	in	in	X	_	_	1	flat:name	_	start_char=3900|end_char=3902
+3	Rio	Rio	PROPN	_	Number=Sing	1	flat:name	_	start_char=3903|end_char=3906
+4	whieh	whieh	PROPN	_	Number=Sing	1	flat:name	_	start_char=3907|end_char=3912
+5	to	to	PROPN	_	Number=Sing	1	flat:name	_	start_char=3913|end_char=3915
+6	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=3916|end_char=3918
+7	aouth	aouth	PROPN	_	Number=Sing	1	flat:name	_	start_char=3919|end_char=3924
+8	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=3925|end_char=3927
+9	PC-ll	PC-ll	PROPN	_	Number=Sing	1	flat:name	_	start_char=3928|end_char=3933
+10	•	•	PUNCT	_	_	1	flat:name	_	start_char=3934|end_char=3935
+11	indieated	indieated	PROPN	_	Number=Sing	1	flat:name	_	start_char=3936|end_char=3945
+12	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=3946|end_char=3948
+13	prob	prob	PROPN	_	Number=Sing	1	flat:name	_	start_char=3949|end_char=3953
+14	bility	bility	PROPN	_	Number=Sing	1	flat:name	_	start_char=3954|end_char=3960
+15	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=3961|end_char=3963
+16	ri	ri	PROPN	_	Number=Sing	1	flat:name	_	start_char=3964|end_char=3966
+17	ing	ing	PROPN	_	Number=Sing	11	flat:name	_	start_char=3967|end_char=3970
+18	structur	structur	PUNCT	_	_	1	punct	_	start_char=3971|end_char=3979
+
+# sent_id = 05DC85F660D30641E054002128300A66-47
+# text = In addition..
+1	In	In	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3981|end_char=3983
+2	addition.	addition.	X	_	_	1	flat:name	_	start_char=3984|end_char=3993
+3	.	.	PUNCT	_	_	1	punct	_	start_char=3993|end_char=3994
+
+# sent_id = 05DC85F660D30641E054002128300A66-48
+# text = urfac mapping by Grabert (Reterene..
+1	urfac	urfac	X	_	_	0	root	_	start_char=3996|end_char=4001
+2	mapping	mapping	X	_	_	1	flat:foreign	_	start_char=4002|end_char=4009
+3	by	by	X	_	_	1	flat:foreign	_	start_char=4010|end_char=4012
+4	Grabert	grabert	X	_	_	1	flat:foreign	_	start_char=4013|end_char=4020
+5	(	(	PUNCT	_	_	6	punct	_	start_char=4021|end_char=4022
+6	Reterene	Reterene	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=4022|end_char=4030
+7	.	.	PUNCT	_	_	6	punct	_	start_char=4030|end_char=4031
+8	.	.	PUNCT	_	_	1	punct	_	start_char=4031|end_char=4032
+
+# sent_id = 05DC85F660D30641E054002128300A66-49
+# text = No. ~) showed a blo k of Ilhas upthrown againe 8·0 Sebastião..
+1	No.	No.	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4034|end_char=4037
+2	~	~	PUNCT	_	_	1	flat:name	_	start_char=4038|end_char=4039
+3	)	)	PUNCT	_	_	1	flat:name	_	start_char=4039|end_char=4040
+4	showed	showed	X	_	_	1	appos	_	start_char=4041|end_char=4047
+5	a	a	ADP	_	_	6	case	_	start_char=4048|end_char=4049
+6	blo	blo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	start_char=4050|end_char=4053
+7	k	k	PROPN	_	Number=Sing	6	flat:name	_	start_char=4054|end_char=4055
+8	of	of	PROPN	_	Number=Sing	6	flat:name	_	start_char=4056|end_char=4058
+9	Ilhas	Ilhas	PROPN	_	Number=Sing	6	flat:name	_	start_char=4059|end_char=4064
+10	upthrown	upthrown	PROPN	_	Number=Sing	6	flat:name	_	start_char=4065|end_char=4073
+11	againe	againe	PROPN	_	Number=Sing	6	flat:name	_	start_char=4074|end_char=4080
+12	8·0	8·0	PROPN	_	Number=Sing	6	flat:name	_	start_char=4081|end_char=4084
+13	Sebastião	Sebastião	PROPN	_	Number=Sing	6	flat:name	_	start_char=4085|end_char=4094
+14	.	.	PUNCT	_	_	1	punct	_	start_char=4094|end_char=4095
+15	.	.	PUNCT	_	_	1	punct	_	start_char=4095|end_char=4096
+
+# sent_id = 05DC85F660D30641E054002128300A66-50
+# text = All locationa w re made with rer rene..
+1	All	All	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4098|end_char=4101
+2	locationa	locationa	X	_	_	1	flat:name	_	start_char=4102|end_char=4111
+3	w	w	PROPN	_	Number=Sing	1	flat:name	_	start_char=4112|end_char=4113
+4	re	re	PROPN	_	Number=Sing	1	flat:name	_	start_char=4114|end_char=4116
+5	made	made	X	_	_	1	flat:name	_	start_char=4117|end_char=4121
+6	with	with	PROPN	_	Number=Sing	1	flat:name	_	start_char=4122|end_char=4126
+7	rer	rer	PROPN	_	Number=Sing	1	flat:name	_	start_char=4127|end_char=4130
+8	rene	rene	PROPN	_	Number=Sing	1	flat:name	_	start_char=4131|end_char=4135
+9	.	.	PUNCT	_	_	1	flat:name	_	start_char=4135|end_char=4136
+10	.	.	PUNCT	_	_	1	punct	_	start_char=4136|end_char=4137
+
+# sent_id = 05DC85F660D30641E054002128300A66-51
+# text = to "C-ll which WD.8 th n tiad to Astrolab Station A-5 in CatÚ. In dd1t1on..
+1	to	to	X	_	_	0	root	_	start_char=4139|end_char=4141
+2	"	«	PUNCT	_	_	3	punct	_	start_char=4142|end_char=4143
+3	C-ll	C-ll	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=4143|end_char=4147
+4	which	which	PROPN	_	Number=Sing	3	flat:name	_	start_char=4148|end_char=4153
+5	WD.8	WD.8	PROPN	_	Number=Sing	3	flat:name	_	start_char=4154|end_char=4158
+6	th	th	PROPN	_	Number=Sing	3	flat:name	_	start_char=4159|end_char=4161
+7	n	n	PROPN	_	Number=Sing	3	flat:name	_	start_char=4162|end_char=4163
+8	tiad	tiad	PROPN	_	Number=Sing	3	flat:name	_	start_char=4164|end_char=4168
+9	to	to	PROPN	_	Number=Sing	3	flat:name	_	start_char=4169|end_char=4171
+10	Astrolab	Astrolab	PROPN	_	Number=Sing	3	flat:name	_	start_char=4172|end_char=4180
+11	Station	Station	PROPN	_	Number=Sing	3	flat:name	_	start_char=4181|end_char=4188
+12	A-5	A-5	PROPN	_	Number=Sing	3	flat:name	_	start_char=4189|end_char=4192
+13	in	in	PROPN	_	Number=Sing	3	flat:name	_	start_char=4193|end_char=4195
+14	CatÚ	CatÚ	PROPN	_	Number=Sing	3	flat:name	_	start_char=4196|end_char=4200
+15	.	.	PUNCT	_	_	3	flat:name	_	start_char=4200|end_char=4201
+16	In	In	PROPN	_	Number=Sing	3	flat:name	_	start_char=4202|end_char=4204
+17	dd1t1	dd1t1	PROPN	_	Number=Sing	3	flat:name	_	start_char=4205|end_char=4210
+18	on	on	PROPN	_	Number=Sing	3	flat:name	_	start_char=4210|end_char=4212
+19	.	.	PUNCT	_	_	1	punct	_	start_char=4212|end_char=4213
+20	.	.	PUNCT	_	_	1	punct	_	start_char=4213|end_char=4214
+
+# sent_id = 05DC85F660D30641E054002128300A66-52
+# text = a traveI' aa eompleted betw en A-5 and A-lO in Mata de são João..
+1	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4216|end_char=4217
+2	traveI'	traveI'	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	start_char=4218|end_char=4225
+3-4	aa	_	_	_	_	_	_	_	start_char=4226|end_char=4228
+3	a	a	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	eompleted	eompleted	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=4229|end_char=4238
+6	betw	betw	PROPN	_	Gender=Fem|Number=Sing	5	nmod	_	start_char=4239|end_char=4243
+7	en	en	PROPN	_	Number=Sing	6	flat:name	_	start_char=4244|end_char=4246
+8	A-5	A-5	PROPN	_	Number=Sing	6	flat:name	_	start_char=4247|end_char=4250
+9	and	and	PROPN	_	Number=Sing	6	flat:name	_	start_char=4251|end_char=4254
+10	A-lO	A-lO	PROPN	_	Number=Sing	6	flat:name	_	start_char=4255|end_char=4259
+11	in	in	PROPN	_	Number=Sing	6	flat:name	_	start_char=4260|end_char=4262
+12	Mata	Mata	PROPN	_	Number=Sing	6	flat:name	_	start_char=4263|end_char=4267
+13	de	de	ADP	_	_	15	case	_	start_char=4268|end_char=4270
+14	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=4271|end_char=4274
+15	João	João	PROPN	_	Number=Sing	0	root	_	start_char=4275|end_char=4279
+16	.	.	PUNCT	_	_	15	punct	_	start_char=4279|end_char=4280
+17	.	.	PUNCT	_	_	15	punct	_	start_char=4280|end_char=4281
+
+# sent_id = 05DC85F660D30641E054002128300A66-53
+# text = Sh llow structural drilling south of the ojuc
+1	Sh	Sh	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4283|end_char=4285
+2	llow	llow	X	_	_	1	flat:name	_	start_char=4286|end_char=4290
+3	structural	structural	X	_	_	1	flat:name	_	start_char=4291|end_char=4301
+4	drilling	drilling	X	_	_	1	flat:name	_	start_char=4302|end_char=4310
+5	south	south	PROPN	_	Number=Sing	1	flat:name	_	start_char=4311|end_char=4316
+6	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=4317|end_char=4319
+7	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=4320|end_char=4323
+8	ojuc	ojuc	PROPN	_	Number=Sing	1	flat:name	_	start_char=4324|end_char=4328
+
+# sent_id = 05DC85F660D30641E054002128300A66-54
+# text = Fi ld - h d tin d a tilted íault bloCk approxim tely 200 m tera higher than the PC-ll dry hole..
+1	Fi	Fi	PROPN	_	Gender=Masc|Number=Sing	17	nsubj	_	start_char=4330|end_char=4332
+2	ld	ld	PROPN	_	Number=Sing	1	flat:name	_	start_char=4333|end_char=4335
+3	-	-	PUNCT	_	_	4	punct	_	start_char=4336|end_char=4337
+4	h	h	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=4338|end_char=4339
+5	d	d	PROPN	_	Number=Sing	4	flat:name	_	start_char=4340|end_char=4341
+6	tin	tin	PROPN	_	Number=Sing	4	flat:name	_	start_char=4342|end_char=4345
+7	d	d	PROPN	_	Number=Sing	4	flat:name	_	start_char=4346|end_char=4347
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat:name	_	start_char=4348|end_char=4349
+9	tilted	tilted	PROPN	_	Number=Sing	4	flat:name	_	start_char=4350|end_char=4356
+10	íault	íault	PROPN	_	Number=Sing	4	flat:name	_	start_char=4357|end_char=4362
+11	blo	blo	PROPN	_	Number=Sing	4	flat:name	_	start_char=4363|end_char=4366
+12	Ck	Ck	PROPN	_	Number=Sing	4	flat:name	_	start_char=4366|end_char=4368
+13	approxim	approxim	PROPN	_	Number=Sing	4	flat:name	_	start_char=4369|end_char=4377
+14	tely	tely	PROPN	_	Number=Sing	4	flat:name	_	start_char=4378|end_char=4382
+15	200	200	PROPN	_	Number=Sing	4	flat:name	_	start_char=4383|end_char=4386
+16	m	m	PROPN	_	Number=Sing	4	flat:name	_	start_char=4387|end_char=4388
+17	tera	ter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	start_char=4389|end_char=4393
+18	higher	higher	X	_	_	17	obj	_	start_char=4394|end_char=4400
+19	than	than	X	_	_	18	flat:foreign	_	start_char=4401|end_char=4405
+20	the	the	PROPN	_	Number=Sing	18	flat:name	_	start_char=4406|end_char=4409
+21	PC-ll	PC-ll	PROPN	_	Number=Sing	18	flat:name	_	start_char=4410|end_char=4415
+22	dry	dry	X	_	_	18	flat:foreign	_	start_char=4416|end_char=4419
+23	hole	hole	X	_	_	18	flat:foreign	_	start_char=4420|end_char=4424
+24	.	.	PUNCT	_	_	17	punct	_	start_char=4424|end_char=4425
+25	.	.	PUNCT	_	_	17	punct	_	start_char=4425|end_char=4426
+
+# sent_id = 05DC85F660D30641E054002128300A66-55
+# text = This interpr tation is qUali!!
+1	This	This	X	_	_	0	root	_	start_char=4428|end_char=4432
+2	interpr	interpr	X	_	_	1	flat:name	_	start_char=4433|end_char=4440
+3	tation	tation	PROPN	_	Number=Sing	1	flat:name	_	start_char=4441|end_char=4447
+4	is	is	PROPN	_	Number=Sing	1	flat:name	_	start_char=4448|end_char=4450
+5	qUali	qUali	PROPN	_	Number=Sing	1	flat:name	_	start_char=4451|end_char=4456
+6	!	!	PUNCT	_	_	1	flat:name	_	start_char=4456|end_char=4457
+7	!	!	PUNCT	_	_	1	punct	_	start_char=4457|end_char=4458
+
+# sent_id = 05DC85F660D30641E054002128300A66-56
+# text = by noting the dia aney b tween shallow and deep t~cture in that indicat 4 high in th Ilha..
+1	by	by	X	_	_	0	root	_	start_char=4460|end_char=4462
+2	noting	noting	PROPN	_	Number=Sing	1	flat:name	_	start_char=4463|end_char=4469
+3	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=4470|end_char=4473
+4	dia	dia	PROPN	_	Number=Sing	1	flat:name	_	start_char=4474|end_char=4477
+5	aney	aney	PROPN	_	Number=Sing	1	flat:name	_	start_char=4478|end_char=4482
+6	b	b	PROPN	_	Number=Sing	1	flat:name	_	start_char=4483|end_char=4484
+7	tween	tween	PROPN	_	Number=Sing	1	flat:name	_	start_char=4485|end_char=4490
+8	shallow	shallow	PROPN	_	Number=Sing	1	flat:name	_	start_char=4491|end_char=4498
+9	and	and	PROPN	_	Number=Sing	1	flat:name	_	start_char=4499|end_char=4502
+10	deep	deep	PROPN	_	Number=Sing	1	flat:name	_	start_char=4503|end_char=4507
+11	t~cture	t~cture	PROPN	_	Number=Sing	1	flat:name	_	start_char=4508|end_char=4515
+12	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=4516|end_char=4518
+13	that	that	PROPN	_	Number=Sing	1	flat:name	_	start_char=4519|end_char=4523
+14	indicat	indicat	PROPN	_	Number=Sing	1	flat:name	_	start_char=4524|end_char=4531
+15	4	4	PROPN	_	Number=Sing	1	flat:name	_	start_char=4532|end_char=4533
+16	high	high	PROPN	_	Number=Sing	1	flat:name	_	start_char=4534|end_char=4538
+17	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=4539|end_char=4541
+18	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=4542|end_char=4544
+19	Ilha	Ilha	PROPN	_	Number=Sing	1	flat:name	_	start_char=4545|end_char=4549
+20	.	.	PUNCT	_	_	1	punct	_	start_char=4549|end_char=4550
+21	.	.	PUNCT	_	_	1	punct	_	start_char=4550|end_char=4551
+
+# sent_id = 05DC85F660D30641E054002128300A66-57
+# text = y reflect an It parie..
+1	y	y	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4553|end_char=4554
+2	reflect	reflect	X	_	_	1	flat:name	_	start_char=4555|end_char=4562
+3	an	an	PROPN	_	Number=Sing	1	flat:name	_	start_char=4563|end_char=4565
+4	It	It	PROPN	_	Number=Sing	1	flat:name	_	start_char=4566|end_char=4568
+5	parie	parie	PROPN	_	Number=Sing	1	flat:name	_	start_char=4569|end_char=4574
+6	.	.	PUNCT	_	_	1	flat:name	_	start_char=4574|end_char=4575
+7	.	.	PUNCT	_	_	1	punct	_	start_char=4575|end_char=4576
+
+# sent_id = 05DC85F660D30641E054002128300A66-58
+# text = 10 •• Nevor th los8..
+1	10	10	NUM	_	NumType=Card	2	nummod	_	start_char=4578|end_char=4580
+2	••	••	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=4581|end_char=4583
+3	Nevor	Nevor	PROPN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=4584|end_char=4589
+4	th	th	X	_	_	3	compound	_	start_char=4590|end_char=4592
+5	los8	los8	NOUN	_	Gender=Masc|Number=Sing	3	compound	_	start_char=4593|end_char=4597
+6	.	.	PUNCT	_	_	2	punct	_	start_char=4597|end_char=4598
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4598|end_char=4599
+
+# sent_id = 05DC85F660D30641E054002128300A66-59
+# text = in tbe aba~nco of a method which will predict thiB oceurr nce..
+1	in	in	X	_	_	0	root	_	start_char=4601|end_char=4603
+2	tbe	tbe	X	_	_	1	flat:foreign	_	start_char=4604|end_char=4607
+3	aba~nco	aba~nco	X	_	_	1	flat:foreign	_	start_char=4608|end_char=4615
+4	of	of	X	_	_	1	flat:foreign	_	start_char=4616|end_char=4618
+5	a	a	PROPN	_	Number=Sing	1	flat:foreign	_	start_char=4619|end_char=4620
+6	method	method	X	_	_	1	flat:foreign	_	start_char=4621|end_char=4627
+7	which	which	X	_	_	1	flat:foreign	_	start_char=4628|end_char=4633
+8	will	will	X	_	_	1	flat:foreign	_	start_char=4634|end_char=4638
+9	predict	predict	X	_	_	1	flat:foreign	_	start_char=4639|end_char=4646
+10	thiB	thib	X	_	_	1	flat:foreign	_	start_char=4647|end_char=4651
+11	oceurr	oceurr	X	_	_	1	flat:foreign	_	start_char=4652|end_char=4658
+12	nce.	nce.	PROPN	_	Number=Sing	1	flat:name	_	start_char=4659|end_char=4663
+13	.	.	PUNCT	_	_	1	punct	_	start_char=4663|end_char=4664
+
+# sent_id = 05DC85F660D30641E054002128300A66-60
+# text = a location ia a t of PC-li..
+1	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4666|end_char=4667
+2	location	location	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	start_char=4668|end_char=4676
+3	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	start_char=4677|end_char=4679
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=4680|end_char=4681
+5	t	t	X	_	_	0	root	_	start_char=4682|end_char=4683
+6	of	of	X	_	_	5	flat:foreign	_	start_char=4684|end_char=4686
+7	PC-li	pc-li	X	_	_	5	flat:foreign	_	start_char=4687|end_char=4692
+8	.	.	PUNCT	_	_	5	punct	_	start_char=4692|end_char=4693
+9	.	.	PUNCT	_	_	5	punct	_	start_char=4693|end_char=4694
+
+# sent_id = 05DC85F660D30641E054002128300A66-61
+# text = Dp th to reco end d 2620 met r south nd 1660 th Sergi w111 pproximat 12
+1	Dp	Dp	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4696|end_char=4698
+2	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=4699|end_char=4701
+3	to	to	PROPN	_	Number=Sing	1	flat:name	_	start_char=4702|end_char=4704
+4	reco	reco	PROPN	_	Number=Sing	1	flat:name	_	start_char=4705|end_char=4709
+5	end	end	PROPN	_	Number=Sing	1	flat:name	_	start_char=4710|end_char=4713
+6	d	d	PROPN	_	Number=Sing	1	flat:name	_	start_char=4714|end_char=4715
+7	2620	2620	PROPN	_	Number=Sing	1	flat:name	_	start_char=4716|end_char=4720
+8	met	met	PROPN	_	Number=Sing	1	flat:name	_	start_char=4721|end_char=4724
+9	r	r	PROPN	_	Number=Sing	1	flat:name	_	start_char=4725|end_char=4726
+10	south	south	PROPN	_	Number=Sing	1	flat:name	_	start_char=4727|end_char=4732
+11	nd	nd	PROPN	_	Number=Sing	1	flat:name	_	start_char=4733|end_char=4735
+12	1660	1660	PROPN	_	Number=Sing	1	flat:name	_	start_char=4736|end_char=4740
+13	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=4741|end_char=4743
+14	Sergi	Sergi	PROPN	_	Number=Sing	1	flat:name	_	start_char=4744|end_char=4749
+15	w111	w111	PROPN	_	Number=Sing	1	flat:name	_	start_char=4750|end_char=4754
+16	pproximat	pproximat	PROPN	_	Number=Sing	1	flat:name	_	start_char=4755|end_char=4764
+17	12	12	NUM	_	NumType=Card	1	flat:name	_	start_char=4765|end_char=4767
+
+# sent_id = 05DC85F660D30641E054002128300A66-62
+# text = O m t 1'0..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=4769|end_char=4770
+2	m	m	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4771|end_char=4772
+3	t	t	X	_	_	2	flat:foreign	_	start_char=4773|end_char=4774
+4	1'0	1'0	NUM	_	NumType=Card	2	nummod	_	start_char=4775|end_char=4778
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4778|end_char=4779
+6	.	.	PUNCT	_	_	2	punct	_	start_char=4779|end_char=4780
+
+# sent_id = 05DC85F660D30641E054002128300A66-63
+# text = 6.000 - 9 - PETRÓLEO BRASILEIRO S. A. tn th Pojuca - Catú..
+1	6.000	6.000	NUM	_	NumType=Card	5	nummod	_	start_char=4782|end_char=4787
+2	-	-	PUNCT	_	_	1	punct	_	start_char=4788|end_char=4789
+3	9	9	NUM	_	NumType=Card	5	nummod	_	start_char=4790|end_char=4791
+4	-	-	PUNCT	_	_	5	punct	_	start_char=4792|end_char=4793
+5	PETRÓLEO	PETRÓLEO	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4794|end_char=4802
+6	BRASILEIRO	BRasileiro	PROPN	_	Number=Sing	5	flat:name	_	start_char=4803|end_char=4813
+7	S.	S.	PROPN	_	Number=Sing	5	flat:name	_	start_char=4814|end_char=4816
+8	A.	A.	PROPN	_	Number=Sing	5	flat:name	_	start_char=4817|end_char=4819
+9	tn	tn	PROPN	_	Number=Sing	5	flat:name	_	start_char=4820|end_char=4822
+10	th	th	PROPN	_	Number=Sing	5	flat:name	_	start_char=4823|end_char=4825
+11	Pojuca	Pojuca	PROPN	_	Number=Sing	5	flat:name	_	start_char=4826|end_char=4832
+12	-	-	PUNCT	_	_	13	punct	_	start_char=4833|end_char=4834
+13	Catú.	Catú.	PROPN	_	Gender=Masc|Number=Sing	5	appos	_	start_char=4835|end_char=4840
+14	.	.	PUNCT	_	_	5	punct	_	start_char=4840|end_char=4841
+
+# sent_id = 05DC85F660D30641E054002128300A66-64
+# text = Acoord1n to Gr rt'..
+1	Acoord1n	Acoord1n	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4843|end_char=4851
+2	to	to	PROPN	_	Number=Sing	1	flat:name	_	start_char=4852|end_char=4854
+3	Gr	Gr	PROPN	_	Number=Sing	1	flat:name	_	start_char=4855|end_char=4857
+4	rt'.	rt'.	PROPN	_	Number=Sing	1	flat:name	_	start_char=4858|end_char=4862
+5	.	.	PUNCT	_	_	1	punct	_	start_char=4862|end_char=4863
+
+# sent_id = 05DC85F660D30641E054002128300A66-65
+# text = ur! ce ppin
+1	ur	ur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4865|end_char=4867
+2	!	!	PUNCT	_	_	3	punct	_	start_char=4867|end_char=4868
+3	ce	ce	X	_	_	1	appos	_	start_char=4869|end_char=4871
+4	ppin	ppin	PUNCT	_	_	1	punct	_	start_char=4872|end_char=4876
+
+# sent_id = 05DC85F660D30641E054002128300A66-66
+# text = Are ,th fOrIllations expos.d in the pro pect in 1uele th. Barr ir . . , são Seb ti·o, anel I1haa..
+1	Are	Are	PROPN	_	Gender=Masc|Number=Sing	19	nsubj	_	start_char=4878|end_char=4881
+2	,	,	PUNCT	_	_	3	punct	_	start_char=4882|end_char=4883
+3	th	th	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=4883|end_char=4885
+4	fOrIllations	fOrIllations	PROPN	_	Number=Sing	3	flat:name	_	start_char=4886|end_char=4898
+5	expos.d	expos.d	PROPN	_	Number=Sing	3	flat:name	_	start_char=4899|end_char=4906
+6	in	in	PROPN	_	Number=Sing	3	flat:name	_	start_char=4907|end_char=4909
+7	the	the	PROPN	_	Number=Sing	3	flat:name	_	start_char=4910|end_char=4913
+8	pro	pro	PROPN	_	Number=Sing	3	flat:name	_	start_char=4914|end_char=4917
+9	pect	pect	PROPN	_	Number=Sing	3	flat:name	_	start_char=4918|end_char=4922
+10	in	in	PROPN	_	Number=Sing	3	flat:name	_	start_char=4923|end_char=4925
+11	1uele	1uele	PROPN	_	Number=Sing	3	flat:name	_	start_char=4926|end_char=4931
+12	th.	th.	PROPN	_	Number=Sing	3	flat:name	_	start_char=4932|end_char=4935
+13	Barr	Barr	PROPN	_	Number=Sing	3	flat:name	_	start_char=4936|end_char=4940
+14	ir	ir	VERB	_	Number=Sing|Person=3|VerbForm=Inf	1	acl	_	start_char=4941|end_char=4943
+15	.	.	PUNCT	_	_	14	punct	_	start_char=4944|end_char=4945
+16	.	.	PUNCT	_	_	14	punct	_	start_char=4946|end_char=4947
+17	,	,	PUNCT	_	_	14	punct	_	start_char=4948|end_char=4949
+18	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=4950|end_char=4953
+19	Seb	Seb	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4954|end_char=4957
+20	ti·o	ter	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	acl	_	start_char=4958|end_char=4962
+21	,	,	PUNCT	_	_	22	punct	_	start_char=4962|end_char=4963
+22	anel	anel	NOUN	_	Gender=Masc|Number=Sing	19	conj	_	start_char=4964|end_char=4968
+23	I1haa	I1haa	PROPN	_	Gender=Masc|Number=Sing	22	nmod	_	start_char=4969|end_char=4974
+24	.	.	PUNCT	_	_	19	punct	_	start_char=4974|end_char=4975
+25	.	.	PUNCT	_	_	19	punct	_	start_char=4975|end_char=4976
+
+# sent_id = 05DC85F660D30641E054002128300A66-67
+# text = uat.rnary alluviuu ar d posited in th. valley of the P juc • Structural 4r1lling confirms, in aner , / , the stratigraphy at the urface..
+1	uat.rnary	uat.rnary	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	start_char=4978|end_char=4987
+2	alluviuu	alluvir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=4988|end_char=4996
+3	ar	ar	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	start_char=4997|end_char=4999
+4	d	d	ADP	_	_	5	case	_	start_char=5000|end_char=5001
+5	posited	posited	X	_	_	3	nmod	_	start_char=5002|end_char=5009
+6	in	in	X	_	_	5	flat:foreign	_	start_char=5010|end_char=5012
+7	th.	th.	X	_	_	5	flat:foreign	_	start_char=5013|end_char=5016
+8	valley	valley	X	_	_	5	flat:foreign	_	start_char=5017|end_char=5023
+9	of	of	X	_	_	5	flat:foreign	_	start_char=5024|end_char=5026
+10	the	the	PROPN	_	Number=Sing	5	flat:foreign	_	start_char=5027|end_char=5030
+11	P	P	PROPN	_	Number=Sing	5	flat:name	_	start_char=5031|end_char=5032
+12	juc	juc	PROPN	_	Number=Sing	5	flat:name	_	start_char=5033|end_char=5036
+13	•	•	PUNCT	_	_	14	punct	_	start_char=5037|end_char=5038
+14	Structural	Structural	PROPN	_	Number=Sing	5	conj	_	start_char=5039|end_char=5049
+15	4r1lling	4r1lling	PROPN	_	Number=Sing	14	flat:name	_	start_char=5050|end_char=5058
+16	confirms	confirms	PROPN	_	Number=Sing	14	flat:name	_	start_char=5059|end_char=5067
+17	,	,	PUNCT	_	_	18	punct	_	start_char=5067|end_char=5068
+18	in	in	X	_	_	14	flat:name	_	start_char=5069|end_char=5071
+19	aner	aner	PROPN	_	Number=Sing	18	flat:name	_	start_char=5072|end_char=5076
+20	,	,	PUNCT	_	_	18	punct	_	start_char=5077|end_char=5078
+21	/	/	PUNCT	_	_	18	punct	_	start_char=5079|end_char=5080
+22	,	,	PUNCT	_	_	18	punct	_	start_char=5081|end_char=5082
+23	the	the	PROPN	_	Number=Sing	18	flat:name	_	start_char=5083|end_char=5086
+24	stratigraphy	stratigraphy	PROPN	_	Number=Sing	18	flat:name	_	start_char=5087|end_char=5099
+25	at	at	PROPN	_	Number=Sing	18	flat:name	_	start_char=5100|end_char=5102
+26	the	the	PROPN	_	Number=Sing	23	flat:name	_	start_char=5103|end_char=5106
+27	urface	urface	PROPN	_	Number=Sing	23	flat:name	_	start_char=5107|end_char=5113
+28	.	.	PUNCT	_	_	2	punct	_	start_char=5113|end_char=5114
+29	.	.	PUNCT	_	_	2	punct	_	start_char=5114|end_char=5115
+
+# sent_id = 05DC85F660D30641E054002128300A66-68
+# text = Thia mo t r cent of th Rec$ncavo s dim nte pen trated in hallo..
+1	Thia	Thia	PROPN	_	Gender=Fem|Number=Sing	0	root	_	start_char=5117|end_char=5121
+2	mo	mo	PROPN	_	Number=Sing	1	flat:name	_	start_char=5122|end_char=5124
+3	t	t	PROPN	_	Number=Sing	1	flat:name	_	start_char=5125|end_char=5126
+4	r	r	PROPN	_	Number=Sing	1	flat:name	_	start_char=5127|end_char=5128
+5	cent	cent	PROPN	_	Number=Sing	1	flat:name	_	start_char=5129|end_char=5133
+6	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=5134|end_char=5136
+7	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=5137|end_char=5139
+8	Rec$ncavo	Rec$ncavo	PROPN	_	Number=Sing	1	flat:name	_	start_char=5140|end_char=5149
+9	s	s	PROPN	_	Number=Sing	1	flat:name	_	start_char=5150|end_char=5151
+10	dim	dim	PROPN	_	Number=Sing	1	flat:name	_	start_char=5152|end_char=5155
+11	nte	nte	PROPN	_	Number=Sing	1	flat:name	_	start_char=5156|end_char=5159
+12	pen	pen	PROPN	_	Number=Sing	1	flat:name	_	start_char=5160|end_char=5163
+13	trated	trated	PROPN	_	Number=Sing	1	flat:name	_	start_char=5164|end_char=5170
+14	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=5171|end_char=5173
+15	hallo	hallo	PROPN	_	Number=Sing	1	flat:name	_	start_char=5174|end_char=5179
+16	.	.	PUNCT	_	_	1	punct	_	start_char=5179|end_char=5180
+17	.	.	PUNCT	_	_	1	punct	_	start_char=5180|end_char=5181
+
+# sent_id = 05DC85F660D30641E054002128300A66-69
+# text = hole nQ 10 .here the formation con i teci of fiu -grane' to conglo eratie ae d tones, the ub-ronnd d. poorly sorted t anel ar c men ted 'ri..
+1	hole	hole	X	_	_	10	nsubj	_	start_char=5183|end_char=5187
+2	nQ	nq	X	_	_	1	flat:name	_	start_char=5188|end_char=5190
+3	10	10	PROPN	_	Number=Sing	1	flat:name	_	start_char=5191|end_char=5193
+4	.	.	PUNCT	_	_	5	punct	_	start_char=5194|end_char=5195
+5	here	here	X	_	_	1	appos	_	start_char=5195|end_char=5199
+6	the	the	PROPN	_	Number=Sing	5	flat:name	_	start_char=5200|end_char=5203
+7	formation	formation	PROPN	_	Number=Sing	5	flat:name	_	start_char=5204|end_char=5213
+8	con	com	PROPN	_	Number=Sing	5	flat:name	_	start_char=5214|end_char=5217
+9	i	i	PROPN	_	Number=Sing	5	flat:name	_	start_char=5218|end_char=5219
+10	teci	tecer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=5220|end_char=5224
+11	of	of	PROPN	_	Number=Sing	10	obj	_	start_char=5225|end_char=5227
+12	fiu	fiu	PROPN	_	Number=Sing	11	flat:name	_	start_char=5228|end_char=5231
+13	-grane	-grane	PROPN	_	Number=Sing	11	flat:name	_	start_char=5232|end_char=5238
+14	'	'	PUNCT	_	_	10	punct	_	start_char=5238|end_char=5239
+15	to	to	PROPN	_	Number=Sing	11	flat:name	_	start_char=5240|end_char=5242
+16	conglo	conglo	PROPN	_	Number=Sing	11	flat:name	_	start_char=5243|end_char=5249
+17	eratie	eratie	PROPN	_	Number=Sing	11	flat:name	_	start_char=5250|end_char=5256
+18	ae	ae	PROPN	_	Number=Sing	15	flat:name	_	start_char=5257|end_char=5259
+19	d	d	PROPN	_	Number=Sing	15	flat:name	_	start_char=5260|end_char=5261
+20	tones	tones	PROPN	_	Number=Sing	15	flat:name	_	start_char=5262|end_char=5267
+21	,	,	PUNCT	_	_	10	punct	_	start_char=5267|end_char=5268
+22	the	the	PROPN	_	Number=Sing	10	flat:name	_	start_char=5269|end_char=5272
+23	ub-ronnd	ub-ronnd	PROPN	_	Number=Sing	1	flat:name	_	start_char=5273|end_char=5281
+24	d.	d.	PROPN	_	Number=Sing	1	flat:name	_	start_char=5282|end_char=5284
+25	poorly	poorly	PROPN	_	Number=Sing	22	flat:name	_	start_char=5285|end_char=5291
+26	sorted	sorted	PROPN	_	Number=Sing	22	flat:name	_	start_char=5292|end_char=5298
+27	t	t	PROPN	_	Number=Sing	22	flat:name	_	start_char=5299|end_char=5300
+28	anel	anel	PROPN	_	Number=Sing	1	flat:name	_	start_char=5301|end_char=5305
+29	ar	ar	PROPN	_	Number=Sing	1	flat:name	_	start_char=5306|end_char=5308
+30	c	c	PROPN	_	Number=Sing	1	flat:name	_	start_char=5309|end_char=5310
+31	men	men	PROPN	_	Number=Sing	34	flat:name	_	start_char=5311|end_char=5314
+32	ted	ted	PROPN	_	Number=Sing	34	flat:name	_	start_char=5315|end_char=5318
+33	'	'	PUNCT	_	_	34	punct	_	start_char=5319|end_char=5320
+34	ri	rer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	start_char=5320|end_char=5322
+35	.	.	PUNCT	_	_	34	punct	_	start_char=5322|end_char=5323
+36	.	.	PUNCT	_	_	10	punct	_	start_char=5323|end_char=5324
+
+# sent_id = 05DC85F660D30641E054002128300A66-70
+# text = iron ondes..
+1	iron	iron	X	_	_	0	root	_	start_char=5326|end_char=5330
+2	ondes	ondes	X	_	_	1	flat:foreign	_	start_char=5331|end_char=5336
+3	.	.	PUNCT	_	_	1	punct	_	start_char=5336|end_char=5337
+4	.	.	PUNCT	_	_	1	punct	_	start_char=5337|end_char=5338
+
+# sent_id = 05DC85F660D30641E054002128300A66-71
+# text = This tormation ia diff1cult to id ntity in th pojuca South 9 and lQ drill d es..
+1	This	This	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=5340|end_char=5344
+2	tormation	tormation	PROPN	_	Number=Sing	1	flat:name	_	start_char=5345|end_char=5354
+3	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	start_char=5355|end_char=5357
+4	diff1	diff1	PUNCT	_	_	5	punct	_	start_char=5358|end_char=5363
+5	cult	cult	X	_	_	0	root	_	start_char=5363|end_char=5367
+6	to	to	X	_	_	5	flat:foreign	_	start_char=5368|end_char=5370
+7	id	id	X	_	_	5	flat:foreign	_	start_char=5371|end_char=5373
+8	ntity	ntity	X	_	_	5	flat:foreign	_	start_char=5374|end_char=5379
+9	in	in	X	_	_	5	flat:foreign	_	start_char=5380|end_char=5382
+10	th	th	X	_	_	5	flat:foreign	_	start_char=5383|end_char=5385
+11	pojuca	pojuca	X	_	_	5	flat:foreign	_	start_char=5386|end_char=5392
+12	South	South	X	_	_	5	flat:foreign	_	start_char=5393|end_char=5398
+13	9	9	PROPN	_	Number=Sing	5	flat:name	_	start_char=5399|end_char=5400
+14	and	and	PROPN	_	Number=Sing	5	flat:name	_	start_char=5401|end_char=5404
+15	lQ	lQ	PROPN	_	Number=Sing	5	flat:name	_	start_char=5405|end_char=5407
+16	drill	drill	X	_	_	5	flat:foreign	_	start_char=5408|end_char=5413
+17	d	d	ADP	_	_	5	flat:name	_	start_char=5414|end_char=5415
+18	es.	es.	PROPN	_	Number=Sing	5	flat:name	_	start_char=5416|end_char=5419
+19	.	.	PUNCT	_	_	5	punct	_	start_char=5419|end_char=5420
+
+# sent_id = 05DC85F660D30641E054002128300A66-72
+# text = Cor hol equenee of silty..
+1	Cor	cor	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=5422|end_char=5425
+2	hol	hol	X	_	_	1	compound	_	start_char=5426|end_char=5429
+3	equenee	equenee	X	_	_	1	flat:foreign	_	start_char=5430|end_char=5437
+4	of	of	X	_	_	1	flat:foreign	_	start_char=5438|end_char=5440
+5	silty	silty	PROPN	_	Number=Sing	1	flat:name	_	start_char=5441|end_char=5446
+6	.	.	PUNCT	_	_	1	punct	_	start_char=5446|end_char=5447
+7	.	.	PUNCT	_	_	1	punct	_	start_char=5447|end_char=5448
+
+# sent_id = 05DC85F660D30641E054002128300A66-73
+# text = oon ahales, and li ht greanish grrq, very fine grained aandston a which ar prob bly sXo
+1	oon	oon	PUNCT	_	_	2	punct	_	start_char=5450|end_char=5453
+2	ahales	ahal	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=5454|end_char=5460
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5460|end_char=5461
+4	and	and	X	_	_	2	nmod	_	start_char=5462|end_char=5465
+5	li	ler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=5466|end_char=5468
+6	ht	ht	X	_	_	5	obj	_	start_char=5469|end_char=5471
+7	greanish	greanish	X	_	_	6	flat:foreign	_	start_char=5472|end_char=5480
+8	grrq	grrq	X	_	_	6	flat:foreign	_	start_char=5481|end_char=5485
+9	,	,	PUNCT	_	_	10	punct	_	start_char=5485|end_char=5486
+10	very	very	X	_	_	6	conj	_	start_char=5487|end_char=5491
+11	fine	fine	X	_	_	10	flat:foreign	_	start_char=5492|end_char=5496
+12	grained	grained	X	_	_	10	flat:foreign	_	start_char=5497|end_char=5504
+13	aandston	aandston	X	_	_	10	flat:foreign	_	start_char=5505|end_char=5513
+14	a	a	ADP	_	_	15	case	_	start_char=5514|end_char=5515
+15	which	which	X	_	_	10	flat:foreign	_	start_char=5516|end_char=5521
+16	ar	ar	X	_	_	15	flat:foreign	_	start_char=5522|end_char=5524
+17	prob	prob	X	_	_	15	flat:foreign	_	start_char=5525|end_char=5529
+18	bly	bly	X	_	_	15	flat:foreign	_	start_char=5530|end_char=5533
+19	sXo	sxo	PUNCT	_	_	5	punct	_	start_char=5534|end_char=5537
+
+# sent_id = 05DC85F660D30641E054002128300A66-74
+# text = S basti·o in ag • Ostracoi fSr en-çay to bl Qk shaJ.ea, and light gray, ver'J fin..
+1	S	S	X	_	_	0	root	_	start_char=5539|end_char=5540
+2	basti·o	basti·o	X	_	_	1	flat:name	_	start_char=5541|end_char=5548
+3	in	in	X	_	_	1	flat:name	_	start_char=5549|end_char=5551
+4	ag	ag	X	_	_	1	flat:name	_	start_char=5552|end_char=5554
+5	•	•	PUNCT	_	_	6	punct	_	start_char=5555|end_char=5556
+6	Ostracoi	Ostracoi	PROPN	_	Number=Sing	1	flat:name	_	start_char=5557|end_char=5565
+7	fSr	fSr	PROPN	_	Number=Sing	1	flat:name	_	start_char=5566|end_char=5569
+8	en-çay	en-çay	PROPN	_	Number=Sing	6	flat:name	_	start_char=5570|end_char=5576
+9	to	to	PROPN	_	Number=Sing	6	flat:name	_	start_char=5577|end_char=5579
+10	bl	bl	PROPN	_	Number=Sing	6	flat:name	_	start_char=5580|end_char=5582
+11	Qk	Qk	PROPN	_	Number=Sing	6	flat:name	_	start_char=5583|end_char=5585
+12	shaJ.ea	shaJ.ea	PROPN	_	Number=Sing	1	flat:name	_	start_char=5586|end_char=5593
+13	,	,	PUNCT	_	_	1	flat:name	_	start_char=5593|end_char=5594
+14	and	and	PROPN	_	Number=Sing	1	flat:name	_	start_char=5595|end_char=5598
+15	light	light	PROPN	_	Number=Sing	1	flat:name	_	start_char=5599|end_char=5604
+16	gray	gray	PROPN	_	Number=Sing	1	flat:name	_	start_char=5605|end_char=5609
+17	,	,	PUNCT	_	_	1	flat:name	_	start_char=5609|end_char=5610
+18	ver'	ver'	PROPN	_	Number=Sing	1	flat:name	_	start_char=5611|end_char=5615
+19	J	J	PROPN	_	Number=Sing	18	flat:name	_	start_char=5615|end_char=5616
+20	fin..	fin..	PUNCT	_	_	1	punct	_	start_char=5617|end_char=5622
+
+# sent_id = 05DC85F660D30641E054002128300A66-75
+# text = grain d mioae oue sandaton s of the Ilh pr do in te in the a dr1~ed..
+1	grain	grain	X	_	_	0	root	_	start_char=5624|end_char=5629
+2	d	d	X	_	_	1	flat:name	_	start_char=5630|end_char=5631
+3	mioae	mioae	X	_	_	1	flat:name	_	start_char=5632|end_char=5637
+4	oue	oue	X	_	_	1	flat:name	_	start_char=5638|end_char=5641
+5	sandaton	sandaton	X	_	_	1	flat:name	_	start_char=5642|end_char=5650
+6	s	s	PROPN	_	Number=Sing	1	flat:name	_	start_char=5651|end_char=5652
+7	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=5653|end_char=5655
+8	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=5656|end_char=5659
+9	Ilh	Ilh	PROPN	_	Number=Sing	1	flat:name	_	start_char=5660|end_char=5663
+10	pr	pr	PROPN	_	Number=Sing	1	flat:name	_	start_char=5664|end_char=5666
+11-12	do	_	_	_	_	_	_	_	start_char=5667|end_char=5669
+11	de	de	ADP	_	_	1	flat:name	_	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat:name	_	_
+13	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=5670|end_char=5672
+14	te	tu	PROPN	_	Number=Sing	1	flat:name	_	start_char=5673|end_char=5675
+15	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=5676|end_char=5678
+16	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=5679|end_char=5682
+17	a	a	PROPN	_	Number=Sing	1	flat:name	_	start_char=5683|end_char=5684
+18	dr1~ed.	dr1~ed.	PROPN	_	Number=Sing	1	flat:name	_	start_char=5685|end_char=5692
+19	.	.	PUNCT	_	_	1	punct	_	start_char=5692|end_char=5693
+
+# sent_id = 05DC85F660D30641E054002128300A66-76
+# text = Intercalated thin..
+1	Intercalated	intercalated	INTJ	_	_	2	nummod	_	start_char=5695|end_char=5707
+2	thin..	thin..	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=5708|end_char=5714
+
+# sent_id = 05DC85F660D30641E054002128300A66-77
+# text = .hite y anel black limeston with miea ceou • calcar ou 1lt are a180 pre ent..
+1	.	.	PUNCT	_	_	2	punct	_	start_char=5716|end_char=5717
+2	hite	hite	X	_	_	0	root	_	start_char=5717|end_char=5721
+3	y	y	X	_	_	2	flat:foreign	_	start_char=5722|end_char=5723
+4	anel	anel	X	_	_	2	flat:foreign	_	start_char=5724|end_char=5728
+5	black	black	X	_	_	2	flat:foreign	_	start_char=5729|end_char=5734
+6	limeston	limeston	X	_	_	2	flat:foreign	_	start_char=5735|end_char=5743
+7	with	with	X	_	_	2	flat:foreign	_	start_char=5744|end_char=5748
+8	miea	miea	X	_	_	2	flat:foreign	_	start_char=5749|end_char=5753
+9	ceou	ceou	X	_	_	2	flat:foreign	_	start_char=5754|end_char=5758
+10	•	•	PUNCT	_	_	11	punct	_	start_char=5759|end_char=5760
+11	calcar	calcar	VERB	_	VerbForm=Inf	2	acl	_	start_char=5761|end_char=5767
+12	ou	ou	CCONJ	_	_	13	cc	_	start_char=5768|end_char=5770
+13	1lt	1lt	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	start_char=5771|end_char=5774
+14	are	are	X	_	_	13	flat:foreign	_	start_char=5775|end_char=5778
+15	a	a	ADP	_	_	17	case	_	start_char=5779|end_char=5780
+16	180	180	NUM	_	NumType=Card	17	nummod	_	start_char=5780|end_char=5783
+17	pre	pre	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	start_char=5784|end_char=5787
+18	ent.	ent.	NOUN	_	Gender=Masc|Number=Sing	17	compound	_	start_char=5788|end_char=5792
+19	.	.	PUNCT	_	_	2	punct	_	start_char=5792|end_char=5793
+
+# sent_id = 05DC85F660D30641E054002128300A66-78
+# text = To th south..
+1	To	To	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=5795|end_char=5797
+2	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=5798|end_char=5800
+3	south	south	PROPN	_	Number=Sing	1	flat:name	_	start_char=5801|end_char=5806
+4	.	.	PUNCT	_	_	1	flat:name	_	start_char=5806|end_char=5807
+5	.	.	PUNCT	_	_	1	punct	_	start_char=5807|end_char=5808
+
+# sent_id = 05DC85F660D30641E054002128300A66-79
+# text = as sh on th map enclosure..
+1	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	start_char=5810|end_char=5812
+2	sh	sh	X	_	_	0	root	_	start_char=5813|end_char=5815
+3	on	on	X	_	_	2	flat:foreign	_	start_char=5816|end_char=5818
+4	th	th	X	_	_	2	flat:foreign	_	start_char=5819|end_char=5821
+5	map	map	X	_	_	2	flat:foreign	_	start_char=5822|end_char=5825
+6	enclosure	enclosure	X	_	_	2	flat:foreign	_	start_char=5826|end_char=5835
+7	.	.	PUNCT	_	_	2	punct	_	start_char=5835|end_char=5836
+8	.	.	PUNCT	_	_	2	punct	_	start_char=5836|end_char=5837
+
+# sent_id = 05DC85F660D30641E054002128300A66-80
+# text = a rapid facieB chang ia interpreted with the d velope..
+1	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=5839|end_char=5840
+2	rapid	rapid	X	_	_	6	nsubj	_	start_char=5841|end_char=5846
+3	facieB	facieB	X	_	_	2	flat:foreign	_	start_char=5847|end_char=5853
+4	chang	chang	X	_	_	2	flat:foreign	_	start_char=5854|end_char=5859
+5	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	start_char=5860|end_char=5862
+6	interpreted	interpreted	X	_	_	0	root	_	start_char=5863|end_char=5874
+7	with	with	X	_	_	6	flat:foreign	_	start_char=5875|end_char=5879
+8	the	the	X	_	_	6	flat:foreign	_	start_char=5880|end_char=5883
+9	d	d	X	_	_	6	flat:foreign	_	start_char=5884|end_char=5885
+10	velope	velope	X	_	_	6	flat:foreign	_	start_char=5886|end_char=5892
+11	.	.	PUNCT	_	_	6	punct	_	start_char=5892|end_char=5893
+12	.	.	PUNCT	_	_	6	punct	_	start_char=5893|end_char=5894
+
+# sent_id = 05DC85F660D30641E054002128300A66-81
+# text = ment of a massiva Ilh &and..
+1	ment	ment	X	_	_	0	root	_	start_char=5896|end_char=5900
+2	of	of	X	_	_	1	nmod	_	start_char=5901|end_char=5903
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	det	_	start_char=5904|end_char=5905
+4	massiva	massivo	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	start_char=5906|end_char=5913
+5	Ilh	Ilh	PROPN	_	Gender=Fem|Number=Sing	1	nmod	_	start_char=5914|end_char=5917
+6	&	&	PROPN	_	Number=Sing	5	flat:name	_	start_char=5918|end_char=5919
+7	and.	and.	PROPN	_	Number=Sing	5	flat:name	_	start_char=5919|end_char=5923
+8	.	.	PUNCT	_	_	1	punct	_	start_char=5923|end_char=5924
+
+# sent_id = 05DC85F660D30641E054002128300A66-82
+# text = Th sand ia .hit varying to ros in co lori very fine to fin gr in d. aubrounded..
+1	Th	Th	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=5926|end_char=5928
+2	sand	sand	PROPN	_	Number=Sing	1	flat:name	_	start_char=5929|end_char=5933
+3	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	start_char=5934|end_char=5936
+4	.	.	PUNCT	_	_	5	punct	_	start_char=5937|end_char=5938
+5	hit	hit	X	_	_	0	root	_	start_char=5938|end_char=5941
+6	varying	varying	X	_	_	5	flat:foreign	_	start_char=5942|end_char=5949
+7	to	to	X	_	_	5	flat:foreign	_	start_char=5950|end_char=5952
+8	ros	ros	X	_	_	5	flat:foreign	_	start_char=5953|end_char=5956
+9	in	in	X	_	_	5	flat:foreign	_	start_char=5957|end_char=5959
+10	co	co	X	_	_	5	flat:foreign	_	start_char=5960|end_char=5962
+11	lori	lori	X	_	_	5	flat:foreign	_	start_char=5963|end_char=5967
+12	very	very	X	_	_	5	flat:foreign	_	start_char=5968|end_char=5972
+13	fine	fine	X	_	_	5	flat:foreign	_	start_char=5973|end_char=5977
+14	to	to	X	_	_	5	flat:foreign	_	start_char=5978|end_char=5980
+15	fin	fin	PROPN	_	Number=Sing	5	flat:foreign	_	start_char=5981|end_char=5984
+16	gr	gr	PROPN	_	Number=Sing	5	flat:foreign	_	start_char=5985|end_char=5987
+17	in	in	X	_	_	5	flat:foreign	_	start_char=5988|end_char=5990
+18	d.	d.	PROPN	_	Number=Sing	5	flat:foreign	_	start_char=5991|end_char=5993
+19	aubrounded	aubrounder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	start_char=5994|end_char=6004
+20	.	.	PUNCT	_	_	19	punct	_	start_char=6004|end_char=6005
+21	.	.	PUNCT	_	_	5	punct	_	start_char=6005|end_char=6006
+
+# sent_id = 05DC85F660D30641E054002128300A66-83
+# text = well sort d. c bon ceous with very poor poroo1ty..
+1	well	well	X	_	_	0	root	_	start_char=6008|end_char=6012
+2	sort	sort	X	_	_	1	flat:foreign	_	start_char=6013|end_char=6017
+3	d.	d.	X	_	_	1	flat:foreign	_	start_char=6018|end_char=6020
+4	c	c	X	_	_	1	flat:foreign	_	start_char=6021|end_char=6022
+5	bon	bon	X	_	_	1	flat:foreign	_	start_char=6023|end_char=6026
+6	ceous	ceous	X	_	_	1	flat:foreign	_	start_char=6027|end_char=6032
+7	with	with	X	_	_	1	flat:foreign	_	start_char=6033|end_char=6037
+8	very	very	X	_	_	1	flat:foreign	_	start_char=6038|end_char=6042
+9	poor	poor	X	_	_	1	flat:foreign	_	start_char=6043|end_char=6047
+10	poroo1	poroo1	X	_	_	1	flat:foreign	_	start_char=6048|end_char=6054
+11	ty	ty	X	_	_	1	flat:foreign	_	start_char=6054|end_char=6056
+12	.	.	PUNCT	_	_	1	punct	_	start_char=6056|end_char=6057
+13	.	.	PUNCT	_	_	1	punct	_	start_char=6057|end_char=6058
+
+# sent_id = 05DC85F660D30641E054002128300A66-84
+# text = Structural int rpretations und r Buch cond1-tioJ1a are doubtful..
+1	Structural	Structural	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=6060|end_char=6070
+2	int	int	PROPN	_	Number=Sing	1	flat:name	_	start_char=6071|end_char=6074
+3	rpretations	rpretations	PROPN	_	Number=Sing	1	flat:name	_	start_char=6075|end_char=6086
+4	und	und	PROPN	_	Number=Sing	1	flat:name	_	start_char=6087|end_char=6090
+5	r	r	PROPN	_	Number=Sing	1	flat:name	_	start_char=6091|end_char=6092
+6	Buch	Buch	PROPN	_	Number=Sing	1	flat:name	_	start_char=6093|end_char=6097
+7	cond1-tio	cond1-tio	PROPN	_	Number=Sing	1	flat:name	_	start_char=6098|end_char=6107
+8	J1a	J1a	PROPN	_	Number=Sing	1	flat:name	_	start_char=6107|end_char=6110
+9	are	are	PROPN	_	Number=Sing	1	flat:name	_	start_char=6111|end_char=6114
+10	doubtful.	doubtful.	PROPN	_	Number=Sing	1	flat:name	_	start_char=6115|end_char=6124
+11	.	.	PUNCT	_	_	1	punct	_	start_char=6124|end_char=6125
+
+# sent_id = 05DC85F660D30641E054002128300A66-85
+# text = STRATIGRAPRY TERTIARY B RRElMS s O SEBASTll0
+6 .00 0 - 9 - Btru tural contoure • re drawn on a. diati11ctiv calcareoua..
+1	STRATIGRAPRY	STRATIGRAPRY	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=6127|end_char=6139
+2	TERTIARY	TERTIARY	PROPN	_	Number=Sing	1	flat:name	_	start_char=6140|end_char=6148
+3	B	B	PROPN	_	Number=Sing	1	flat:name	_	start_char=6149|end_char=6150
+4	RRElMS	RRElMS	PROPN	_	Number=Sing	1	flat:name	_	start_char=6151|end_char=6157
+5	s	s	PROPN	_	Number=Sing	1	flat:name	_	start_char=6158|end_char=6159
+6	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=6160|end_char=6161
+7	SEBASTll0	SEBASTll0	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=6162|end_char=6171
+8	6	6	NUM	_	NumType=Card	9	nummod	_	start_char=6172|end_char=6173
+9	.00	.00	NOUN	_	Gender=Masc|Number=Sing	7	flat:foreign	_	start_char=6174|end_char=6177
+10	0	0	NUM	_	NumType=Card	7	nummod	_	start_char=6178|end_char=6179
+11	-	-	PUNCT	_	_	12	punct	_	start_char=6180|end_char=6181
+12	9	9	NUM	_	NumType=Card	1	nmod:appos	_	start_char=6182|end_char=6183
+13	-	-	PUNCT	_	_	14	punct	_	start_char=6184|end_char=6185
+14	Btru	Btru	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=6186|end_char=6190
+15	tural	tural	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	start_char=6191|end_char=6196
+16	contoure	contoure	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=6197|end_char=6205
+17	•	•	PUNCT	_	_	19	punct	_	start_char=6206|end_char=6207
+18	re	re	PUNCT	_	_	19	punct	_	start_char=6208|end_char=6210
+19	drawn	drawn	X	_	_	14	appos	_	start_char=6211|end_char=6216
+20	on	on	X	_	_	19	flat:foreign	_	start_char=6217|end_char=6219
+21	a.	a.	X	_	_	19	flat:foreign	_	start_char=6220|end_char=6222
+22	diati11	diati11	X	_	_	19	flat:foreign	_	start_char=6223|end_char=6230
+23	ctiv	ctiv	X	_	_	19	flat:foreign	_	start_char=6230|end_char=6234
+24	calcareoua.	calcareouar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	start_char=6235|end_char=6246
+25	.	.	PUNCT	_	_	1	punct	_	start_char=6246|end_char=6247
+
+# sent_id = 05DC85F660D30641E054002128300A66-86
+# text = - pproximately 55 motel' above th CATO - 510 PAULO a11t7 andeton - aandston aequ nee. ~hia otnt _as cho •• n b c ua8 1\appe a to • str ti r phical17 conatan both the atructure holes and in the P juca Field w 11 • Structure in the int r diate bet_ee
+1	-	-	PUNCT	_	_	2	punct	_	start_char=6249|end_char=6250
+2	pproximately	pproximately	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=6251|end_char=6263
+3	55	55	NUM	_	NumType=Card	4	nummod	_	start_char=6264|end_char=6266
+4	motel	motel	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=6267|end_char=6272
+5	'	'	PUNCT	_	_	6	punct	_	start_char=6272|end_char=6273
+6	above	above	X	_	_	4	appos	_	start_char=6274|end_char=6279
+7	th	th	X	_	_	6	flat:foreign	_	start_char=6280|end_char=6282
+8	CATO	cato	X	_	_	6	flat:foreign	_	start_char=6283|end_char=6287
+9	-	-	PUNCT	_	_	10	punct	_	start_char=6288|end_char=6289
+10	510	510	PROPN	_	Number=Sing	6	flat:foreign	_	start_char=6290|end_char=6293
+11	PAULO	Paulo	PROPN	_	Number=Sing	6	flat:foreign	_	start_char=6294|end_char=6299
+12	a	a	ADP	_	_	14	case	_	start_char=6300|end_char=6301
+13	11t7	11t7	NUM	_	NumType=Card	14	nummod	_	start_char=6301|end_char=6305
+14	andeton	andeton	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=6306|end_char=6313
+15	-	-	PUNCT	_	_	16	punct	_	start_char=6314|end_char=6315
+16	aandston	aandston	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	start_char=6316|end_char=6324
+17	aequ	aequ	X	_	_	16	flat:foreign	_	start_char=6325|end_char=6329
+18	nee	nee	X	_	_	16	flat:foreign	_	start_char=6330|end_char=6333
+19	.	.	PUNCT	_	_	20	punct	_	start_char=6333|end_char=6334
+20	~hia	~hia	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	start_char=6335|end_char=6339
+21	otnt	otnt	X	_	_	20	flat:foreign	_	start_char=6340|end_char=6344
+22	_as	_as	PROPN	_	Number=Sing	20	flat:name	_	start_char=6345|end_char=6348
+23	cho	cho	X	_	_	20	flat:foreign	_	start_char=6349|end_char=6352
+24	••	••	PROPN	_	Number=Sing	20	flat:name	_	start_char=6353|end_char=6355
+25	n	n	PROPN	_	Number=Sing	20	flat:name	_	start_char=6356|end_char=6357
+26	b	b	PROPN	_	Number=Sing	20	flat:name	_	start_char=6358|end_char=6359
+27	c	c	PROPN	_	Number=Sing	20	flat:name	_	start_char=6360|end_char=6361
+28	ua8	ua8	PROPN	_	Number=Sing	20	flat:name	_	start_char=6362|end_char=6365
+29	1	1	PROPN	_	Number=Sing	20	flat:name	_	start_char=6366|end_char=6367
+30	\	\	PROPN	_	Number=Sing	20	flat:name	_	start_char=6367|end_char=6368
+31	appe	appe	PROPN	_	Number=Sing	20	flat:name	_	start_char=6368|end_char=6372
+32	a	a	PROPN	_	Number=Sing	20	flat:name	_	start_char=6373|end_char=6374
+33	to	to	PROPN	_	Number=Sing	20	flat:name	_	start_char=6375|end_char=6377
+34	•	•	PUNCT	_	_	35	punct	_	start_char=6378|end_char=6379
+35	str	str	PROPN	_	Number=Sing	20	appos	_	start_char=6380|end_char=6383
+36	ti	tu	PROPN	_	Number=Sing	35	flat:name	_	start_char=6384|end_char=6386
+37	r	r	PROPN	_	Number=Sing	35	flat:name	_	start_char=6387|end_char=6388
+38	phical17	phical17	PROPN	_	Number=Sing	35	flat:name	_	start_char=6389|end_char=6397
+39	conatan	conatan	PROPN	_	Number=Sing	35	flat:name	_	start_char=6398|end_char=6405
+40	both	both	PROPN	_	Number=Sing	35	flat:name	_	start_char=6406|end_char=6410
+41	the	the	PROPN	_	Number=Sing	35	flat:name	_	start_char=6411|end_char=6414
+42	atructure	atructure	PROPN	_	Number=Sing	35	flat:name	_	start_char=6415|end_char=6424
+43	holes	holes	PROPN	_	Number=Sing	35	flat:name	_	start_char=6425|end_char=6430
+44	and	and	PROPN	_	Number=Sing	35	flat:name	_	start_char=6431|end_char=6434
+45	in	in	PROPN	_	Number=Sing	35	flat:name	_	start_char=6435|end_char=6437
+46	the	the	PROPN	_	Number=Sing	35	flat:name	_	start_char=6438|end_char=6441
+47	P	P	PROPN	_	Number=Sing	35	flat:name	_	start_char=6442|end_char=6443
+48	juca	juca	PROPN	_	Number=Sing	35	flat:name	_	start_char=6444|end_char=6448
+49	Field	Field	PROPN	_	Number=Sing	35	flat:name	_	start_char=6449|end_char=6454
+50	w	w	PROPN	_	Number=Sing	35	flat:name	_	start_char=6455|end_char=6456
+51	11	11	PROPN	_	Number=Sing	35	flat:name	_	start_char=6457|end_char=6459
+52	•	•	PUNCT	_	_	53	punct	_	start_char=6460|end_char=6461
+53	Structure	Structure	PROPN	_	Number=Sing	35	flat:name	_	start_char=6462|end_char=6471
+54	in	in	PROPN	_	Number=Sing	53	flat:name	_	start_char=6472|end_char=6474
+55	the	the	PROPN	_	Number=Sing	53	flat:name	_	start_char=6475|end_char=6478
+56	int	int	PROPN	_	Number=Sing	53	flat:name	_	start_char=6479|end_char=6482
+57	r	r	PROPN	_	Number=Sing	53	flat:name	_	start_char=6483|end_char=6484
+58	diate	diate	PROPN	_	Number=Sing	53	flat:name	_	start_char=6485|end_char=6490
+59	bet_ee	bet_ee	PUNCT	_	_	2	punct	_	start_char=6491|end_char=6497
+
+# sent_id = 05DC85F660D30641E054002128300A66-87
+# text = P u and Mata de são João ia amUar to he contiguration of the ntire M! -- eouth aIIt trendin normal..
+1	P	P	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	_	start_char=6499|end_char=6500
+2	u	u	PROPN	_	Number=Sing	1	flat:name	_	start_char=6501|end_char=6502
+3	and	and	PROPN	_	Number=Sing	1	flat:name	_	start_char=6503|end_char=6506
+4	Mata	Mata	PROPN	_	Number=Sing	1	flat:name	_	start_char=6507|end_char=6511
+5	de	de	ADP	_	_	1	flat:name	_	start_char=6512|end_char=6514
+6	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	flat:name	_	start_char=6515|end_char=6518
+7	João	João	PROPN	_	Number=Sing	1	flat:name	_	start_char=6519|end_char=6523
+8	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	start_char=6524|end_char=6526
+9	amUar	amUar	PROPN	_	Number=Sing	0	root	_	start_char=6527|end_char=6532
+10	to	to	PROPN	_	Number=Sing	9	flat:name	_	start_char=6533|end_char=6535
+11	he	he	PROPN	_	Number=Sing	9	flat:name	_	start_char=6536|end_char=6538
+12	contiguration	contiguration	PROPN	_	Number=Sing	9	flat:name	_	start_char=6539|end_char=6552
+13	of	of	PROPN	_	Number=Sing	9	flat:name	_	start_char=6553|end_char=6555
+14	the	the	PROPN	_	Number=Sing	9	flat:name	_	start_char=6556|end_char=6559
+15	ntire	ntire	PROPN	_	Number=Sing	9	flat:name	_	start_char=6560|end_char=6565
+16	M	M	PROPN	_	Number=Sing	9	flat:name	_	start_char=6566|end_char=6567
+17	!	!	PUNCT	_	_	19	punct	_	start_char=6567|end_char=6568
+18	--	--	PUNCT	_	_	19	punct	_	start_char=6569|end_char=6571
+19	eouth	eoutir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	start_char=6572|end_char=6577
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	start_char=6578|end_char=6579
+21	IIt	IIt	PROPN	_	Gender=Fem|Number=Sing	19	obj	_	start_char=6579|end_char=6582
+22	trendin	trendin	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	start_char=6583|end_char=6590
+23	normal	normal	ADJ	_	Gender=Fem|Number=Sing	21	amod	_	start_char=6591|end_char=6597
+24	.	.	PUNCT	_	_	19	punct	_	start_char=6597|end_char=6598
+25	.	.	PUNCT	_	_	9	punct	_	start_char=6598|end_char=6599
+
+# sent_id = 05DC85F660D30641E054002128300A66-88
+# text = faul t - CATO' trend..
+1	faul	faul	PUNCT	_	_	2	punct	_	start_char=6601|end_char=6605
+2	t	t	X	_	_	6	obl	_	start_char=6606|end_char=6607
+3	-	-	PUNCT	_	_	4	punct	_	start_char=6608|end_char=6609
+4	CATO	CATO	PROPN	_	Gender=Masc|Number=Sing	2	appos	_	start_char=6610|end_char=6614
+5	'	'	PUNCT	_	_	6	punct	_	start_char=6614|end_char=6615
+6	trend.	trender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6616|end_char=6622
+7	.	.	PUNCT	_	_	6	punct	_	start_char=6622|end_char=6623
+
+# sent_id = 05DC85F660D30641E054002128300A66-89
+# text = A minor northwes f. t p ra1.1 18 th. major MA~Â ... CATO - with the upthrOWll blo k t th Fault..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=6625|end_char=6626
+2	minor	minor	X	_	_	0	root	_	start_char=6627|end_char=6632
+3	northwes	northwes	X	_	_	2	flat:foreign	_	start_char=6633|end_char=6641
+4	f.	f.	X	_	_	2	flat:foreign	_	start_char=6642|end_char=6644
+5	t	t	X	_	_	2	flat:foreign	_	start_char=6645|end_char=6646
+6	p	p	X	_	_	2	flat:foreign	_	start_char=6647|end_char=6648
+7	ra1.1	ra1.1	X	_	_	2	flat:foreign	_	start_char=6649|end_char=6654
+8	18	18	PROPN	_	Number=Sing	2	flat:name	_	start_char=6655|end_char=6657
+9	th.	th.	X	_	_	2	flat:foreign	_	start_char=6658|end_char=6661
+10	major	major	X	_	_	2	flat:foreign	_	start_char=6662|end_char=6667
+11	MA~Â	MA~Â	PROPN	_	Number=Sing	2	flat:name	_	start_char=6668|end_char=6672
+12	...	...	PUNCT	_	_	2	punct	_	start_char=6673|end_char=6676
+13	CATO	CATO	PROPN	_	Number=Sing	2	flat:name	_	start_char=6677|end_char=6681
+14	-	-	PUNCT	_	_	2	flat:name	_	start_char=6682|end_char=6683
+15	with	with	PROPN	_	Number=Sing	2	flat:name	_	start_char=6684|end_char=6688
+16	the	the	PROPN	_	Number=Sing	2	flat:name	_	start_char=6689|end_char=6692
+17	upthrOWll	upthrOWll	PROPN	_	Number=Sing	2	flat:name	_	start_char=6693|end_char=6702
+18	blo	blo	PROPN	_	Number=Sing	2	flat:name	_	start_char=6703|end_char=6706
+19	k	k	PROPN	_	Number=Sing	2	flat:name	_	start_char=6707|end_char=6708
+20	t	t	PROPN	_	Number=Sing	2	flat:name	_	start_char=6709|end_char=6710
+21	th	th	PROPN	_	Number=Sing	2	flat:name	_	start_char=6711|end_char=6713
+22	Fault	Fault	PROPN	_	Number=Sing	2	flat:name	_	start_char=6714|end_char=6719
+23	.	.	PUNCT	_	_	2	punct	_	start_char=6719|end_char=6720
+24	.	.	PUNCT	_	_	2	punct	_	start_char=6720|end_char=6721
+
+# sent_id = 05DC85F660D30641E054002128300A66-90
+# text = SUbsidiar, faults radi t. to th. north..
+1	SUbsidiar	subsidiar	VERB	_	VerbForm=Inf	0	root	_	start_char=6723|end_char=6732
+2	,	,	PUNCT	_	_	1	punct	_	start_char=6732|end_char=6733
+3	faults	faults	X	_	_	1	obj	_	start_char=6734|end_char=6740
+4	radi	radi	X	_	_	3	flat:foreign	_	start_char=6741|end_char=6745
+5	t.	t.	X	_	_	3	flat:foreign	_	start_char=6746|end_char=6748
+6	to	to	X	_	_	3	flat:foreign	_	start_char=6749|end_char=6751
+7	th.	th.	X	_	_	3	flat:foreign	_	start_char=6752|end_char=6755
+8	north	north	X	_	_	3	flat:foreign	_	start_char=6756|end_char=6761
+9	.	.	PUNCT	_	_	1	punct	_	start_char=6761|end_char=6762
+10	.	.	PUNCT	_	_	1	punct	_	start_char=6762|end_char=6763
+
+# sent_id = 05DC85F660D30641E054002128300A66-91
+# text = t formin amall hor ta nd tilt d f ult block situated ap oXimat 17 three ~omet.re 209 eter higher than the dr.1 bole..
+1	t	t	X	_	_	6	nsubj	_	start_char=6765|end_char=6766
+2	formin	formin	X	_	_	1	compound	_	start_char=6767|end_char=6773
+3	amall	amall	X	_	_	1	flat:foreign	_	start_char=6774|end_char=6779
+4	hor	hor	X	_	_	1	flat:foreign	_	start_char=6780|end_char=6783
+5	ta	er	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=6784|end_char=6786
+6	nd	nd	X	_	_	0	root	_	start_char=6787|end_char=6789
+7	tilt	tilt	X	_	_	6	flat:foreign	_	start_char=6790|end_char=6794
+8	d	d	PROPN	_	Number=Sing	6	flat:name	_	start_char=6795|end_char=6796
+9	f	f	X	_	_	6	flat:foreign	_	start_char=6797|end_char=6798
+10	ult	ult	X	_	_	6	flat:foreign	_	start_char=6799|end_char=6802
+11	block	block	X	_	_	6	flat:foreign	_	start_char=6803|end_char=6808
+12	situated	situated	X	_	_	6	flat:foreign	_	start_char=6809|end_char=6817
+13	ap	ap	PROPN	_	Number=Sing	6	flat:name	_	start_char=6818|end_char=6820
+14	oXimat	oXimat	PROPN	_	Number=Sing	6	flat:name	_	start_char=6821|end_char=6827
+15	17	17	PROPN	_	Number=Sing	6	flat:name	_	start_char=6828|end_char=6830
+16	three	three	X	_	_	6	flat:foreign	_	start_char=6831|end_char=6836
+17	~omet.	~omet.	X	_	_	6	flat:foreign	_	start_char=6837|end_char=6843
+18	re	re	PROPN	_	Number=Sing	6	flat:name	_	start_char=6843|end_char=6845
+19	209	209	PROPN	_	Number=Sing	6	flat:name	_	start_char=6846|end_char=6849
+20	eter	eter	X	_	_	6	flat:foreign	_	start_char=6850|end_char=6854
+21	higher	higher	X	_	_	6	flat:foreign	_	start_char=6855|end_char=6861
+22	than	than	X	_	_	6	flat:foreign	_	start_char=6862|end_char=6866
+23	the	the	PROPN	_	Number=Sing	20	flat:foreign	_	start_char=6867|end_char=6870
+24	dr.1	dr.1	PROPN	_	Number=Sing	20	flat:foreign	_	start_char=6871|end_char=6875
+25	bole	bole	X	_	_	20	flat:foreign	_	start_char=6876|end_char=6880
+26	.	.	PUNCT	_	_	6	punct	_	start_char=6880|end_char=6881
+27	.	.	PUNCT	_	_	6	punct	_	start_char=6881|end_char=6882
+
+# sent_id = 05DC85F660D30641E054002128300A66-92
+# text = Cor elation to th outh o~ thia area ia unr 11abl.' although lU1
+1	Cor	cor	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	start_char=6884|end_char=6887
+2	elation	elation	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	start_char=6888|end_char=6895
+3	to	to	X	_	_	1	nmod	_	start_char=6896|end_char=6898
+4	th	th	X	_	_	3	flat:foreign	_	start_char=6899|end_char=6901
+5	outh	outh	X	_	_	3	flat:foreign	_	start_char=6902|end_char=6906
+6	o~	o~	PROPN	_	Number=Sing	3	flat:foreign	_	start_char=6907|end_char=6909
+7	thia	thia	X	_	_	1	flat:foreign	_	start_char=6910|end_char=6914
+8	area	area	NOUN	_	Gender=Fem|Number=Sing	1	compound	_	start_char=6915|end_char=6919
+9	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	start_char=6920|end_char=6922
+10	unr	unr	ADP	_	_	11	case	_	start_char=6923|end_char=6926
+11	11abl	11abl	NUM	_	NumType=Card	0	root	_	start_char=6927|end_char=6932
+12	.	.	PUNCT	_	_	14	punct	_	start_char=6932|end_char=6933
+13	'	'	PUNCT	_	_	14	punct	_	start_char=6933|end_char=6934
+14	although	although	X	_	_	11	appos	_	start_char=6935|end_char=6943
+15	lU1	lu1	X	_	_	14	flat:foreign	_	start_char=6944|end_char=6947
+
+# sent_id = 05DC85F660D30641E054002128300A66-93
+# text = T n high r stru tur 1 loc t10n
+1	T	t	X	_	_	0	root	_	start_char=6949|end_char=6950
+2	n	n	X	_	_	1	flat:foreign	_	start_char=6951|end_char=6952
+3	high	high	X	_	_	1	flat:foreign	_	start_char=6953|end_char=6957
+4	r	r	X	_	_	1	flat:foreign	_	start_char=6958|end_char=6959
+5	stru	stru	X	_	_	1	flat:foreign	_	start_char=6960|end_char=6964
+6	tur	tur	X	_	_	1	flat:foreign	_	start_char=6965|end_char=6968
+7	1	1	PROPN	_	Number=Sing	1	flat:name	_	start_char=6969|end_char=6970
+8	loc	loc	PROPN	_	Number=Sing	1	flat:name	_	start_char=6971|end_char=6974
+9	t10n	t10n	PUNCT	_	_	1	punct	_	start_char=6975|end_char=6979
+
+# sent_id = 05DC85F660D30641E054002128300A66-94
+# text = U ind1cat.4, th. d ta do not warrant •• rlou..
+1	U	U	X	_	_	12	nsubj	_	start_char=6981|end_char=6982
+2	ind1cat.4	ind1cat.4	X	_	_	1	compound	_	start_char=6983|end_char=6992
+3	,	,	PUNCT	_	_	4	punct	_	start_char=6992|end_char=6993
+4	th.	th.	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=6994|end_char=6997
+5	d	d	X	_	_	4	flat:foreign	_	start_char=6998|end_char=6999
+6	ta	er	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=7000|end_char=7002
+7-8	do	_	_	_	_	_	_	_	start_char=7003|end_char=7005
+7	de	de	ADP	_	_	9	case	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	not	not	X	_	_	0	root	_	start_char=7006|end_char=7009
+10	warrant	warrant	X	_	_	9	flat:foreign	_	start_char=7010|end_char=7017
+11	••	••	X	_	_	9	flat:foreign	_	start_char=7018|end_char=7020
+12	rlou	rlar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	start_char=7021|end_char=7025
+13	.	.	PUNCT	_	_	12	punct	_	start_char=7025|end_char=7026
+14	.	.	PUNCT	_	_	12	punct	_	start_char=7026|end_char=7027
+
+# sent_id = 05DC85F660D30641E054002128300A66-95
+# text = con 1derat10n..
+1	con	com	ADP	_	_	3	case	_	start_char=7029|end_char=7032
+2	1derat10	1derat10	NUM	_	NumType=Card	3	nummod	_	start_char=7033|end_char=7041
+3	n.	n.	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7041|end_char=7043
+4	.	.	PUNCT	_	_	3	punct	_	start_char=7043|end_char=7044
+
+# sent_id = 05DC85F660D30641E054002128300A66-96
+# text = ~ pr vioua g ologiat..
+1	~	~	PUNCT	_	_	2	punct	_	start_char=7046|end_char=7047
+2	pr	pr	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	start_char=7048|end_char=7050
+3	vioua	viocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=7051|end_char=7056
+4	g	g	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	start_char=7057|end_char=7058
+5	ologiat.	ologiat.	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=7059|end_char=7067
+6	.	.	PUNCT	_	_	3	punct	_	start_char=7067|end_char=7068
+
+# sent_id = 05DC85F660D30641E054002128300A66-97
+# text = hav note th d cr.pan~ b tw D eh d de p structure in th Agua Grande r g1on..
+1	hav	hav	X	_	_	0	root	_	start_char=7070|end_char=7073
+2	note	note	X	_	_	1	flat:name	_	start_char=7074|end_char=7078
+3	th	th	X	_	_	1	flat:foreign	_	start_char=7079|end_char=7081
+4	d	d	X	_	_	1	flat:foreign	_	start_char=7082|end_char=7083
+5	cr.	cr.	X	_	_	1	flat:foreign	_	start_char=7084|end_char=7087
+6	pan~	pan~	X	_	_	1	flat:foreign	_	start_char=7087|end_char=7091
+7	b	b	X	_	_	1	flat:foreign	_	start_char=7092|end_char=7093
+8	tw	tw	X	_	_	1	flat:foreign	_	start_char=7094|end_char=7096
+9	D	D	PROPN	_	Number=Sing	1	flat:name	_	start_char=7097|end_char=7098
+10	eh	eh	PROPN	_	Number=Sing	1	flat:name	_	start_char=7099|end_char=7101
+11	d	d	PROPN	_	Number=Sing	1	flat:name	_	start_char=7102|end_char=7103
+12	de	de	ADP	_	_	1	flat:name	_	start_char=7104|end_char=7106
+13	p	p	PROPN	_	Number=Sing	1	flat:name	_	start_char=7107|end_char=7108
+14	structure	structure	X	_	_	1	flat:name	_	start_char=7109|end_char=7118
+15	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=7119|end_char=7121
+16	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=7122|end_char=7124
+17	Agua	Agua	PROPN	_	Number=Sing	1	flat:name	_	start_char=7125|end_char=7129
+18	Grande	Grande	PROPN	_	Number=Sing	1	flat:name	_	start_char=7130|end_char=7136
+19	r	r	PROPN	_	Number=Sing	1	flat:name	_	start_char=7137|end_char=7138
+20	g1	g1	PROPN	_	Number=Sing	1	flat:name	_	start_char=7139|end_char=7141
+21	on	on	PROPN	_	Number=Sing	1	flat:name	_	start_char=7141|end_char=7143
+22	.	.	PUNCT	_	_	1	punct	_	start_char=7143|end_char=7144
+23	.	.	PUNCT	_	_	1	punct	_	start_char=7144|end_char=7145
+
+# sent_id = 05DC85F660D30641E054002128300A66-98
+# text = ~is ltuat10n can be r adily demon trated at Pojuca throu a co p iso of th ahallo..
+1	~is	~is	PUNCT	_	_	2	punct	_	start_char=7147|end_char=7150
+2	ltuat10	ltuat10	X	_	_	12	nsubj	_	start_char=7151|end_char=7158
+3	n	n	X	_	_	2	flat:foreign	_	start_char=7158|end_char=7159
+4	can	can	X	_	_	2	flat:foreign	_	start_char=7160|end_char=7163
+5	be	be	PROPN	_	Number=Sing	2	flat:name	_	start_char=7164|end_char=7166
+6	r	r	PROPN	_	Number=Sing	2	flat:name	_	start_char=7167|end_char=7168
+7	adily	adily	PROPN	_	Number=Sing	2	flat:name	_	start_char=7169|end_char=7174
+8	demon	demon	PROPN	_	Number=Sing	2	flat:name	_	start_char=7175|end_char=7180
+9	trated	trated	PROPN	_	Number=Sing	2	flat:name	_	start_char=7181|end_char=7187
+10	at	at	PROPN	_	Number=Sing	2	flat:name	_	start_char=7188|end_char=7190
+11	Pojuca	Pojuca	PROPN	_	Number=Sing	2	flat:name	_	start_char=7191|end_char=7197
+12	throu	thrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=7198|end_char=7203
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	start_char=7204|end_char=7205
+14	co	co	PROPN	_	Number=Sing	12	obj	_	start_char=7206|end_char=7208
+15	p	p	PROPN	_	Number=Sing	14	flat:name	_	start_char=7209|end_char=7210
+16	iso	iso	PROPN	_	Number=Sing	14	flat:name	_	start_char=7211|end_char=7214
+17	of	of	PROPN	_	Number=Sing	14	flat:name	_	start_char=7215|end_char=7217
+18	th	th	PROPN	_	Number=Sing	14	flat:name	_	start_char=7218|end_char=7220
+19	ahallo	ahallo	PROPN	_	Number=Sing	14	flat:name	_	start_char=7221|end_char=7227
+20	.	.	PUNCT	_	_	12	punct	_	start_char=7227|end_char=7228
+21	.	.	PUNCT	_	_	12	punct	_	start_char=7228|end_char=7229
+
+# sent_id = 05DC85F660D30641E054002128300A66-99
+# text = p included with his r po~t . and the fiel m ~ ontours b7
+1	p	p	X	_	_	0	root	_	start_char=7231|end_char=7232
+2	included	included	X	_	_	1	compound	_	start_char=7233|end_char=7241
+3	with	with	X	_	_	1	flat:foreign	_	start_char=7242|end_char=7246
+4	his	his	X	_	_	1	flat:foreign	_	start_char=7247|end_char=7250
+5	r	r	PROPN	_	Number=Sing	1	flat:name	_	start_char=7251|end_char=7252
+6	po~t	po~t	X	_	_	1	flat:foreign	_	start_char=7253|end_char=7257
+7	.	.	PUNCT	_	_	8	punct	_	start_char=7258|end_char=7259
+8	and	and	X	_	_	1	flat:foreign	_	start_char=7260|end_char=7263
+9	the	the	PROPN	_	Number=Sing	8	flat:name	_	start_char=7264|end_char=7267
+10	fiel	fiel	X	_	_	8	flat:foreign	_	start_char=7268|end_char=7272
+11	m	m	PROPN	_	Number=Sing	8	flat:name	_	start_char=7273|end_char=7274
+12	~	~	PUNCT	_	_	8	punct	_	start_char=7275|end_char=7276
+13	ontours	ontours	PROPN	_	Number=Sing	8	flat:name	_	start_char=7277|end_char=7284
+14	b7	b7	PROPN	_	Number=Sing	8	flat:name	_	start_char=7285|end_char=7287
+
+# sent_id = 05DC85F660D30641E054002128300A66-100
+# text = Mr. Young on the top of the It pica..
+1	Mr	Mr	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7289|end_char=7291
+2	.	.	PUNCT	_	_	3	punct	_	start_char=7291|end_char=7292
+3	Young	Young	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=7293|end_char=7298
+4	on	on	PROPN	_	Number=Sing	3	flat:name	_	start_char=7299|end_char=7301
+5	the	the	PROPN	_	Number=Sing	3	flat:name	_	start_char=7302|end_char=7305
+6	top	top	PROPN	_	Number=Sing	3	flat:name	_	start_char=7306|end_char=7309
+7	of	of	PROPN	_	Number=Sing	3	flat:name	_	start_char=7310|end_char=7312
+8	the	the	PROPN	_	Number=Sing	3	flat:name	_	start_char=7313|end_char=7316
+9	It	It	PROPN	_	Number=Sing	3	flat:name	_	start_char=7317|end_char=7319
+10	pica	pica	PROPN	_	Number=Sing	3	flat:name	_	start_char=7320|end_char=7324
+11	.	.	PUNCT	_	_	1	punct	_	start_char=7324|end_char=7325
+12	.	.	PUNCT	_	_	1	punct	_	start_char=7325|end_char=7326
+
+# sent_id = 05DC85F660D30641E054002128300A66-101
+# text = The ituat10n simpl,..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7328|end_char=7331
+2	ituat10n	ituat10n	PROPN	_	Number=Sing	1	flat:name	_	start_char=7332|end_char=7340
+3	simpl	simpl	PROPN	_	Number=Sing	1	flat:name	_	start_char=7341|end_char=7346
+4	,	,	PUNCT	_	_	1	flat:name	_	start_char=7346|end_char=7347
+5	..	..	PUNCT	_	_	1	punct	_	start_char=7347|end_char=7349
+
+# sent_id = 05DC85F660D30641E054002128300A66-102
+# text = at te 18 that a •• ~1 h~gh on shal10w
+1	at	at	X	_	_	0	root	_	start_char=7351|end_char=7353
+2	te	tu	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	flat:name	_	start_char=7354|end_char=7356
+3	18	18	PROPN	_	Number=Sing	1	flat:name	_	start_char=7357|end_char=7359
+4	that	that	X	_	_	1	flat:foreign	_	start_char=7360|end_char=7364
+5	a	a	ADP	_	_	1	flat:name	_	start_char=7365|end_char=7366
+6	••	••	PROPN	_	Number=Sing	1	flat:name	_	start_char=7367|end_char=7369
+7	~1	~1	PROPN	_	Number=Sing	1	flat:name	_	start_char=7370|end_char=7372
+8	h~gh	h~gh	PROPN	_	Number=Sing	1	flat:name	_	start_char=7373|end_char=7377
+9	on	on	PROPN	_	Number=Sing	1	flat:name	_	start_char=7378|end_char=7380
+10	shal10	shal10	PROPN	_	Number=Sing	1	flat:name	_	start_char=7381|end_char=7387
+11	w	w	PROPN	_	Number=Sing	1	flat:name	_	start_char=7387|end_char=7388
+
+# sent_id = 05DC85F660D30641E054002128300A66-103
+# text = Qtructure ~s oft n ~ow on th. e p r b d • In an att pt to pr ict dee» tructure frem shal10w data..
+1	Qtructure	Qtructure	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7390|end_char=7399
+2	~s	~s	PUNCT	_	_	3	punct	_	start_char=7400|end_char=7402
+3	oft	oft	X	_	_	1	appos	_	start_char=7403|end_char=7406
+4	n	n	PROPN	_	Number=Sing	3	flat:name	_	start_char=7407|end_char=7408
+5	~ow	~ow	PROPN	_	Number=Sing	3	flat:name	_	start_char=7409|end_char=7412
+6	on	on	PROPN	_	Number=Sing	3	flat:name	_	start_char=7413|end_char=7415
+7	th.	th.	PROPN	_	Number=Sing	3	flat:name	_	start_char=7416|end_char=7419
+8	e	e	CCONJ	_	_	3	flat:name	_	start_char=7420|end_char=7421
+9	p	p	PROPN	_	Number=Sing	3	flat:name	_	start_char=7422|end_char=7423
+10	r	r	PROPN	_	Number=Sing	3	flat:name	_	start_char=7424|end_char=7425
+11	b	b	PROPN	_	Number=Sing	1	flat:name	_	start_char=7426|end_char=7427
+12	d	d	PROPN	_	Number=Sing	1	flat:name	_	start_char=7428|end_char=7429
+13	•	•	PUNCT	_	_	1	flat:name	_	start_char=7430|end_char=7431
+14	In	In	PROPN	_	Number=Sing	1	flat:name	_	start_char=7432|end_char=7434
+15	an	an	PROPN	_	Number=Sing	1	flat:name	_	start_char=7435|end_char=7437
+16	att	att	PROPN	_	Number=Sing	14	flat:name	_	start_char=7438|end_char=7441
+17	pt	pt	PROPN	_	Number=Sing	14	flat:name	_	start_char=7442|end_char=7444
+18	to	to	PROPN	_	Number=Sing	14	flat:name	_	start_char=7445|end_char=7447
+19	pr	pr	PROPN	_	Number=Sing	14	flat:name	_	start_char=7448|end_char=7450
+20	ict	ict	PROPN	_	Number=Sing	14	flat:name	_	start_char=7451|end_char=7454
+21	dee	dee	PROPN	_	Number=Sing	14	flat:name	_	start_char=7455|end_char=7458
+22	»	»	PUNCT	_	_	23	punct	_	start_char=7458|end_char=7459
+23	tructure	tructurar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=7460|end_char=7468
+24	frem	frer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	xcomp	_	start_char=7469|end_char=7473
+25	shal10w	shal10w	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	start_char=7474|end_char=7481
+26	data	data	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	start_char=7482|end_char=7486
+27	.	.	PUNCT	_	_	24	punct	_	start_char=7486|end_char=7487
+28	.	.	PUNCT	_	_	24	punct	_	start_char=7487|end_char=7488
+
+# sent_id = 05DC85F660D30641E054002128300A66-104
+# text = AD i opaeh was constructed between the contour trueture dr1l1 hor1zo and th top of th li parica CEnel aure I1C 2)..
+1	AD	AD	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7490|end_char=7492
+2	i	i	PROPN	_	Number=Sing	1	flat:name	_	start_char=7493|end_char=7494
+3	opaeh	opaeh	PROPN	_	Number=Sing	1	flat:name	_	start_char=7495|end_char=7500
+4-5	was	_	_	_	_	_	_	_	start_char=7501|end_char=7504
+4	wm	wm	PROPN	_	Number=Sing	1	flat:name	_	_
+5	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	flat:name	_	_
+6	constructed	constructed	PROPN	_	Number=Sing	1	flat:name	_	start_char=7505|end_char=7516
+7	between	between	PROPN	_	Number=Sing	1	flat:name	_	start_char=7517|end_char=7524
+8	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=7525|end_char=7528
+9	contour	contour	PROPN	_	Number=Sing	1	flat:name	_	start_char=7529|end_char=7536
+10	trueture	trueture	PROPN	_	Number=Sing	1	flat:name	_	start_char=7537|end_char=7545
+11	dr1l1	dr1l1	PROPN	_	Number=Sing	1	flat:name	_	start_char=7546|end_char=7551
+12	hor1zo	hor1zo	PROPN	_	Number=Sing	1	flat:name	_	start_char=7552|end_char=7558
+13	and	and	PROPN	_	Number=Sing	1	flat:name	_	start_char=7559|end_char=7562
+14	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=7563|end_char=7565
+15	top	top	PROPN	_	Number=Sing	1	flat:name	_	start_char=7566|end_char=7569
+16	of	of	PROPN	_	Number=Sing	1	flat:name	_	start_char=7570|end_char=7572
+17	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=7573|end_char=7575
+18	li	ler	PROPN	_	Number=Sing	1	flat:name	_	start_char=7576|end_char=7578
+19	parica	parica	PROPN	_	Number=Sing	1	flat:name	_	start_char=7579|end_char=7585
+20	CEnel	CEnel	PROPN	_	Number=Sing	1	flat:name	_	start_char=7586|end_char=7591
+21	aure	aure	PUNCT	_	_	22	punct	_	start_char=7592|end_char=7596
+22	I1C	I1C	PROPN	_	Number=Sing	1	flat:name	_	start_char=7597|end_char=7600
+23	2	2	PROPN	_	Number=Sing	22	flat:name	_	start_char=7601|end_char=7602
+24	)	)	PUNCT	_	_	22	punct	_	start_char=7602|end_char=7603
+25	.	.	PUNCT	_	_	1	punct	_	start_char=7603|end_char=7604
+26	.	.	PUNCT	_	_	1	punct	_	start_char=7604|end_char=7605
+
+# sent_id = 05DC85F660D30641E054002128300A66-105
+# text = 13uming a time lhe ai the upper hor1zon..
+1	13uming	13uminir	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	start_char=7607|end_char=7614
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=7615|end_char=7616
+3	time	time	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	start_char=7617|end_char=7621
+4	lhe	ele	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=7622|end_char=7625
+5	ai	ai	PROPN	_	Number=Sing	3	nmod	_	start_char=7626|end_char=7628
+6	the	the	PROPN	_	Number=Sing	4	flat:name	_	start_char=7629|end_char=7632
+7	upper	upper	X	_	_	4	flat:foreign	_	start_char=7633|end_char=7638
+8	hor1	hor1	PROPN	_	Number=Sing	4	flat:name	_	start_char=7639|end_char=7643
+9	zon.	zon.	PROPN	_	Number=Sing	4	flat:name	_	start_char=7643|end_char=7647
+10	.	.	PUNCT	_	_	1	punct	_	start_char=7647|end_char=7648
+
+# sent_id = 05DC85F660D30641E054002128300A66-106
+# text = th. isopach indic t 8 th intluence of faultin cont mporaneoua w1th d pos1tio
+1	th	th	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	start_char=7650|end_char=7652
+2	.	.	PUNCT	_	_	3	punct	_	start_char=7652|end_char=7653
+3	isopach	isopach	X	_	_	1	appos	_	start_char=7654|end_char=7661
+4	indic	indic	X	_	_	3	flat:foreign	_	start_char=7662|end_char=7667
+5	t	t	X	_	_	3	flat:foreign	_	start_char=7668|end_char=7669
+6	8	8	NUM	_	NumType=Card	3	flat:foreign	_	start_char=7670|end_char=7671
+7	th	th	X	_	_	3	flat:foreign	_	start_char=7672|end_char=7674
+8	intluence	intluence	X	_	_	3	flat:foreign	_	start_char=7675|end_char=7684
+9	of	of	X	_	_	7	flat:foreign	_	start_char=7685|end_char=7687
+10	faultin	faultin	X	_	_	7	flat:foreign	_	start_char=7688|end_char=7695
+11	cont	cont	X	_	_	7	flat:foreign	_	start_char=7696|end_char=7700
+12	mporaneoua	mporaneouar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=7701|end_char=7711
+13	w1th	w1th	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	start_char=7712|end_char=7716
+14	d	d	X	_	_	13	flat:foreign	_	start_char=7717|end_char=7718
+15	pos1tio	pos1tio	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	start_char=7719|end_char=7726
+
+# sent_id = 05DC85F660D30641E054002128300A66-107
+# text = D upon the 1sopach thickB..
+1	D	D	X	_	_	0	root	_	start_char=7728|end_char=7729
+2	upon	upon	X	_	_	1	flat:name	_	start_char=7730|end_char=7734
+3	the	the	PROPN	_	Number=Sing	1	flat:name	_	start_char=7735|end_char=7738
+4	1sopach	1sopach	PROPN	_	Number=Sing	1	flat:name	_	start_char=7739|end_char=7746
+5	thickB	thickB	PROPN	_	Number=Sing	1	flat:name	_	start_char=7747|end_char=7753
+6	.	.	PUNCT	_	_	1	flat:name	_	start_char=7753|end_char=7754
+7	.	.	PUNCT	_	_	1	punct	_	start_char=7754|end_char=7755
+
+# sent_id = 05DC85F660D30641E054002128300A66-108
+# text = Untortunat 117 th patt rn cannot be prcdicted becnuse hallow taulting doe8 not r pe deoper faulting in thia are • s. A. PETRÓLEO BRASILEIRO
+1	Untortunat	Untortunat	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7757|end_char=7767
+2	117	117	PROPN	_	Number=Sing	1	flat:name	_	start_char=7768|end_char=7771
+3	th	th	PROPN	_	Number=Sing	1	flat:name	_	start_char=7772|end_char=7774
+4	patt	patt	PROPN	_	Number=Sing	1	flat:name	_	start_char=7775|end_char=7779
+5	rn	rn	PROPN	_	Number=Sing	1	flat:name	_	start_char=7780|end_char=7782
+6	cannot	cannot	PROPN	_	Number=Sing	1	flat:name	_	start_char=7783|end_char=7789
+7	be	be	PROPN	_	Number=Sing	1	flat:name	_	start_char=7790|end_char=7792
+8	prcdicted	prcdicted	PROPN	_	Number=Sing	1	flat:name	_	start_char=7793|end_char=7802
+9	becnuse	becnuse	PROPN	_	Number=Sing	1	flat:name	_	start_char=7803|end_char=7810
+10	hallow	hallow	PROPN	_	Number=Sing	1	flat:name	_	start_char=7811|end_char=7817
+11	taulting	taulting	PROPN	_	Number=Sing	1	flat:name	_	start_char=7818|end_char=7826
+12	doe8	doe8	PROPN	_	Number=Sing	1	flat:name	_	start_char=7827|end_char=7831
+13	not	not	PROPN	_	Number=Sing	1	flat:name	_	start_char=7832|end_char=7835
+14	r	r	PROPN	_	Number=Sing	1	flat:name	_	start_char=7836|end_char=7837
+15	pe	pe	PROPN	_	Number=Sing	1	flat:name	_	start_char=7838|end_char=7840
+16	deoper	deoper	PROPN	_	Number=Sing	1	flat:name	_	start_char=7841|end_char=7847
+17	faulting	faulting	PROPN	_	Number=Sing	1	flat:name	_	start_char=7848|end_char=7856
+18	in	in	PROPN	_	Number=Sing	1	flat:name	_	start_char=7857|end_char=7859
+19	thia	thia	PROPN	_	Number=Sing	1	flat:name	_	start_char=7860|end_char=7864
+20	are	are	PROPN	_	Number=Sing	1	flat:name	_	start_char=7865|end_char=7868
+21	•	•	PUNCT	_	_	22	punct	_	start_char=7869|end_char=7870
+22	s.	s.	PROPN	_	Number=Sing	1	flat:name	_	start_char=7871|end_char=7873
+23	A.	A.	PROPN	_	Number=Sing	22	flat:name	_	start_char=7874|end_char=7876
+24	PETRÓLEO	PETRÓLEO	PROPN	_	Number=Sing	22	flat:name	_	start_char=7877|end_char=7885
+25	BRASILEIRO	BRasileiro	PROPN	_	Number=Sing	22	flat:name	_	start_char=7886|end_char=7896
+
+# sent_id = 05DC85F660D30641E054002128300A66-109
+# text = 2. - Ilhaa lQarkeJ" to top Itçarica. Iaopach Map, m1.ddl REFEREHCES
+1	2	2	NUM	_	NumType=Card	4	nummod	_	start_char=7898|end_char=7899
+2	.	.	PUNCT	_	_	1	punct	_	start_char=7899|end_char=7900
+3	-	-	PUNCT	_	_	4	punct	_	start_char=7901|end_char=7902
+4	Ilhaa	Ilhaa	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7903|end_char=7908
+5	l	l	PROPN	_	Number=Sing	4	flat:name	_	start_char=7909|end_char=7910
+6	QarkeJ	QarkeJ	PROPN	_	Number=Sing	4	flat:name	_	start_char=7910|end_char=7916
+7	"	«	PUNCT	_	_	4	flat:name	_	start_char=7916|end_char=7917
+8	to	to	PROPN	_	Number=Sing	4	flat:name	_	start_char=7918|end_char=7920
+9	top	top	PROPN	_	Number=Sing	4	flat:name	_	start_char=7921|end_char=7924
+10	Itçarica	Itçarica	PROPN	_	Number=Sing	4	flat:name	_	start_char=7925|end_char=7933
+11	.	.	PUNCT	_	_	12	punct	_	start_char=7933|end_char=7934
+12	Iaopach	Iaopach	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	start_char=7935|end_char=7942
+13	Map	Map	PROPN	_	Number=Sing	12	flat:name	_	start_char=7943|end_char=7946
+14	,	,	PUNCT	_	_	15	punct	_	start_char=7946|end_char=7947
+15	m1.ddl	m1.ddl	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	start_char=7948|end_char=7954
+16	REFEREHCES	Referehce	PROPN	_	Gender=Masc|Number=Sing	15	nmod	_	start_char=7955|end_char=7965

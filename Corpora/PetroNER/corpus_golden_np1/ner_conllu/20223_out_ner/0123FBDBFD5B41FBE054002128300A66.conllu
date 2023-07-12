@@ -1,0 +1,804 @@
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-1
+# text = almIntroduction • •• • 1, t 1 t ~. -I-./I o. 2' 2' ca t - 17 a 1. • 1_ . • 1_ ,,,. •• 1_ . • 1_ ,,,. •• 1'1_ • r bt • • • .. 200 t • 1 41" rl&al .   
+1	Introduction	Introduction	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=0|end_char=12
+2	•	•	PUNCT	_	_	3	punct	O	start_char=13|end_char=14
+3	••	••	NUM	_	NumType=Card	1	appos	O	start_char=15|end_char=17
+4	•	•	PUNCT	_	_	5	punct	O	start_char=18|end_char=19
+5	1	1	NUM	_	NumType=Card	1	appos	O	start_char=20|end_char=21
+6	,	,	PUNCT	_	_	7	punct	O	start_char=21|end_char=22
+7	t	t	NOUN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=23|end_char=24
+8	1	1	NUM	_	NumType=Card	9	nummod	O	start_char=25|end_char=26
+9	t	t	NOUN	_	Gender=Masc|Number=Sing	7	nmod	O	start_char=27|end_char=28
+10	~.	~.	NUM	_	NumType=Card	11	nummod	O	start_char=29|end_char=31
+11	-I-./I	-i-./i	NOUN	_	Gender=Masc|Number=Sing	7	nmod	O	start_char=32|end_char=38
+12	o.	o.	X	_	_	11	flat:foreign	O	start_char=39|end_char=41
+13	2'	2'	PUNCT	_	_	16	punct	O	start_char=42|end_char=44
+14	2	2	NUM	_	NumType=Card	16	nummod	O	start_char=45|end_char=46
+15	'	'	PUNCT	_	_	16	punct	O	start_char=46|end_char=47
+16	ca	ca	NOUN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=48|end_char=50
+17	t	t	X	_	_	16	flat:foreign	O	start_char=51|end_char=52
+18	-	-	PUNCT	_	_	19	punct	O	start_char=53|end_char=54
+19	17	17	NUM	_	NumType=Card	16	appos	O	start_char=55|end_char=57
+20	a	a	ADP	_	_	21	case	O	start_char=58|end_char=59
+21	1.	1.	NUM	_	NumType=Card	19	nmod	O	start_char=60|end_char=62
+22	•	•	PUNCT	_	_	23	punct	O	start_char=63|end_char=64
+23	1_	1_	NUM	_	NumType=Card	26	conj	O	start_char=65|end_char=67
+24	.	.	PUNCT	_	_	26	punct	O	start_char=68|end_char=69
+25	•	•	PUNCT	_	_	26	punct	O	start_char=70|end_char=71
+26	1_	1_	NUM	_	NumType=Card	31	parataxis	O	start_char=72|end_char=74
+27	,	,	PUNCT	_	_	31	punct	O	start_char=75|end_char=76
+28	,	,	PUNCT	_	_	31	punct	O	start_char=76|end_char=77
+29	,	,	PUNCT	_	_	31	punct	O	start_char=77|end_char=78
+30	.	.	PUNCT	_	_	31	punct	O	start_char=78|end_char=79
+31	••	••	NOUN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=80|end_char=82
+32	1_	1_	NUM	_	NumType=Card	31	nummod	O	start_char=83|end_char=85
+33	.	.	PUNCT	_	_	35	punct	O	start_char=86|end_char=87
+34	•	•	PUNCT	_	_	35	punct	O	start_char=88|end_char=89
+35	1_	1_	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	31	appos	O	start_char=90|end_char=92
+36	,	,	PUNCT	_	_	40	punct	O	start_char=93|end_char=94
+37	,	,	PUNCT	_	_	40	punct	O	start_char=94|end_char=95
+38	,	,	PUNCT	_	_	40	punct	O	start_char=95|end_char=96
+39	.	.	PUNCT	_	_	40	punct	O	start_char=96|end_char=97
+40	••	••	NOUN	_	Gender=Masc|Number=Sing	31	appos	O	start_char=98|end_char=100
+41	1'1	1'1	NUM	_	NumType=Card	40	nummod	O	start_char=101|end_char=104
+42	_	_	PUNCT	_	_	44	punct	O	start_char=104|end_char=105
+43	•	•	PUNCT	_	_	44	punct	O	start_char=106|end_char=107
+44	r	r	X	_	_	40	appos	O	start_char=108|end_char=109
+45-46	la	_	_	_	_	_	_	O	start_char=110|end_char=112
+45	lm	lm	X	_	_	44	flat:foreign	O	_
+46	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	O	_
+47	bt	bt	NOUN	_	Gender=Fem|Number=Sing	44	appos	O	start_char=113|end_char=115
+48	•	•	PUNCT	_	_	53	punct	O	start_char=116|end_char=117
+49	•	•	PUNCT	_	_	53	punct	O	start_char=118|end_char=119
+50	•	•	PUNCT	_	_	53	punct	O	start_char=120|end_char=121
+51	..	..	PUNCT	_	_	53	punct	O	start_char=122|end_char=124
+52	200	200	NUM	_	NumType=Card	53	nummod	O	start_char=125|end_char=128
+53	t	t	NOUN	_	Gender=Masc|Number=Sing	47	appos	O	start_char=129|end_char=130
+54	•	•	PUNCT	_	_	56	punct	O	start_char=131|end_char=132
+55	1	1	NUM	_	NumType=Card	53	nummod	O	start_char=133|end_char=134
+56	41	41	NUM	_	NumType=Card	53	nummod	O	start_char=135|end_char=137
+57	"	«	PUNCT	_	_	58	punct	O	start_char=137|end_char=138
+58	rl&al	rl&al	NOUN	_	Gender=Masc|Number=Sing	53	appos	O	start_char=139|end_char=144
+59	.	.	PUNCT	_	_	1	punct	O	start_char=145|end_char=146
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-2
+# text = aaStratigraphy • tthe a• tD.1..  
+1	Stratigraphy	Stratigraphy	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=148|end_char=160
+2	•	•	PUNCT	_	_	3	punct	O	start_char=161|end_char=162
+3	tthe	tthe	NOUN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=163|end_char=167
+4-5	aa	_	_	_	_	_	_	O	start_char=168|end_char=170
+4	a	a	ADP	_	_	7	case	O	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	O	_
+6	•	•	PUNCT	_	_	7	punct	O	start_char=171|end_char=172
+7	tD.1.	td.1.	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=173|end_char=178
+8	.	.	PUNCT	_	_	1	punct	O	start_char=178|end_char=179
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-3
+# text = ar ... .. r a 10 lp ,a • r " .. ot1 zal .. ( d .. ,_ ._~~w_~~ 1 I' -.1 P 1 , The “Quarry sandstone" could not be traéed beyond statims lend 2..
+1	ar	ar	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=181|end_char=183
+2	...	...	PUNCT	_	_	4	punct	O	start_char=184|end_char=187
+3	..	..	PUNCT	_	_	4	punct	O	start_char=188|end_char=190
+4	r	r	PROPN	_	Number=Sing	1	appos	O	start_char=191|end_char=192
+5	a	a	ADP	_	_	4	flat:name	O	start_char=193|end_char=194
+6	10	10	PROPN	_	Number=Sing	4	flat:name	O	start_char=195|end_char=197
+7	lp	lp	PROPN	_	Number=Sing	4	flat:name	O	start_char=198|end_char=200
+8	,	,	PUNCT	_	_	11	punct	O	start_char=201|end_char=202
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	O	start_char=202|end_char=203
+10	•	•	PUNCT	_	_	11	punct	O	start_char=204|end_char=205
+11	r	r	PROPN	_	Number=Sing	1	conj	O	start_char=206|end_char=207
+12	"	«	PUNCT	_	_	11	punct	O	start_char=208|end_char=209
+13	..	..	PUNCT	_	_	11	punct	O	start_char=210|end_char=212
+14	ot1	ot1	PROPN	_	Number=Sing	11	appos	O	start_char=213|end_char=216
+15	zal	zal	PROPN	_	Number=Sing	11	flat:name	O	start_char=217|end_char=220
+16	..	..	PUNCT	_	_	18	punct	O	start_char=221|end_char=223
+17	(	(	PUNCT	_	_	18	punct	O	start_char=224|end_char=225
+18	d	d	PROPN	_	Number=Sing	14	appos	O	start_char=226|end_char=227
+19	..	..	PUNCT	_	_	18	punct	O	start_char=228|end_char=230
+20	,	,	PUNCT	_	_	22	punct	O	start_char=231|end_char=232
+21	_	_	PUNCT	_	_	22	punct	O	start_char=232|end_char=233
+22	._~~w_~	._~~w_~	PROPN	_	Number=Sing	1	conj	O	start_char=234|end_char=241
+23	~	~	PUNCT	_	_	22	punct	O	start_char=241|end_char=242
+24	1	1	PROPN	_	Number=Sing	22	flat:name	O	start_char=243|end_char=244
+25	I'	I'	PROPN	_	Number=Sing	22	flat:name	O	start_char=245|end_char=247
+26	-.1	-.1	PROPN	_	Number=Sing	24	flat:name	O	start_char=248|end_char=251
+27	P	P	PROPN	_	Number=Sing	24	flat:name	B=POÇO	start_char=252|end_char=253
+28	1	1	PROPN	_	Number=Sing	24	flat:name	O	start_char=254|end_char=255
+29	,	,	PUNCT	_	_	32	punct	O	start_char=256|end_char=257
+30	The	The	PROPN	_	Number=Sing	24	flat:name	O	start_char=258|end_char=261
+31	“	»	PUNCT	_	_	32	punct	O	start_char=262|end_char=263
+32	Quarry	Quarry	PROPN	_	Number=Sing	24	flat:name	O	start_char=263|end_char=269
+33	sandstone	sandstone	PROPN	_	Number=Sing	30	flat:name	O	start_char=270|end_char=279
+34	"	«	PUNCT	_	_	32	punct	O	start_char=279|end_char=280
+35	could	could	PROPN	_	Number=Sing	32	flat:name	O	start_char=281|end_char=286
+36	not	not	PROPN	_	Number=Sing	32	flat:name	O	start_char=287|end_char=290
+37	be	be	PROPN	_	Number=Sing	32	flat:name	O	start_char=291|end_char=293
+38	traéed	traéed	PROPN	_	Number=Sing	32	flat:name	O	start_char=294|end_char=300
+39	beyond	beyond	PROPN	_	Number=Sing	32	flat:name	O	start_char=301|end_char=307
+40	statims	statims	PROPN	_	Number=Sing	32	flat:name	O	start_char=308|end_char=315
+41	lend	lend	PROPN	_	Number=Sing	32	flat:name	O	start_char=316|end_char=320
+42	2.	2.	PROPN	_	Number=Sing	32	flat:name	O	start_char=321|end_char=323
+43	.	.	PUNCT	_	_	1	punct	O	start_char=323|end_char=324
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-4
+# text = oemWorthward aod southward it fades into the high sand covered ridges, We part§eular equivalent of the "Quarry sandstone" Gould be noted in the exposure between 6 and 7 farther to the north, The prominence of the sandstone at the quarry doubt results from its characteristic looal hardness, “ho “Quarry sandstone" is probably a lense of harder sandstone within the thiek Sandstone formation covering the area..   
+1	Worthward	Worthward	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=326|end_char=335
+2	aod	aod	PROPN	_	Number=Sing	1	flat:name	O	start_char=336|end_char=339
+3	southward	southward	PROPN	_	Number=Sing	1	flat:name	O	start_char=340|end_char=349
+4	it	it	PROPN	_	Number=Sing	1	flat:name	O	start_char=350|end_char=352
+5	fades	fades	PROPN	_	Number=Sing	1	flat:name	O	start_char=353|end_char=358
+6	into	into	PROPN	_	Number=Sing	1	flat:name	O	start_char=359|end_char=363
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=364|end_char=367
+8	high	high	PROPN	_	Number=Sing	1	flat:name	O	start_char=368|end_char=372
+9	sand	sand	PROPN	_	Number=Sing	1	flat:name	O	start_char=373|end_char=377
+10	covered	covered	PROPN	_	Number=Sing	1	flat:name	O	start_char=378|end_char=385
+11	ridges	ridges	PROPN	_	Number=Sing	1	flat:name	O	start_char=386|end_char=392
+12	,	,	PUNCT	_	_	1	flat:name	O	start_char=392|end_char=393
+13	We	We	PROPN	_	Number=Sing	1	flat:name	O	start_char=394|end_char=396
+14	part§eular	part§eular	PROPN	_	Number=Sing	1	flat:name	O	start_char=397|end_char=407
+15	equivalent	equivalent	PROPN	_	Number=Sing	1	flat:name	O	start_char=408|end_char=418
+16	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=419|end_char=421
+17	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=422|end_char=425
+18	"	«	PUNCT	_	_	1	flat:name	O	start_char=426|end_char=427
+19	Quarry	Quarry	PROPN	_	Number=Sing	1	flat:name	O	start_char=427|end_char=433
+20	sandstone	sandstone	PROPN	_	Number=Sing	1	flat:name	O	start_char=434|end_char=443
+21	"	«	PUNCT	_	_	1	flat:name	O	start_char=443|end_char=444
+22	Gould	Gould	PROPN	_	Number=Sing	1	flat:name	O	start_char=445|end_char=450
+23	be	be	PROPN	_	Number=Sing	19	flat:name	O	start_char=451|end_char=453
+24	noted	noted	PROPN	_	Number=Sing	1	flat:name	O	start_char=454|end_char=459
+25	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=460|end_char=462
+26	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=463|end_char=466
+27	exposure	exposure	PROPN	_	Number=Sing	1	flat:name	O	start_char=467|end_char=475
+28	between	between	PROPN	_	Number=Sing	1	flat:name	O	start_char=476|end_char=483
+29	6	6	PROPN	_	Number=Sing	1	flat:name	O	start_char=484|end_char=485
+30	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=486|end_char=489
+31	7	7	PROPN	_	Number=Sing	1	flat:name	O	start_char=490|end_char=491
+32	farther	farther	PROPN	_	Number=Sing	1	flat:name	O	start_char=492|end_char=499
+33	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=500|end_char=502
+34	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=503|end_char=506
+35	north	north	PROPN	_	Number=Sing	1	flat:name	O	start_char=507|end_char=512
+36	,	,	PUNCT	_	_	1	flat:name	O	start_char=512|end_char=513
+37	The	The	PROPN	_	Number=Sing	1	flat:name	O	start_char=514|end_char=517
+38	prominence	prominence	PROPN	_	Number=Sing	1	flat:name	O	start_char=518|end_char=528
+39	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=529|end_char=531
+40	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=532|end_char=535
+41	sandstone	sandstone	PROPN	_	Number=Sing	37	flat:name	O	start_char=536|end_char=545
+42	at	at	PROPN	_	Number=Sing	37	flat:name	O	start_char=546|end_char=548
+43	the	the	PROPN	_	Number=Sing	37	flat:name	O	start_char=549|end_char=552
+44	quarry	quarry	PROPN	_	Number=Sing	37	flat:name	O	start_char=553|end_char=559
+45-46	no	_	_	_	_	_	_	O	start_char=560|end_char=562
+45	em	em	ADP	_	_	47	case	O	_
+46	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat:name	O	_
+47	doubt	doubt	PROPN	_	Number=Sing	1	flat:name	O	start_char=563|end_char=568
+48	results	results	PROPN	_	Number=Sing	1	flat:name	O	start_char=569|end_char=576
+49	from	from	PROPN	_	Number=Sing	1	flat:name	O	start_char=577|end_char=581
+50	its	its	PROPN	_	Number=Sing	1	flat:name	O	start_char=582|end_char=585
+51	characteristic	characteristic	PROPN	_	Number=Sing	47	flat:name	O	start_char=586|end_char=600
+52	looal	looal	PROPN	_	Number=Sing	47	flat:name	O	start_char=601|end_char=606
+53	hardness	hardness	PROPN	_	Number=Sing	47	flat:name	O	start_char=607|end_char=615
+54	,	,	PUNCT	_	_	56	punct	O	start_char=615|end_char=616
+55	“	»	PUNCT	_	_	56	punct	O	start_char=617|end_char=618
+56	ho	ho	PROPN	_	Number=Sing	1	conj	O	start_char=618|end_char=620
+57	“	»	PUNCT	_	_	56	punct	O	start_char=621|end_char=622
+58	Quarry	Quarry	PROPN	_	Number=Sing	56	flat:name	O	start_char=622|end_char=628
+59	sandstone	sandstone	PROPN	_	Number=Sing	56	flat:name	O	start_char=629|end_char=638
+60	"	«	PUNCT	_	_	58	punct	O	start_char=638|end_char=639
+61	is	is	PROPN	_	Number=Sing	58	flat:name	O	start_char=640|end_char=642
+62	probably	probably	PROPN	_	Number=Sing	58	flat:name	O	start_char=643|end_char=651
+63	a	a	PROPN	_	Number=Sing	58	flat:name	O	start_char=652|end_char=653
+64	lense	lense	PROPN	_	Number=Sing	58	flat:name	O	start_char=654|end_char=659
+65	of	of	PROPN	_	Number=Sing	58	flat:name	O	start_char=660|end_char=662
+66	harder	harder	PROPN	_	Number=Sing	61	flat:name	O	start_char=663|end_char=669
+67	sandstone	sandstone	PROPN	_	Number=Sing	61	flat:name	O	start_char=670|end_char=679
+68	within	within	PROPN	_	Number=Sing	61	flat:name	O	start_char=680|end_char=686
+69	the	the	PROPN	_	Number=Sing	61	flat:name	O	start_char=687|end_char=690
+70	thiek	thiek	PROPN	_	Number=Sing	58	flat:name	O	start_char=691|end_char=696
+71	Sandstone	Sandstone	PROPN	_	Number=Sing	58	flat:name	O	start_char=697|end_char=706
+72	formation	formation	PROPN	_	Number=Sing	58	flat:name	O	start_char=707|end_char=716
+73	covering	covering	PROPN	_	Number=Sing	58	flat:name	O	start_char=717|end_char=725
+74	the	the	PROPN	_	Number=Sing	58	flat:name	O	start_char=726|end_char=729
+75	area.	area.	PROPN	_	Number=Sing	58	flat:name	O	start_char=730|end_char=735
+76	.	.	PUNCT	_	_	56	punct	O	start_char=735|end_char=736
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-5
+# text = Its general character, ui th the exception cf its hardness, follows that of the other associated Sandstones of the fornatia,..
+1	Its	its	X	_	Number=Sing	0	root	O	start_char=738|end_char=741
+2	general	general	X	_	_	1	flat:name	O	start_char=742|end_char=749
+3	character	character	X	_	_	1	flat:name	O	start_char=750|end_char=759
+4	,	,	PUNCT	_	_	1	flat:name	O	start_char=759|end_char=760
+5	ui	ui	PROPN	_	Number=Sing	1	flat:name	O	start_char=761|end_char=763
+6	th	th	PROPN	_	Number=Sing	1	flat:name	O	start_char=764|end_char=766
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=767|end_char=770
+8	exception	exception	PROPN	_	Number=Sing	1	flat:name	O	start_char=771|end_char=780
+9	cf	cf	PROPN	_	Number=Sing	1	flat:name	O	start_char=781|end_char=783
+10	its	its	PROPN	_	Number=Sing	1	flat:name	O	start_char=784|end_char=787
+11	hardness	hardness	PROPN	_	Number=Sing	1	flat:name	O	start_char=788|end_char=796
+12	,	,	PUNCT	_	_	1	flat:name	O	start_char=796|end_char=797
+13	follows	follows	PROPN	_	Number=Sing	1	flat:name	O	start_char=798|end_char=805
+14	that	that	PROPN	_	Number=Sing	1	flat:name	O	start_char=806|end_char=810
+15	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=811|end_char=813
+16	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=814|end_char=817
+17	other	other	PROPN	_	Number=Sing	1	flat:name	O	start_char=818|end_char=823
+18	associated	associated	PROPN	_	Number=Sing	1	flat:name	O	start_char=824|end_char=834
+19	Sandstones	Sandstones	PROPN	_	Number=Sing	1	flat:name	O	start_char=835|end_char=845
+20	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=846|end_char=848
+21	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=849|end_char=852
+22	fornatia	fornatia	PROPN	_	Number=Sing	1	flat:name	O	start_char=853|end_char=861
+23	,	,	PUNCT	_	_	1	punct	O	start_char=861|end_char=862
+24	..	..	PUNCT	_	_	1	punct	O	start_char=862|end_char=864
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-6
+# text = The “Quarry sandsteae" and the associated sandatones are wadoubtedly of Tertiary age..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=866|end_char=869
+2	“	»	PUNCT	_	_	3	punct	O	start_char=870|end_char=871
+3	Quarry	Quarry	PROPN	_	Number=Sing	1	flat:name	O	start_char=871|end_char=877
+4	sandsteae	sandsteae	PROPN	_	Number=Sing	1	flat:name	O	start_char=878|end_char=887
+5	"	«	PUNCT	_	_	1	flat:name	O	start_char=887|end_char=888
+6	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=889|end_char=892
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=893|end_char=896
+8	associated	associated	PROPN	_	Number=Sing	1	flat:name	O	start_char=897|end_char=907
+9	sandatones	sandatones	PROPN	_	Number=Sing	1	flat:name	O	start_char=908|end_char=918
+10	are	are	PROPN	_	Number=Sing	1	flat:name	O	start_char=919|end_char=922
+11	wadoubtedly	wadoubtedly	PROPN	_	Number=Sing	1	flat:name	O	start_char=923|end_char=934
+12	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=935|end_char=937
+13	Tertiary	Tertiary	PROPN	_	Number=Sing	1	flat:name	O	start_char=938|end_char=946
+14	age.	age.	PROPN	_	Number=Sing	1	flat:name	O	start_char=947|end_char=951
+15	.	.	PUNCT	_	_	1	punct	O	start_char=951|end_char=952
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-7
+# text = The sandstones of sections
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=954|end_char=957
+2	sandstones	sandstones	PROPN	_	Number=Sing	1	flat:name	O	start_char=958|end_char=968
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=969|end_char=971
+4	sections	sections	PROPN	_	Number=Sing	1	flat:name	O	start_char=972|end_char=980
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-8
+# text = odeA, B and G ars similar to the red end yellow, massive, coarse and conglos meratic Tertiary sandstones of Serra Marisal, lying unctonfore mably over the Cretaceous, as described by Dr. Silvio Guedes under report of Jue 1946..   
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=982|end_char=983
+2	,	,	PUNCT	_	_	3	punct	O	start_char=983|end_char=984
+3	B	B	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=985|end_char=986
+4	and	and	PROPN	_	Number=Sing	3	flat:name	O	start_char=987|end_char=990
+5	G	G	PROPN	_	Number=Sing	3	flat:name	O	start_char=991|end_char=992
+6	ars	ars	PROPN	_	Number=Sing	3	flat:name	O	start_char=993|end_char=996
+7	similar	similar	PROPN	_	Number=Sing	3	flat:name	O	start_char=997|end_char=1004
+8	to	to	PROPN	_	Number=Sing	3	flat:name	O	start_char=1005|end_char=1007
+9	the	the	PROPN	_	Number=Sing	3	flat:name	O	start_char=1008|end_char=1011
+10	red	red	PROPN	_	Number=Sing	3	flat:name	O	start_char=1012|end_char=1015
+11	end	end	PROPN	_	Number=Sing	3	flat:name	O	start_char=1016|end_char=1019
+12	yellow	yellow	PROPN	_	Number=Sing	3	flat:name	O	start_char=1020|end_char=1026
+13	,	,	PUNCT	_	_	3	flat:name	O	start_char=1026|end_char=1027
+14	massive	massive	PROPN	_	Number=Sing	3	flat:name	O	start_char=1028|end_char=1035
+15	,	,	PUNCT	_	_	3	flat:name	O	start_char=1035|end_char=1036
+16	coarse	coarse	PROPN	_	Number=Sing	3	flat:name	O	start_char=1037|end_char=1043
+17	and	and	PROPN	_	Number=Sing	3	flat:name	O	start_char=1044|end_char=1047
+18	conglos	conglos	PROPN	_	Number=Sing	3	flat:name	O	start_char=1048|end_char=1055
+19	meratic	meratic	PROPN	_	Number=Sing	3	flat:name	O	start_char=1056|end_char=1063
+20	Tertiary	Tertiary	PROPN	_	Number=Sing	3	flat:name	O	start_char=1064|end_char=1072
+21	sandstones	sandstones	PROPN	_	Number=Sing	3	flat:name	O	start_char=1073|end_char=1083
+22	of	of	PROPN	_	Number=Sing	3	flat:name	O	start_char=1084|end_char=1086
+23	Serra	Serra	PROPN	_	Number=Sing	3	flat:name	O	start_char=1087|end_char=1092
+24-25	do	_	_	_	_	_	_	O	start_char=1093|end_char=1095
+24	de	de	ADP	_	_	3	flat:name	O	_
+25	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	flat:name	O	_
+26	Marisal	Marisal	PROPN	_	Number=Sing	3	flat:name	O	start_char=1096|end_char=1103
+27	,	,	PUNCT	_	_	3	flat:name	O	start_char=1103|end_char=1104
+28	lying	lying	PROPN	_	Number=Sing	3	flat:name	O	start_char=1105|end_char=1110
+29	unctonfore	unctonfore	PROPN	_	Number=Sing	3	flat:name	O	start_char=1111|end_char=1121
+30	mably	mably	PROPN	_	Number=Sing	3	flat:name	O	start_char=1122|end_char=1127
+31	over	over	PROPN	_	Number=Sing	28	flat:name	O	start_char=1128|end_char=1132
+32	the	the	PROPN	_	Number=Sing	28	flat:name	O	start_char=1133|end_char=1136
+33	Cretaceous	Cretaceous	PROPN	_	Number=Sing	28	flat:name	O	start_char=1137|end_char=1147
+34	,	,	PUNCT	_	_	28	punct	O	start_char=1147|end_char=1148
+35	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	flat:name	O	start_char=1149|end_char=1151
+36	described	described	PROPN	_	Number=Sing	28	flat:name	O	start_char=1152|end_char=1161
+37	by	by	PROPN	_	Number=Sing	28	flat:name	O	start_char=1162|end_char=1164
+38	Dr.	Dr.	PROPN	_	Number=Sing	3	flat:name	O	start_char=1165|end_char=1168
+39	Silvio	Silvio	PROPN	_	Number=Sing	3	flat:name	O	start_char=1169|end_char=1175
+40	Guedes	Guedes	PROPN	_	Number=Sing	3	flat:name	O	start_char=1176|end_char=1182
+41	under	under	PROPN	_	Number=Sing	3	flat:name	O	start_char=1183|end_char=1188
+42	report	report	PROPN	_	Number=Sing	3	flat:name	O	start_char=1189|end_char=1195
+43	of	of	PROPN	_	Number=Sing	3	flat:name	O	start_char=1196|end_char=1198
+44	Jue	Jue	PROPN	_	Number=Sing	3	flat:name	O	start_char=1199|end_char=1202
+45	1946	1946	PROPN	_	Number=Sing	3	flat:name	O	start_char=1203|end_char=1207
+46	.	.	PUNCT	_	_	3	punct	O	start_char=1207|end_char=1208
+47	.	.	PUNCT	_	_	3	punct	O	start_char=1208|end_char=1209
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-9
+# text = Sections
+1	Sections	Sections	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1211|end_char=1219
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-10
+# text = odeA and B are correlative with section G of the eastward extending Tertiary taboleiro of Serra Karigale “The Tertiary-Cretaceous contact as mapped by lr..   
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=1221|end_char=1222
+2	and	and	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=1223|end_char=1226
+3	B	B	PROPN	_	Number=Sing	2	flat:name	O	start_char=1227|end_char=1228
+4	are	are	PROPN	_	Number=Sing	2	flat:name	O	start_char=1229|end_char=1232
+5	correlative	correlative	PROPN	_	Number=Sing	2	flat:name	O	start_char=1233|end_char=1244
+6	with	with	PROPN	_	Number=Sing	2	flat:name	O	start_char=1245|end_char=1249
+7	section	section	PROPN	_	Number=Sing	2	flat:name	O	start_char=1250|end_char=1257
+8	G	G	PROPN	_	Number=Sing	2	flat:name	O	start_char=1258|end_char=1259
+9	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=1260|end_char=1262
+10	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=1263|end_char=1266
+11	eastward	eastward	PROPN	_	Number=Sing	2	flat:name	O	start_char=1267|end_char=1275
+12	extending	extending	PROPN	_	Number=Sing	2	flat:name	O	start_char=1276|end_char=1285
+13	Tertiary	Tertiary	PROPN	_	Number=Sing	2	flat:name	O	start_char=1286|end_char=1294
+14	taboleiro	taboleiro	PROPN	_	Number=Sing	2	flat:name	O	start_char=1295|end_char=1304
+15	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=1305|end_char=1307
+16	Serra	Serra	PROPN	_	Number=Sing	2	flat:name	O	start_char=1308|end_char=1313
+17-18	do	_	_	_	_	_	_	O	start_char=1314|end_char=1316
+17	de	de	ADP	_	_	2	flat:name	O	_
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	flat:name	O	_
+19	Karigale	Karigale	PROPN	_	Number=Sing	2	flat:name	O	start_char=1317|end_char=1325
+20	“	»	PUNCT	_	_	21	punct	O	start_char=1326|end_char=1327
+21	The	The	PROPN	_	Gender=Masc|Number=Sing	2	appos	O	start_char=1327|end_char=1330
+22	Tertiary-Cretaceous	Tertiary-Cretaceous	PROPN	_	Number=Sing	21	flat:name	O	start_char=1331|end_char=1350
+23	contact	contact	PROPN	_	Number=Sing	21	flat:name	O	start_char=1351|end_char=1358
+24	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	flat:name	O	start_char=1359|end_char=1361
+25	mapped	mapped	PROPN	_	Number=Sing	21	flat:name	O	start_char=1362|end_char=1368
+26	by	by	PROPN	_	Number=Sing	21	flat:name	O	start_char=1369|end_char=1371
+27	lr.	lr.	PROPN	_	Number=Sing	21	flat:name	O	start_char=1372|end_char=1375
+28	.	.	PUNCT	_	_	2	punct	O	start_char=1375|end_char=1376
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-11
+# text = Keller and party lies some 10 kiloweters west of Cips,..
+1	Keller	Keller	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1378|end_char=1384
+2	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1385|end_char=1388
+3	party	party	PROPN	_	Number=Sing	1	flat:name	O	start_char=1389|end_char=1394
+4	lies	lies	PROPN	_	Number=Sing	1	flat:name	O	start_char=1395|end_char=1399
+5	some	sumir	PROPN	_	Number=Sing	1	flat:name	O	start_char=1400|end_char=1404
+6	10	10	PROPN	_	Number=Sing	1	flat:name	O	start_char=1405|end_char=1407
+7	kiloweters	kiloweters	PROPN	_	Number=Sing	1	flat:name	O	start_char=1408|end_char=1418
+8	west	west	PROPN	_	Number=Sing	1	flat:name	O	start_char=1419|end_char=1423
+9	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1424|end_char=1426
+10	Cips	Cips	PROPN	_	Number=Sing	1	flat:name	O	start_char=1427|end_char=1431
+11	,	,	PUNCT	_	_	1	flat:name	O	start_char=1431|end_char=1432
+12	..	..	PUNCT	_	_	1	punct	O	start_char=1432|end_char=1434
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-12
+# text = The term "Barreiras Series” is used to designate the Tertiary rocks of the littoral ares and the Reconcave of the State of Bahia, This series is described as composed of red and white soft clays and sands, generally flat lying, and forming high • 11 • t 1 a • • • 7 t • ti Pl.- y  C O NS E LH O N AC I O NAL 0 0 PE TR O L EO Bre Acile Garner  - m~ 01' .
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1436|end_char=1439
+2	term	term	PROPN	_	Number=Sing	1	flat:name	O	start_char=1440|end_char=1444
+3	"	«	PUNCT	_	_	1	flat:name	O	start_char=1445|end_char=1446
+4	Barreiras	Barreiras	PROPN	_	Number=Sing	1	flat:name	B=BACIA	start_char=1446|end_char=1455
+5	Series	Series	PROPN	_	Number=Sing	1	flat:name	O	start_char=1456|end_char=1462
+6	”	»	PUNCT	_	_	1	flat:name	O	start_char=1462|end_char=1463
+7	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=1464|end_char=1466
+8	used	used	PROPN	_	Number=Sing	1	flat:name	O	start_char=1467|end_char=1471
+9	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=1472|end_char=1474
+10	designate	designate	PROPN	_	Number=Sing	1	flat:name	O	start_char=1475|end_char=1484
+11	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1485|end_char=1488
+12	Tertiary	Tertiary	PROPN	_	Number=Sing	1	flat:name	O	start_char=1489|end_char=1497
+13	rocks	rocks	PROPN	_	Number=Sing	1	flat:name	O	start_char=1498|end_char=1503
+14	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1504|end_char=1506
+15	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1507|end_char=1510
+16	littoral	littoral	PROPN	_	Number=Sing	1	flat:name	O	start_char=1511|end_char=1519
+17	ares	ar	PROPN	_	Number=Sing	1	flat:name	O	start_char=1520|end_char=1524
+18	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1525|end_char=1528
+19	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1529|end_char=1532
+20	Reconcave	Reconcave	PROPN	_	Number=Sing	1	flat:name	O	start_char=1533|end_char=1542
+21	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1543|end_char=1545
+22	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1546|end_char=1549
+23	State	State	PROPN	_	Number=Sing	1	flat:name	O	start_char=1550|end_char=1555
+24	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1556|end_char=1558
+25	Bahia	Bahia	PROPN	_	Number=Sing	1	flat:name	O	start_char=1559|end_char=1564
+26	,	,	PUNCT	_	_	1	flat:name	O	start_char=1564|end_char=1565
+27	This	This	PROPN	_	Number=Sing	1	flat:name	O	start_char=1566|end_char=1570
+28	series	series	PROPN	_	Number=Sing	27	flat:name	O	start_char=1571|end_char=1577
+29	is	is	PROPN	_	Number=Sing	27	flat:name	O	start_char=1578|end_char=1580
+30	described	described	PROPN	_	Number=Sing	27	flat:name	O	start_char=1581|end_char=1590
+31	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	flat:name	O	start_char=1591|end_char=1593
+32	composed	composed	PROPN	_	Number=Sing	27	flat:name	O	start_char=1594|end_char=1602
+33	of	of	PROPN	_	Number=Sing	27	flat:name	O	start_char=1603|end_char=1605
+34	red	red	PROPN	_	Number=Sing	27	flat:name	O	start_char=1606|end_char=1609
+35	and	and	PROPN	_	Number=Sing	27	flat:name	O	start_char=1610|end_char=1613
+36	white	white	PROPN	_	Number=Sing	27	flat:name	O	start_char=1614|end_char=1619
+37	soft	soft	PROPN	_	Number=Sing	27	flat:name	O	start_char=1620|end_char=1624
+38	clays	clays	PROPN	_	Number=Sing	27	flat:name	O	start_char=1625|end_char=1630
+39	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1631|end_char=1634
+40	sands	sands	PROPN	_	Number=Sing	1	flat:name	O	start_char=1635|end_char=1640
+41	,	,	PUNCT	_	_	46	punct	O	start_char=1640|end_char=1641
+42	generally	generally	PROPN	_	Number=Sing	1	flat:name	O	start_char=1642|end_char=1651
+43	flat	flat	PROPN	_	Number=Sing	42	flat:name	O	start_char=1652|end_char=1656
+44	lying	lying	PROPN	_	Number=Sing	42	flat:name	O	start_char=1657|end_char=1662
+45	,	,	PUNCT	_	_	50	punct	O	start_char=1662|end_char=1663
+46	and	and	PROPN	_	Number=Sing	42	flat:name	O	start_char=1664|end_char=1667
+47	forming	forming	PROPN	_	Number=Sing	42	flat:name	O	start_char=1668|end_char=1675
+48	high	high	PROPN	_	Number=Sing	42	flat:name	O	start_char=1676|end_char=1680
+49	•	•	PUNCT	_	_	50	punct	O	start_char=1681|end_char=1682
+50	11	11	PROPN	_	Number=Sing	42	flat:name	O	start_char=1683|end_char=1685
+51	•	•	PUNCT	_	_	52	punct	O	start_char=1686|end_char=1687
+52	t	t	PROPN	_	Number=Sing	46	flat:name	O	start_char=1688|end_char=1689
+53	1	1	PROPN	_	Number=Sing	52	flat:name	O	start_char=1690|end_char=1691
+54	a	a	PROPN	_	Number=Sing	52	flat:name	O	start_char=1692|end_char=1693
+55	•	•	PUNCT	_	_	58	punct	O	start_char=1694|end_char=1695
+56	•	•	PUNCT	_	_	58	punct	O	start_char=1696|end_char=1697
+57	•	•	PUNCT	_	_	58	punct	O	start_char=1698|end_char=1699
+58	7	7	PROPN	_	Number=Sing	52	appos	O	start_char=1700|end_char=1701
+59	t	t	PROPN	_	Number=Sing	58	flat:name	O	start_char=1702|end_char=1703
+60	•	•	PUNCT	_	_	61	punct	O	start_char=1704|end_char=1705
+61	ti	tu	PROPN	_	Number=Sing	58	appos	O	start_char=1706|end_char=1708
+62	Pl.-	Pl.-	PROPN	_	Number=Sing	61	flat:name	O	start_char=1709|end_char=1713
+63	y	y	PROPN	_	Number=Sing	61	flat:name	O	start_char=1714|end_char=1715
+64	C	C	PROPN	_	Number=Sing	61	flat:name	O	start_char=1717|end_char=1718
+65	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	flat:name	O	start_char=1719|end_char=1720
+66	NS	NS	PROPN	_	Number=Sing	61	flat:name	O	start_char=1721|end_char=1723
+67	E	e	CCONJ	_	_	61	cc	O	start_char=1724|end_char=1725
+68	LH	LH	PROPN	_	Number=Sing	61	flat:name	O	start_char=1726|end_char=1728
+69	O	O	PROPN	_	Number=Sing	61	flat:name	O	start_char=1729|end_char=1730
+70	N	N	PROPN	_	Number=Sing	61	flat:name	O	start_char=1731|end_char=1732
+71	AC	AC	PROPN	_	Number=Sing	68	flat:name	O	start_char=1733|end_char=1735
+72	I	I	PROPN	_	Number=Sing	68	flat:name	O	start_char=1736|end_char=1737
+73	O	O	PROPN	_	Number=Sing	68	flat:name	O	start_char=1738|end_char=1739
+74	NAL	NAL	PROPN	_	Number=Sing	68	flat:name	O	start_char=1740|end_char=1743
+75	0	0	PROPN	_	Number=Sing	68	flat:name	O	start_char=1744|end_char=1745
+76	0	0	PROPN	_	Number=Sing	68	flat:name	O	start_char=1746|end_char=1747
+77	PE	PE	PROPN	_	Number=Sing	68	flat:name	O	start_char=1748|end_char=1750
+78	TR	TR	PROPN	_	Number=Sing	61	flat:name	O	start_char=1751|end_char=1753
+79	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	flat:name	O	start_char=1754|end_char=1755
+80	L	L	PROPN	_	Number=Sing	61	flat:name	O	start_char=1756|end_char=1757
+81	EO	EO	PROPN	_	Number=Sing	61	flat:name	O	start_char=1758|end_char=1760
+82	Bre	Bre	PROPN	_	Number=Sing	61	flat:name	O	start_char=1761|end_char=1764
+83	Acile	Acile	PROPN	_	Number=Sing	61	flat:name	O	start_char=1765|end_char=1770
+84	Garner	Garner	PROPN	_	Number=Sing	61	flat:name	O	start_char=1771|end_char=1777
+85	-	-	PUNCT	_	_	86	punct	O	start_char=1779|end_char=1780
+86	m~	m~	PROPN	_	Number=Sing	61	flat:name	O	start_char=1781|end_char=1783
+87	01'	01'	PROPN	_	Number=Sing	86	flat:name	O	start_char=1784|end_char=1787
+88	.	.	PUNCT	_	_	1	punct	O	start_char=1788|end_char=1789
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-13
+# text = Gene:r~l Jo I) \,;arlos llarrat.o..
+1	Gene:r~l	Gene:r~l	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1791|end_char=1799
+2	Jo	Jo	PROPN	_	Number=Sing	1	flat:name	O	start_char=1800|end_char=1802
+3	I	I	PROPN	_	Number=Sing	1	flat:name	O	start_char=1803|end_char=1804
+4	)	)	PUNCT	_	_	1	flat:name	O	start_char=1804|end_char=1805
+5	\	\	PUNCT	_	_	7	punct	O	start_char=1806|end_char=1807
+6	,	,	PUNCT	_	_	7	punct	O	start_char=1807|end_char=1808
+7	;arlos	;arlo	NOUN	_	Gender=Masc|Number=Plur	1	conj	O	start_char=1808|end_char=1814
+8	llarrat.o.	llarrat.o.	ADJ	_	Gender=Masc|Number=Sing	7	amod	O	start_char=1815|end_char=1825
+9	.	.	PUNCT	_	_	1	punct	O	start_char=1825|end_char=1826
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-14
+# text = " . ':D. P1"6b1deute t . Ccnselho Nacional
+1	"	«	PUNCT	_	_	4	punct	O	start_char=1828|end_char=1829
+2	.	.	PUNCT	_	_	1	punct	O	start_char=1830|end_char=1831
+3	'	'	PUNCT	_	_	4	punct	O	start_char=1832|end_char=1833
+4	:D.	:D.	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1833|end_char=1836
+5	P1"6b1deute	P1"6b1deute	PROPN	_	Gender=Masc|Number=Sing	4	flat:name	O	start_char=1837|end_char=1848
+6	t	t	PROPN	_	Number=Sing	5	flat:name	O	start_char=1849|end_char=1850
+7	.	.	PUNCT	_	_	8	punct	O	start_char=1851|end_char=1852
+8	Ccnselho	Ccnselho	PROPN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=1853|end_char=1861
+9	Nacional	Nacional	PROPN	_	Number=Sing	8	flat:name	O	start_char=1862|end_char=1870
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-15
+# text = dO etrol o 811': band 4 r. Br 2;U' s eport
+1	dO	dO	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	O	start_char=1872|end_char=1874
+2	etrol	etrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=1875|end_char=1880
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	O	start_char=1881|end_char=1882
+4	811'	811'	NUM	_	NumType=Card	2	obj	O	start_char=1883|end_char=1887
+5	:	:	PUNCT	_	_	6	punct	O	start_char=1887|end_char=1888
+6	band	band	NOUN	_	Gender=Masc|Number=Sing	4	appos	O	start_char=1889|end_char=1893
+7	4	4	NUM	_	NumType=Card	8	nummod	O	start_char=1894|end_char=1895
+8	r.	r.	NOUN	_	Gender=Fem|Number=Sing	6	compound	O	start_char=1896|end_char=1898
+9	Br	Br	PROPN	_	Gender=Masc|Number=Sing	8	nmod	O	start_char=1899|end_char=1901
+10	2;U	2;u	NUM	_	NumType=Card	9	flat:name	O	start_char=1902|end_char=1905
+11	'	'	PUNCT	_	_	12	punct	O	start_char=1905|end_char=1906
+12	s	s	NOUN	_	Gender=Masc|Number=Sing	6	conj	O	start_char=1907|end_char=1908
+13	eport	eport	PUNCT	_	_	2	punct	O	start_char=1909|end_char=1914
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-16
+# text = S rat1graphl Pos1tlon of the ~ y o.; andstonc outhllest , of C1po"ror ~ nt..
+1	S	S	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1916|end_char=1917
+2	rat1graphl	rat1graphl	X	_	_	1	flat:name	O	start_char=1918|end_char=1928
+3	Pos1tlon	Pos1tlon	PROPN	_	Number=Sing	1	flat:name	O	start_char=1929|end_char=1937
+4	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1938|end_char=1940
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1941|end_char=1944
+6	~	~	PUNCT	_	_	1	flat:name	O	start_char=1945|end_char=1946
+7	y	y	PROPN	_	Number=Sing	1	flat:name	O	start_char=1947|end_char=1948
+8	o.	o.	PROPN	_	Number=Sing	1	flat:name	O	start_char=1949|end_char=1951
+9	;	;	PUNCT	_	_	10	punct	O	start_char=1951|end_char=1952
+10	andstonc	andstonc	PROPN	_	Number=Sing	1	conj	O	start_char=1953|end_char=1961
+11	outhllest	outhllest	PROPN	_	Number=Sing	10	flat:name	O	start_char=1962|end_char=1971
+12	,	,	PUNCT	_	_	10	flat:name	O	start_char=1972|end_char=1973
+13	of	of	PROPN	_	Number=Sing	10	flat:name	O	start_char=1974|end_char=1976
+14	C1po"	C1po"	PROPN	_	Number=Sing	10	flat:name	O	start_char=1977|end_char=1982
+15	ror	ror	PROPN	_	Number=Sing	10	flat:name	O	start_char=1982|end_char=1985
+16	~	~	PUNCT	_	_	1	flat:name	O	start_char=1986|end_char=1987
+17	nt.	nt.	PROPN	_	Number=Sing	10	flat:name	O	start_char=1988|end_char=1991
+18	.	.	PUNCT	_	_	1	punct	O	start_char=1991|end_char=1992
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-17
+# text = The geolc '1 ot J orthern Bahi 1s rather ccmpllc 4 and hl1. • h ve planned t e have 1Ilr..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1994|end_char=1997
+2	geolc	geolc	PROPN	_	Number=Sing	1	flat:name	O	start_char=1998|end_char=2003
+3	'1	'1	PROPN	_	Number=Sing	1	flat:name	O	start_char=2004|end_char=2006
+4	ot	ot	PROPN	_	Number=Sing	1	flat:name	O	start_char=2007|end_char=2009
+5	J	J	PROPN	_	Number=Sing	1	flat:name	O	start_char=2010|end_char=2011
+6	orthern	orthern	PROPN	_	Number=Sing	1	flat:name	O	start_char=2012|end_char=2019
+7	Bahi	Bahi	PROPN	_	Number=Sing	1	flat:name	O	start_char=2020|end_char=2024
+8	1s	1s	PROPN	_	Number=Sing	1	flat:name	O	start_char=2025|end_char=2027
+9	rather	rather	PROPN	_	Number=Sing	1	flat:name	O	start_char=2028|end_char=2034
+10	ccmpllc	ccmpllc	PROPN	_	Number=Sing	1	flat:name	O	start_char=2035|end_char=2042
+11	4	4	PROPN	_	Number=Sing	1	flat:name	O	start_char=2043|end_char=2044
+12	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2045|end_char=2048
+13	hl1	hl1	PROPN	_	Number=Sing	1	flat:name	O	start_char=2049|end_char=2052
+14	.	.	PUNCT	_	_	16	punct	O	start_char=2052|end_char=2053
+15	•	•	PUNCT	_	_	16	punct	O	start_char=2054|end_char=2055
+16	h	h	PROPN	_	Number=Sing	1	conj	O	start_char=2056|end_char=2057
+17	ve	ve	PROPN	_	Number=Sing	16	flat:name	O	start_char=2058|end_char=2060
+18	planned	planned	PROPN	_	Number=Sing	16	flat:name	O	start_char=2061|end_char=2068
+19	t	t	PROPN	_	Number=Sing	16	flat:name	O	start_char=2069|end_char=2070
+20	e	e	CCONJ	_	_	16	flat:name	O	start_char=2071|end_char=2072
+21	have	have	PROPN	_	Number=Sing	16	flat:name	O	start_char=2073|end_char=2077
+22	1Ilr.	1Ilr.	PROPN	_	Number=Sing	16	flat:name	O	start_char=2078|end_char=2083
+23	.	.	PUNCT	_	_	1	punct	O	start_char=2083|end_char=2084
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-18
+# text = Braz! rte.ke ra.nhão-Pi ui ar 8 1~'~ of the c1ded he uld be ot gr at help 1n solvlng the north 13ah!
+1	Braz	Braz	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2086|end_char=2090
+2	!	!	PUNCT	_	_	1	flat:name	O	start_char=2090|end_char=2091
+3	rte.	rte.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2092|end_char=2096
+4	ke	ke	PROPN	_	Number=Sing	1	flat:name	O	start_char=2096|end_char=2098
+5	ra.nhão-	ra.nhão-	PROPN	_	Number=Sing	1	flat:name	O	start_char=2099|end_char=2107
+6	Pi	Pi	PROPN	_	Number=Sing	1	flat:name	O	start_char=2107|end_char=2109
+7	ui	ui	PROPN	_	Number=Sing	1	flat:name	O	start_char=2110|end_char=2112
+8	ar	ar	PROPN	_	Number=Sing	1	flat:name	O	start_char=2113|end_char=2115
+9	8	8	PROPN	_	Number=Sing	1	flat:name	O	start_char=2116|end_char=2117
+10	1~'	1~'	PROPN	_	Number=Sing	1	flat:name	O	start_char=2118|end_char=2121
+11	~	~	PUNCT	_	_	1	flat:name	O	start_char=2121|end_char=2122
+12	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2123|end_char=2125
+13	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2126|end_char=2129
+14	c1ded	c1ded	PROPN	_	Number=Sing	1	flat:name	O	start_char=2130|end_char=2135
+15	he	he	PROPN	_	Number=Sing	1	flat:name	O	start_char=2136|end_char=2138
+16	uld	uld	PROPN	_	Number=Sing	1	flat:name	O	start_char=2139|end_char=2142
+17	be	be	PROPN	_	Number=Sing	1	flat:name	O	start_char=2143|end_char=2145
+18	ot	ot	PROPN	_	Number=Sing	1	flat:name	O	start_char=2146|end_char=2148
+19	gr	gr	PROPN	_	Number=Sing	1	flat:name	O	start_char=2149|end_char=2151
+20	at	at	PROPN	_	Number=Sing	1	flat:name	O	start_char=2152|end_char=2154
+21	help	help	PROPN	_	Number=Sing	1	flat:name	O	start_char=2155|end_char=2159
+22	1n	1n	PROPN	_	Number=Sing	1	flat:name	O	start_char=2160|end_char=2162
+23	solvlng	solvlng	PROPN	_	Number=Sing	1	flat:name	O	start_char=2163|end_char=2170
+24	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2171|end_char=2174
+25	north	north	PROPN	_	Number=Sing	1	flat:name	O	start_char=2175|end_char=2180
+26	13ah	13ah	PROPN	_	Number=Sing	1	flat:name	O	start_char=2181|end_char=2185
+27	!	!	PUNCT	_	_	1	punct	O	start_char=2185|end_char=2186
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-19
+# text = prob1 11& a n1t1ng 800 W th r ,~ Uip ent and D • P1au!. • rt1cular
+1	prob1	prob1	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2188|end_char=2193
+2	11	11	NUM	_	NumType=Card	3	nummod	O	start_char=2194|end_char=2196
+3	&	&	NOUN	_	Gender=Masc|Number=Plur	1	nmod	O	start_char=2196|end_char=2197
+4	a	a	ADP	_	_	5	case	O	start_char=2198|end_char=2199
+5	n1t1ng	n1t1ng	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=2200|end_char=2206
+6	800	800	NUM	_	NumType=Card	5	nummod	O	start_char=2207|end_char=2210
+7	W	w	X	_	_	5	flat:foreign	O	start_char=2211|end_char=2212
+8	th	th	X	_	_	7	flat:foreign	O	start_char=2213|end_char=2215
+9	r	r	X	_	_	7	flat:foreign	O	start_char=2216|end_char=2217
+10	,	,	PUNCT	_	_	12	punct	O	start_char=2218|end_char=2219
+11	~	~	PUNCT	_	_	12	punct	O	start_char=2219|end_char=2220
+12	Uip	Uip	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2221|end_char=2224
+13	ent	ent	X	_	_	12	flat:name	O	start_char=2225|end_char=2228
+14	and	and	PROPN	_	Number=Sing	12	flat:name	O	start_char=2229|end_char=2232
+15	D	D	PROPN	_	Number=Sing	12	flat:name	O	start_char=2233|end_char=2234
+16	•	•	PUNCT	_	_	17	punct	O	start_char=2235|end_char=2236
+17	P1au	P1au	PROPN	_	Number=Sing	12	flat:name	O	start_char=2237|end_char=2241
+18	!	!	PUNCT	_	_	21	punct	O	start_char=2241|end_char=2242
+19	.	.	PUNCT	_	_	21	punct	O	start_char=2242|end_char=2243
+20	•	•	PUNCT	_	_	21	punct	O	start_char=2244|end_char=2245
+21	rt1cular	rt1cular	NOUN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2246|end_char=2254
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-20
+# text = aemNl .. ort of r. BrazU as 1.1'1.1 t ge t10n of Dr. J.l 1 r and I'll7S l.t to d t mine tb th c posi t10n ot a p .. __ 4A._ dstone cov j. , raC1 • • Br: zU · h1 s conclus1on ans s my q stions..   
+1	Nl	Nl	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2256|end_char=2258
+2	..	..	PUNCT	_	_	3	punct	O	start_char=2259|end_char=2261
+3	ort	ort	PROPN	_	Number=Sing	1	flat:name	O	start_char=2262|end_char=2265
+4	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2266|end_char=2268
+5	r.	r.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2269|end_char=2271
+6	BrazU	BrazU	PROPN	_	Number=Sing	1	flat:name	O	start_char=2272|end_char=2277
+7	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	flat:name	O	start_char=2278|end_char=2280
+8	1.1'1.1	1.1'1.1	PROPN	_	Number=Sing	1	flat:name	O	start_char=2281|end_char=2288
+9	t	t	PROPN	_	Number=Sing	1	flat:name	O	start_char=2289|end_char=2290
+10	ge	ge	PROPN	_	Number=Sing	1	flat:name	O	start_char=2291|end_char=2293
+11	t10n	t10n	PROPN	_	Number=Sing	1	flat:name	O	start_char=2294|end_char=2298
+12	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2299|end_char=2301
+13	Dr.	Dr.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2302|end_char=2305
+14	J.l	J.l	PROPN	_	Number=Sing	1	flat:name	O	start_char=2306|end_char=2309
+15	1	1	PROPN	_	Number=Sing	1	flat:name	O	start_char=2310|end_char=2311
+16	r	r	PROPN	_	Number=Sing	1	flat:name	O	start_char=2312|end_char=2313
+17	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2314|end_char=2317
+18	I'll7S	I'll7S	PROPN	_	Number=Sing	1	flat:name	O	start_char=2318|end_char=2324
+19	l.t	l.t	PROPN	_	Number=Sing	1	flat:name	O	start_char=2325|end_char=2328
+20	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=2329|end_char=2331
+21	d	d	PROPN	_	Number=Sing	1	flat:name	O	start_char=2332|end_char=2333
+22	t	t	PROPN	_	Number=Sing	1	flat:name	O	start_char=2334|end_char=2335
+23	mine	mine	PROPN	_	Number=Sing	1	flat:name	O	start_char=2336|end_char=2340
+24	tb	tb	PROPN	_	Number=Sing	1	flat:name	O	start_char=2341|end_char=2343
+25	th	th	PROPN	_	Number=Sing	1	flat:name	O	start_char=2344|end_char=2346
+26	c	c	PROPN	_	Number=Sing	1	flat:name	O	start_char=2347|end_char=2348
+27	posi	posi	PROPN	_	Number=Sing	1	flat:name	O	start_char=2349|end_char=2353
+28	t10n	t10n	PROPN	_	Number=Sing	1	flat:name	O	start_char=2354|end_char=2358
+29	ot	ot	PROPN	_	Number=Sing	1	flat:name	O	start_char=2359|end_char=2361
+30	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=2362|end_char=2363
+31	p	p	PROPN	_	Number=Sing	1	flat:name	O	start_char=2364|end_char=2365
+32	..	..	PUNCT	_	_	37	punct	O	start_char=2366|end_char=2368
+33	__	__	PROPN	_	Number=Sing	1	flat:name	O	start_char=2369|end_char=2371
+34	4A	4A	PROPN	_	Number=Sing	33	flat:name	O	start_char=2372|end_char=2374
+35	.	.	PUNCT	_	_	37	punct	O	start_char=2374|end_char=2375
+36	_	_	PUNCT	_	_	37	punct	O	start_char=2375|end_char=2376
+37	dstone	dstone	PROPN	_	Number=Sing	33	flat:name	O	start_char=2377|end_char=2383
+38	cov	cov	PROPN	_	Number=Sing	37	flat:name	O	start_char=2384|end_char=2387
+39	j.	j.	PROPN	_	Number=Sing	37	flat:name	O	start_char=2388|end_char=2390
+40	,	,	PUNCT	_	_	43	punct	O	start_char=2391|end_char=2392
+41-42	na	_	_	_	_	_	_	O	start_char=2393|end_char=2395
+41	em	em	ADP	_	_	43	case	O	_
+42	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	O	_
+43	r	r	PROPN	_	Gender=Fem|Number=Sing	37	nmod	O	start_char=2396|end_char=2397
+44	C1	C1	PROPN	_	Number=Sing	43	flat:name	O	start_char=2398|end_char=2400
+45	•	•	PUNCT	_	_	43	punct	O	start_char=2401|end_char=2402
+46	•	•	PUNCT	_	_	47	punct	O	start_char=2403|end_char=2404
+47	Br:	Br:	PROPN	_	Number=Sing	43	appos	O	start_char=2405|end_char=2408
+48	zU	zU	PROPN	_	Number=Sing	47	flat:name	O	start_char=2409|end_char=2411
+49	·	·	PROPN	_	Number=Sing	47	flat:name	O	start_char=2412|end_char=2413
+50	h1	h1	PROPN	_	Number=Sing	47	flat:name	O	start_char=2414|end_char=2416
+51	s	s	PROPN	_	Number=Sing	47	flat:name	O	start_char=2417|end_char=2418
+52	conclus1on	conclus1on	PROPN	_	Number=Sing	47	flat:name	O	start_char=2419|end_char=2429
+53	ans	ans	PROPN	_	Number=Sing	47	flat:name	O	start_char=2430|end_char=2433
+54	s	s	PROPN	_	Number=Sing	47	flat:name	O	start_char=2434|end_char=2435
+55	my	my	PROPN	_	Number=Sing	47	flat:name	O	start_char=2436|end_char=2438
+56	q	q	PROPN	_	Number=Sing	47	flat:name	O	start_char=2439|end_char=2440
+57	stions.	stions.	PROPN	_	Number=Sing	47	flat:name	O	start_char=2441|end_char=2448
+58	.	.	PUNCT	_	_	1	punct	O	start_char=2448|end_char=2449
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-21
+# text = oemt Pr vious to ·iJú.s ork r. Brazil a s1.m11 r to th wesl u th1s f w ct10n t str ti a~h1 t tuture or 10 t1l rn Dahia..   
+1	t	t	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2451|end_char=2452
+2	Pr	Pr	PROPN	_	Number=Sing	1	flat:name	O	start_char=2453|end_char=2455
+3	vious	vious	PROPN	_	Number=Sing	1	flat:name	O	start_char=2456|end_char=2461
+4	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=2462|end_char=2464
+5	·iJú.s	·iJú.s	PROPN	_	Number=Sing	1	flat:name	O	start_char=2465|end_char=2471
+6	ork	ork	PROPN	_	Number=Sing	1	flat:name	O	start_char=2472|end_char=2475
+7	r.	r.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2476|end_char=2478
+8	Brazil	Brazil	PROPN	_	Number=Sing	1	flat:name	O	start_char=2479|end_char=2485
+9	a	a	ADP	_	_	1	flat:name	O	start_char=2486|end_char=2487
+10	s1.m11	s1.m11	PROPN	_	Number=Sing	1	flat:name	O	start_char=2488|end_char=2494
+11	r	r	PROPN	_	Number=Sing	1	flat:name	O	start_char=2495|end_char=2496
+12	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=2497|end_char=2499
+13	th	th	PROPN	_	Number=Sing	1	flat:name	O	start_char=2500|end_char=2502
+14	wesl	wesl	PROPN	_	Number=Sing	1	flat:name	O	start_char=2503|end_char=2507
+15	u	u	PROPN	_	Number=Sing	1	flat:name	O	start_char=2508|end_char=2509
+16	th1s	th1s	PROPN	_	Number=Sing	1	flat:name	O	start_char=2510|end_char=2514
+17	f	f	PROPN	_	Number=Sing	1	flat:name	O	start_char=2515|end_char=2516
+18	w	w	PROPN	_	Number=Sing	1	flat:name	O	start_char=2517|end_char=2518
+19	ct10n	ct10n	PROPN	_	Number=Sing	1	flat:name	O	start_char=2519|end_char=2524
+20	t	t	PROPN	_	Number=Sing	1	flat:name	O	start_char=2525|end_char=2526
+21	str	str	PROPN	_	Number=Sing	1	flat:name	O	start_char=2527|end_char=2530
+22	ti	tu	PROPN	_	Number=Sing	1	flat:name	O	start_char=2531|end_char=2533
+23	a~h1	a~h1	PROPN	_	Number=Sing	1	flat:name	O	start_char=2534|end_char=2538
+24	t	t	PROPN	_	Number=Sing	1	flat:name	O	start_char=2539|end_char=2540
+25	tuture	tuture	PROPN	_	Number=Sing	1	flat:name	O	start_char=2541|end_char=2547
+26	or	or	PROPN	_	Number=Sing	1	flat:name	O	start_char=2548|end_char=2550
+27	10	10	PROPN	_	Number=Sing	1	flat:name	O	start_char=2551|end_char=2553
+28-29	no	_	_	_	_	_	_	O	start_char=2554|end_char=2556
+28	em	em	ADP	_	_	1	flat:name	O	_
+29	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat:name	O	_
+30	t1l	t1l	PROPN	_	Number=Sing	1	flat:name	O	start_char=2557|end_char=2560
+31	rn	rn	PROPN	_	Number=Sing	1	flat:name	O	start_char=2561|end_char=2563
+32	Dahia.	Dahia.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2564|end_char=2570
+33	.	.	PUNCT	_	_	1	punct	O	start_char=2570|end_char=2571
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-22
+# text = ODEJ nuary 18, t  CONSELHO NACIONAL PETROLEO o yo~ at t n 10ft tha ra 11 • Bl'&t..   
+1	J	J	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2573|end_char=2574
+2	nuary	nuary	PROPN	_	Number=Sing	1	flat:name	O	start_char=2575|end_char=2580
+3	18	18	NUM	_	NumType=Card	1	flat:name	O	start_char=2581|end_char=2583
+4	,	,	PUNCT	_	_	5	punct	O	start_char=2583|end_char=2584
+5	t	t	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2585|end_char=2586
+6	CONSELHO	CONSELHO	PROPN	_	Gender=Masc|Number=Sing	5	flat:name	O	start_char=2588|end_char=2596
+7	NACIONAL	NACIONAL	PROPN	_	Number=Sing	5	flat:name	O	start_char=2597|end_char=2605
+8-9	DO	_	_	_	_	_	_	O	start_char=2606|end_char=2608
+8	DE	de	ADP	_	_	5	flat:name	O	_
+9	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	flat:name	O	_
+10	PETROLEO	PETROLEO	PROPN	_	Number=Sing	5	flat:name	O	start_char=2609|end_char=2617
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	O	start_char=2618|end_char=2619
+12	yo~	yo~	X	_	_	1	conj	O	start_char=2620|end_char=2623
+13	at	at	X	_	_	12	flat:foreign	O	start_char=2624|end_char=2626
+14	t	t	X	_	_	12	flat:foreign	O	start_char=2627|end_char=2628
+15	n	n	X	_	_	12	flat:foreign	O	start_char=2629|end_char=2630
+16	10ft	10ft	PROPN	_	Number=Sing	12	flat:foreign	O	start_char=2631|end_char=2635
+17	tha	tha	X	_	_	12	flat:foreign	O	start_char=2636|end_char=2639
+18	ra	ra	PROPN	_	Number=Sing	12	flat:foreign	O	start_char=2640|end_char=2642
+19	11	11	NUM	_	NumType=Card	12	flat:foreign	O	start_char=2643|end_char=2645
+20	•	•	PUNCT	_	_	21	punct	O	start_char=2646|end_char=2647
+21	Bl'&t.	Bl'&t.	PROPN	_	Number=Sing	12	appos	O	start_char=2648|end_char=2654
+22	.	.	PUNCT	_	_	1	punct	O	start_char=2654|end_char=2655
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-23
+# text = U in h1 til' t wcrk b1 o 10 into .~h e rry on bl • Pur ant to a ã1sCU8S1oD ,with Dr. 011
+1	U	U	X	_	_	0	root	O	start_char=2657|end_char=2658
+2	in	in	X	_	_	1	flat:name	O	start_char=2659|end_char=2661
+3	h1	h1	X	_	_	1	flat:foreign	O	start_char=2662|end_char=2664
+4	til	til	X	_	_	1	flat:foreign	O	start_char=2665|end_char=2668
+5	'	'	PUNCT	_	_	6	punct	O	start_char=2668|end_char=2669
+6	t	t	X	_	_	1	flat:foreign	O	start_char=2670|end_char=2671
+7	wcrk	wcrk	X	_	_	6	flat:foreign	O	start_char=2672|end_char=2676
+8	b1	b1	X	_	_	6	flat:foreign	O	start_char=2677|end_char=2679
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	flat:name	O	start_char=2680|end_char=2681
+10	10	10	PROPN	_	Number=Sing	6	flat:name	O	start_char=2682|end_char=2684
+11	into	into	PROPN	_	Number=Sing	6	flat:name	O	start_char=2685|end_char=2689
+12	.~h	.~h	PROPN	_	Number=Sing	6	flat:name	O	start_char=2690|end_char=2693
+13	e	e	CCONJ	_	_	6	cc	O	start_char=2694|end_char=2695
+14	rry	rry	PROPN	_	Number=Sing	6	flat:name	O	start_char=2696|end_char=2699
+15	on	on	PROPN	_	Number=Sing	6	flat:name	O	start_char=2700|end_char=2702
+16	bl	bl	PROPN	_	Number=Sing	1	flat:name	O	start_char=2703|end_char=2705
+17	•	•	PUNCT	_	_	18	punct	O	start_char=2706|end_char=2707
+18	Pur	Pur	PROPN	_	Number=Sing	1	conj	O	start_char=2708|end_char=2711
+19	ant	ant	PROPN	_	Number=Sing	18	flat:name	O	start_char=2712|end_char=2715
+20	to	to	PROPN	_	Number=Sing	18	flat:name	O	start_char=2716|end_char=2718
+21	a	a	ADP	_	_	18	flat:name	O	start_char=2719|end_char=2720
+22	ã1sCU8S1oD	ã1sCU8S1oD	PROPN	_	Number=Sing	18	flat:name	O	start_char=2721|end_char=2731
+23	,	,	PUNCT	_	_	18	flat:name	O	start_char=2732|end_char=2733
+24	with	with	PROPN	_	Number=Sing	18	flat:name	O	start_char=2733|end_char=2737
+25	Dr.	Dr.	PROPN	_	Number=Sing	18	flat:name	O	start_char=2738|end_char=2741
+26	011	011	PROPN	_	Number=Sing	18	flat:name	O	start_char=2742|end_char=2745
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-24
+# text = vQi:ç-G I r-ec· lended thnt ; "r. Br!l~11 conêl ot a gsolewg1e'" n-in Bortn rn hla in the rielnl t,..
+1	vQi:ç-G	vQi:ç-g	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2747|end_char=2754
+2	I	I	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	O	start_char=2755|end_char=2756
+3	r-ec·	r-ec·	PROPN	_	Number=Sing	2	flat:name	O	start_char=2757|end_char=2762
+4	lended	lended	PROPN	_	Number=Sing	2	flat:name	O	start_char=2763|end_char=2769
+5	thnt	thnt	PROPN	_	Number=Sing	2	flat:name	O	start_char=2770|end_char=2774
+6	;	;	PUNCT	_	_	8	punct	O	start_char=2775|end_char=2776
+7	"	«	PUNCT	_	_	8	punct	O	start_char=2777|end_char=2778
+8	r.	r.	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=2778|end_char=2780
+9	Br!	Br!	PROPN	_	Gender=Fem|Number=Sing	8	nmod	O	start_char=2781|end_char=2784
+10	l	l	ADP	_	_	9	flat:name	O	start_char=2784|end_char=2785
+11	~11	~11	PROPN	_	Number=Sing	9	flat:name	O	start_char=2785|end_char=2788
+12	conêl	conêl	PROPN	_	Number=Sing	9	flat:name	O	start_char=2789|end_char=2794
+13	ot	ot	PROPN	_	Number=Sing	9	flat:name	O	start_char=2795|end_char=2797
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	flat:name	O	start_char=2798|end_char=2799
+15	gsolewg1e	gsolewg1e	PROPN	_	Number=Sing	9	flat:name	O	start_char=2800|end_char=2809
+16	'	'	PUNCT	_	_	18	punct	O	start_char=2809|end_char=2810
+17	"	«	PUNCT	_	_	18	punct	O	start_char=2810|end_char=2811
+18	n-in	n-in	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=2812|end_char=2816
+19	Bortn	Bortn	PROPN	_	Number=Sing	18	flat:name	O	start_char=2817|end_char=2822
+20	rn	rn	PROPN	_	Number=Sing	18	flat:name	O	start_char=2823|end_char=2825
+21	hla	hla	PROPN	_	Number=Sing	18	flat:name	O	start_char=2826|end_char=2829
+22	in	in	PROPN	_	Number=Sing	18	flat:name	O	start_char=2830|end_char=2832
+23	the	the	PROPN	_	Number=Sing	18	flat:name	O	start_char=2833|end_char=2836
+24	rielnl	rielnl	PROPN	_	Number=Sing	18	flat:name	O	start_char=2837|end_char=2843
+25	t	t	PROPN	_	Number=Sing	18	flat:name	O	start_char=2844|end_char=2845
+26	,..	,..	PUNCT	_	_	1	punct	O	start_char=2845|end_char=2848
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-25
+# text = 01 C:1:coro 1 of t~:nn1n
+1	01	01	NUM	_	NumType=Card	2	nummod	O	start_char=2850|end_char=2852
+2	C:1	C:1	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2853|end_char=2856
+3	:	:	PUNCT	_	_	4	punct	O	start_char=2856|end_char=2857
+4	coro	coro	NOUN	_	Gender=Masc|Number=Sing	2	appos	O	start_char=2857|end_char=2861
+5	1	1	NUM	_	NumType=Card	4	nummod	O	start_char=2862|end_char=2863
+6	of	of	X	_	_	4	flat:foreign	O	start_char=2864|end_char=2866
+7	t~:nn1n	t~:nn1n	X	_	_	6	flat:foreign	O	start_char=2867|end_char=2874
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-26
+# text = C ta Z16 _ • éS 1"9'" 1h 1U41 " . Very truly yours,  seCTION 8
+1	C	C	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2876|end_char=2877
+2	ta	ta	PROPN	_	Number=Sing	1	flat:name	O	start_char=2878|end_char=2880
+3	Z16	Z16	PROPN	_	Number=Sing	1	flat:name	O	start_char=2881|end_char=2884
+4	_	_	PUNCT	_	_	1	flat:name	O	start_char=2885|end_char=2886
+5	•	•	PUNCT	_	_	6	punct	O	start_char=2887|end_char=2888
+6	éS	éS	PROPN	_	Number=Sing	1	appos	O	start_char=2889|end_char=2891
+7	1"9'"	1"9'"	PROPN	_	Number=Sing	6	flat:name	O	start_char=2892|end_char=2897
+8	1h	1h	PROPN	_	Number=Sing	6	flat:name	O	start_char=2898|end_char=2900
+9	1U41	1U41	PROPN	_	Number=Sing	6	flat:name	O	start_char=2901|end_char=2905
+10	"	«	PUNCT	_	_	6	punct	O	start_char=2906|end_char=2907
+11	.	.	PUNCT	_	_	6	flat:name	O	start_char=2908|end_char=2909
+12	Very	Very	PROPN	_	Number=Sing	1	conj	O	start_char=2910|end_char=2914
+13	truly	truly	PROPN	_	Number=Sing	6	flat:name	O	start_char=2915|end_char=2920
+14	yours	yours	PROPN	_	Number=Sing	12	flat:name	O	start_char=2921|end_char=2926
+15	,	,	PUNCT	_	_	6	flat:name	O	start_char=2926|end_char=2927
+16	seCTION	section	PROPN	_	Number=Sing	12	flat:name	O	start_char=2929|end_char=2936
+17	8	8	PROPN	_	Number=Sing	12	flat:name	O	start_char=2937|end_char=2938
+
+# sent_id = 0123FBDBFD5B41FBE054002128300A66-27
+# text = SECTION A
+1	SECTION	Section	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2940|end_char=2947
+2	A	a	ADP	_	_	1	flat:name	O	start_char=2948|end_char=2949

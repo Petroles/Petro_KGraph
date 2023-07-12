@@ -1,0 +1,500 @@
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-1
+# text = Às páginas citadas referem-se ao documento original e não ao arquivo eletrônico CAMPO DE CARMÓPOLIS RELATÓRIO DE ACOMPANHAMENTO ÁREA CENTRAL - INJEÇÃO DE ÁGUA  ae  674,0 - 689.0  TABS
+1-2	Às	_	_	_	_	_	_	O	start_char=0|end_char=2
+1	A	a	ADP	_	_	3	case	O	_
+2	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	O	_
+3	páginas	página	NOUN	_	Gender=Fem|Number=Plur	5	obl	O	start_char=3|end_char=10
+4	citadas	citar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	3	acl	O	start_char=11|end_char=18
+5-6	referem-se	_	_	_	_	_	_	O	start_char=19|end_char=29
+5	referem	referir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	_
+6	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	expl	O	_
+7-8	ao	_	_	_	_	_	_	O	start_char=30|end_char=32
+7	a	a	ADP	_	_	9	case	O	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	_
+9	documento	documento	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	O	start_char=33|end_char=42
+10	original	original	ADJ	_	Gender=Masc|Number=Sing	9	amod	O	start_char=43|end_char=51
+11	e	e	CCONJ	_	_	15	cc	O	start_char=52|end_char=53
+12	não	não	ADV	_	Polarity=Neg	15	advmod	O	start_char=54|end_char=57
+13-14	ao	_	_	_	_	_	_	O	start_char=58|end_char=60
+13	a	a	ADP	_	_	15	case	O	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	_
+15	arquivo	arquivo	NOUN	_	Gender=Masc|Number=Sing	9	conj	O	start_char=61|end_char=68
+16	eletrônico	eletrônico	ADJ	_	Gender=Masc|Number=Sing	15	amod	O	start_char=69|end_char=79
+17	CAMPO	CAMPO	PROPN	_	Gender=Masc|Number=Sing	15	nmod	O	start_char=80|end_char=85
+18	DE	DE	PROPN	_	Number=Sing	17	flat:name	O	start_char=86|end_char=88
+19	CARMÓPOLIS	Carmópolis	PROPN	_	Number=Sing	17	flat:name	O	start_char=89|end_char=99
+20	RELATÓRIO	Relatãrio	PROPN	_	Number=Sing	17	flat:name	O	start_char=100|end_char=109
+21	DE	de	ADP	_	_	22	case	O	start_char=110|end_char=112
+22	ACOMPANHAMENTO	ACOMPANHAMENTO	PROPN	_	Gender=Masc|Number=Sing	17	flat:name	O	start_char=113|end_char=127
+23	ÁREA	ÁREA	PROPN	_	Number=Sing	22	flat:name	O	start_char=128|end_char=132
+24	CENTRAL	CENTRAL	PROPN	_	Number=Sing	22	flat:name	O	start_char=133|end_char=140
+25	-	-	PUNCT	_	_	26	punct	O	start_char=141|end_char=142
+26	INJEÇÃO	INJEÇÃO	PROPN	_	Gender=Fem|Number=Sing	17	conj	O	start_char=143|end_char=150
+27	DE	de	ADP	_	_	26	flat:name	O	start_char=151|end_char=153
+28	ÁGUA	ÁGUA	PROPN	_	Number=Sing	26	flat:name	O	start_char=154|end_char=158
+29	ae	ae	PUNCT	_	_	26	punct	O	start_char=160|end_char=162
+30	674,0	674,0	NUM	_	NumType=Card	26	nmod:appos	O	start_char=164|end_char=169
+31	-	-	PUNCT	_	_	33	punct	O	start_char=170|end_char=171
+32	689.0	689.0	NUM	_	NumType=Card	33	nummod	O	start_char=172|end_char=177
+33	TABS	tars	NOUN	_	Gender=Masc|Number=Plur	26	nmod:appos	O	start_char=179|end_char=183
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-2
+# text = A nº OD TFR-03 (600,0 - 665,0)
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=185|end_char=186
+2	nº	nº	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=187|end_char=189
+3	OD	OD	PROPN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=190|end_char=192
+4	TFR-03	TFR-03	PROPN	_	Number=Sing	3	flat:name	O	start_char=193|end_char=199
+5	(	(	PUNCT	_	_	6	punct	O	start_char=200|end_char=201
+6	600,0	600,0	NUM	_	NumType=Card	3	flat:name	O	start_char=201|end_char=206
+7	-	-	SYM	_	_	6	punct	O	start_char=207|end_char=208
+8	665,0	665,0	NUM	_	NumType=Card	6	conj	O	start_char=209|end_char=214
+9	)	)	PUNCT	_	_	6	punct	O	start_char=214|end_char=215
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-3
+# text = Arenitos intercalados, cps-lA e cps-1B
+1	Arenitos	arenito	NOUN	_	Gender=Masc|Number=Plur	0	root	B=ROCHA	start_char=217|end_char=225
+2	intercalados	intercalar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	1	acl	O	start_char=226|end_char=238
+3	,	,	PUNCT	_	_	4	punct	O	start_char=238|end_char=239
+4	cps-lA	cps-la	NOUN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=240|end_char=246
+5	e	e	CCONJ	_	_	6	cc	O	start_char=247|end_char=248
+6	cps-1	cps-1	NOUN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=249|end_char=254
+7	B	b	NOUN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=254|end_char=255
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-4
+# text = Ke = 64,4 mD
+1	Ke	ke	INTJ	_	_	4	nummod	O	start_char=257|end_char=259
+2	=	=	PUNCT	_	_	4	punct	O	start_char=260|end_char=261
+3	64,4	64,4	NUM	_	NumType=Card	4	nummod	O	start_char=262|end_char=266
+4	mD	md	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=267|end_char=269
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-5
+# text = Q  q  \ \  Recuperados 229,0 m de coluna com óleo e 36,0 m com água TAB
+1	Q	q	INTJ	_	_	0	root	O	start_char=271|end_char=272
+2	q	q	INTJ	_	_	1	punct	O	start_char=274|end_char=275
+3	\	\	PUNCT	_	_	5	punct	O	start_char=277|end_char=278
+4	\	\	PUNCT	_	_	5	punct	O	start_char=279|end_char=280
+5	Recuperados	recuperar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	1	acl	O	start_char=282|end_char=293
+6	229,0	229,0	NUM	_	NumType=Card	7	nummod	O	start_char=294|end_char=299
+7	m	m	NOUN	_	Gender=Masc|Number=Plur	5	obj	O	start_char=300|end_char=301
+8	de	de	ADP	_	_	9	case	O	start_char=302|end_char=304
+9	coluna	coluna	NOUN	_	Gender=Fem|Number=Sing	7	nmod	O	start_char=305|end_char=311
+10	com	com	ADP	_	_	11	case	O	start_char=312|end_char=315
+11	óleo	óleo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	B=FLUIDODATERRA_i	start_char=316|end_char=320
+12	e	e	CCONJ	_	_	14	cc	O	start_char=321|end_char=322
+13	36,0	36,0	NUM	_	NumType=Card	14	nummod	O	start_char=323|end_char=327
+14	m	m	NOUN	_	Gender=Masc|Number=Plur	11	conj	O	start_char=328|end_char=329
+15	com	com	ADP	_	_	16	case	O	start_char=330|end_char=333
+16	água	água	NOUN	_	Gender=Fem|Number=Sing	14	nmod	O	start_char=334|end_char=338
+17	TAB	TAB	PROPN	_	Gender=Masc|Number=Sing	16	nmod	O	start_char=339|end_char=342
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-6
+# text = A “2 7630-690-7 710) Ed 7630-960-7 7530-950.7715º YW  TABD A 1º
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=344|end_char=345
+2	“2	“2	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=346|end_char=348
+3	7630-690-7 710	7630-690-7 710	NUM	_	NumType=Card	2	flat:name	O	start_char=349|end_char=363
+4	)	)	PUNCT	_	_	2	punct	O	start_char=363|end_char=364
+5	Ed	Ed	PROPN	_	Gender=Masc|Number=Sing	2	flat:name	O	start_char=365|end_char=367
+6	7630-960-7	7630-960-7	NUM	_	NumType=Card	5	flat:name	O	start_char=368|end_char=378
+7	7530-950.7715º	7530-950.7715º	NUM	_	NumType=Card	8	nummod	O	start_char=379|end_char=393
+8	YW	YW	PROPN	_	Gender=Masc|Number=Sing	5	conj	O	start_char=394|end_char=396
+9	TABD	TABD	PROPN	_	Gender=Masc|Number=Sing	8	flat:name	O	start_char=398|end_char=402
+10	A	a	ADP	_	_	11	case	O	start_char=403|end_char=404
+11	1º	1º	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	8	amod	O	start_char=405|end_char=407
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-7
+# text = O z\ ZL  TAB
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=409|end_char=410
+2	z\	z\	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=411|end_char=413
+3	ZL	ZL	PROPN	_	Gender=Masc|Number=Sing	2	flat:name	O	start_char=414|end_char=416
+4	TAB	TAB	PROPN	_	Number=Sing	3	flat:name	O	start_char=418|end_char=421
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-8
+# text = A 1º O TAB
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	start_char=423|end_char=424
+2	1º	1º	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	4	amod	O	start_char=425|end_char=427
+3	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	O	start_char=428|end_char=429
+4	TAB	TAB	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=430|end_char=433
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-9
+# text = A “2º OO Recanhoneadas 2, 34 e 3B  zo  ZA  = 3 » i” recupersdes 2 219 m da coluna cfolee » “,Om ce coluns a, ah  a4)  TAB
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=435|end_char=436
+2	“	»	PUNCT	_	_	3	punct	O	start_char=437|end_char=438
+3	2º	2º	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	0	root	O	start_char=438|end_char=440
+4	OO	OO	PROPN	_	Number=Sing	3	flat:name	O	start_char=441|end_char=443
+5	Recanhoneadas	Recanhoneadas	PROPN	_	Number=Sing	3	flat:name	O	start_char=444|end_char=457
+6	2	2	PROPN	_	Number=Sing	3	flat:name	O	start_char=458|end_char=459
+7	,	,	PUNCT	_	_	8	punct	O	start_char=459|end_char=460
+8	34	34	NUM	_	NumType=Card	3	appos	O	start_char=461|end_char=463
+9	e	e	CCONJ	_	_	10	cc	O	start_char=464|end_char=465
+10	3B	3B	PROPN	_	Number=Sing	3	conj	O	start_char=466|end_char=468
+11	zo	zo	PROPN	_	Number=Sing	10	flat:name	O	start_char=470|end_char=472
+12	ZA	ZA	PROPN	_	Number=Sing	10	flat:name	O	start_char=474|end_char=476
+13	=	=	PROPN	_	Number=Sing	10	flat:name	O	start_char=478|end_char=479
+14	3	3	PROPN	_	Number=Sing	10	flat:name	O	start_char=480|end_char=481
+15	»	»	PUNCT	_	_	16	punct	O	start_char=482|end_char=483
+16	i	i	PROPN	_	Number=Sing	3	appos	O	start_char=484|end_char=485
+17	”	»	PUNCT	_	_	18	punct	O	start_char=485|end_char=486
+18	recupersdes	recupersde	NOUN	_	Gender=Fem|Number=Plur	3	conj	O	start_char=487|end_char=498
+19	2	2	NUM	_	NumType=Card	21	nummod	O	start_char=499|end_char=500
+20	219	219	NUM	_	NumType=Card	21	nummod	O	start_char=501|end_char=504
+21	m	m	NOUN	_	Gender=Masc|Number=Plur	18	appos	O	start_char=505|end_char=506
+22-23	da	_	_	_	_	_	_	O	start_char=507|end_char=509
+22	de	de	ADP	_	_	24	case	O	_
+23	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	O	_
+24	coluna	coluna	NOUN	_	Gender=Fem|Number=Sing	21	nmod	O	start_char=510|end_char=516
+25	cfolee	cfolee	ADJ	_	Gender=Fem|Number=Sing	24	amod	O	start_char=517|end_char=523
+26	»	»	PUNCT	_	_	29	punct	O	start_char=524|end_char=525
+27	“	»	PUNCT	_	_	29	punct	O	start_char=526|end_char=527
+28	,	,	PUNCT	_	_	29	punct	O	start_char=527|end_char=528
+29	Om	Om	PROPN	_	Gender=Fem|Number=Sing	18	conj	O	start_char=528|end_char=530
+30	ce	ce	PROPN	_	Number=Sing	29	flat:name	O	start_char=531|end_char=533
+31	coluns	coluns	PROPN	_	Number=Sing	29	flat:name	O	start_char=534|end_char=540
+32	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	O	start_char=541|end_char=542
+33	,	,	PUNCT	_	_	34	punct	O	start_char=542|end_char=543
+34	ah	ah	X	_	_	29	appos	O	start_char=544|end_char=546
+35	a4	a4	NOUN	_	Gender=Masc|Number=Sing	34	flat:foreign	O	start_char=548|end_char=550
+36	)	)	PUNCT	_	_	34	punct	O	start_char=550|end_char=551
+37	TAB	TAB	PROPN	_	Gender=Masc|Number=Sing	29	nmod:appos	O	start_char=553|end_char=556
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-10
+# text = A º au  TABDA *2 TABD
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=558|end_char=559
+2	º	º	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=560|end_char=561
+3	au	au	PROPN	_	Number=Sing	2	flat:name	O	start_char=562|end_char=564
+4	TABDA	TABDA	PROPN	_	Number=Sing	2	flat:name	O	start_char=566|end_char=571
+5	*2	*2	PROPN	_	Number=Sing	2	flat:name	O	start_char=572|end_char=574
+6	TABD	TABD	PROPN	_	Number=Sing	2	flat:name	O	start_char=575|end_char=579
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-11
+# text = A 7A “2 02?
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=581|end_char=582
+2	7A	7A	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=583|end_char=585
+3	“2	“2	PROPN	_	Number=Sing	2	flat:name	O	start_char=586|end_char=588
+4	02	02	PROPN	_	Number=Sing	2	flat:name	O	start_char=589|end_char=591
+5	?	?	PUNCT	_	_	2	punct	O	start_char=591|end_char=592
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-12
+# text = 27/10/TABI
+1	27/10/TABI	27/10/TABI	NUM	_	NumType=Card	0	root	O	start_char=594|end_char=604
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-13
+# text = A “2 bo TAB
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=606|end_char=607
+2	“	»	PUNCT	_	_	3	punct	O	start_char=608|end_char=609
+3	2	2	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=609|end_char=610
+4	bo	bo	X	_	_	3	flat:foreign	O	start_char=611|end_char=613
+5	TAB	TAB	PROPN	_	Number=Sing	3	flat:name	O	start_char=614|end_char=617
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-14
+# text = A nº O? 7520-900-7 715" 7630-950-7 7530 MO 7530-990-7 715" 7530-M00-7 715" 7630-960-7
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=619|end_char=620
+2	nº	nº	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=621|end_char=623
+3	O?	O?	PROPN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=624|end_char=626
+4	7520-900-7	7520-900-7	NUM	_	NumType=Card	3	flat:name	O	start_char=627|end_char=637
+5	715"	715"	NUM	_	NumType=Card	3	flat:name	O	start_char=638|end_char=642
+6	7630-950-7	7630-950-7	NUM	_	NumType=Card	8	nummod	O	start_char=643|end_char=653
+7	7530	7530	NUM	_	NumType=Card	8	nummod	O	start_char=654|end_char=658
+8	MO	MO	SYM	_	_	2	nmod	O	start_char=659|end_char=661
+9	7530-990-7	7530-990-7	NUM	_	NumType=Card	8	nummod	O	start_char=662|end_char=672
+10	715"	715"	NUM	_	NumType=Card	8	nummod	O	start_char=673|end_char=677
+11	7530-M00-7	7530-M00-7	NUM	_	NumType=Card	8	nummod	O	start_char=678|end_char=688
+12	715"	715"	NUM	_	NumType=Card	8	nummod	O	start_char=689|end_char=693
+13	7630-960-7	7630-960-7	NUM	_	NumType=Card	8	nummod	O	start_char=694|end_char=704
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-15
+# text = Tis TAB A 2 TABRA 1º GO  6| 7630-950- GG  TABI A i728 QO 6%  TAB
+1	Tis	Tis	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=706|end_char=709
+2	TAB	TAB	PROPN	_	Number=Sing	1	flat:name	O	start_char=710|end_char=713
+3	A	a	ADP	_	_	5	case	O	start_char=714|end_char=715
+4	2	2	NUM	_	NumType=Card	5	nummod	O	start_char=716|end_char=717
+5	TABRA	TABRA	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=718|end_char=723
+6	1º	1º	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	5	amod	O	start_char=724|end_char=726
+7	GO	GO	PROPN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=727|end_char=729
+8	6|	6|	PUNCT	_	_	10	punct	O	start_char=731|end_char=733
+9	7630-950-	7630-950-	NUM	_	NumType=Card	10	nummod	O	start_char=734|end_char=743
+10	GG	GG	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=744|end_char=746
+11	TABI	TABI	PROPN	_	Number=Sing	10	flat:name	O	start_char=748|end_char=752
+12	A	a	ADP	_	_	14	case	O	start_char=753|end_char=754
+13	i728	i728	NUM	_	NumType=Card	14	nummod	O	start_char=755|end_char=759
+14	QO	qo	NOUN	_	Gender=Masc|Number=Plur	10	nmod	O	start_char=760|end_char=762
+15	6	6	NUM	_	NumType=Card	16	nummod	O	start_char=763|end_char=764
+16	%	%	SYM	_	_	14	nmod	O	start_char=764|end_char=765
+17	TAB	TAB	PROPN	_	Gender=Masc|Number=Sing	16	nmod	O	start_char=767|end_char=770
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-16
+# text = A 1º 7530-950- Ho  Yr  TABELA 2 TABELA ne AY  TABILA ue 7630-960-7630-99)-7 715º 7630-960-qa 729,0 - 729, Recuperados 6,0 m de coluna com óleo e 218m com água Qb 7530-960-77ido a 7630-960- (O| 7630-950-7530-950-7630-960-7630-950- 7§30-950-7630-960-7530-960-7
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=772|end_char=773
+2	1º	1º	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	5	amod	O	start_char=774|end_char=776
+3	7530-950	7530-950	NUM	_	NumType=Card	5	nummod	O	start_char=777|end_char=785
+4	-	-	PUNCT	_	_	5	punct	O	start_char=785|end_char=786
+5	Ho	Ho	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=787|end_char=789
+6	Yr	Yr	PROPN	_	Number=Sing	5	flat:name	O	start_char=791|end_char=793
+7	TABELA	TABELA	PROPN	_	Number=Sing	5	flat:name	O	start_char=795|end_char=801
+8	2	2	PROPN	_	Number=Sing	5	flat:name	O	start_char=802|end_char=803
+9	TABELA	TABELA	PROPN	_	Number=Sing	5	flat:name	O	start_char=804|end_char=810
+10	ne	ne	ADP	_	_	5	flat:name	O	start_char=811|end_char=813
+11	AY	AY	PROPN	_	Number=Sing	5	flat:name	O	start_char=814|end_char=816
+12	TABILA	TABILA	PROPN	_	Number=Sing	5	flat:name	O	start_char=818|end_char=824
+13	ue	ue	PUNCT	_	_	14	punct	O	start_char=825|end_char=827
+14	7630-960-7630-99)-7	7630-960-7630-99)-7	NUM	_	NumType=Card	5	appos	O	start_char=828|end_char=847
+15	715º	715º	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	17	amod	O	start_char=848|end_char=852
+16	7630-960	7630-960	NUM	_	NumType=Card	17	nummod	O	start_char=853|end_char=861
+17	-qa	-qa	SYM	_	_	5	conj	O	start_char=861|end_char=864
+18	729,0	729,0	NUM	_	NumType=Card	17	nummod	O	start_char=865|end_char=870
+19	-	-	PUNCT	_	_	20	punct	O	start_char=871|end_char=872
+20	729	729	NUM	_	NumType=Card	17	nummod	O	start_char=873|end_char=876
+21	,	,	PUNCT	_	_	22	punct	O	start_char=876|end_char=877
+22	Recuperados	recuperar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	5	acl	O	start_char=878|end_char=889
+23	6,0	6,0	NUM	_	NumType=Card	24	nummod	O	start_char=890|end_char=893
+24	m	m	NOUN	_	Gender=Masc|Number=Plur	22	obl	O	start_char=894|end_char=895
+25	de	de	ADP	_	_	26	case	O	start_char=896|end_char=898
+26	coluna	coluna	NOUN	_	Gender=Fem|Number=Sing	24	nmod	O	start_char=899|end_char=905
+27	com	com	ADP	_	_	28	case	O	start_char=906|end_char=909
+28	óleo	óleo	NOUN	_	Gender=Masc|Number=Sing	24	nmod	B=FLUIDODATERRA_i	start_char=910|end_char=914
+29	e	e	CCONJ	_	_	30	cc	O	start_char=915|end_char=916
+30	218m	218m	NUM	_	NumType=Card	28	conj	O	start_char=917|end_char=921
+31	com	com	ADP	_	_	32	case	O	start_char=922|end_char=925
+32	água	água	NOUN	_	Gender=Fem|Number=Sing	30	nmod	B=FLUIDODATERRA_o	start_char=926|end_char=930
+33	Qb	Qb	PROPN	_	Gender=Masc|Number=Sing	32	nmod	O	start_char=931|end_char=933
+34	7530-960-77	7530-960-77	NUM	_	NumType=Card	33	flat:name	O	start_char=934|end_char=945
+35	ido	ir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	32	acl	O	start_char=945|end_char=948
+36	a	a	ADP	_	_	37	case	O	start_char=949|end_char=950
+37	7630-960-	7630-960-	NUM	_	NumType=Card	35	obl	O	start_char=951|end_char=960
+38	(	(	PUNCT	_	_	39	punct	O	start_char=961|end_char=962
+39	O|	O|	PROPN	_	Gender=Masc|Number=Sing	37	appos	O	start_char=962|end_char=964
+40	7630-950-7530-950-7630-960-7630-950-	7630-950-7530-950-7630-960-7630-950-	NUM	_	NumType=Card	39	flat:name	O	start_char=965|end_char=1001
+41	7§30-950-7630-960-7530-960-7	7§30-950-7630-960-7530-960-7	NUM	_	NumType=Card	39	flat:name	O	start_char=1002|end_char=1030
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-17
+# text = Loire o O) Tr3-02 (740,0 — 764,5)
+1	Loire	Loire	PROPN	_	Gender=Masc|Number=Sing	3	parataxis	O	start_char=1032|end_char=1037
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	O	start_char=1038|end_char=1039
+3	O)	O)	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1040|end_char=1042
+4	Tr3-02	Tr3-02	PROPN	_	Number=Sing	3	flat:name	O	start_char=1043|end_char=1049
+5	(	(	PUNCT	_	_	3	flat:name	O	start_char=1050|end_char=1051
+6	740,0	740,0	NUM	_	NumType=Card	3	appos	O	start_char=1051|end_char=1056
+7	—	—	PUNCT	_	_	8	punct	O	start_char=1057|end_char=1058
+8	764,5	764,5	NUM	_	NumType=Card	6	conj	O	start_char=1059|end_char=1064
+9	)	)	PUNCT	_	_	6	punct	O	start_char=1064|end_char=1065
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-18
+# text = BIT  TASELA E Z iSeracos AT 3 Lge "eo = = Recuperacos 27,0 m de coluna com élco e 178,0 a con lam vá 7630-890-7 7530-960-7 7630-960-7 7630-950-7 Pcab = 600 psi Pcab = 800 pst 7630-960-TABELA HE TABELA ue wie 7630-900 -77158 TABELA us 7550-960-7830-990-7717: TABELA ue Z TABELA is TABELA HE TABELA e TABILA ue TABELA ils TABELA HE TABELA e à TASELA 312 7530-960-7530-950-7630-980-7630-9050-TABELA de 7530-950-7630-960-7 7630-950-ee to A Ui ee eS eee te te cuperados 80.0 m de coluna com óleo e 150.0 m com TA a eT ON iy, A Ser SRE en caer er tan co
+1	BIT	BIT	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1067|end_char=1070
+2	TASELA	TASELA	PROPN	_	Number=Sing	1	flat:name	O	start_char=1072|end_char=1078
+3	E	e	CCONJ	_	_	1	flat:name	O	start_char=1079|end_char=1080
+4	Z	Z	PROPN	_	Number=Sing	1	flat:name	O	start_char=1081|end_char=1082
+5	iSeracos	iSeracos	PROPN	_	Number=Sing	1	flat:name	O	start_char=1083|end_char=1091
+6	AT	AT	PROPN	_	Number=Sing	1	flat:name	O	start_char=1092|end_char=1094
+7	3	3	PROPN	_	Number=Sing	1	flat:name	O	start_char=1095|end_char=1096
+8	Lge	Lge	PROPN	_	Number=Sing	1	flat:name	O	start_char=1097|end_char=1100
+9	"	«	PUNCT	_	_	1	flat:name	O	start_char=1101|end_char=1102
+10	eo	eo	PROPN	_	Number=Sing	1	flat:name	O	start_char=1102|end_char=1104
+11	=	=	PUNCT	_	_	13	punct	O	start_char=1105|end_char=1106
+12	=	=	PUNCT	_	_	13	punct	O	start_char=1107|end_char=1108
+13	Recuperacos	Recuperacos	PROPN	_	Number=Sing	1	flat:name	O	start_char=1109|end_char=1120
+14	27,0	27,0	PROPN	_	Number=Sing	13	flat:name	O	start_char=1121|end_char=1125
+15	m	m	NOUN	_	Gender=Masc|Number=Plur	13	flat:name	O	start_char=1126|end_char=1127
+16	de	de	ADP	_	_	17	case	O	start_char=1128|end_char=1130
+17	coluna	coluna	NOUN	_	Gender=Fem|Number=Sing	13	nmod	O	start_char=1131|end_char=1137
+18	com	com	ADP	_	_	19	case	O	start_char=1138|end_char=1141
+19	élco	élco	NOUN	_	Gender=Masc|Number=Sing	17	nmod	B=ROCHA	start_char=1142|end_char=1146
+20	e	e	CCONJ	_	_	21	cc	O	start_char=1147|end_char=1148
+21	178,0	178,0	NUM	_	NumType=Card	19	conj	O	start_char=1149|end_char=1154
+22	a	a	ADP	_	_	23	case	O	start_char=1155|end_char=1156
+23	con	com	NOUN	_	Gender=Masc|Number=Sing	21	nmod	O	start_char=1157|end_char=1160
+24	lam	lam	X	_	_	23	compound	O	start_char=1161|end_char=1164
+25	vá	ir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	O	start_char=1165|end_char=1167
+26	7630-890-7	7630-890-7	NUM	_	NumType=Card	30	nummod	O	start_char=1168|end_char=1178
+27	7530-960-7	7530-960-7	NUM	_	NumType=Card	30	nummod	O	start_char=1179|end_char=1189
+28	7630-960-7	7630-960-7	NUM	_	NumType=Card	30	nummod	O	start_char=1190|end_char=1200
+29	7630-950-7	7630-950-7	NUM	_	NumType=Card	30	nummod	O	start_char=1201|end_char=1211
+30	Pcab	Pcab	PROPN	_	Gender=Masc|Number=Sing	25	obj	O	start_char=1212|end_char=1216
+31	=	=	PUNCT	_	_	33	punct	O	start_char=1217|end_char=1218
+32	600	600	NUM	_	NumType=Card	33	nummod	O	start_char=1219|end_char=1222
+33	psi	psi	NOUN	_	Gender=Masc|Number=Plur	30	conj	O	start_char=1223|end_char=1226
+34	Pcab	Pcab	PROPN	_	Gender=Masc|Number=Sing	33	nmod	O	start_char=1227|end_char=1231
+35	=	=	PUNCT	_	_	37	punct	O	start_char=1232|end_char=1233
+36	800	800	NUM	_	NumType=Card	37	nummod	O	start_char=1234|end_char=1237
+37	pst	pst	NOUN	_	Gender=Masc|Number=Plur	33	conj	O	start_char=1238|end_char=1241
+38	7630-960-TABELA	7630-960-tabela	NUM	_	NumType=Card	39	nummod	O	start_char=1242|end_char=1257
+39	HE	HE	PROPN	_	Gender=Masc|Number=Sing	37	nmod	O	start_char=1258|end_char=1260
+40	TABELA	TABELA	PROPN	_	Number=Sing	39	flat:name	O	start_char=1261|end_char=1267
+41	ue	ue	PROPN	_	Number=Sing	39	flat:name	O	start_char=1268|end_char=1270
+42	wie	wie	PROPN	_	Number=Sing	39	flat:name	O	start_char=1271|end_char=1274
+43	7630-900	7630-900	PROPN	_	Number=Sing	39	flat:name	O	start_char=1275|end_char=1283
+44	-77158	-77158	PROPN	_	Number=Sing	39	flat:name	O	start_char=1284|end_char=1290
+45	TABELA	TABELA	PROPN	_	Number=Sing	39	flat:name	O	start_char=1291|end_char=1297
+46	us	us	PROPN	_	Number=Sing	39	flat:name	O	start_char=1298|end_char=1300
+47	7550-960-7830-990-7717	7550-960-7830-990-7717	PROPN	_	Number=Sing	39	flat:name	O	start_char=1301|end_char=1323
+48	:	:	PUNCT	_	_	49	punct	O	start_char=1323|end_char=1324
+49	TABELA	TABELA	PROPN	_	Gender=Fem|Number=Sing	39	appos	O	start_char=1325|end_char=1331
+50	ue	ue	PROPN	_	Number=Sing	49	flat:name	O	start_char=1332|end_char=1334
+51	Z	Z	PROPN	_	Number=Sing	49	flat:name	O	start_char=1335|end_char=1336
+52	TABELA	TABELA	PROPN	_	Number=Sing	49	flat:name	O	start_char=1337|end_char=1343
+53	is	is	PROPN	_	Number=Sing	49	flat:name	O	start_char=1344|end_char=1346
+54	TABELA	TABELA	PROPN	_	Number=Sing	49	flat:name	O	start_char=1347|end_char=1353
+55	HE	HE	PROPN	_	Number=Sing	49	flat:name	O	start_char=1354|end_char=1356
+56	TABELA	TABELA	PROPN	_	Number=Sing	49	flat:name	O	start_char=1357|end_char=1363
+57	e	e	CCONJ	_	_	49	flat:name	O	start_char=1364|end_char=1365
+58	TABILA	TABILA	PROPN	_	Number=Sing	49	flat:name	O	start_char=1366|end_char=1372
+59	ue	ue	PROPN	_	Number=Sing	49	flat:name	O	start_char=1373|end_char=1375
+60	TABELA	TABELA	PROPN	_	Number=Sing	49	flat:name	O	start_char=1376|end_char=1382
+61	ils	ils	ADP	_	_	62	case	O	start_char=1383|end_char=1386
+62	TABELA	TABELA	PROPN	_	Number=Sing	58	flat:name	O	start_char=1387|end_char=1393
+63	HE	HE	PROPN	_	Number=Sing	62	flat:name	O	start_char=1394|end_char=1396
+64	TABELA	TABELA	PROPN	_	Number=Sing	62	flat:name	O	start_char=1397|end_char=1403
+65	e	e	CCONJ	_	_	68	cc	O	start_char=1404|end_char=1405
+66-67	à	_	_	_	_	_	_	O	start_char=1406|end_char=1407
+66	a	a	ADP	_	_	68	case	O	_
+67	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	68	det	O	_
+68	TASELA	TASELA	PROPN	_	Gender=Fem|Number=Sing	62	conj	O	start_char=1408|end_char=1414
+69	312	312	PROPN	_	Number=Sing	68	flat:name	O	start_char=1415|end_char=1418
+70	7530-960-7530-950-7630-980-7630-9050-TABELA	7530-960-7530-950-7630-980-7630-9050-TABELA	PROPN	_	Number=Sing	68	flat:name	O	start_char=1419|end_char=1462
+71	de	de	ADP	_	_	68	flat:name	O	start_char=1463|end_char=1465
+72	7530-950-7630-960-7	7530-950-7630-960-7	NUM	_	NumType=Card	68	flat:name	O	start_char=1466|end_char=1485
+73	7630-950-ee	7630-950-ee	NUM	_	NumType=Card	68	flat:name	O	start_char=1486|end_char=1497
+74	to	to	PROPN	_	Number=Sing	68	flat:name	O	start_char=1498|end_char=1500
+75	A	A	PROPN	_	Number=Sing	68	flat:name	O	start_char=1501|end_char=1502
+76	Ui	Ui	PROPN	_	Number=Sing	68	flat:name	O	start_char=1503|end_char=1505
+77	ee	ee	PROPN	_	Number=Sing	68	flat:name	O	start_char=1506|end_char=1508
+78	eS	eS	PROPN	_	Number=Sing	68	flat:name	O	start_char=1509|end_char=1511
+79	eee	eee	PROPN	_	Number=Sing	68	flat:name	O	start_char=1512|end_char=1515
+80	te	tu	PROPN	_	Number=Sing	68	flat:name	O	start_char=1516|end_char=1518
+81	te	tu	PROPN	_	Number=Sing	68	flat:name	O	start_char=1519|end_char=1521
+82	cuperados	cuperados	PROPN	_	Number=Sing	68	flat:name	O	start_char=1522|end_char=1531
+83	80.0	80.0	PROPN	_	Number=Sing	68	flat:name	O	start_char=1532|end_char=1536
+84	m	m	PROPN	_	Number=Sing	68	flat:name	O	start_char=1537|end_char=1538
+85	de	de	ADP	_	_	86	case	O	start_char=1539|end_char=1541
+86	coluna	coluna	NOUN	_	Gender=Fem|Number=Sing	68	nmod	O	start_char=1542|end_char=1548
+87	com	com	ADP	_	_	88	case	O	start_char=1549|end_char=1552
+88	óleo	óleo	NOUN	_	Gender=Masc|Number=Sing	86	nmod	B=FLUIDODATERRA_i	start_char=1553|end_char=1557
+89	e	e	CCONJ	_	_	91	cc	O	start_char=1558|end_char=1559
+90	150.0	150.0	NUM	_	NumType=Card	91	nummod	O	start_char=1560|end_char=1565
+91	m	m	NOUN	_	Gender=Masc|Number=Plur	88	conj	O	start_char=1566|end_char=1567
+92	com	com	ADP	_	_	93	case	O	start_char=1568|end_char=1571
+93	TA	TA	PROPN	_	Gender=Masc|Number=Sing	91	nmod	O	start_char=1572|end_char=1574
+94	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	93	flat:name	O	start_char=1575|end_char=1576
+95	eT	eT	PROPN	_	Number=Sing	93	flat:name	O	start_char=1577|end_char=1579
+96	ON	ON	PROPN	_	Number=Sing	93	flat:name	O	start_char=1580|end_char=1582
+97	iy	iy	PROPN	_	Number=Sing	93	flat:name	O	start_char=1583|end_char=1585
+98	,	,	PUNCT	_	_	100	punct	O	start_char=1585|end_char=1586
+99	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	93	flat:name	O	start_char=1587|end_char=1588
+100	Ser	Ser	PROPN	_	Number=Sing	93	flat:name	O	start_char=1589|end_char=1592
+101	SRE	SRE	PROPN	_	Number=Sing	93	flat:name	O	start_char=1593|end_char=1596
+102	en	en	PROPN	_	Number=Sing	93	flat:name	O	start_char=1597|end_char=1599
+103	caer	caer	PROPN	_	Number=Sing	93	flat:name	O	start_char=1600|end_char=1604
+104	er	er	PROPN	_	Number=Sing	93	flat:name	O	start_char=1605|end_char=1607
+105	tan	tan	PROPN	_	Number=Sing	93	flat:name	O	start_char=1608|end_char=1611
+106	co	co	PROPN	_	Number=Sing	100	flat:name	O	start_char=1612|end_char=1614
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-19
+# text = Nh -+ Em gi
+1	Nh	Nh	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1616|end_char=1618
+2	-+	-+	PROPN	_	Number=Sing	1	flat:name	O	start_char=1619|end_char=1621
+3	Em	em	ADP	_	_	4	case	O	start_char=1622|end_char=1624
+4	gi	gi	NOUN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=1625|end_char=1627
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-20
+# text = De q Vane AE os ia eer 7
+1	De	de	ADP	_	_	2	case	O	start_char=1629|end_char=1631
+2	q	q	PRON	_	Gender=Masc|Number=Sing|PronType=Prs	7	obl	O	start_char=1632|end_char=1633
+3	Vane	Vane	PROPN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=1634|end_char=1638
+4	AE	AE	PROPN	_	Number=Sing	3	flat:name	O	start_char=1639|end_char=1641
+5	os	o	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	iobj	O	start_char=1642|end_char=1644
+6	ia	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	O	start_char=1645|end_char=1647
+7	eer	eer	VERB	_	VerbForm=Inf	0	root	O	start_char=1648|end_char=1651
+8	7	7	NUM	_	NumType=Card	7	obj	O	start_char=1652|end_char=1653
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-21
+# text = Hecunsrados v4.40 m de coiuna com digo
+1	Hecunsrados	hecunsrar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	O	start_char=1655|end_char=1666
+2	v4.40	v4.40	NUM	_	NumType=Card	3	nummod	O	start_char=1667|end_char=1672
+3	m	m	NOUN	_	Gender=Masc|Number=Plur	1	obj	O	start_char=1673|end_char=1674
+4	de	de	ADP	_	_	5	case	O	start_char=1675|end_char=1677
+5	coiuna	coiuna	NOUN	_	Gender=Fem|Number=Sing	3	nmod	O	start_char=1678|end_char=1684
+6	com	com	ADP	_	_	7	mark	O	start_char=1685|end_char=1688
+7	digo	dizer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	O	start_char=1689|end_char=1693
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-22
+# text = E 19.0 BD
+1	E	e	CCONJ	_	_	3	cc	O	start_char=1695|end_char=1696
+2	19.0	19.0	NUM	_	NumType=Card	3	nummod	O	start_char=1697|end_char=1701
+3	BD	BD	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=1702|end_char=1704
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-23
+# text = Des oes 7630-960-7 2630-900-TABELE ABCLA dis 2 i= A TABELA E 7630-950-77 7830-860-7 7630-940-7 7630-940-7 7630-960- quipado para injeção (1A, 1B, 2) e (34, 3B) 7530-960-7 7630-960-7630-950-7550-00-77 “uinado para ínieçao (1A, 13, 2) e (3a, 33) 7530-960-7 7530-960-7715: 7630-960-7630-050-7715% 7630-960-7
+1	Des	Des	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1706|end_char=1709
+2	oes	oes	PROPN	_	Number=Sing	1	flat:name	O	start_char=1710|end_char=1713
+3	7630-960-7	7630-960-7	PROPN	_	Number=Sing	1	flat:name	O	start_char=1714|end_char=1724
+4	2630-900-TABELE	2630-900-TABELE	PROPN	_	Number=Sing	1	flat:name	O	start_char=1725|end_char=1740
+5	ABCLA	ABCLA	PROPN	_	Number=Sing	1	flat:name	O	start_char=1741|end_char=1746
+6	dis	dis	PROPN	_	Number=Sing	1	flat:name	O	start_char=1747|end_char=1750
+7	2	2	PROPN	_	Number=Sing	1	flat:name	O	start_char=1751|end_char=1752
+8	i=	i=	PROPN	_	Number=Sing	1	flat:name	O	start_char=1753|end_char=1755
+9	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	flat:name	O	start_char=1756|end_char=1757
+10	TABELA	TABELA	PROPN	_	Number=Sing	1	flat:name	O	start_char=1758|end_char=1764
+11	E	e	CCONJ	_	_	13	cc	O	start_char=1765|end_char=1766
+12	7630-950-77	7630-950-77	NUM	_	NumType=Card	1	conj	O	start_char=1767|end_char=1778
+13	7830-860-7	7830-860-7	NUM	_	NumType=Card	1	flat:name	O	start_char=1779|end_char=1789
+14	7630-940-7	7630-940-7	NUM	_	NumType=Card	1	flat:name	O	start_char=1790|end_char=1800
+15	7630-940-7	7630-940-7	NUM	_	NumType=Card	1	flat:name	O	start_char=1801|end_char=1811
+16	7630-960	7630-960	NUM	_	NumType=Card	1	flat:name	O	start_char=1812|end_char=1820
+17	-	-	PUNCT	_	_	18	punct	O	start_char=1820|end_char=1821
+18	quipado	quipar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	O	start_char=1822|end_char=1829
+19	para	para	ADP	_	_	20	case	O	start_char=1830|end_char=1834
+20	injeção	injeção	NOUN	_	Gender=Fem|Number=Sing	18	obl	O	start_char=1835|end_char=1842
+21	(	(	PUNCT	_	_	22	punct	O	start_char=1843|end_char=1844
+22	1A	ir	NUM	_	NumType=Card	20	nmod:appos	O	start_char=1844|end_char=1846
+23	,	,	PUNCT	_	_	24	punct	O	start_char=1846|end_char=1847
+24	1B	1b	NUM	_	NumType=Card	22	conj	O	start_char=1848|end_char=1850
+25	,	,	PUNCT	_	_	26	punct	O	start_char=1850|end_char=1851
+26	2	2	NUM	_	NumType=Card	22	conj	O	start_char=1852|end_char=1853
+27	)	)	PUNCT	_	_	22	punct	O	start_char=1853|end_char=1854
+28	e	e	CCONJ	_	_	30	cc	O	start_char=1855|end_char=1856
+29	(	(	PUNCT	_	_	30	punct	O	start_char=1857|end_char=1858
+30	34	34	NUM	_	NumType=Card	22	conj	O	start_char=1858|end_char=1860
+31	,	,	PUNCT	_	_	30	punct	O	start_char=1860|end_char=1861
+32	3B)	3b)	NUM	_	NumType=Card	30	conj	O	start_char=1862|end_char=1865
+33	7530-960-7	7530-960-7	NUM	_	NumType=Card	34	nummod	O	start_char=1866|end_char=1876
+34	7630-960-7630-950-7550-00-77	7630-960-7630-950-7550-00-77	NUM	_	NumType=Card	30	conj	O	start_char=1877|end_char=1905
+35	“	»	PUNCT	_	_	36	punct	O	start_char=1906|end_char=1907
+36	uinado	uinar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	30	conj	O	start_char=1907|end_char=1913
+37	para	para	ADP	_	_	38	case	O	start_char=1914|end_char=1918
+38	ínieçao	ínieçao	NOUN	_	Gender=Fem|Number=Sing	36	obl	O	start_char=1919|end_char=1926
+39	(	(	PUNCT	_	_	40	punct	O	start_char=1927|end_char=1928
+40	1A	ir	NUM	_	NumType=Card	38	nmod:appos	O	start_char=1928|end_char=1930
+41	,	,	PUNCT	_	_	42	punct	O	start_char=1930|end_char=1931
+42	13	13	NUM	_	NumType=Card	40	conj	O	start_char=1932|end_char=1934
+43	,	,	PUNCT	_	_	44	punct	O	start_char=1934|end_char=1935
+44	2	2	NUM	_	NumType=Card	40	conj	O	start_char=1936|end_char=1937
+45	)	)	PUNCT	_	_	40	punct	O	start_char=1937|end_char=1938
+46	e	e	CCONJ	_	_	48	cc	O	start_char=1939|end_char=1940
+47	(	(	PUNCT	_	_	48	punct	O	start_char=1941|end_char=1942
+48	3a	3a	NUM	_	NumType=Card	40	conj	O	start_char=1942|end_char=1944
+49	,	,	PUNCT	_	_	48	punct	O	start_char=1944|end_char=1945
+50	33)	33)	NUM	_	NumType=Card	48	conj	O	start_char=1946|end_char=1949
+51	7530-960-7	7530-960-7	NUM	_	NumType=Card	48	conj	O	start_char=1950|end_char=1960
+52	7530-960-7715	7530-960-7715	NUM	_	NumType=Card	48	conj	O	start_char=1961|end_char=1974
+53	:	:	PUNCT	_	_	55	punct	O	start_char=1974|end_char=1975
+54	7630-960-7630-050-7715	7630-960-7630-050-7715	NUM	_	NumType=Card	55	nummod	O	start_char=1976|end_char=1998
+55	%	%	SYM	_	_	48	appos	O	start_char=1998|end_char=1999
+56	7630-960-7	7630-960-7	NUM	_	NumType=Card	55	nummod	O	start_char=2000|end_char=2010
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-24
+# text = Hm rear PARRA MO Limpeza
+1	Hm	Hm	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2012|end_char=2014
+2	rear	rear	X	_	_	1	flat:name	O	start_char=2015|end_char=2019
+3	PARRA	PARRA	PROPN	_	Number=Sing	1	flat:name	O	start_char=2020|end_char=2025
+4	MO	MO	PROPN	_	Number=Sing	1	flat:name	O	start_char=2026|end_char=2028
+5	Limpeza	Limpeza	PROPN	_	Number=Sing	1	flat:name	O	start_char=2029|end_char=2036
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-25
+# text = ANEXO TI
+1	ANEXO	Aneiro	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2038|end_char=2043
+2	TI	TI	PROPN	_	Number=Sing	1	flat:name	O	start_char=2044|end_char=2046
+
+# sent_id = 40C8436897F64D40E05354EB1D0AB151-26
+# text = HISTÓRICOS DE PRODUÇÃO
+1	HISTÓRICOS	histórico	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2048|end_char=2058
+2	DE	de	ADP	_	_	3	case	O	start_char=2059|end_char=2061
+3	PRODUÇÃO	produção	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=2062|end_char=2070

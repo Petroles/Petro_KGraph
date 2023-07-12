@@ -1,0 +1,1176 @@
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-1
+# text = |
+1	|	|	PUNCT	_	_	0	root	O	start_char=0|end_char=1
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-2
+# text = EVIDÊNCIAS CONSTATADAS NO ORIGINAL o “Ás páginas citadas referem-se ao documento original eno ao arquivo eletrônico Páginas faltantes = - Paginação Irregular Paginação manuscrita/com anotações Gráficos Outros AREA DO EMBASAMENTO CALCULO DO VOLUME RECCUPERAVEIL DE SBLEO  AGO/ 1 - INTRODUÇÃO  2 ~ CONCLUSXO  3 - RECOMENDAÇÕES  6 - COMPARAÇÃO COM A SITUAÇÃO ANTERIOR  fNDICE
+1	EVIDÊNCIAS	eviduncia	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	O	start_char=3|end_char=13
+2	CONSTATADAS	conçtar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	1	acl	O	start_char=14|end_char=25
+3-4	NO	_	_	_	_	_	_	O	start_char=26|end_char=28
+3	EM	em	ADP	_	_	5	case	O	_
+4	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	O	_
+5	ORIGINAL	ORIGINAL	PROPN	_	Gender=Masc|Number=Sing	2	obl	O	start_char=29|end_char=37
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	start_char=38|end_char=39
+7	“	»	PUNCT	_	_	8	punct	O	start_char=40|end_char=41
+8	Ás	Ás	PROPN	_	Gender=Masc|Number=Sing	5	appos	O	start_char=41|end_char=43
+9	páginas	página	NOUN	_	Gender=Fem|Number=Plur	8	compound	O	start_char=44|end_char=51
+10	citadas	citar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	8	acl	O	start_char=52|end_char=59
+11-12	referem-se	_	_	_	_	_	_	O	start_char=60|end_char=70
+11	referem	referir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	_
+12	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	11	expl	O	_
+13-14	ao	_	_	_	_	_	_	O	start_char=71|end_char=73
+13	a	a	ADP	_	_	15	case	O	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	_
+15	documento	documento	NOUN	_	Gender=Masc|Number=Sing	11	obl:arg	O	start_char=74|end_char=83
+16	original	original	ADJ	_	Gender=Masc|Number=Sing	15	amod	O	start_char=84|end_char=92
+17	eno	eno	ADJ	_	Gender=Masc|Number=Sing	15	amod	O	start_char=93|end_char=96
+18-19	ao	_	_	_	_	_	_	O	start_char=97|end_char=99
+18	a	a	ADP	_	_	20	case	O	_
+19	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	O	_
+20	arquivo	arquivo	NOUN	_	Gender=Masc|Number=Sing	17	obl	O	start_char=100|end_char=107
+21	eletrônico	eletrônico	ADJ	_	Gender=Masc|Number=Sing	20	amod	O	start_char=108|end_char=118
+22	Páginas	Páginas	PROPN	_	Gender=Masc|Number=Sing	20	nmod	O	start_char=119|end_char=126
+23	faltantes	faltante	ADJ	_	Gender=Masc|Number=Plur	22	amod	O	start_char=127|end_char=136
+24	=	=	PUNCT	_	_	26	punct	O	start_char=137|end_char=138
+25	-	-	PUNCT	_	_	26	punct	O	start_char=139|end_char=140
+26	Paginação	Paginação	PROPN	_	Gender=Fem|Number=Sing	15	appos	O	start_char=141|end_char=150
+27	Irregular	Irregular	PROPN	_	Number=Sing	26	flat:name	O	start_char=151|end_char=160
+28	Paginação	Paginação	PROPN	_	Number=Sing	26	flat:name	O	start_char=161|end_char=170
+29	manuscrita	manuscrever	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	26	acl	O	start_char=171|end_char=181
+30	/	/	PUNCT	_	_	32	punct	O	start_char=181|end_char=182
+31	com	com	ADP	_	_	32	case	O	start_char=182|end_char=185
+32	anotações	anotação	NOUN	_	Gender=Fem|Number=Plur	26	nmod	O	start_char=186|end_char=195
+33	Gráficos	Gráficos	PROPN	_	Gender=Fem|Number=Sing	32	nmod	O	start_char=196|end_char=204
+34	Outros	Outros	PROPN	_	Number=Sing	33	flat:name	O	start_char=205|end_char=211
+35	AREA	AREA	PROPN	_	Number=Sing	33	flat:name	O	start_char=212|end_char=216
+36	DO	DO	PROPN	_	Number=Sing	33	flat:name	O	start_char=217|end_char=219
+37	EMBASAMENTO	EMBASAMENTO	PROPN	_	Number=Sing	33	flat:name	O	start_char=220|end_char=231
+38	CALCULO	Calcuno	PROPN	_	Number=Sing	33	flat:name	O	start_char=232|end_char=239
+39-40	DO	_	_	_	_	_	_	O	start_char=240|end_char=242
+39	DE	de	ADP	_	_	41	case	O	_
+40	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	O	_
+41	VOLUME	VOLUME	PROPN	_	Gender=Masc|Number=Sing	32	nmod	O	start_char=243|end_char=249
+42	RECCUPERAVEIL	RECCUPERAVEIL	PROPN	_	Number=Sing	41	flat:name	O	start_char=250|end_char=263
+43	DE	de	ADP	_	_	44	case	O	start_char=264|end_char=266
+44	SBLEO	Sbleo	PROPN	_	Gender=Masc|Number=Sing	41	nmod	O	start_char=267|end_char=272
+45	AGO/	AGO/	PROPN	_	Number=Sing	44	flat:name	O	start_char=274|end_char=278
+46	1	1	PROPN	_	Number=Sing	44	flat:name	O	start_char=279|end_char=280
+47	-	-	PUNCT	_	_	48	punct	O	start_char=281|end_char=282
+48	INTRODUÇÃO	INTRODUÇÃO	PROPN	_	Gender=Fem|Number=Sing	41	conj	O	start_char=283|end_char=293
+49	2	2	PROPN	_	Number=Sing	48	flat:name	O	start_char=295|end_char=296
+50	~	~	PUNCT	_	_	51	punct	O	start_char=297|end_char=298
+51	CONCLUSXO	CONCLUSXO	PROPN	_	Gender=Fem|Number=Sing	48	appos	O	start_char=299|end_char=308
+52	3	3	PROPN	_	Number=Sing	51	flat:name	O	start_char=310|end_char=311
+53	-	-	PUNCT	_	_	54	punct	O	start_char=312|end_char=313
+54	RECOMENDAÇÕES	RecomenDasÕes	PROPN	_	Gender=Fem|Number=Sing	48	appos	O	start_char=314|end_char=327
+55	6	6	PROPN	_	Number=Sing	54	flat:name	O	start_char=329|end_char=330
+56	-	-	PUNCT	_	_	57	punct	O	start_char=331|end_char=332
+57	COMPARAÇÃO	COMPARAÇÃO	PROPN	_	Gender=Fem|Number=Sing	51	appos	O	start_char=333|end_char=343
+58	COM	com	ADP	_	_	60	case	O	start_char=344|end_char=347
+59	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	57	flat:name	O	start_char=348|end_char=349
+60	SITUAÇÃO	SITUAÇÃO	PROPN	_	Number=Sing	57	flat:name	O	start_char=350|end_char=358
+61	ANTERIOR	ANTERIOR	PROPN	_	Number=Sing	60	flat:name	O	start_char=359|end_char=367
+62	fNDICE	fNDICE	PUNCT	_	_	11	punct	O	start_char=369|end_char=375
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-3
+# text = A área do embasamento fraturado situa-se a sudoeste do campo de Carmopólis que está localizado na bacia Sergipe/Alagoas, e compreende uma área prospectável total de cerca de cem quilometros quadrados..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=377|end_char=378
+2	área	área	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	O	start_char=379|end_char=383
+3-4	do	_	_	_	_	_	_	O	start_char=384|end_char=386
+3	de	de	ADP	_	_	5	case	O	_
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	O	_
+5	embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	2	nmod	B=UNIDADE_LITO	start_char=387|end_char=398
+6	fraturado	fraturar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	O	start_char=399|end_char=408
+7-8	situa-se	_	_	_	_	_	_	O	start_char=409|end_char=417
+7	situa	situar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	_
+8	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	O	_
+9	a	a	ADP	_	_	10	case	O	start_char=418|end_char=419
+10	sudoeste	sudoeste	NOUN	_	Gender=Masc|Number=Sing	7	obl:arg	O	start_char=420|end_char=428
+11-12	do	_	_	_	_	_	_	O	start_char=429|end_char=431
+11	de	de	ADP	_	_	13	case	O	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	O	_
+13	campo	campo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	B=CAMPO	start_char=432|end_char=437
+14	de	de	ADP	_	_	15	case	I=CAMPO	start_char=438|end_char=440
+15	Carmopólis	Carmopólis	PROPN	_	Gender=Masc|Number=Sing	13	nmod	I=CAMPO	start_char=441|end_char=451
+16	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	O	start_char=452|end_char=455
+17	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	O	start_char=456|end_char=460
+18	localizado	localizar	ADJ	_	Gender=Masc|Number=Sing	13	acl:relcl	O	start_char=461|end_char=471
+19-20	na	_	_	_	_	_	_	O	start_char=472|end_char=474
+19	em	em	ADP	_	_	21	case	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	O	_
+21	bacia	bacia	NOUN	_	Gender=Fem|Number=Sing	18	obl	B=BACIA	start_char=475|end_char=480
+22	Sergipe/Alagoas	Sergipe/Alagoas	PROPN	_	Gender=Fem|Number=Sing	21	nmod	I=BACIA	start_char=481|end_char=496
+23	,	,	PUNCT	_	_	25	punct	O	start_char=496|end_char=497
+24	e	e	CCONJ	_	_	25	cc	O	start_char=498|end_char=499
+25	compreende	compreender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	O	start_char=500|end_char=510
+26	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	O	start_char=511|end_char=514
+27	área	área	NOUN	_	Gender=Fem|Number=Sing	25	obj	O	start_char=515|end_char=519
+28	prospectável	prospectável	ADJ	_	Gender=Fem|Number=Sing	27	amod	O	start_char=520|end_char=532
+29	total	total	ADJ	_	Gender=Fem|Number=Sing	27	amod	O	start_char=533|end_char=538
+30	de	de	ADP	_	_	34	case	O	start_char=539|end_char=541
+31	cerca	cerca	ADV	_	_	34	advmod	O	start_char=542|end_char=547
+32	de	de	ADP	_	_	31	fixed	O	start_char=548|end_char=550
+33	cem	cem	NUM	_	NumType=Card	34	nummod	O	start_char=551|end_char=554
+34	quilometros	quilometro	NOUN	_	Gender=Masc|Number=Plur	27	nmod	O	start_char=555|end_char=566
+35	quadrados	quadrados	ADJ	_	Gender=Masc|Number=Plur	34	amod	O	start_char=567|end_char=576
+36	.	.	PUNCT	_	_	7	punct	O	start_char=576|end_char=577
+37	.	.	PUNCT	_	_	7	punct	O	start_char=577|end_char=578
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-4
+# text = Contribuem para a produção da área, o Embasamento, e as seguintes formações: Muribeca/Carmópolis,Muribeca/Ibura, Muribeca/Oiteirinhos, Riachuelo/Maruim e Riachuelo/Taquari..
+1	Contribuem	contribuir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=580|end_char=590
+2	para	para	ADP	_	_	4	case	O	start_char=591|end_char=595
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	start_char=596|end_char=597
+4	produção	produção	NOUN	_	Gender=Fem|Number=Sing	1	obl:arg	O	start_char=598|end_char=606
+5-6	da	_	_	_	_	_	_	O	start_char=607|end_char=609
+5	de	de	ADP	_	_	7	case	O	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	O	_
+7	área	área	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=610|end_char=614
+8	,	,	PUNCT	_	_	10	punct	O	start_char=614|end_char=615
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	O	start_char=616|end_char=617
+10	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	7	appos	B=UNIDADE_LITO	start_char=618|end_char=629
+11	,	,	PUNCT	_	_	15	punct	O	start_char=629|end_char=630
+12	e	e	CCONJ	_	_	15	cc	O	start_char=631|end_char=632
+13	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	O	start_char=633|end_char=635
+14	seguintes	seguinte	ADJ	_	Gender=Fem|Number=Plur	15	amod	O	start_char=636|end_char=645
+15	formações	formação	NOUN	_	Gender=Fem|Number=Plur	4	conj	O	start_char=646|end_char=655
+16	:	:	PUNCT	_	_	17	punct	O	start_char=655|end_char=656
+17	Muribeca	Muribeca	PROPN	_	Gender=Fem|Number=Sing	15	appos	B=UNIDADE_LITO	start_char=657|end_char=665
+18	/	/	PUNCT	_	_	19	punct	O	start_char=665|end_char=666
+19	Carmópolis	Carmópolis	PROPN	_	Gender=Masc|Number=Sing	17	conj	O	start_char=666|end_char=676
+20	,	,	PUNCT	_	_	21	punct	O	start_char=676|end_char=677
+21	Muribeca	Muribeca	PROPN	_	Gender=Fem|Number=Sing	17	conj	B=UNIDADE_LITO	start_char=677|end_char=685
+22	/Ibura	/Ibura	PROPN	_	Number=Sing	21	flat:name	O	start_char=685|end_char=691
+23	,	,	PUNCT	_	_	24	punct	O	start_char=691|end_char=692
+24	Muribeca	Muribeca	PROPN	_	Gender=Fem|Number=Sing	17	conj	B=UNIDADE_LITO	start_char=693|end_char=701
+25	/	/	PUNCT	_	_	26	punct	O	start_char=701|end_char=702
+26	Oiteirinhos	Oiteirinhos	PROPN	_	Gender=Fem|Number=Sing	17	conj	O	start_char=702|end_char=713
+27	,	,	PUNCT	_	_	28	punct	O	start_char=713|end_char=714
+28	Riachuelo	Riachuelo	PROPN	_	Gender=Fem|Number=Sing	17	conj	O	start_char=715|end_char=724
+29	/	/	PUNCT	_	_	28	flat:name	O	start_char=724|end_char=725
+30	Maruim	Maruim	PROPN	_	Gender=Fem|Number=Sing	17	conj	O	start_char=725|end_char=731
+31	e	e	CCONJ	_	_	32	cc	O	start_char=732|end_char=733
+32	Riachuelo	Riachuelo	PROPN	_	Gender=Fem|Number=Sing	17	conj	O	start_char=734|end_char=743
+33	/Taquari.	/Taquari.	PROPN	_	Number=Sing	32	flat:name	O	start_char=743|end_char=752
+34	.	.	PUNCT	_	_	1	punct	O	start_char=752|end_char=753
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-5
+# text = O objetivo deste trabalho é o cáiculo do volume recupéravel da área do embasamento, considerando-se cada formação isoladamente..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=755|end_char=756
+2	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	O	start_char=757|end_char=765
+3-4	deste	_	_	_	_	_	_	O	start_char=766|end_char=771
+3	de	de	ADP	_	_	5	case	O	_
+4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	O	_
+5	trabalho	trabalho	NOUN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=772|end_char=780
+6	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	O	start_char=781|end_char=782
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	start_char=783|end_char=784
+8	cáiculo	cáiculo	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=785|end_char=792
+9-10	do	_	_	_	_	_	_	O	start_char=793|end_char=795
+9	de	de	ADP	_	_	11	case	O	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	_
+11	volume	volume	NOUN	_	Gender=Masc|Number=Sing	8	nmod	O	start_char=796|end_char=802
+12	recupéravel	recupéravel	ADJ	_	Gender=Masc|Number=Sing	11	amod	O	start_char=803|end_char=814
+13-14	da	_	_	_	_	_	_	O	start_char=815|end_char=817
+13	de	de	ADP	_	_	15	case	O	_
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	O	_
+15	área	área	NOUN	_	Gender=Fem|Number=Sing	11	nmod	O	start_char=818|end_char=822
+16-17	do	_	_	_	_	_	_	O	start_char=823|end_char=825
+16	de	de	ADP	_	_	18	case	O	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	O	_
+18	embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	15	nmod	B=UNIDADE_LITO	start_char=826|end_char=837
+19	,	,	PUNCT	_	_	20	punct	O	start_char=837|end_char=838
+20-21	considerando-se	_	_	_	_	_	_	O	start_char=839|end_char=854
+20	considerano	considerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	O	_
+21	se	se	PRON	_	Case=Acc|PronType=Prs	20	expl	O	_
+22	cada	cada	DET	_	Gender=Fem|Number=Sing|PronType=Tot	23	det	O	start_char=855|end_char=859
+23	formação	formação	NOUN	_	Gender=Fem|Number=Sing	20	obj	O	start_char=860|end_char=868
+24	isoladamente	isoladamente	ADV	_	_	20	advmod	O	start_char=869|end_char=881
+25	.	.	PUNCT	_	_	20	punct	O	start_char=881|end_char=882
+26	.	.	PUNCT	_	_	8	punct	O	start_char=882|end_char=883
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-6
+# text = O método utilizado para o cálculo foi o das curvas de declínio..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=885|end_char=886
+2	método	método	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	O	start_char=887|end_char=893
+3	utilizado	utilizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	O	start_char=894|end_char=903
+4	para	para	ADP	_	_	6	case	O	start_char=904|end_char=908
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	O	start_char=909|end_char=910
+6	cálculo	cálculo	NOUN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=911|end_char=918
+7	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	O	start_char=919|end_char=922
+8	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	O	start_char=923|end_char=924
+9-10	das	_	_	_	_	_	_	O	start_char=925|end_char=928
+9	de	de	ADP	_	_	11	case	O	_
+10	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	O	_
+11	curvas	curva	NOUN	_	Gender=Fem|Number=Plur	8	nmod	O	start_char=929|end_char=935
+12	de	de	ADP	_	_	13	case	O	start_char=936|end_char=938
+13	declínio	declínio	NOUN	_	Gender=Masc|Number=Sing	11	nmod	O	start_char=939|end_char=947
+14	.	.	PUNCT	_	_	8	punct	O	start_char=947|end_char=948
+15	.	.	PUNCT	_	_	8	punct	O	start_char=948|end_char=949
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-7
+# text = 2 - CONCLUSXKO
+1	2	2	NUM	_	NumType=Card	3	nummod	O	start_char=951|end_char=952
+2	-	-	PUNCT	_	_	1	punct	O	start_char=953|end_char=954
+3	CONCLUSXKO	CONCLUSXKO	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=955|end_char=965
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-8
+# text = Nesta nova avaliação, o volume recuperável de óleo na área do Embasamento aumentou 123.000 ma, creditados principalmente às formações MUR/OIT e MUR/IBU..
+1-2	Nesta	_	_	_	_	_	_	O	start_char=967|end_char=972
+1	Em	em	ADP	_	_	4	case	O	_
+2	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	O	_
+3	nova	novo	ADJ	_	Gender=Fem|Number=Sing	4	amod	O	start_char=973|end_char=977
+4	avaliação	avaliação	NOUN	_	Gender=Fem|Number=Sing	17	obl	O	start_char=978|end_char=987
+5	,	,	PUNCT	_	_	4	punct	O	start_char=987|end_char=988
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	O	start_char=989|end_char=990
+7	volume	volume	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	O	start_char=991|end_char=997
+8	recuperável	recuperável	ADJ	_	Gender=Masc|Number=Sing	7	amod	O	start_char=998|end_char=1009
+9	de	de	ADP	_	_	10	case	O	start_char=1010|end_char=1012
+10	óleo	óleo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	B=FLUIDODATERRA_i	start_char=1013|end_char=1017
+11-12	na	_	_	_	_	_	_	O	start_char=1018|end_char=1020
+11	em	em	ADP	_	_	13	case	O	_
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	O	_
+13	área	área	NOUN	_	Gender=Fem|Number=Sing	7	nmod	O	start_char=1021|end_char=1025
+14-15	do	_	_	_	_	_	_	O	start_char=1026|end_char=1028
+14	de	de	ADP	_	_	16	case	O	_
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	O	_
+16	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	13	nmod	B=UNIDADE_LITO	start_char=1029|end_char=1040
+17	aumentou	aumentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	start_char=1041|end_char=1049
+18	123.000	123.000	NUM	_	NumType=Card	19	nummod	O	start_char=1050|end_char=1057
+19	ma	ma	NOUN	_	Gender=Masc|Number=Plur	17	obj	O	start_char=1058|end_char=1060
+20	,	,	PUNCT	_	_	21	punct	O	start_char=1060|end_char=1061
+21	creditados	creditar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	acl	O	start_char=1062|end_char=1072
+22	principalmente	principalmente	ADV	_	_	21	advmod	O	start_char=1073|end_char=1087
+23-24	às	_	_	_	_	_	_	O	start_char=1088|end_char=1090
+23	a	a	ADP	_	_	25	case	O	_
+24	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	O	_
+25	formações	formação	NOUN	_	Gender=Fem|Number=Plur	21	obl:arg	B=UNIDADE_LITO	start_char=1091|end_char=1100
+26	MUR/OIT	MUR/OIT	PROPN	_	Gender=Fem|Number=Sing	25	nmod	I=UNIDADE_LITO	start_char=1101|end_char=1108
+27	e	e	CCONJ	_	_	28	cc	O	start_char=1109|end_char=1110
+28	MUR/IBU.	MUR/IBU.	PROPN	_	Gender=Masc|Number=Sing	26	conj	B=UNIDADE_LITO	start_char=1111|end_char=1119
+29	.	.	PUNCT	_	_	17	punct	O	start_char=1119|end_char=1120
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-9
+# text = O Embasamento fraturado foi reduzido em 149.000 m2..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=1122|end_char=1123
+2	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:pass	B=UNIDADE_LITO	start_char=1124|end_char=1135
+3	fraturado	fraturar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	O	start_char=1136|end_char=1145
+4	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	O	start_char=1146|end_char=1149
+5	reduzido	reduzir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1150|end_char=1158
+6	em	em	ADP	_	_	8	case	O	start_char=1159|end_char=1161
+7	149.000	149.000	NUM	_	NumType=Card	8	nummod	O	start_char=1162|end_char=1169
+8	m2.	m2.	NOUN	_	Gender=Masc|Number=Plur	5	obl	O	start_char=1170|end_char=1173
+9	.	.	PUNCT	_	_	5	punct	O	start_char=1173|end_char=1174
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-10
+# text = Os novos valores de avaliação estão no item 5..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	O	start_char=1176|end_char=1178
+2	novos	novo	ADJ	_	Gender=Masc|Number=Plur	3	amod	O	start_char=1179|end_char=1184
+3	valores	valor	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	O	start_char=1185|end_char=1192
+4	de	de	ADP	_	_	5	case	O	start_char=1193|end_char=1195
+5	avaliação	avaliação	NOUN	_	Gender=Fem|Number=Sing	3	nmod	O	start_char=1196|end_char=1205
+6	estão	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	O	start_char=1206|end_char=1211
+7-8	no	_	_	_	_	_	_	O	start_char=1212|end_char=1214
+7	em	em	ADP	_	_	9	case	O	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	_
+9	item	item	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1215|end_char=1219
+10	5..	5..	NUM	_	NumType=Card	9	nummod	O	start_char=1220|end_char=1223
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-11
+# text = É necessário realizar estudos preliminares, visando a uma possível recuperação secundária, e a uma melhor definição do fator de recuperação atribuido a cada formação..
+1	É	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	O	start_char=1225|end_char=1226
+2	necessário	necessário	ADJ	_	Gender=Masc|Number=Sing	0	root	O	start_char=1227|end_char=1237
+3	realizar	realizar	VERB	_	VerbForm=Inf	2	csubj	O	start_char=1238|end_char=1246
+4	estudos	estudo	NOUN	_	Gender=Masc|Number=Plur	3	obj	O	start_char=1247|end_char=1254
+5	preliminares	preliminar	ADJ	_	Gender=Masc|Number=Plur	4	amod	O	start_char=1255|end_char=1267
+6	,	,	PUNCT	_	_	7	punct	O	start_char=1267|end_char=1268
+7	visando	visar	VERB	_	VerbForm=Ger	3	advcl	O	start_char=1269|end_char=1276
+8	a	a	ADP	_	_	11	case	O	start_char=1277|end_char=1278
+9	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	O	start_char=1279|end_char=1282
+10	possível	possível	ADJ	_	Gender=Fem|Number=Sing	11	amod	O	start_char=1283|end_char=1291
+11	recuperação	recuperação	NOUN	_	Gender=Fem|Number=Sing	7	obl:arg	O	start_char=1292|end_char=1303
+12	secundária	secundário	ADJ	_	Gender=Fem|Number=Sing	11	amod	O	start_char=1304|end_char=1314
+13	,	,	PUNCT	_	_	18	punct	O	start_char=1314|end_char=1315
+14	e	e	CCONJ	_	_	18	cc	O	start_char=1316|end_char=1317
+15	a	a	ADP	_	_	18	case	O	start_char=1318|end_char=1319
+16	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	O	start_char=1320|end_char=1323
+17	melhor	bom	ADJ	_	Gender=Fem|Number=Sing	18	amod	O	start_char=1324|end_char=1330
+18	definição	definição	NOUN	_	Gender=Fem|Number=Sing	11	conj	O	start_char=1331|end_char=1340
+19-20	do	_	_	_	_	_	_	O	start_char=1341|end_char=1343
+19	de	de	ADP	_	_	21	case	O	_
+20	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	O	_
+21	fator	fator	NOUN	_	Gender=Masc|Number=Sing	18	nmod	O	start_char=1344|end_char=1349
+22	de	de	ADP	_	_	23	case	O	start_char=1350|end_char=1352
+23	recuperação	recuperação	NOUN	_	Gender=Fem|Number=Sing	21	nmod	O	start_char=1353|end_char=1364
+24	atribuido	atribuir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	21	acl	O	start_char=1365|end_char=1374
+25	a	a	ADP	_	_	27	case	O	start_char=1375|end_char=1376
+26	cada	cada	DET	_	Gender=Fem|Number=Sing|PronType=Tot	27	det	O	start_char=1377|end_char=1381
+27	formação	formação	NOUN	_	Gender=Fem|Number=Sing	24	obl:arg	O	start_char=1382|end_char=1390
+28	.	.	PUNCT	_	_	3	punct	O	start_char=1390|end_char=1391
+29	.	.	PUNCT	_	_	2	punct	O	start_char=1391|end_char=1392
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-12
+# text = EU  B - REVISÃO DO FATOR DE RATEIO
+1	EU	eu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	O	start_char=1394|end_char=1396
+2	B	B	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=1398|end_char=1399
+3	-	-	PUNCT	_	_	4	punct	O	start_char=1400|end_char=1401
+4	REVISÃO	Revisão	PROPN	_	Gender=Fem|Number=Sing	1	appos	O	start_char=1402|end_char=1409
+5-6	DO	_	_	_	_	_	_	O	start_char=1410|end_char=1412
+5	DE	de	ADP	_	_	4	flat:name	O	_
+6	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	flat:name	O	_
+7	FATOR	FATOR	PROPN	_	Number=Sing	4	flat:name	O	start_char=1413|end_char=1418
+8	DE	de	ADP	_	_	4	flat:name	O	start_char=1419|end_char=1421
+9	RATEIO	RATEIO	PROPN	_	Number=Sing	4	flat:name	O	start_char=1422|end_char=1428
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-13
+# text = O fator de rateio foi elaborado de acordo com os testes de formação a poço aberto e a poço revestido..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=1430|end_char=1431
+2	fator	fator	NOUN	_	Gender=Masc|Number=Sing	6	nsubj:pass	O	start_char=1432|end_char=1437
+3	de	de	ADP	_	_	4	case	O	start_char=1438|end_char=1440
+4	rateio	rateio	NOUN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=1441|end_char=1447
+5	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	O	start_char=1448|end_char=1451
+6	elaborado	elaborar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1452|end_char=1461
+7	de	de	ADP	_	_	11	case	O	start_char=1462|end_char=1464
+8	acordo	acordo	NOUN	_	Gender=Masc|Number=Sing	7	fixed	O	start_char=1465|end_char=1471
+9	com	com	ADP	_	_	7	fixed	O	start_char=1472|end_char=1475
+10	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	O	start_char=1476|end_char=1478
+11	testes	teste	NOUN	_	Gender=Masc|Number=Plur	6	obl	O	start_char=1479|end_char=1485
+12	de	de	ADP	_	_	13	case	O	start_char=1486|end_char=1488
+13	formação	formação	NOUN	_	Gender=Fem|Number=Sing	11	nmod	O	start_char=1489|end_char=1497
+14	a	a	ADP	_	_	15	case	O	start_char=1498|end_char=1499
+15	poço	poço	NOUN	_	Gender=Masc|Number=Sing	13	nmod	B=POÇO	start_char=1500|end_char=1504
+16	aberto	abrir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	15	acl	O	start_char=1505|end_char=1511
+17	e	e	CCONJ	_	_	19	cc	O	start_char=1512|end_char=1513
+18	a	a	ADP	_	_	19	case	O	start_char=1514|end_char=1515
+19	poço	poço	NOUN	_	Gender=Masc|Number=Sing	15	conj	B=POÇO	start_char=1516|end_char=1520
+20	revestido	revestir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	19	acl	O	start_char=1521|end_char=1530
+21	.	.	PUNCT	_	_	6	punct	O	start_char=1530|end_char=1531
+22	.	.	PUNCT	_	_	6	punct	O	start_char=1531|end_char=1532
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-14
+# text = Alguns fatores de rateio foram modificados para indicar que determinada formação já contribui para a produção do poço..
+1	Alguns	algum	DET	_	Gender=Masc|Number=Plur|PronType=Ind	2	det	O	start_char=1534|end_char=1540
+2	fatores	fator	NOUN	_	Gender=Masc|Number=Plur	6	nsubj:pass	O	start_char=1541|end_char=1548
+3	de	de	ADP	_	_	4	case	O	start_char=1549|end_char=1551
+4	rateio	rateio	NOUN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=1552|end_char=1558
+5	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	6	aux:pass	O	start_char=1559|end_char=1564
+6	modificados	modificar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=1565|end_char=1576
+7	para	para	SCONJ	_	_	8	mark	O	start_char=1577|end_char=1581
+8	indicar	indicar	VERB	_	VerbForm=Inf	6	advcl	O	start_char=1582|end_char=1589
+9	que	que	SCONJ	_	_	13	mark	O	start_char=1590|end_char=1593
+10	determinada	determinar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	13	advcl	O	start_char=1594|end_char=1605
+11	formação	formação	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	O	start_char=1606|end_char=1614
+12	já	já	ADV	_	_	13	advmod	O	start_char=1615|end_char=1617
+13	contribui	contribuir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	O	start_char=1618|end_char=1627
+14	para	para	ADP	_	_	16	case	O	start_char=1628|end_char=1632
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	O	start_char=1633|end_char=1634
+16	produção	produção	NOUN	_	Gender=Fem|Number=Sing	13	obl:arg	O	start_char=1635|end_char=1643
+17-18	do	_	_	_	_	_	_	O	start_char=1644|end_char=1646
+17	de	de	ADP	_	_	19	case	O	_
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	O	_
+19	poço	poço	NOUN	_	Gender=Masc|Number=Sing	16	nmod	B=POÇO	start_char=1647|end_char=1651
+20	.	.	PUNCT	_	_	6	punct	O	start_char=1651|end_char=1652
+21	.	.	PUNCT	_	_	6	punct	O	start_char=1652|end_char=1653
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-15
+# text = C - DIVISÃO DOS POÇOS EM GRUPO
+1	C	C	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1655|end_char=1656
+2	-	-	PUNCT	_	_	3	punct	O	start_char=1657|end_char=1658
+3	DIVISÃO	DIVISÃO	PROPN	_	Gender=Fem|Number=Sing	1	appos	O	start_char=1659|end_char=1666
+4-5	DOS	_	_	_	_	_	_	O	start_char=1667|end_char=1670
+4	DE	de	ADP	_	_	3	flat:name	O	_
+5	OS	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	flat:name	O	_
+6	POÇOS	Poços	PROPN	_	Number=Sing	3	flat:name	O	start_char=1671|end_char=1676
+7	EM	em	ADP	_	_	8	case	O	start_char=1677|end_char=1679
+8	GRUPO	grupo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=1680|end_char=1685
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-16
+# text = Os poços foram agrupados segundo a localizacão geográfica e similaridade de seu comportamento com os poços adjacentes..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=1687|end_char=1689
+2	poços	poço	NOUN	_	Gender=Masc|Number=Plur	4	nsubj:pass	B=POÇO	start_char=1690|end_char=1695
+3	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	4	aux:pass	O	start_char=1696|end_char=1701
+4	agrupados	agrupar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=1702|end_char=1711
+5	segundo	segundo	ADP	_	_	7	case	O	start_char=1712|end_char=1719
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	O	start_char=1720|end_char=1721
+7	localizacão	localizacão	NOUN	_	Gender=Fem|Number=Sing	4	obl	O	start_char=1722|end_char=1733
+8	geográfica	geográfico	ADJ	_	Gender=Fem|Number=Sing	7	amod	O	start_char=1734|end_char=1744
+9	e	e	CCONJ	_	_	10	cc	O	start_char=1745|end_char=1746
+10	similaridade	similaridade	NOUN	_	Gender=Fem|Number=Sing	7	conj	O	start_char=1747|end_char=1759
+11	de	de	ADP	_	_	13	case	O	start_char=1760|end_char=1762
+12	seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	13	det	O	start_char=1763|end_char=1766
+13	comportamento	comportamento	NOUN	_	Gender=Masc|Number=Sing	10	nmod	O	start_char=1767|end_char=1780
+14	com	com	ADP	_	_	16	case	O	start_char=1781|end_char=1784
+15	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	O	start_char=1785|end_char=1787
+16	poços	poço	NOUN	_	Gender=Masc|Number=Plur	4	obl	B=POÇO	start_char=1788|end_char=1793
+17	adjacentes	adjacente	ADJ	_	Gender=Masc|Number=Plur	16	amod	O	start_char=1794|end_char=1804
+18	.	.	PUNCT	_	_	4	punct	O	start_char=1804|end_char=1805
+19	.	.	PUNCT	_	_	4	punct	O	start_char=1805|end_char=1806
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-17
+# text = Entretanto existem alguns poços que foram agrupados de áreas geográficas diferentes por não possuir poços adjacentes como foi o caso do grupo 13..
+1	Entretanto	entretanto	ADV	_	_	2	advmod	O	start_char=1808|end_char=1818
+2	existem	existir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=1819|end_char=1826
+3	alguns	algum	DET	_	Gender=Masc|Number=Plur|PronType=Ind	4	det	O	start_char=1827|end_char=1833
+4	poços	poço	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	B=POÇO	start_char=1834|end_char=1839
+5	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	7	nsubj:pass	O	start_char=1840|end_char=1843
+6	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	7	aux:pass	O	start_char=1844|end_char=1849
+7	agrupados	agrupar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	4	acl:relcl	O	start_char=1850|end_char=1859
+8	de	de	ADP	_	_	9	case	O	start_char=1860|end_char=1862
+9	áreas	área	NOUN	_	Gender=Fem|Number=Plur	7	obl:arg	O	start_char=1863|end_char=1868
+10	geográficas	geográfico	ADJ	_	Gender=Fem|Number=Plur	9	amod	O	start_char=1869|end_char=1880
+11	diferentes	diferente	ADJ	_	Gender=Fem|Number=Plur	9	amod	O	start_char=1881|end_char=1891
+12	por	por	SCONJ	_	_	14	mark	O	start_char=1892|end_char=1895
+13	não	não	ADV	_	Polarity=Neg	14	advmod	O	start_char=1896|end_char=1899
+14	possuir	possuir	VERB	_	VerbForm=Inf	7	advcl	O	start_char=1900|end_char=1907
+15	poços	poço	NOUN	_	Gender=Masc|Number=Plur	14	obj	B=POÇO	start_char=1908|end_char=1913
+16	adjacentes	adjacente	ADJ	_	Gender=Masc|Number=Plur	15	amod	O	start_char=1914|end_char=1924
+17	como	como	ADV	_	_	20	cc	O	start_char=1925|end_char=1929
+18	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	O	start_char=1930|end_char=1933
+19	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	O	start_char=1934|end_char=1935
+20	caso	caso	NOUN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=1936|end_char=1940
+21-22	do	_	_	_	_	_	_	O	start_char=1941|end_char=1943
+21	de	de	ADP	_	_	23	case	O	_
+22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	O	_
+23	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	20	nmod	O	start_char=1944|end_char=1949
+24	13	13	NUM	_	NumType=Card	23	nummod	O	start_char=1950|end_char=1952
+25	.	.	PUNCT	_	_	2	punct	O	start_char=1952|end_char=1953
+26	.	.	PUNCT	_	_	2	punct	O	start_char=1953|end_char=1954
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-18
+# text = D - GRUPO DE POÇOS ii - Grupo 2 - São poços localizados próximos da falha do bloco principal de Carmópolis e tem a maior produção acumulada do Embasamento..
+1	D	D	PROPN	_	Gender=Masc|Number=Sing	12	nsubj	O	start_char=1956|end_char=1957
+2	-	-	PUNCT	_	_	3	punct	O	start_char=1958|end_char=1959
+3	GRUPO	grupo	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=1960|end_char=1965
+4	DE	de	ADP	_	_	3	flat:name	O	start_char=1966|end_char=1968
+5	POÇOS	Poços	PROPN	_	Number=Sing	3	flat:name	O	start_char=1969|end_char=1974
+6	ii	ii	PROPN	_	Number=Sing	3	flat:name	O	start_char=1975|end_char=1977
+7	-	-	PUNCT	_	_	8	punct	O	start_char=1978|end_char=1979
+8	Grupo	Grupo	PROPN	_	Gender=Masc|Number=Sing	3	appos	O	start_char=1980|end_char=1985
+9	2	2	PROPN	_	Number=Sing	8	flat:name	O	start_char=1986|end_char=1987
+10	-	-	PUNCT	_	_	8	punct	O	start_char=1988|end_char=1989
+11	São	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	O	start_char=1990|end_char=1993
+12	poços	poço	NOUN	_	Gender=Masc|Number=Plur	0	root	B=POÇO	start_char=1994|end_char=1999
+13	localizados	localizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	12	acl	O	start_char=2000|end_char=2011
+14	próximos	próximo	ADJ	_	Gender=Masc|Number=Plur	12	amod	O	start_char=2012|end_char=2020
+15-16	da	_	_	_	_	_	_	O	start_char=2021|end_char=2023
+15	de	de	ADP	_	_	17	case	O	_
+16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	O	_
+17	falha	falha	NOUN	_	Gender=Fem|Number=Sing	14	obl	B=ESTRUTURA_FÍSICA	start_char=2024|end_char=2029
+18-19	do	_	_	_	_	_	_	O	start_char=2030|end_char=2032
+18	de	de	ADP	_	_	20	case	O	_
+19	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	O	_
+20	bloco	bloco	NOUN	_	Gender=Masc|Number=Sing	17	nmod	O	start_char=2033|end_char=2038
+21	principal	principal	ADJ	_	Gender=Masc|Number=Sing	20	amod	O	start_char=2039|end_char=2048
+22	de	de	ADP	_	_	23	case	O	start_char=2049|end_char=2051
+23	Carmópolis	Carmópolis	PROPN	_	Gender=Masc|Number=Sing	20	nmod	O	start_char=2052|end_char=2062
+24	e	e	CCONJ	_	_	25	cc	O	start_char=2063|end_char=2064
+25	tem	ter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	O	start_char=2065|end_char=2068
+26	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	O	start_char=2069|end_char=2070
+27	maior	grande	ADJ	_	Gender=Fem|Number=Sing	28	amod	O	start_char=2071|end_char=2076
+28	produção	produção	NOUN	_	Gender=Fem|Number=Sing	25	obj	O	start_char=2077|end_char=2085
+29	acumulada	acumular	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	28	acl	O	start_char=2086|end_char=2095
+30-31	do	_	_	_	_	_	_	O	start_char=2096|end_char=2098
+30	de	de	ADP	_	_	32	case	O	_
+31	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	O	_
+32	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	28	nmod	B=UNIDADE_LITO	start_char=2099|end_char=2110
+33	.	.	PUNCT	_	_	25	punct	O	start_char=2110|end_char=2111
+34	.	.	PUNCT	_	_	12	punct	O	start_char=2111|end_char=2112
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-19
+# text = iii - Grupo 3 - Poços que tem sua maior produção acumulada do Embasamento..
+1	iii	iii	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	3	nummod	O	start_char=2114|end_char=2117
+2	-	-	PUNCT	_	_	1	punct	O	start_char=2118|end_char=2119
+3	Grupo	Grupo	PROPN	_	Gender=Masc|Number=Sing	0	root	B=UNIDADE_LITO	start_char=2120|end_char=2125
+4	3	3	NUM	_	NumType=Card	3	flat:name	I=UNIDADE_LITO	start_char=2126|end_char=2127
+5	-	-	PUNCT	_	_	6	punct	O	start_char=2128|end_char=2129
+6	Poços	Poços	PROPN	_	Gender=Masc|Number=Sing	3	appos	I=UNIDADE_LITO	start_char=2130|end_char=2135
+7	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	O	start_char=2136|end_char=2139
+8	tem	ter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	O	start_char=2140|end_char=2143
+9	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	11	det	O	start_char=2144|end_char=2147
+10	maior	grande	ADJ	_	Gender=Fem|Number=Sing	11	amod	O	start_char=2148|end_char=2153
+11	produção	produção	NOUN	_	Gender=Fem|Number=Sing	8	obj	O	start_char=2154|end_char=2162
+12	acumulada	acumular	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	11	acl	O	start_char=2163|end_char=2172
+13-14	do	_	_	_	_	_	_	O	start_char=2173|end_char=2175
+13	de	de	ADP	_	_	15	case	O	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	_
+15	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	11	nmod	B=UNIDADE_LITO	start_char=2176|end_char=2187
+16	.	.	PUNCT	_	_	3	punct	O	start_char=2187|end_char=2188
+17	.	.	PUNCT	_	_	3	punct	O	start_char=2188|end_char=2189
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-20
+# text = CP-271, CP-273, CP-275, CP-278, CP-283, CP-297, CP-508, CP-619, CP-644, CP-651, CP-675, CP-937, CP-941, CP-1070, CP-1290, CP-1297, SZ-115, SZ-124, SZ-145..
+1	CP-271	CP-271	PROPN	_	Gender=Masc|Number=Sing	0	root	B=POÇO	start_char=2191|end_char=2197
+2	,	,	PUNCT	_	_	3	punct	O	start_char=2197|end_char=2198
+3	CP-273	CP-273	PROPN	_	Gender=Masc|Number=Sing	1	conj	B=POÇO	start_char=2199|end_char=2205
+4	,	,	PUNCT	_	_	5	punct	O	start_char=2205|end_char=2206
+5	CP-275	CP-275	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2207|end_char=2213
+6	,	,	PUNCT	_	_	7	punct	O	start_char=2213|end_char=2214
+7	CP-278	CP-278	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2215|end_char=2221
+8	,	,	PUNCT	_	_	9	punct	O	start_char=2221|end_char=2222
+9	CP-283	CP-283	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2223|end_char=2229
+10	,	,	PUNCT	_	_	11	punct	O	start_char=2229|end_char=2230
+11	CP-297	CP-297	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2231|end_char=2237
+12	,	,	PUNCT	_	_	13	punct	O	start_char=2237|end_char=2238
+13	CP-508	CP-508	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2239|end_char=2245
+14	,	,	PUNCT	_	_	15	punct	O	start_char=2245|end_char=2246
+15	CP-619	CP-619	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2247|end_char=2253
+16	,	,	PUNCT	_	_	17	punct	O	start_char=2253|end_char=2254
+17	CP-644	CP-644	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2255|end_char=2261
+18	,	,	PUNCT	_	_	19	punct	O	start_char=2261|end_char=2262
+19	CP-651	CP-651	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2263|end_char=2269
+20	,	,	PUNCT	_	_	21	punct	O	start_char=2269|end_char=2270
+21	CP-675	CP-675	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2271|end_char=2277
+22	,	,	PUNCT	_	_	23	punct	O	start_char=2277|end_char=2278
+23	CP-937	CP-937	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2279|end_char=2285
+24	,	,	PUNCT	_	_	25	punct	O	start_char=2285|end_char=2286
+25	CP-941	CP-941	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2287|end_char=2293
+26	,	,	PUNCT	_	_	27	punct	O	start_char=2293|end_char=2294
+27	CP-1070	CP-1070	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2295|end_char=2302
+28	,	,	PUNCT	_	_	29	punct	O	start_char=2302|end_char=2303
+29	CP-1290	CP-1290	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2304|end_char=2311
+30	,	,	PUNCT	_	_	31	punct	O	start_char=2311|end_char=2312
+31	CP-1297	CP-1297	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2313|end_char=2320
+32	,	,	PUNCT	_	_	33	punct	O	start_char=2320|end_char=2321
+33	SZ-115	SZ-115	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2322|end_char=2328
+34	,	,	PUNCT	_	_	35	punct	O	start_char=2328|end_char=2329
+35	SZ-124	SZ-124	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2330|end_char=2336
+36	,	,	PUNCT	_	_	37	punct	O	start_char=2336|end_char=2337
+37	SZ-145	SZ-145	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2338|end_char=2344
+38	.	.	PUNCT	_	_	1	punct	O	start_char=2344|end_char=2345
+39	.	.	PUNCT	_	_	1	punct	O	start_char=2345|end_char=2346
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-21
+# text = v ~ Grupo 5 - À maioria dos poços produzem do Embasamento..
+1	v	v	PROPN	_	Gender=Masc|Number=Sing	12	nsubj	O	start_char=2348|end_char=2349
+2	~	~	PUNCT	_	_	3	punct	O	start_char=2350|end_char=2351
+3	Grupo	Grupo	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=2352|end_char=2357
+4	5	5	NUM	_	NumType=Card	3	flat:name	O	start_char=2358|end_char=2359
+5	-	-	PUNCT	_	_	8	punct	O	start_char=2360|end_char=2361
+6-7	À	_	_	_	_	_	_	O	start_char=2362|end_char=2363
+6	A	a	ADP	_	_	8	case	O	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	O	_
+8	maioria	maioria	NOUN	_	Gender=Fem|Number=Sing	12	obl	O	start_char=2364|end_char=2371
+9-10	dos	_	_	_	_	_	_	O	start_char=2372|end_char=2375
+9	de	de	ADP	_	_	11	case	O	_
+10	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	O	_
+11	poços	poço	NOUN	_	Gender=Masc|Number=Plur	8	nmod	B=POÇO	start_char=2376|end_char=2381
+12	produzem	produzir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=2382|end_char=2390
+13-14	do	_	_	_	_	_	_	O	start_char=2391|end_char=2393
+13	de	de	ADP	_	_	15	case	O	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	_
+15	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	12	obl:arg	B=UNIDADE_LITO	start_char=2394|end_char=2405
+16	.	.	PUNCT	_	_	12	punct	O	start_char=2405|end_char=2406
+17	.	.	PUNCT	_	_	12	punct	O	start_char=2406|end_char=2407
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-22
+# text = CP-240, € CP-254, € CP-265, C CP-296, C CP-346, C CP-532, C CP-648, C CP-904, CF CP-996, CF x - Grupo 10 - Poços em que a maior parte da produção vem da formação MUR/IBU..
+1	CP-240	CP-240	PROPN	_	Gender=Masc|Number=Sing	0	root	B=POÇO	start_char=2409|end_char=2415
+2	,	,	PUNCT	_	_	3	punct	O	start_char=2415|end_char=2416
+3	€	€	NOUN	_	Gender=Masc|Number=Plur	1	conj	O	start_char=2417|end_char=2418
+4	CP-254	CP-254	PROPN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=2419|end_char=2425
+5	,	,	PUNCT	_	_	6	punct	O	start_char=2425|end_char=2426
+6	€	€	NOUN	_	Gender=Masc|Number=Plur	1	conj	O	start_char=2427|end_char=2428
+7	CP-265	CP-265	PROPN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=2429|end_char=2435
+8	,	,	PUNCT	_	_	9	punct	O	start_char=2435|end_char=2436
+9	C	C	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2437|end_char=2438
+10	CP-296	CP-296	PROPN	_	Number=Sing	9	flat:name	O	start_char=2439|end_char=2445
+11	,	,	PUNCT	_	_	12	punct	O	start_char=2445|end_char=2446
+12	C	C	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2447|end_char=2448
+13	CP-346	CP-346	PROPN	_	Number=Sing	12	flat:name	O	start_char=2449|end_char=2455
+14	,	,	PUNCT	_	_	15	punct	O	start_char=2455|end_char=2456
+15	C	C	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2457|end_char=2458
+16	CP-532	CP-532	PROPN	_	Number=Sing	15	flat:name	O	start_char=2459|end_char=2465
+17	,	,	PUNCT	_	_	18	punct	O	start_char=2465|end_char=2466
+18	C	C	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=2467|end_char=2468
+19	CP-648	CP-648	PROPN	_	Number=Sing	18	flat:name	O	start_char=2469|end_char=2475
+20	,	,	PUNCT	_	_	21	punct	O	start_char=2475|end_char=2476
+21	C	C	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=2477|end_char=2478
+22	CP-904	CP-904	PROPN	_	Number=Sing	21	flat:name	O	start_char=2479|end_char=2485
+23	,	,	PUNCT	_	_	24	punct	O	start_char=2485|end_char=2486
+24	CF	CF	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=2487|end_char=2489
+25	CP-996	CP-996	PROPN	_	Number=Sing	24	flat:name	O	start_char=2490|end_char=2496
+26	,	,	PUNCT	_	_	27	punct	O	start_char=2496|end_char=2497
+27	CF	CF	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=2498|end_char=2500
+28	x	x	PROPN	_	Number=Sing	27	flat:name	O	start_char=2501|end_char=2502
+29	-	-	PUNCT	_	_	30	punct	O	start_char=2503|end_char=2504
+30	Grupo	Grupo	PROPN	_	Gender=Masc|Number=Sing	1	conj	B=UNIDADE_LITO	start_char=2505|end_char=2510
+31	10	10	PROPN	_	Number=Sing	30	flat:name	I=UNIDADE_LITO	start_char=2511|end_char=2513
+32	-	-	PUNCT	_	_	33	punct	O	start_char=2514|end_char=2515
+33	Poços	Poços	PROPN	_	Gender=Masc|Number=Sing	1	conj	B=POÇO	start_char=2516|end_char=2521
+34	em	em	ADP	_	_	35	case	O	start_char=2522|end_char=2524
+35	que	que	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	42	obl	O	start_char=2525|end_char=2528
+36	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	O	start_char=2529|end_char=2530
+37	maior	grande	ADJ	_	Gender=Fem|Number=Sing	38	amod	O	start_char=2531|end_char=2536
+38	parte	parte	NOUN	_	Gender=Fem|Number=Sing	42	nsubj	O	start_char=2537|end_char=2542
+39-40	da	_	_	_	_	_	_	O	start_char=2543|end_char=2545
+39	de	de	ADP	_	_	41	case	B=POÇO	_
+40	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	B=POÇO	_
+41	produção	produção	NOUN	_	Gender=Fem|Number=Sing	38	nmod	O	start_char=2546|end_char=2554
+42	vem	vir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	acl:relcl	O	start_char=2555|end_char=2558
+43-44	da	_	_	_	_	_	_	O	start_char=2559|end_char=2561
+43	de	de	ADP	_	_	45	case	B=POÇO	_
+44	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	B=POÇO	_
+45	formação	formação	NOUN	_	Gender=Fem|Number=Sing	42	obl:arg	O	start_char=2562|end_char=2570
+46	MUR/IBU.	MUR/IBU.	PROPN	_	Gender=Fem|Number=Sing	45	nmod	O	start_char=2571|end_char=2579
+47	.	.	PUNCT	_	_	1	punct	O	start_char=2579|end_char=2580
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-23
+# text = x1 - Grupo 11 - Poços que produzem da formação MUR/IBU..
+1	x1	x1	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2582|end_char=2584
+2	-	-	PUNCT	_	_	3	punct	O	start_char=2585|end_char=2586
+3	Grupo	Grupo	PROPN	_	Gender=Masc|Number=Sing	1	appos	B=UNIDADE_LITO	start_char=2587|end_char=2592
+4	11	11	NUM	_	NumType=Card	3	flat:name	I=UNIDADE_LITO	start_char=2593|end_char=2595
+5	-	-	PUNCT	_	_	6	punct	O	start_char=2596|end_char=2597
+6	Poços	Poços	PROPN	_	Gender=Masc|Number=Plur	1	conj	B=POÇO	start_char=2598|end_char=2603
+7	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	8	nsubj	O	start_char=2604|end_char=2607
+8	produzem	produzir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	O	start_char=2608|end_char=2616
+9-10	da	_	_	_	_	_	_	O	start_char=2617|end_char=2619
+9	de	de	ADP	_	_	11	case	O	_
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	O	_
+11	formação	formação	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	O	start_char=2620|end_char=2628
+12	MUR/IBU.	MUR/IBU.	PROPN	_	Gender=Fem|Number=Sing	11	nmod	O	start_char=2629|end_char=2637
+13	.	.	PUNCT	_	_	1	punct	O	start_char=2637|end_char=2638
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-24
+# text = xiii - Grupo 13 - São poços de diferentes áreas geográficas com caracteristicas bastante diferente produzindo em sua maior parte do Embasamento e da formação MUR/IBU..
+1	xiii	xiii	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	3	nummod	O	start_char=2640|end_char=2644
+2	-	-	PUNCT	_	_	3	punct	O	start_char=2645|end_char=2646
+3	Grupo	Grupo	PROPN	_	Gender=Masc|Number=Sing	0	root	B=UNIDADE_LITO	start_char=2647|end_char=2652
+4	13	13	NUM	_	NumType=Card	3	flat:name	I=UNIDADE_LITO	start_char=2653|end_char=2655
+5	-	-	PUNCT	_	_	7	punct	O	start_char=2656|end_char=2657
+6	São	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	O	start_char=2658|end_char=2661
+7	poços	poço	NOUN	_	Gender=Masc|Number=Plur	3	parataxis	B=POÇO	start_char=2662|end_char=2667
+8	de	de	ADP	_	_	10	case	O	start_char=2668|end_char=2670
+9	diferentes	diferentes	DET	_	Gender=Masc|Number=Plur|PronType=Ind	10	det	O	start_char=2671|end_char=2681
+10	áreas	área	NOUN	_	Gender=Fem|Number=Plur	7	nmod	O	start_char=2682|end_char=2687
+11	geográficas	geográfico	ADJ	_	Gender=Fem|Number=Plur	10	amod	O	start_char=2688|end_char=2699
+12	com	com	ADP	_	_	13	case	O	start_char=2700|end_char=2703
+13	caracteristicas	caracteristica	NOUN	_	Gender=Fem|Number=Plur	10	nmod	O	start_char=2704|end_char=2719
+14	bastante	bastante	ADV	_	_	15	advmod	O	start_char=2720|end_char=2728
+15	diferente	diferente	ADJ	_	Gender=Fem|Number=Sing	13	amod	O	start_char=2729|end_char=2738
+16	produzindo	produzir	VERB	_	VerbForm=Ger	7	advcl	O	start_char=2739|end_char=2749
+17	em	em	ADP	_	_	20	case	O	start_char=2750|end_char=2752
+18	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	20	det	O	start_char=2753|end_char=2756
+19	maior	grande	ADJ	_	Gender=Fem|Number=Sing	20	amod	O	start_char=2757|end_char=2762
+20	parte	parte	NOUN	_	Gender=Fem|Number=Sing	16	obl:arg	O	start_char=2763|end_char=2768
+21-22	do	_	_	_	_	_	_	O	start_char=2769|end_char=2771
+21	de	de	ADP	_	_	23	case	O	_
+22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	O	_
+23	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	20	nmod	B=UNIDADE_LITO	start_char=2772|end_char=2783
+24	e	e	CCONJ	_	_	27	cc	O	start_char=2784|end_char=2785
+25-26	da	_	_	_	_	_	_	O	start_char=2786|end_char=2788
+25	de	de	ADP	_	_	27	case	O	_
+26	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	O	_
+27	formação	formação	NOUN	_	Gender=Fem|Number=Sing	23	conj	O	start_char=2789|end_char=2797
+28	MUR/IBU	MUR/IBU	PROPN	_	Gender=Fem|Number=Sing	27	nmod	O	start_char=2798|end_char=2805
+29	.	.	PUNCT	_	_	16	punct	O	start_char=2805|end_char=2806
+30	.	.	PUNCT	_	_	7	punct	O	start_char=2806|end_char=2807
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-25
+# text = = — DIVISÃO DE CADA GRUPO DE POÇOS EM SUBGRUPO
+1	=	=	PUNCT	_	_	3	punct	O	start_char=2809|end_char=2810
+2	—	—	PUNCT	_	_	3	punct	O	start_char=2811|end_char=2812
+3	DIVISÃO	DIVISÃO	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=2813|end_char=2820
+4	DE	de	ADP	_	_	3	flat:name	O	start_char=2821|end_char=2823
+5	CADA	cada	DET	_	Gender=Masc|Number=Sing	3	flat:name	O	start_char=2824|end_char=2828
+6	GRUPO	grupo	PROPN	_	Number=Sing	3	flat:name	O	start_char=2829|end_char=2834
+7	DE	de	ADP	_	_	3	flat:name	O	start_char=2835|end_char=2837
+8	POÇOS	Poços	PROPN	_	Number=Sing	3	flat:name	O	start_char=2838|end_char=2843
+9	EM	em	ADP	_	_	10	case	O	start_char=2844|end_char=2846
+10	SUBGRUPO	SUBGRUPO	PROPN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=2847|end_char=2855
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-26
+# text = Agruparam-se os poços de mesma formação produtora da seguinte forma: os poços fechadoss os poços em produção que não foram estimulados e os pocos em produção estimulados..
+1-2	Agruparam-se	_	_	_	_	_	_	O	start_char=2857|end_char=2869
+1	Agruparam	agrupar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	O	_
+2	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	expl:impers	O	_
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	O	start_char=2870|end_char=2872
+4	poços	poço	NOUN	_	Gender=Masc|Number=Plur	1	obj	B=POÇO	start_char=2873|end_char=2878
+5	de	de	ADP	_	_	7	case	O	start_char=2879|end_char=2881
+6	mesma	mesmo	ADJ	_	Gender=Fem|Number=Sing	7	amod	O	start_char=2882|end_char=2887
+7	formação	formação	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=2888|end_char=2896
+8	produtora	produtor	ADJ	_	Gender=Fem|Number=Sing	7	amod	O	start_char=2897|end_char=2906
+9-10	da	_	_	_	_	_	_	O	start_char=2907|end_char=2909
+9	de	de	ADP	_	_	12	case	O	_
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	O	_
+11	seguinte	seguinte	ADJ	_	Gender=Fem|Number=Sing	12	amod	O	start_char=2910|end_char=2918
+12	forma	forma	NOUN	_	Gender=Fem|Number=Sing	7	nmod	O	start_char=2919|end_char=2924
+13	:	:	PUNCT	_	_	15	punct	O	start_char=2924|end_char=2925
+14	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	O	start_char=2926|end_char=2928
+15	poços	poço	NOUN	_	Gender=Masc|Number=Plur	12	appos	B=POÇO	start_char=2929|end_char=2934
+16	fechadoss	fechar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	15	acl	O	start_char=2935|end_char=2944
+17	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	O	start_char=2945|end_char=2947
+18	poços	poço	NOUN	_	Gender=Masc|Number=Plur	16	obj	B=POÇO	start_char=2948|end_char=2953
+19	em	em	ADP	_	_	20	case	O	start_char=2954|end_char=2956
+20	produção	produção	NOUN	_	Gender=Fem|Number=Sing	18	nmod	O	start_char=2957|end_char=2965
+21	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	24	nsubj:pass	O	start_char=2966|end_char=2969
+22	não	não	ADV	_	Polarity=Neg	24	advmod	O	start_char=2970|end_char=2973
+23	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	24	aux:pass	O	start_char=2974|end_char=2979
+24	estimulados	estimular	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	20	acl:relcl	O	start_char=2980|end_char=2991
+25	e	e	CCONJ	_	_	27	cc	O	start_char=2992|end_char=2993
+26	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	O	start_char=2994|end_char=2996
+27	pocos	poco	NOUN	_	Gender=Masc|Number=Plur	24	conj	B=POÇO	start_char=2997|end_char=3002
+28	em	em	ADP	_	_	29	case	O	start_char=3003|end_char=3005
+29	produção	produção	NOUN	_	Gender=Fem|Number=Sing	27	nmod	O	start_char=3006|end_char=3014
+30	estimulados	estimular	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	29	acl	O	start_char=3015|end_char=3026
+31	.	.	PUNCT	_	_	1	punct	O	start_char=3026|end_char=3027
+32	.	.	PUNCT	_	_	1	punct	O	start_char=3027|end_char=3028
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-27
+# text = Ainda nos poços em produção que não foram estimulados houve uma separação dos poços mais antigos dos poços mais novosscomo tambem nos poços estimulados foram agrupados de acordo com o ano em que foi estimulado..
+1	Ainda	ainda	ADV	_	_	11	advmod	O	start_char=3030|end_char=3035
+2-3	nos	_	_	_	_	_	_	O	start_char=3036|end_char=3039
+2	em	em	ADP	_	_	4	case	O	_
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	O	_
+4	poços	poço	NOUN	_	Gender=Masc|Number=Plur	30	obl	B=POÇO	start_char=3040|end_char=3045
+5	em	em	ADP	_	_	6	case	O	start_char=3046|end_char=3048
+6	produção	produção	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=3049|end_char=3057
+7	que	que	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	10	nsubj:pass	O	start_char=3058|end_char=3061
+8	não	não	ADV	_	Polarity=Neg	10	advmod	O	start_char=3062|end_char=3065
+9	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	10	aux:pass	O	start_char=3066|end_char=3071
+10	estimulados	estimular	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	6	acl:relcl	O	start_char=3072|end_char=3083
+11	houve	haver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	O	start_char=3084|end_char=3089
+12	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	O	start_char=3090|end_char=3093
+13	separação	separação	NOUN	_	Gender=Fem|Number=Sing	11	obj	O	start_char=3094|end_char=3103
+14-15	dos	_	_	_	_	_	_	O	start_char=3104|end_char=3107
+14	de	de	ADP	_	_	16	case	O	_
+15	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	O	_
+16	poços	poço	NOUN	_	Gender=Masc|Number=Plur	13	nmod	B=POÇO	start_char=3108|end_char=3113
+17	mais	mais	ADV	_	_	18	advmod	O	start_char=3114|end_char=3118
+18	antigos	antigo	ADJ	_	Gender=Masc|Number=Plur	16	amod	O	start_char=3119|end_char=3126
+19-20	dos	_	_	_	_	_	_	O	start_char=3127|end_char=3130
+19	de	de	ADP	_	_	21	case	O	_
+20	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	O	_
+21	poços	poço	NOUN	_	Gender=Masc|Number=Plur	16	nmod	B=POÇO	start_char=3131|end_char=3136
+22	mais	mais	ADV	_	_	23	advmod	O	start_char=3137|end_char=3141
+23	novosscomo	novosscomo	ADJ	_	Gender=Masc|Number=Sing	21	amod	O	start_char=3142|end_char=3152
+24	tambem	tambem	ADV	_	_	30	advmod	O	start_char=3153|end_char=3159
+25-26	nos	_	_	_	_	_	_	O	start_char=3160|end_char=3163
+25	em	em	ADP	_	_	27	case	O	_
+26	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	O	_
+27	poços	poço	NOUN	_	Gender=Masc|Number=Plur	24	obl	B=POÇO	start_char=3164|end_char=3169
+28	estimulados	estimular	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	27	acl	O	start_char=3170|end_char=3181
+29	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	30	aux:pass	O	start_char=3182|end_char=3187
+30	agrupados	agrupar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=3188|end_char=3197
+31	de	de	ADP	_	_	35	case	O	start_char=3198|end_char=3200
+32	acordo	acordo	NOUN	_	Gender=Masc|Number=Sing	31	fixed	O	start_char=3201|end_char=3207
+33	com	com	ADP	_	_	31	fixed	O	start_char=3208|end_char=3211
+34	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	O	start_char=3212|end_char=3213
+35	ano	ano	NOUN	_	Gender=Masc|Number=Sing	30	obl	O	start_char=3214|end_char=3217
+36	em	em	ADP	_	_	37	case	O	start_char=3218|end_char=3220
+37	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	39	obl	O	start_char=3221|end_char=3224
+38	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	39	aux:pass	O	start_char=3225|end_char=3228
+39	estimulado	estimular	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	35	acl:relcl	O	start_char=3229|end_char=3239
+40	.	.	PUNCT	_	_	30	punct	O	start_char=3239|end_char=3240
+41	.	.	PUNCT	_	_	30	punct	O	start_char=3240|end_char=3241
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-28
+# text = F - CALCULO DO VOLUME RECUPERAVEL
+1	F	F	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3243|end_char=3244
+2	-	-	PUNCT	_	_	3	punct	O	start_char=3245|end_char=3246
+3	CALCULO	Calcuno	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=3247|end_char=3254
+4-5	DO	_	_	_	_	_	_	O	start_char=3255|end_char=3257
+4	DE	de	ADP	_	_	3	flat:name	O	_
+5	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	flat:name	O	_
+6	VOLUME	VOLUME	PROPN	_	Number=Sing	3	flat:name	O	start_char=3258|end_char=3264
+7	RECUPERAVEL	RECUPERAVEL	PROPN	_	Number=Sing	3	flat:name	O	start_char=3265|end_char=3276
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-29
+# text = F.i - Foram plotados os gráficos de Qo x N, de cada subgrupo por formação..
+1	F.i	F.i	PROPN	_	Gender=Masc|Number=Sing	4	nsubj:pass	O	start_char=3278|end_char=3281
+2	-	-	PUNCT	_	_	1	punct	O	start_char=3282|end_char=3283
+3	Foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	4	aux:pass	O	start_char=3284|end_char=3289
+4	plotados	plotar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=3290|end_char=3298
+5	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	O	start_char=3299|end_char=3301
+6	gráficos	gráfico	NOUN	_	Gender=Masc|Number=Plur	4	nsubj:pass	O	start_char=3302|end_char=3310
+7	de	de	ADP	_	_	8	case	O	start_char=3311|end_char=3313
+8	Qo	Qo	PROPN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=3314|end_char=3316
+9	x	x	PROPN	_	Number=Sing	8	flat:name	O	start_char=3317|end_char=3318
+10	N	N	PROPN	_	Number=Sing	8	flat:name	O	start_char=3319|end_char=3320
+11	,	,	PUNCT	_	_	14	punct	O	start_char=3320|end_char=3321
+12	de	de	ADP	_	_	14	case	O	start_char=3322|end_char=3324
+13	cada	cada	DET	_	Gender=Masc|Number=Sing|PronType=Tot	14	det	O	start_char=3325|end_char=3329
+14	subgrupo	subgrupo	NOUN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=3330|end_char=3338
+15	por	por	ADP	_	_	16	case	O	start_char=3339|end_char=3342
+16	formação	formação	NOUN	_	Gender=Fem|Number=Sing	14	nmod	O	start_char=3343|end_char=3351
+17	.	.	PUNCT	_	_	4	punct	O	start_char=3351|end_char=3352
+18	.	.	PUNCT	_	_	4	punct	O	start_char=3352|end_char=3353
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-30
+# text = CP-753, CP-964, CP-1020, CP-1083, VF~O1;5 VF -02 a  F.2 -
+1	CP-753	CP-753	PROPN	_	Gender=Masc|Number=Sing	0	root	B=POÇO	start_char=3355|end_char=3361
+2	,	,	PUNCT	_	_	3	punct	O	start_char=3361|end_char=3362
+3	CP-964	CP-964	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=3363|end_char=3369
+4	,	,	PUNCT	_	_	5	punct	O	start_char=3369|end_char=3370
+5	CP-1020	CP-1020	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=3371|end_char=3378
+6	,	,	PUNCT	_	_	7	punct	O	start_char=3378|end_char=3379
+7	CP-1083	CP-1083	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=3380|end_char=3387
+8	,	,	PUNCT	_	_	9	punct	O	start_char=3387|end_char=3388
+9	VF~O1;5	VF~O1;5	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=3389|end_char=3396
+10	VF	VF	PROPN	_	Number=Sing	9	flat:name	O	start_char=3397|end_char=3399
+11	-02	-02	PROPN	_	Number=Sing	9	flat:name	O	start_char=3400|end_char=3403
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	O	start_char=3404|end_char=3405
+13	F.2	F.2	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=3407|end_char=3410
+14	-	-	PUNCT	_	_	1	punct	O	start_char=3411|end_char=3412
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-31
+# text = No cálcuio do volume recuperávei foi adotado o método das curvas de declínio : F.2.1 - Por observação do gráfico..
+1-2	No	_	_	_	_	_	_	O	start_char=3414|end_char=3416
+1	Em	em	ADP	_	_	3	case	O	_
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	O	_
+3	cálcuio	cálcuio	NOUN	_	Gender=Masc|Number=Sing	9	obl	O	start_char=3417|end_char=3424
+4-5	do	_	_	_	_	_	_	O	start_char=3425|end_char=3427
+4	de	de	ADP	_	_	6	case	O	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	O	_
+6	volume	volume	NOUN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=3428|end_char=3434
+7	recuperávei	recuperávei	ADJ	_	Gender=Masc|Number=Sing	6	amod	O	start_char=3435|end_char=3446
+8	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	O	start_char=3447|end_char=3450
+9	adotado	adotar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=3451|end_char=3458
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	start_char=3459|end_char=3460
+11	método	método	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:pass	O	start_char=3461|end_char=3467
+12-13	das	_	_	_	_	_	_	O	start_char=3468|end_char=3471
+12	de	de	ADP	_	_	14	case	O	_
+13	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	O	_
+14	curvas	curva	NOUN	_	Gender=Fem|Number=Plur	11	nmod	O	start_char=3472|end_char=3478
+15	de	de	ADP	_	_	16	case	O	start_char=3479|end_char=3481
+16	declínio	declínio	NOUN	_	Gender=Masc|Number=Sing	14	nmod	O	start_char=3482|end_char=3490
+17	:	:	PUNCT	_	_	18	punct	O	start_char=3491|end_char=3492
+18	F.2.1	F.2.1	PROPN	_	Gender=Masc|Number=Sing	14	appos	O	start_char=3493|end_char=3498
+19	-	-	PUNCT	_	_	21	punct	O	start_char=3499|end_char=3500
+20	Por	por	ADP	_	_	21	case	O	start_char=3501|end_char=3504
+21	observação	observação	NOUN	_	Gender=Fem|Number=Sing	18	nmod	O	start_char=3505|end_char=3515
+22-23	do	_	_	_	_	_	_	O	start_char=3516|end_char=3518
+22	de	de	ADP	_	_	24	case	O	_
+23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	O	_
+24	gráfico	gráfico	NOUN	_	Gender=Masc|Number=Sing	21	nmod	O	start_char=3519|end_char=3526
+25	.	.	PUNCT	_	_	18	punct	O	start_char=3526|end_char=3527
+26	.	.	PUNCT	_	_	9	punct	O	start_char=3527|end_char=3528
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-32
+# text = De posse dos dados de deciínio e vazão de abandono caiculou-se o volume recuperáve!l com a seguinte equação: Obs.: Quando a produção atual do subgrupo de poços era menor que a produção de abandono, considerou-se o volume recuperáve! igual ao Já recuperado..
+1	De	de	ADP	_	_	2	case	O	start_char=3530|end_char=3532
+2	posse	posse	NOUN	_	Gender=Fem|Number=Sing	12	obl	O	start_char=3533|end_char=3538
+3-4	dos	_	_	_	_	_	_	O	start_char=3539|end_char=3542
+3	de	de	ADP	_	_	5	case	O	_
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	O	_
+5	dados	dado	NOUN	_	Gender=Masc|Number=Plur	2	nmod	O	start_char=3543|end_char=3548
+6	de	de	ADP	_	_	7	case	O	start_char=3549|end_char=3551
+7	deciínio	deciínio	NOUN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=3552|end_char=3560
+8	e	e	CCONJ	_	_	9	cc	O	start_char=3561|end_char=3562
+9	vazão	vazão	NOUN	_	Gender=Fem|Number=Sing	7	conj	O	start_char=3563|end_char=3568
+10	de	de	ADP	_	_	11	case	O	start_char=3569|end_char=3571
+11	abandono	abandono	NOUN	_	Gender=Masc|Number=Sing	9	nmod	O	start_char=3572|end_char=3580
+12-13	caiculou-se	_	_	_	_	_	_	O	start_char=3581|end_char=3592
+12	caiculou	caicular	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	_
+13	se	se	SCONJ	_	_	16	mark	O	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	start_char=3593|end_char=3594
+15	volume	volume	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	O	start_char=3595|end_char=3601
+16	recuperáve	recuperar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	ccomp	O	start_char=3602|end_char=3612
+17	!	!	PUNCT	_	_	18	punct	O	start_char=3612|end_char=3613
+18	l	l	NOUN	_	Gender=Masc|Number=Sing	16	obj	O	start_char=3613|end_char=3614
+19	com	com	ADP	_	_	22	case	O	start_char=3615|end_char=3618
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	O	start_char=3619|end_char=3620
+21	seguinte	seguinte	ADJ	_	Gender=Fem|Number=Sing	22	amod	O	start_char=3621|end_char=3629
+22	equação	equação	NOUN	_	Gender=Fem|Number=Sing	16	obl	O	start_char=3630|end_char=3637
+23	:	:	PUNCT	_	_	24	punct	O	start_char=3637|end_char=3638
+24	Obs.	Obs.	PROPN	_	Gender=Masc|Number=Sing	22	appos	O	start_char=3639|end_char=3643
+25	:	:	PUNCT	_	_	24	punct	O	start_char=3643|end_char=3644
+26	Quando	quando	ADV	_	_	36	advmod	O	start_char=3645|end_char=3651
+27	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	O	start_char=3652|end_char=3653
+28	produção	produção	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	O	start_char=3654|end_char=3662
+29	atual	atual	ADJ	_	Gender=Fem|Number=Sing	28	amod	O	start_char=3663|end_char=3668
+30-31	do	_	_	_	_	_	_	O	start_char=3669|end_char=3671
+30	de	de	ADP	_	_	32	case	O	_
+31	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	O	_
+32	subgrupo	subgrupo	NOUN	_	Gender=Masc|Number=Sing	28	nmod	O	start_char=3672|end_char=3680
+33	de	de	ADP	_	_	34	case	O	start_char=3681|end_char=3683
+34	poços	poço	NOUN	_	Gender=Masc|Number=Plur	32	nmod	B=POÇO	start_char=3684|end_char=3689
+35	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	36	cop	O	start_char=3690|end_char=3693
+36	menor	pequeno	ADJ	_	Gender=Fem|Number=Sing	12	ccomp	O	start_char=3694|end_char=3699
+37	que	que	SCONJ	_	_	43	mark	O	start_char=3700|end_char=3703
+38	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	O	start_char=3704|end_char=3705
+39	produção	produção	NOUN	_	Gender=Fem|Number=Sing	43	nsubj	O	start_char=3706|end_char=3714
+40	de	de	ADP	_	_	41	case	O	start_char=3715|end_char=3717
+41	abandono	abandono	NOUN	_	Gender=Masc|Number=Sing	39	nmod	B=FLUIDODATERRA_i	start_char=3718|end_char=3726
+42	,	,	PUNCT	_	_	43	punct	O	start_char=3726|end_char=3727
+43-44	considerou-se	_	_	_	_	_	_	O	start_char=3728|end_char=3741
+43	considerou	considerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	conj	O	_
+44	se	se	SCONJ	_	_	47	mark	O	_
+45	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	O	start_char=3742|end_char=3743
+46	volume	volume	NOUN	_	Gender=Masc|Number=Sing	47	nsubj	O	start_char=3744|end_char=3750
+47	recuperáve	recuperar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	43	ccomp	O	start_char=3751|end_char=3761
+48	!	!	PUNCT	_	_	49	punct	O	start_char=3761|end_char=3762
+49	igual	igual	ADJ	_	Gender=Masc|Number=Sing	47	xcomp	O	start_char=3763|end_char=3768
+50-51	ao	_	_	_	_	_	_	O	start_char=3769|end_char=3771
+50	a	a	ADP	_	_	53	case	O	_
+51	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	53	det	O	_
+52	Já	já	ADV	_	_	53	advmod	O	start_char=3772|end_char=3774
+53	recuperado	recuperar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	49	conj	O	start_char=3775|end_char=3785
+54	.	.	PUNCT	_	_	53	punct	O	start_char=3785|end_char=3786
+55	.	.	PUNCT	_	_	12	punct	O	start_char=3786|end_char=3787
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-33
+# text = Para efeito de estimativa de dGleo mantido o fator de recuperação anterior está baseado em estudo de reservatório)..
+1	Para	para	ADP	_	_	2	case	O	start_char=3789|end_char=3793
+2	efeito	efeito	NOUN	_	Gender=Masc|Number=Sing	15	obl	O	start_char=3794|end_char=3800
+3	de	de	ADP	_	_	4	case	O	start_char=3801|end_char=3803
+4	estimativa	estimativa	NOUN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=3804|end_char=3814
+5	de	de	ADP	_	_	6	case	O	start_char=3815|end_char=3817
+6	d	d	NOUN	_	Gender=Masc|Number=Sing	4	nmod	O	start_char=3818|end_char=3819
+7	Gleo	Gleo	PROPN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=3819|end_char=3823
+8	mantido	manter	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	O	start_char=3824|end_char=3831
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	O	start_char=3832|end_char=3833
+10	fator	fator	NOUN	_	Gender=Masc|Number=Sing	8	obj	O	start_char=3834|end_char=3839
+11	de	de	ADP	_	_	12	case	O	start_char=3840|end_char=3842
+12	recuperação	recuperação	NOUN	_	Gender=Fem|Number=Sing	10	nmod	O	start_char=3843|end_char=3854
+13	anterior	anterior	ADJ	_	Gender=Fem|Number=Sing	12	amod	O	start_char=3855|end_char=3863
+14	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	O	start_char=3864|end_char=3868
+15	baseado	basear	ADJ	_	Gender=Masc|Number=Sing	0	root	O	start_char=3869|end_char=3876
+16	em	em	ADP	_	_	17	case	O	start_char=3877|end_char=3879
+17	estudo	estudo	NOUN	_	Gender=Masc|Number=Sing	15	obl	O	start_char=3880|end_char=3886
+18	de	de	ADP	_	_	19	case	O	start_char=3887|end_char=3889
+19	reservatório	reservatório	NOUN	_	Gender=Masc|Number=Sing	17	nmod	O	start_char=3890|end_char=3902
+20	)	)	PUNCT	_	_	15	punct	O	start_char=3902|end_char=3903
+21	.	.	PUNCT	_	_	15	punct	O	start_char=3903|end_char=3904
+22	.	.	PUNCT	_	_	15	punct	O	start_char=3904|end_char=3905
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-34
+# text = originai in place foi (arbitrado, porque não 1 - G poço CP-1026 fechado por alta RGO foi agrupado com os poços fechados por baixa produtividade deixando assim de contribuir com o aumento do volume recuperável no Embasamento e na formação MUR/OIT..
+1	originai	originai	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	O	start_char=3907|end_char=3915
+2	in	in	X	_	_	1	compound	O	start_char=3916|end_char=3918
+3	place	place	X	_	_	1	compound	O	start_char=3919|end_char=3924
+4	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	O	start_char=3925|end_char=3928
+5	(	(	PUNCT	_	_	6	punct	O	start_char=3929|end_char=3930
+6	arbitrado	arbitrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	O	start_char=3930|end_char=3939
+7	,	,	PUNCT	_	_	6	punct	O	start_char=3939|end_char=3940
+8	porque	porque	SCONJ	_	_	20	mark	O	start_char=3941|end_char=3947
+9	não	não	ADV	_	Polarity=Neg	10	advmod	O	start_char=3948|end_char=3951
+10	1	1	NUM	_	NumType=Card	20	nsubj:pass	O	start_char=3952|end_char=3953
+11	-	-	PUNCT	_	_	12	punct	O	start_char=3954|end_char=3955
+12	G	g	NOUN	_	Gender=Masc|Number=Sing	10	appos	O	start_char=3956|end_char=3957
+13	poço	poço	NOUN	_	Gender=Masc|Number=Sing	12	nmod	B=POÇO	start_char=3958|end_char=3962
+14	CP-1026	CP-1026	PROPN	_	Gender=Masc|Number=Sing	12	nmod	I=POÇO	start_char=3963|end_char=3970
+15	fechado	fechar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	12	acl	O	start_char=3971|end_char=3978
+16	por	por	ADP	_	_	17	case	O	start_char=3979|end_char=3982
+17	alta	alta	NOUN	_	Gender=Fem|Number=Sing	15	obl:agent	O	start_char=3983|end_char=3987
+18	RGO	RGO	PROPN	_	Gender=Fem|Number=Sing	17	nmod	O	start_char=3988|end_char=3991
+19	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux:pass	O	start_char=3992|end_char=3995
+20	agrupado	agrupar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	6	advcl	O	start_char=3996|end_char=4004
+21	com	com	ADP	_	_	23	case	O	start_char=4005|end_char=4008
+22	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	O	start_char=4009|end_char=4011
+23	poços	poço	NOUN	_	Gender=Masc|Number=Plur	20	obl	B=POÇO	start_char=4012|end_char=4017
+24	fechados	fechar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	23	acl	O	start_char=4018|end_char=4026
+25	por	por	ADP	_	_	27	case	O	start_char=4027|end_char=4030
+26	baixa	baixo	ADJ	_	Gender=Fem|Number=Sing	27	amod	O	start_char=4031|end_char=4036
+27	produtividade	produtividade	NOUN	_	Gender=Fem|Number=Sing	24	obl:agent	O	start_char=4037|end_char=4050
+28	deixando	deixar	VERB	_	VerbForm=Ger	20	advcl	O	start_char=4051|end_char=4059
+29	assim	assim	ADV	_	_	28	advmod	O	start_char=4060|end_char=4065
+30	de	de	SCONJ	_	_	31	mark	O	start_char=4066|end_char=4068
+31	contribuir	contribuir	VERB	_	VerbForm=Inf	28	advcl	O	start_char=4069|end_char=4079
+32	com	com	ADP	_	_	34	case	O	start_char=4080|end_char=4083
+33	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	O	start_char=4084|end_char=4085
+34	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	31	obl:arg	O	start_char=4086|end_char=4093
+35-36	do	_	_	_	_	_	_	O	start_char=4094|end_char=4096
+35	de	de	ADP	_	_	37	case	O	_
+36	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	O	_
+37	volume	volume	NOUN	_	Gender=Masc|Number=Sing	34	nmod	O	start_char=4097|end_char=4103
+38	recuperável	recuperável	ADJ	_	Gender=Masc|Number=Sing	37	amod	O	start_char=4104|end_char=4115
+39-40	no	_	_	_	_	_	_	O	start_char=4116|end_char=4118
+39	em	em	ADP	_	_	41	case	O	_
+40	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	O	_
+41	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	37	nmod	B=UNIDADE_LITO	start_char=4119|end_char=4130
+42	e	e	CCONJ	_	_	45	cc	O	start_char=4131|end_char=4132
+43-44	na	_	_	_	_	_	_	O	start_char=4133|end_char=4135
+43	em	em	ADP	_	_	45	case	O	_
+44	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	O	_
+45	formação	formação	NOUN	_	Gender=Fem|Number=Sing	41	conj	O	start_char=4136|end_char=4144
+46	MUR/OIT	MUR/OIT	PROPN	_	Gender=Fem|Number=Sing	45	nmod	O	start_char=4145|end_char=4152
+47	.	.	PUNCT	_	_	45	punct	O	start_char=4152|end_char=4153
+48	.	.	PUNCT	_	_	6	punct	O	start_char=4153|end_char=4154
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-35
+# text = 2 - O volume recuperável da formação RIA/TQR foi caiculado separadamente dos grupos por ter apenas 3 poços que produzem da mesma, são eles CP-1070,CP-1126,CP-1172..
+1	2	2	NUM	_	NumType=Card	11	nsubj:pass	O	start_char=4156|end_char=4157
+2	-	-	PUNCT	_	_	1	punct	O	start_char=4158|end_char=4159
+3	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	O	start_char=4160|end_char=4161
+4	volume	volume	NOUN	_	Gender=Masc|Number=Sing	11	nsubj:pass	O	start_char=4162|end_char=4168
+5	recuperável	recuperável	ADJ	_	Gender=Masc|Number=Sing	4	amod	O	start_char=4169|end_char=4180
+6-7	da	_	_	_	_	_	_	O	start_char=4181|end_char=4183
+6	de	de	ADP	_	_	8	case	O	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	O	_
+8	formação	formação	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=4184|end_char=4192
+9	RIA/TQR	RIA/TQR	PROPN	_	Gender=Fem|Number=Sing	8	nmod	O	start_char=4193|end_char=4200
+10	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	O	start_char=4201|end_char=4204
+11	caiculado	caicular	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=4205|end_char=4214
+12	separadamente	separadamente	ADV	_	_	11	advmod	O	start_char=4215|end_char=4228
+13-14	dos	_	_	_	_	_	_	O	start_char=4229|end_char=4232
+13	de	de	ADP	_	_	15	case	O	_
+14	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	O	_
+15	grupos	grupo	NOUN	_	Gender=Masc|Number=Plur	11	obl	O	start_char=4233|end_char=4239
+16	por	por	SCONJ	_	_	17	mark	O	start_char=4240|end_char=4243
+17	ter	ter	VERB	_	VerbForm=Inf	11	advcl	O	start_char=4244|end_char=4247
+18	apenas	apenas	ADV	_	_	19	advmod	O	start_char=4248|end_char=4254
+19	3	3	NUM	_	NumType=Card	20	nummod	O	start_char=4255|end_char=4256
+20	poços	poço	NOUN	_	Gender=Masc|Number=Plur	17	obj	B=POÇO	start_char=4257|end_char=4262
+21	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	22	nsubj	O	start_char=4263|end_char=4266
+22	produzem	produzir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	O	start_char=4267|end_char=4275
+23-24	da	_	_	_	_	_	_	O	start_char=4276|end_char=4278
+23	de	de	ADP	_	_	25	case	O	_
+24	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	O	_
+25	mesma	mesmo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	22	obl:arg	O	start_char=4279|end_char=4284
+26	,	,	PUNCT	_	_	22	punct	O	start_char=4284|end_char=4285
+27	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	cop	O	start_char=4286|end_char=4289
+28	eles	eles	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	conj	O	start_char=4290|end_char=4294
+29	CP-1070,CP-1126,CP-1172	CP-1070,CP-1126,CP-1172	PROPN	_	Gender=Masc|Number=Sing	28	nmod	B=POÇO	start_char=4295|end_char=4318
+30	.	.	PUNCT	_	_	28	punct	O	start_char=4318|end_char=4319
+31	.	.	PUNCT	_	_	11	punct	O	start_char=4319|end_char=4320
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-36
+# text = 3 - Atráves destes cálculos verificou-se que o voiume recuperável do Embasamento e da formação MUR/CPS diminuiram, entretanto nas outras formações aumentaram principalmente na formação MUR/OIT que dobrou o volume..
+1	3	3	NUM	_	NumType=Card	7	nummod	O	start_char=4322|end_char=4323
+2	-	-	PUNCT	_	_	1	punct	O	start_char=4324|end_char=4325
+3	Atráves	atráve	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	O	start_char=4326|end_char=4333
+4-5	destes	_	_	_	_	_	_	O	start_char=4334|end_char=4340
+4	de	de	ADP	_	_	6	case	O	_
+5	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	6	det	O	_
+6	cálculos	cálculo	NOUN	_	Gender=Masc|Number=Plur	3	nmod	O	start_char=4341|end_char=4349
+7-8	verificou-se	_	_	_	_	_	_	O	start_char=4350|end_char=4362
+7	verificou	verificar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	_
+8	se	se	PRON	_	Case=Acc|PronType=Prs	7	expl	O	_
+9	que	que	SCONJ	_	_	21	mark	O	start_char=4363|end_char=4366
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	start_char=4367|end_char=4368
+11	voiume	voiume	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	O	start_char=4369|end_char=4375
+12	recuperável	recuperável	ADJ	_	Gender=Masc|Number=Sing	11	amod	O	start_char=4376|end_char=4387
+13-14	do	_	_	_	_	_	_	O	start_char=4388|end_char=4390
+13	de	de	ADP	_	_	15	case	O	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	O	_
+15	Embasamento	embasamento	NOUN	_	Gender=Masc|Number=Sing	11	nmod	B=UNIDADE_LITO	start_char=4391|end_char=4402
+16	e	e	CCONJ	_	_	19	cc	O	start_char=4403|end_char=4404
+17-18	da	_	_	_	_	_	_	O	start_char=4405|end_char=4407
+17	de	de	ADP	_	_	19	case	O	_
+18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	O	_
+19	formação	formação	NOUN	_	Gender=Fem|Number=Sing	15	conj	O	start_char=4408|end_char=4416
+20	MUR/CPS	MUR/CPS	PROPN	_	Gender=Fem|Number=Sing	19	nmod	O	start_char=4417|end_char=4424
+21	diminuiram	diminuir	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	7	ccomp	O	start_char=4425|end_char=4435
+22	,	,	PUNCT	_	_	21	punct	O	start_char=4435|end_char=4436
+23	entretanto	entretanto	CCONJ	_	_	28	cc	O	start_char=4437|end_char=4447
+24-25	nas	_	_	_	_	_	_	O	start_char=4448|end_char=4451
+24	em	em	ADP	_	_	27	case	O	_
+25	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	O	_
+26	outras	outro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	27	det	O	start_char=4452|end_char=4458
+27	formações	formação	NOUN	_	Gender=Fem|Number=Plur	28	obl	O	start_char=4459|end_char=4468
+28	aumentaram	aumentar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	21	conj	O	start_char=4469|end_char=4479
+29	principalmente	principalmente	ADV	_	_	28	advmod	O	start_char=4480|end_char=4494
+30-31	na	_	_	_	_	_	_	O	start_char=4495|end_char=4497
+30	em	em	ADP	_	_	32	case	O	_
+31	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	O	_
+32	formação	formação	NOUN	_	Gender=Fem|Number=Sing	28	obl	O	start_char=4498|end_char=4506
+33	MUR/OIT	MUR/OIT	PROPN	_	Gender=Fem|Number=Sing	32	nmod	O	start_char=4507|end_char=4514
+34	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	35	nsubj	O	start_char=4515|end_char=4518
+35	dobrou	dobrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	acl:relcl	O	start_char=4519|end_char=4525
+36	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	O	start_char=4526|end_char=4527
+37	volume	volume	NOUN	_	Gender=Masc|Number=Sing	35	obj	O	start_char=4528|end_char=4534
+38	.	.	PUNCT	_	_	28	punct	O	start_char=4534|end_char=4535
+39	.	.	PUNCT	_	_	7	punct	O	start_char=4535|end_char=4536
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-37
+# text = AA  8 - TABELAS  E) GRUPO GRUPO GRUPO àb GRUPO GRUPO Nr  GRUPO é  4% GRUPO GRUPO GRUPO Lb  GRUPO GRUPS £ GRUPO i?
+1	AA	AA	PROPN	_	Gender=Masc|Number=Sing	19	nsubj	O	start_char=4538|end_char=4540
+2	8	8	PROPN	_	Number=Sing	1	flat:name	O	start_char=4542|end_char=4543
+3	-	-	PUNCT	_	_	4	punct	O	start_char=4544|end_char=4545
+4	TABELAS	Tarelas	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=4546|end_char=4553
+5	E	e	CCONJ	_	_	7	cc	O	start_char=4555|end_char=4556
+6	)	)	PUNCT	_	_	4	punct	O	start_char=4556|end_char=4557
+7	GRUPO	grupo	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=4558|end_char=4563
+8	GRUPO	grupo	PROPN	_	Number=Sing	7	flat:name	O	start_char=4564|end_char=4569
+9	GRUPO	grupo	PROPN	_	Number=Sing	7	flat:name	O	start_char=4570|end_char=4575
+10-11	àb	_	_	_	_	_	_	O	start_char=4576|end_char=4578
+10	a	a	ADP	_	_	12	case	O	_
+11	ab	ab	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	O	_
+12	GRUPO	grupo	PROPN	_	Gender=Masc|Number=Sing	7	nmod	O	start_char=4579|end_char=4584
+13	GRUPO	grupo	PROPN	_	Number=Sing	12	flat:name	O	start_char=4585|end_char=4590
+14-15	Nr	_	_	_	_	_	_	O	start_char=4591|end_char=4593
+14	Em	em	ADP	_	_	15	case	O	_
+15	r	r	PROPN	_	Gender=Masc|Number=Sing	12	nmod	O	_
+16	GRUPO	grupo	PROPN	_	Number=Sing	15	flat:name	O	start_char=4595|end_char=4600
+17	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	O	start_char=4601|end_char=4602
+18	4	4	NUM	_	NumType=Card	19	nummod	O	start_char=4604|end_char=4605
+19	%	%	SYM	_	_	0	root	O	start_char=4605|end_char=4606
+20	GRUPO	grupo	PROPN	_	Gender=Masc|Number=Sing	19	nmod	O	start_char=4607|end_char=4612
+21	GRUPO	grupo	PROPN	_	Number=Sing	20	flat:name	O	start_char=4613|end_char=4618
+22	GRUPO	grupo	PROPN	_	Number=Sing	20	flat:name	O	start_char=4619|end_char=4624
+23	Lb	Lb	PROPN	_	Number=Sing	20	flat:name	O	start_char=4625|end_char=4627
+24	GRUPO	grupo	PROPN	_	Number=Sing	20	flat:name	O	start_char=4629|end_char=4634
+25	GRUPS	GRUPS	PROPN	_	Number=Sing	20	flat:name	O	start_char=4635|end_char=4640
+26	£	£	PROPN	_	Number=Sing	20	flat:name	O	start_char=4641|end_char=4642
+27	GRUPO	grupo	PROPN	_	Gender=Masc|Number=Sing	20	flat:name	O	start_char=4643|end_char=4648
+28	i	i	PROPN	_	Number=Sing	27	flat:name	O	start_char=4649|end_char=4650
+29	?	?	PUNCT	_	_	19	punct	O	start_char=4650|end_char=4651
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-38
+# text = GRUPO rc | e ma q O q ye A a Pt pe e e q e e as do 2%  HH 9 - GRÁFICOS  “ug GO St S
+1	GRUPO	grupo	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4653|end_char=4658
+2	rc	rc	X	_	_	1	nmod	O	start_char=4659|end_char=4661
+3	|	|	PUNCT	_	_	5	punct	O	start_char=4662|end_char=4663
+4	e	e	CCONJ	_	_	5	cc	O	start_char=4664|end_char=4665
+5	ma	ma	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=4666|end_char=4668
+6	q	q	PROPN	_	Number=Sing	5	flat:name	O	start_char=4669|end_char=4670
+7	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	flat:name	O	start_char=4671|end_char=4672
+8	q	q	PROPN	_	Number=Sing	5	flat:name	O	start_char=4673|end_char=4674
+9	ye	ye	PROPN	_	Number=Sing	5	flat:name	O	start_char=4675|end_char=4677
+10	A	a	ADP	_	_	12	case	O	start_char=4678|end_char=4679
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	O	start_char=4680|end_char=4681
+12	Pt	Pt	PROPN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=4682|end_char=4684
+13	pe	pe	PROPN	_	Number=Sing	12	flat:name	O	start_char=4685|end_char=4687
+14	e	e	CCONJ	_	_	16	cc	O	start_char=4688|end_char=4689
+15	e	e	CCONJ	_	_	16	cc	O	start_char=4690|end_char=4691
+16	q	q	NOUN	_	Gender=Masc|Number=Sing	12	conj	O	start_char=4692|end_char=4693
+17	e	e	CCONJ	_	_	19	cc	O	start_char=4694|end_char=4695
+18	e	e	CCONJ	_	_	19	cc	O	start_char=4696|end_char=4697
+19	as	o	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	1	conj	O	start_char=4698|end_char=4700
+20-21	do	_	_	_	_	_	_	O	start_char=4701|end_char=4703
+20	de	de	ADP	_	_	23	case	O	_
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	O	_
+22	2	2	NUM	_	NumType=Card	23	nummod	O	start_char=4704|end_char=4705
+23	%	%	SYM	_	_	19	nmod	O	start_char=4705|end_char=4706
+24	HH	HH	PROPN	_	Gender=Masc|Number=Sing	23	nmod	O	start_char=4708|end_char=4710
+25	9	9	NUM	_	NumType=Card	24	flat:name	O	start_char=4711|end_char=4712
+26	-	-	PUNCT	_	_	27	punct	O	start_char=4713|end_char=4714
+27	GRÁFICOS	Gráfico	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=4715|end_char=4723
+28	“	»	PUNCT	_	_	29	punct	O	start_char=4725|end_char=4726
+29	ug	ug	PROPN	_	Gender=Masc|Number=Sing	27	appos	O	start_char=4726|end_char=4728
+30	GO	GO	PROPN	_	Gender=Masc|Number=Sing	29	flat:name	O	start_char=4729|end_char=4731
+31	St	St	PROPN	_	Number=Sing	29	flat:name	O	start_char=4732|end_char=4734
+32	S	S	PROPN	_	Number=Sing	29	flat:name	O	start_char=4735|end_char=4736
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-39
+# text = Ss s SF S
+1	Ss	Ss	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4738|end_char=4740
+2	s	s	PROPN	_	Number=Sing	1	flat:name	O	start_char=4741|end_char=4742
+3	SF	SF	PROPN	_	Number=Sing	1	flat:name	O	start_char=4743|end_char=4745
+4	S	S	PROPN	_	Number=Sing	1	flat:name	O	start_char=4746|end_char=4747
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-40
+# text = Es FO Jog 3O && Go qz GF gg o MY ( {ZG
+1	Es	Es	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4749|end_char=4751
+2	FO	FO	PROPN	_	Number=Sing	1	flat:name	O	start_char=4752|end_char=4754
+3	Jog	Jog	PROPN	_	Number=Sing	1	flat:name	O	start_char=4755|end_char=4758
+4	3O	3O	PROPN	_	Number=Sing	1	flat:name	O	start_char=4759|end_char=4761
+5	&	&	PROPN	_	Number=Sing	1	flat:name	O	start_char=4762|end_char=4763
+6	&	&	PROPN	_	Number=Sing	1	flat:name	O	start_char=4763|end_char=4764
+7	Go	Go	PROPN	_	Number=Sing	1	flat:name	O	start_char=4765|end_char=4767
+8	qz	qz	PROPN	_	Number=Sing	1	flat:name	O	start_char=4768|end_char=4770
+9	GF	GF	PROPN	_	Number=Sing	1	flat:name	O	start_char=4771|end_char=4773
+10	gg	gg	PROPN	_	Number=Sing	1	flat:name	O	start_char=4774|end_char=4776
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat:name	O	start_char=4777|end_char=4778
+12	MY	MY	PROPN	_	Number=Sing	1	flat:name	O	start_char=4779|end_char=4781
+13	(	(	PUNCT	_	_	14	punct	O	start_char=4782|end_char=4783
+14	{ZG	{ZG	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=4784|end_char=4787
+
+# sent_id = 389CC9BD8F1C408BE05354EB1D0A9ED6-41
+# text = €00000000000000000000000000000000000000000000€ AB COCO C0C00C000000000000000000000000000000000 000000000000000000000000000000000000000000000%
+1	€00000000000000000000000000000000000000000000	€00000000000000000000000000000000000000000000	NUM	_	NumType=Card	2	nummod	O	start_char=4789|end_char=4834
+2	€	€	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=4834|end_char=4835
+3	AB	AB	PROPN	_	Gender=Masc|Number=Sing	2	nmod	O	start_char=4836|end_char=4838
+4	COCO	COCO	PROPN	_	Number=Sing	3	flat:name	O	start_char=4839|end_char=4843
+5	C0C00C000000000000000000000000000000000 000000000000000000000000000000000000000000000	c0c00c000000000000000000000000000000000 000000000000000000000000000000000000000000000	NOUN	_	Gender=Masc|Number=Sing	3	flat:name	O	start_char=4844|end_char=4929
+6	%	%	SYM	_	_	3	flat:name	O	start_char=4929|end_char=4930

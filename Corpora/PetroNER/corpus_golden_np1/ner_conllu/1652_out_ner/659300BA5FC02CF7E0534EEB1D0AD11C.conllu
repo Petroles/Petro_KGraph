@@ -1,0 +1,269 @@
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-1
+# text = =
+1	=	=	PUNCT	_	_	0	root	O	start_char=0|end_char=1
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-2
+# text = E=Zas PETROEBFE ASS  CENPES/PDGEO/IRPS  CENPES/PDGEO/IRPS LABORATÓRIO DE DIFRATOMETRIA DE RAIO X - BOLETIM DE RESULTADO 16 CENPES/PDEP/GSE
+1	E=Zas	E=Zas	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3|end_char=8
+2	PETROEBFE	PETROEBFE	PROPN	_	Number=Sing	1	flat:name	O	start_char=9|end_char=18
+3	ASS	ASS	PROPN	_	Number=Sing	1	flat:name	O	start_char=19|end_char=22
+4	CENPES	CENPES	PROPN	_	Number=Sing	1	flat:name	O	start_char=24|end_char=30
+5	/PDGEO/IRPS	/PDGEO/IRPS	PROPN	_	Number=Sing	1	flat:name	O	start_char=30|end_char=41
+6	CENPES/PDGEO/IRPS	CENPES/PDGEO/IRPS	PROPN	_	Number=Sing	1	flat:name	O	start_char=43|end_char=60
+7	LABORATÓRIO	LABORATÓRIO	PROPN	_	Number=Sing	1	flat:name	O	start_char=61|end_char=72
+8	DE	de	ADP	_	_	1	flat:name	O	start_char=73|end_char=75
+9	DIFRATOMETRIA	DIFRATOMETRIA	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	O	start_char=76|end_char=89
+10	DE	de	ADP	_	_	1	flat:name	O	start_char=90|end_char=92
+11	RAIO	RAIO	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	O	start_char=93|end_char=97
+12	X	X	PROPN	_	Number=Sing	1	flat:name	O	start_char=98|end_char=99
+13	-	-	PUNCT	_	_	14	punct	O	start_char=100|end_char=101
+14	BOLETIM	BOLETIM	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=102|end_char=109
+15	DE	de	ADP	_	_	14	flat:name	O	start_char=110|end_char=112
+16	RESULTADO	Resultado	PROPN	_	Number=Sing	14	flat:name	O	start_char=113|end_char=122
+17	16	16	PROPN	_	Number=Sing	14	flat:name	O	start_char=123|end_char=125
+18	CENPES/PDEP	CENPES/PDEP	PROPN	_	Number=Sing	14	flat:name	O	start_char=126|end_char=137
+19	/GSE	/GSE	PROPN	_	Number=Sing	14	flat:name	O	start_char=137|end_char=141
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-3
+# text = Orgão: Nº de Amostras: 1001002797-0020
+1	Orgão	orgão	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=143|end_char=148
+2	:	:	PUNCT	_	_	3	punct	O	start_char=148|end_char=149
+3	Nº	Nº	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=150|end_char=152
+4	de	de	ADP	_	_	3	flat:name	O	start_char=153|end_char=155
+5	Amostras	Amostras	PROPN	_	Number=Sing	3	flat:name	O	start_char=156|end_char=164
+6	:	:	PUNCT	_	_	3	punct	O	start_char=164|end_char=165
+7	1001002797-0020	1001002797-0020	NUM	_	NumType=Card	3	nmod:appos	O	start_char=166|end_char=181
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-4
+# text = Diagrama de Rede: MÉTODO DE ANÁLISE fração menor que 2µ pode ser também solvatada com glicerol, para a distinção de alguns grupos de argilominerais..
+1	Diagrama	diagrama	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=183|end_char=191
+2	de	de	ADP	_	_	3	case	O	start_char=192|end_char=194
+3	Rede	Rede	PROPN	_	Number=Sing	1	nmod	O	start_char=195|end_char=199
+4	:	:	PUNCT	_	_	5	punct	O	start_char=199|end_char=200
+5	MÉTODO	método	NOUN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=201|end_char=207
+6	DE	de	ADP	_	_	8	case	O	start_char=208|end_char=210
+7	ANÁLISE	ANÁLISE	PROPN	_	Number=Sing	5	nmod	O	start_char=211|end_char=218
+8	fração	fração	NOUN	_	Gender=Fem|Number=Sing	5	nmod	O	start_char=219|end_char=225
+9	menor	pequeno	ADJ	_	Gender=Fem|Number=Sing	8	amod	O	start_char=226|end_char=231
+10	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	13	obj	O	start_char=232|end_char=235
+11	2	2	NUM	_	NumType=Card	12	nummod	O	start_char=236|end_char=237
+12	µ	µ	NOUN	_	Gender=Masc|Number=Plur	13	nsubj	O	start_char=237|end_char=238
+13	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	O	start_char=239|end_char=243
+14	ser	ser	AUX	_	VerbForm=Inf	16	aux:pass	O	start_char=244|end_char=247
+15	também	também	ADV	_	_	16	advmod	O	start_char=248|end_char=254
+16	solvatada	solvatar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	13	xcomp	O	start_char=255|end_char=264
+17	com	com	ADP	_	_	18	case	O	start_char=265|end_char=268
+18	glicerol	glicerol	NOUN	_	Gender=Masc|Number=Sing	16	obl	O	start_char=269|end_char=277
+19	,	,	PUNCT	_	_	16	punct	O	start_char=277|end_char=278
+20	para	para	ADP	_	_	22	case	O	start_char=279|end_char=283
+21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	O	start_char=284|end_char=285
+22	distinção	distinção	NOUN	_	Gender=Fem|Number=Sing	16	obl	O	start_char=286|end_char=295
+23	de	de	ADP	_	_	25	case	O	start_char=296|end_char=298
+24	alguns	algum	DET	_	Gender=Masc|Number=Plur|PronType=Ind	25	det	O	start_char=299|end_char=305
+25	grupos	grupo	NOUN	_	Gender=Masc|Number=Plur	22	nmod	O	start_char=306|end_char=312
+26	de	de	ADP	_	_	27	case	O	start_char=313|end_char=315
+27	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	25	nmod	O	start_char=316|end_char=330
+28	.	.	PUNCT	_	_	1	punct	O	start_char=330|end_char=331
+29	.	.	PUNCT	_	_	1	punct	O	start_char=331|end_char=332
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-5
+# text = RESULTADOS  ALVES, D.B. 1987..
+1	RESULTADOS	resultado	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=334|end_char=344
+2	ALVES	Alves	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=346|end_char=351
+3	,	,	PUNCT	_	_	4	punct	O	start_char=351|end_char=352
+4	D.B.	D.B.	PROPN	_	Gender=Masc|Number=Sing	2	conj	O	start_char=353|end_char=357
+5	1987	1987	NUM	_	NumType=Card	4	flat:name	O	start_char=358|end_char=362
+6	.	.	PUNCT	_	_	4	flat:name	O	start_char=362|end_char=363
+7	.	.	PUNCT	_	_	1	punct	O	start_char=363|end_char=364
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-6
+# text = adeoemadeDesenvolvimento metodologia de preparação de amostras para análise difratométrica de argilominerais Centro de Pesquisas PETROBRAS..         
+1	Desenvolvimento	desenvolvimento	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=366|end_char=381
+2-3	da	_	_	_	_	_	_	O	start_char=382|end_char=384
+2	de	de	ADP	_	_	4	case	O	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	_
+4	metodologia	metodologia	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=385|end_char=396
+5	de	de	ADP	_	_	6	case	O	start_char=397|end_char=399
+6	preparação	preparação	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=400|end_char=410
+7	de	de	ADP	_	_	8	case	O	start_char=411|end_char=413
+8	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	6	nmod	O	start_char=414|end_char=422
+9	para	para	ADP	_	_	10	case	O	start_char=423|end_char=427
+10	análise	análise	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=428|end_char=435
+11	difratométrica	difratométrico	ADJ	_	Gender=Fem|Number=Sing	10	amod	O	start_char=436|end_char=450
+12	de	de	ADP	_	_	13	case	O	start_char=451|end_char=453
+13	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	10	nmod	O	start_char=454|end_char=468
+14-15	no	_	_	_	_	_	_	O	start_char=469|end_char=471
+14	em	em	ADP	_	_	16	case	O	_
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	O	_
+16	Centro	Centro	PROPN	_	Gender=Masc|Number=Sing	10	nmod	O	start_char=472|end_char=478
+17	de	de	ADP	_	_	16	flat:name	O	start_char=479|end_char=481
+18	Pesquisas	Pesquisas	PROPN	_	Number=Sing	16	flat:name	O	start_char=482|end_char=491
+19-20	da	_	_	_	_	_	_	O	start_char=492|end_char=494
+19	de	de	ADP	_	_	16	flat:name	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	flat:name	O	_
+21	PETROBRAS	Petrorras	PROPN	_	Number=Sing	16	flat:name	O	start_char=495|end_char=504
+22	.	.	PUNCT	_	_	1	punct	O	start_char=504|end_char=505
+23	.	.	PUNCT	_	_	1	punct	O	start_char=505|end_char=506
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-7
+# text = adeBoletim de Geociências PETROBRAS, 1(2):157-175..   
+1	Boletim	boletim	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=508|end_char=515
+2	de	de	ADP	_	_	1	flat:name	O	start_char=516|end_char=518
+3	Geociências	Geociências	PROPN	_	Number=Sing	1	flat:name	O	start_char=519|end_char=530
+4-5	da	_	_	_	_	_	_	O	start_char=531|end_char=533
+4	de	de	ADP	_	_	6	case	O	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	O	_
+6	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=534|end_char=543
+7	,	,	PUNCT	_	_	1	flat:name	O	start_char=543|end_char=544
+8	1(2):157-175	1(2):157-175	NUM	_	NumType=Card	6	flat:name	O	start_char=545|end_char=557
+9	.	.	PUNCT	_	_	1	punct	O	start_char=557|end_char=558
+10	.	.	PUNCT	_	_	1	punct	O	start_char=558|end_char=559
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-8
+# text = BROWN, G. & BRINDLEY, G.W. 1980..
+1	BROWN	BROWN	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=561|end_char=566
+2	,	,	PUNCT	_	_	3	punct	O	start_char=566|end_char=567
+3	G.	G.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=568|end_char=570
+4	&	&	PROPN	_	Number=Sing	3	flat:name	O	start_char=571|end_char=572
+5	BRINDLEY	BRINDLEY	PROPN	_	Number=Sing	3	flat:name	O	start_char=573|end_char=581
+6	,	,	PUNCT	_	_	7	punct	O	start_char=581|end_char=582
+7	G.W.	G.W.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=583|end_char=587
+8	1980	1980	NUM	_	NumType=Card	7	flat:name	O	start_char=588|end_char=592
+9	.	.	PUNCT	_	_	1	punct	O	start_char=592|end_char=593
+10	.	.	PUNCT	_	_	1	punct	O	start_char=593|end_char=594
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-9
+# text = X-Ray diffraction procedure for clay mineral identifications..
+1	X-Ray	X-Ray	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	O	start_char=596|end_char=601
+2	diffraction	diffraction	X	_	_	1	flat:name	O	start_char=602|end_char=613
+3	procedure	procedure	X	_	_	1	flat:foreign	O	start_char=614|end_char=623
+4	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	cop	O	start_char=624|end_char=627
+5	clay	clay	X	_	_	0	root	O	start_char=628|end_char=632
+6	mineral	mineral	X	_	_	5	flat:foreign	O	start_char=633|end_char=640
+7	identifications.	identificatio	ADJ	_	Gender=Masc|Number=Sing	5	amod	O	start_char=641|end_char=657
+8	.	.	PUNCT	_	_	5	punct	O	start_char=657|end_char=658
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-10
+# text = In: G.W. BRINDLEY & G. BROWN (Eds.) Crystal structures of clay minerals and their X-ray identification..
+1	In	In	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=660|end_char=662
+2	:	:	PUNCT	_	_	3	punct	O	start_char=662|end_char=663
+3	G.W.	G.W.	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=664|end_char=668
+4	BRINDLEY	BRINDLEY	PROPN	_	Number=Sing	3	flat:name	O	start_char=669|end_char=677
+5	&	&	PROPN	_	Number=Sing	3	flat:name	O	start_char=678|end_char=679
+6	G.	G.	PROPN	_	Number=Sing	3	flat:name	O	start_char=680|end_char=682
+7	BROWN	BROWN	PROPN	_	Number=Sing	3	flat:name	O	start_char=683|end_char=688
+8	(	(	PUNCT	_	_	9	punct	O	start_char=689|end_char=690
+9	Eds.	Eds.	PROPN	_	Gender=Fem|Number=Sing	3	appos	O	start_char=690|end_char=694
+10	)	)	PUNCT	_	_	9	punct	O	start_char=694|end_char=695
+11	Crystal	Crystal	PROPN	_	Number=Sing	3	flat:name	O	start_char=696|end_char=703
+12	structures	structures	PROPN	_	Number=Sing	3	flat:name	O	start_char=704|end_char=714
+13	of	of	PROPN	_	Number=Sing	3	flat:name	O	start_char=715|end_char=717
+14	clay	clay	PROPN	_	Number=Sing	3	flat:name	O	start_char=718|end_char=722
+15	minerals	minerals	PROPN	_	Number=Sing	3	flat:name	O	start_char=723|end_char=731
+16	and	and	PROPN	_	Number=Sing	3	flat:name	O	start_char=732|end_char=735
+17	their	their	PROPN	_	Number=Sing	3	flat:name	O	start_char=736|end_char=741
+18	X-ray	X-ray	PROPN	_	Number=Sing	3	flat:name	O	start_char=742|end_char=747
+19	identification.	identification.	PROPN	_	Number=Sing	3	flat:name	O	start_char=748|end_char=763
+20	.	.	PUNCT	_	_	1	punct	O	start_char=763|end_char=764
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-11
+# text = Mineralogical Society of London, p. 305-359..
+1	Mineralogical	Mineralogical	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=766|end_char=779
+2	Society	Society	PROPN	_	Number=Sing	1	flat:name	O	start_char=780|end_char=787
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=788|end_char=790
+4	London	London	PROPN	_	Number=Sing	1	flat:name	O	start_char=791|end_char=797
+5	,	,	PUNCT	_	_	6	punct	O	start_char=797|end_char=798
+6	p.	p.	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=799|end_char=801
+7	305-359	305-359	NUM	_	NumType=Card	6	nummod	O	start_char=802|end_char=809
+8	.	.	PUNCT	_	_	1	punct	O	start_char=809|end_char=810
+9	.	.	PUNCT	_	_	1	punct	O	start_char=810|end_char=811
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-12
+# text = MDI..
+1	MDI	MDI	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=813|end_char=816
+2	.	.	PUNCT	_	_	1	punct	O	start_char=816|end_char=817
+3	.	.	PUNCT	_	_	1	punct	O	start_char=817|end_char=818
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-13
+# text = Jade 9, versão 9.6..
+1	Jade	Jade	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=820|end_char=824
+2	9	9	PROPN	_	Number=Sing	1	flat:name	O	start_char=825|end_char=826
+3	,	,	PUNCT	_	_	4	punct	O	start_char=826|end_char=827
+4	versão	versão	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=828|end_char=834
+5	9.6	9.6	NUM	_	NumType=Card	4	nummod	O	start_char=835|end_char=838
+6	.	.	PUNCT	_	_	1	flat:name	O	start_char=838|end_char=839
+7	.	.	PUNCT	_	_	1	punct	O	start_char=839|end_char=840
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-14
+# text = Livermore: Materials Data, 2015..
+1	Livermore	Livermore	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=842|end_char=851
+2	:	:	PUNCT	_	_	3	punct	O	start_char=851|end_char=852
+3	Materials	Materials	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=853|end_char=862
+4	Data	Data	PROPN	_	Number=Sing	3	flat:name	O	start_char=863|end_char=867
+5	,	,	PUNCT	_	_	3	flat:name	O	start_char=867|end_char=868
+6	2015	2015	NUM	_	NumType=Card	3	flat:name	O	start_char=869|end_char=873
+7	.	.	PUNCT	_	_	3	flat:name	O	start_char=873|end_char=874
+8	.	.	PUNCT	_	_	1	punct	O	start_char=874|end_char=875
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-15
+# text = CD-ROM THIRY, M. 1974..
+1	CD-ROM	cd-rom	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=877|end_char=883
+2	THIRY	THIRY	PROPN	_	Number=Sing	1	flat:name	O	start_char=884|end_char=889
+3	,	,	PUNCT	_	_	4	punct	O	start_char=889|end_char=890
+4	M.	M.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=891|end_char=893
+5	1974	1974	NUM	_	NumType=Card	4	flat:name	O	start_char=894|end_char=898
+6	.	.	PUNCT	_	_	1	flat:name	O	start_char=898|end_char=899
+7	.	.	PUNCT	_	_	1	punct	O	start_char=899|end_char=900
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-16
+# text = Technique de préparation des mineraux argileux en vue de I'ánalyse aux rayons X. Strasbourg, Centre de Sédimentologie et Géochimie de la Surface, 25p..
+1	Technique	Technique	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=902|end_char=911
+2	de	de	ADP	_	_	1	flat:name	O	start_char=912|end_char=914
+3	préparation	préparation	PROPN	_	Number=Sing	1	flat:name	O	start_char=915|end_char=926
+4	des	des	PROPN	_	Number=Sing	1	flat:name	O	start_char=927|end_char=930
+5	mineraux	mineraux	PROPN	_	Number=Sing	1	flat:name	O	start_char=931|end_char=939
+6	argileux	argileux	PROPN	_	Number=Sing	1	flat:name	O	start_char=940|end_char=948
+7	en	en	PROPN	_	Number=Sing	1	flat:name	O	start_char=949|end_char=951
+8	vue	vue	PROPN	_	Number=Sing	1	flat:name	O	start_char=952|end_char=955
+9	de	de	ADP	_	_	1	flat:name	O	start_char=956|end_char=958
+10	I'ánalyse	I'ánalyse	PROPN	_	Number=Sing	1	flat:name	O	start_char=959|end_char=968
+11	aux	aux	PROPN	_	Number=Sing	1	flat:name	O	start_char=969|end_char=972
+12	rayons	rayons	PROPN	_	Number=Sing	1	flat:name	O	start_char=973|end_char=979
+13	X.	X.	PROPN	_	Number=Sing	1	flat:name	O	start_char=980|end_char=982
+14	Strasbourg	Strasbourg	PROPN	_	Number=Sing	1	flat:name	O	start_char=983|end_char=993
+15	,	,	PUNCT	_	_	1	flat:name	O	start_char=993|end_char=994
+16	Centre	Centre	PROPN	_	Number=Sing	1	flat:name	O	start_char=995|end_char=1001
+17	de	de	ADP	_	_	16	flat:name	O	start_char=1002|end_char=1004
+18	Sédimentologie	Sédimentologie	PROPN	_	Number=Sing	1	flat:name	O	start_char=1005|end_char=1019
+19	et	et	PROPN	_	Number=Sing	1	flat:name	O	start_char=1020|end_char=1022
+20	Géochimie	Géochimie	PROPN	_	Number=Sing	1	flat:name	O	start_char=1023|end_char=1032
+21	de	de	ADP	_	_	1	flat:name	O	start_char=1033|end_char=1035
+22	la	la	PROPN	_	Number=Sing	1	flat:name	O	start_char=1036|end_char=1038
+23	Surface	Surface	PROPN	_	Number=Sing	1	flat:name	O	start_char=1039|end_char=1046
+24	,	,	PUNCT	_	_	26	punct	O	start_char=1046|end_char=1047
+25	25	25	NUM	_	NumType=Card	26	nummod	O	start_char=1048|end_char=1050
+26	p..	p..	NOUN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=1050|end_char=1053
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-17
+# text = YOUNG, R.A. 1995."The Rietveld Method" Oxford University Press, Oxford..
+1	YOUNG	YOUNG	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1055|end_char=1060
+2	,	,	PUNCT	_	_	3	punct	O	start_char=1060|end_char=1061
+3	R.A.	R.A.	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=1062|end_char=1066
+4	1995	1995	NUM	_	NumType=Card	3	flat:name	O	start_char=1067|end_char=1071
+5	.	.	PUNCT	_	_	7	punct	O	start_char=1071|end_char=1072
+6	"	«	PUNCT	_	_	7	punct	O	start_char=1072|end_char=1073
+7	The	The	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=1073|end_char=1076
+8	Rietveld	Rietveld	PROPN	_	Number=Sing	7	flat:name	O	start_char=1077|end_char=1085
+9	Method	Method	PROPN	_	Number=Sing	7	flat:name	O	start_char=1086|end_char=1092
+10	"	«	PUNCT	_	_	7	flat:name	O	start_char=1092|end_char=1093
+11	Oxford	Oxford	PROPN	_	Number=Sing	7	flat:name	O	start_char=1094|end_char=1100
+12	University	University	PROPN	_	Number=Sing	7	flat:name	O	start_char=1101|end_char=1111
+13	Press	Press	PROPN	_	Number=Sing	7	flat:name	O	start_char=1112|end_char=1117
+14	,	,	PUNCT	_	_	15	punct	O	start_char=1117|end_char=1118
+15	Oxford.	Oxford.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=1119|end_char=1126
+16	.	.	PUNCT	_	_	1	punct	O	start_char=1126|end_char=1127
+
+# sent_id = 659300BA5FC02CF7E0534EEB1D0AD11C-18
+# text = REFERÊNCIAS BIBLIOGRÁFICAS
+1	REFERÊNCIAS	refermnia	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=1129|end_char=1140
+2	BIBLIOGRÁFICAS	bibliográsdica	ADJ	_	Gender=Fem|Number=Plur	1	amod	O	start_char=1141|end_char=1155

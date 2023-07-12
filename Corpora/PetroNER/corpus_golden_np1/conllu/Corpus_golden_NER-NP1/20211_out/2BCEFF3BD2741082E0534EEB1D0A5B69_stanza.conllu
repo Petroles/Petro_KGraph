@@ -1,0 +1,1525 @@
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-1
+# text = SI..
+1	SI	si	PRON	_	Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2|end_char=3
+3	.	.	PUNCT	_	_	1	punct	_	start_char=3|end_char=4
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-2
+# text = ** LBA
+PLANILHA DE ACOMPANHAMENTO DE POÇO DIRECIONAL DIREÇÃO( SC4) 
+INTRODUÇÃO
+1	*	*	PUNCT	_	_	3	punct	_	start_char=6|end_char=7
+2	*	*	PUNCT	_	_	3	punct	_	start_char=7|end_char=8
+3	LBA	LBA	PROPN	_	Gender=Fem|Number=Sing	0	root	_	start_char=9|end_char=12
+4	PLANILHA	PLANILHA	PROPN	_	Number=Sing	3	flat:name	_	start_char=13|end_char=21
+5	DE	de	ADP	_	_	3	flat:name	_	start_char=22|end_char=24
+6	ACOMPANHAMENTO	ACOMPANHAMENTO	PROPN	_	Number=Sing	3	flat:name	_	start_char=25|end_char=39
+7	DE	de	ADP	_	_	3	flat:name	_	start_char=40|end_char=42
+8	POÇO	POÇO	PROPN	_	Number=Sing	3	flat:name	_	start_char=43|end_char=47
+9	DIRECIONAL	DIRECIONAL	PROPN	_	Number=Sing	3	flat:name	_	start_char=48|end_char=58
+10	DIREÇÃO	DIREÇÃO	PROPN	_	Number=Sing	3	flat:name	_	start_char=59|end_char=66
+11	(	(	PUNCT	_	_	12	punct	_	start_char=66|end_char=67
+12	SC4	SC4	PROPN	_	Gender=Fem|Number=Sing	3	appos	_	start_char=68|end_char=71
+13	)	)	PUNCT	_	_	12	punct	_	start_char=71|end_char=72
+14	INTRODUÇÃO	INTRODUÇÃO	PROPN	_	Number=Sing	3	flat:name	_	start_char=74|end_char=84
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-3
+# text = Estas anotações têm por objetivo uma orientação passo a passo para o uso da planilha DIREÇÃO(SC4)..
+1	Estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	start_char=86|end_char=91
+2	anotações	anotação	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	start_char=92|end_char=101
+3	têm	ter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=102|end_char=105
+4	por	por	ADP	_	_	5	case	_	start_char=106|end_char=109
+5	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=110|end_char=118
+6	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=119|end_char=122
+7	orientação	orientação	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	start_char=123|end_char=133
+8	passo	passo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=134|end_char=139
+9	a	a	ADP	_	_	13	case	_	start_char=140|end_char=141
+10	passo	passo	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	start_char=142|end_char=147
+11	para	para	ADP	_	_	13	case	_	start_char=148|end_char=152
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=153|end_char=154
+13	uso	uso	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=155|end_char=158
+14-15	da	_	_	_	_	_	_	_	start_char=159|end_char=161
+14	de	de	ADP	_	_	16	case	_	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	start_char=162|end_char=170
+17	DIREÇÃO(SC4	DIREÇÃO(SC4	PROPN	_	Gender=Fem|Number=Sing	16	nmod	_	start_char=171|end_char=182
+18	)	)	PUNCT	_	_	3	punct	_	start_char=182|end_char=183
+19	.	.	PUNCT	_	_	3	punct	_	start_char=183|end_char=184
+20	.	.	PUNCT	_	_	3	punct	_	start_char=184|end_char=185
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-4
+# text = DIREÇÃO é uma planilha elaborada em SUPERCALC 4, para uso em microcomputadores XT/AT, ocupa 35.968 bytes, inicialmente, com espaço para 22 estações de medidas, podendo ser ampliada, se necessário..
+1	DIREÇÃO	direção	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	start_char=187|end_char=194
+2	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=195|end_char=196
+3	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=197|end_char=200
+4	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=201|end_char=209
+5	elaborada	elaborar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	4	acl	_	start_char=210|end_char=219
+6	em	em	ADP	_	_	7	case	_	start_char=220|end_char=222
+7	SUPERCALC	SUPERCALC	PROPN	_	Gender=Masc|Number=Sing	5	obl	_	start_char=223|end_char=232
+8	4	4	NUM	_	NumType=Card	7	flat:name	_	start_char=233|end_char=234
+9	,	,	PUNCT	_	_	11	punct	_	start_char=234|end_char=235
+10	para	para	ADP	_	_	11	case	_	start_char=236|end_char=240
+11	uso	uso	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	start_char=241|end_char=244
+12	em	em	ADP	_	_	13	case	_	start_char=245|end_char=247
+13	microcomputadores	microcomputador	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	start_char=248|end_char=265
+14	XT/AT	XT/AT	PROPN	_	Gender=Masc|Number=Sing	13	nmod	_	start_char=266|end_char=271
+15	,	,	PUNCT	_	_	11	punct	_	start_char=271|end_char=272
+16	ocupa	ocupar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=273|end_char=278
+17	35.968	35.968	NUM	_	NumType=Card	18	nummod	_	start_char=279|end_char=285
+18	bytes	byte	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	start_char=286|end_char=291
+19	,	,	PUNCT	_	_	20	punct	_	start_char=291|end_char=292
+20	inicialmente	inicialmente	ADV	_	_	16	advmod	_	start_char=293|end_char=305
+21	,	,	PUNCT	_	_	20	punct	_	start_char=305|end_char=306
+22	com	com	ADP	_	_	23	case	_	start_char=307|end_char=310
+23	espaço	espaço	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	start_char=311|end_char=317
+24	para	para	ADP	_	_	26	case	_	start_char=318|end_char=322
+25	22	22	NUM	_	NumType=Card	26	nummod	_	start_char=323|end_char=325
+26	estações	estação	NOUN	_	Gender=Fem|Number=Plur	23	nmod	_	start_char=326|end_char=334
+27	de	de	ADP	_	_	28	case	_	start_char=335|end_char=337
+28	medidas	medida	NOUN	_	Gender=Fem|Number=Plur	26	nmod	_	start_char=338|end_char=345
+29	,	,	PUNCT	_	_	30	punct	_	start_char=345|end_char=346
+30	podendo	poder	VERB	_	VerbForm=Ger	16	advcl	_	start_char=347|end_char=354
+31	ser	ser	AUX	_	VerbForm=Inf	32	aux:pass	_	start_char=355|end_char=358
+32	ampliada	ampliar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	30	xcomp	_	start_char=359|end_char=367
+33	,	,	PUNCT	_	_	32	punct	_	start_char=367|end_char=368
+34	se	se	SCONJ	_	_	35	mark	_	start_char=369|end_char=371
+35	necessário	necessário	ADJ	_	Gender=Masc|Number=Sing	32	advcl	_	start_char=372|end_char=382
+36	.	.	PUNCT	_	_	35	punct	_	start_char=382|end_char=383
+37	.	.	PUNCT	_	_	4	punct	_	start_char=383|end_char=384
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-5
+# text = O PRODUTO
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=386|end_char=387
+2	PRODUTO	produto	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=388|end_char=395
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-6
+# text = O cabeçalho da planilha fornecerá, após entrada das coordenadas, o afastamento, as ‘componentes(N/S e E/W) e a direção do alvo em relação à base..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=397|end_char=398
+2	cabeçalho	cabeçalho	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	start_char=399|end_char=408
+3-4	da	_	_	_	_	_	_	_	start_char=409|end_char=411
+3	de	de	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=412|end_char=420
+6	fornecerá	fornecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	start_char=421|end_char=430
+7	,	,	PUNCT	_	_	6	punct	_	start_char=430|end_char=431
+8	após	após	ADP	_	_	9	case	_	start_char=432|end_char=436
+9	entrada	entrada	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	start_char=437|end_char=444
+10-11	das	_	_	_	_	_	_	_	start_char=445|end_char=448
+10	de	de	ADP	_	_	12	case	_	_
+11	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	start_char=449|end_char=460
+13	,	,	PUNCT	_	_	15	punct	_	start_char=460|end_char=461
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=462|end_char=463
+15	afastamento	afastamento	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	start_char=464|end_char=475
+16	,	,	PUNCT	_	_	19	punct	_	start_char=475|end_char=476
+17	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	start_char=477|end_char=479
+18	‘	‘	PUNCT	_	_	19	punct	_	start_char=480|end_char=481
+19	componentes	componente	NOUN	_	Gender=Fem|Number=Plur	15	conj	_	start_char=481|end_char=492
+20	(	(	PUNCT	_	_	21	punct	_	start_char=492|end_char=493
+21	N/S	N/S	PROPN	_	Gender=Masc|Number=Sing	19	appos	_	start_char=493|end_char=496
+22	e	e	CCONJ	_	_	23	cc	_	start_char=497|end_char=498
+23	E/W	E/W	PROPN	_	Gender=Masc|Number=Sing	21	conj	_	start_char=499|end_char=502
+24	)	)	PUNCT	_	_	21	punct	_	start_char=502|end_char=503
+25	e	e	CCONJ	_	_	27	cc	_	start_char=504|end_char=505
+26	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	start_char=506|end_char=507
+27	direção	direção	NOUN	_	Gender=Fem|Number=Sing	15	conj	_	start_char=508|end_char=515
+28-29	do	_	_	_	_	_	_	_	start_char=516|end_char=518
+28	de	de	ADP	_	_	30	case	_	_
+29	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	alvo	alvo	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	start_char=519|end_char=523
+31	em	em	ADP	_	_	35	case	_	start_char=524|end_char=526
+32	relação	relação	NOUN	_	Gender=Fem|Number=Sing	31	fixed	_	start_char=527|end_char=534
+33-34	à	_	_	_	_	_	_	_	start_char=535|end_char=536
+33	a	a	ADP	_	_	31	fixed	_	_
+34	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
+35	base	base	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	start_char=537|end_char=541
+36	.	.	PUNCT	_	_	6	punct	_	start_char=541|end_char=542
+37	.	.	PUNCT	_	_	6	punct	_	start_char=542|end_char=543
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-7
+# text = A cada estação dada, a planilha mostrará: PROFUNDIDADE VERTICALIZADA(PROF..
+1	A	a	ADP	_	_	3	case	_	start_char=545|end_char=546
+2	cada	cada	DET	_	Gender=Fem|Number=Sing|PronType=Tot	3	det	_	start_char=547|end_char=551
+3	estação	estação	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	start_char=552|end_char=559
+4	dada	dar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	3	acl	_	start_char=560|end_char=564
+5	,	,	PUNCT	_	_	4	punct	_	start_char=564|end_char=565
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=566|end_char=567
+7	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	start_char=568|end_char=576
+8	mostrará	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	start_char=577|end_char=585
+9	:	:	PUNCT	_	_	10	punct	_	start_char=585|end_char=586
+10	PROFUNDIDADE	PROFUNDIDADE	PROPN	_	Gender=Fem|Number=Sing	8	parataxis	_	start_char=587|end_char=599
+11	VERTICALIZADA(PROF	VERTICALIZADA(PROF	PROPN	_	Number=Sing	10	flat:name	_	start_char=600|end_char=618
+12	.	.	PUNCT	_	_	10	punct	_	start_char=618|end_char=619
+13	.	.	PUNCT	_	_	8	punct	_	start_char=619|end_char=620
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-8
+# text = VERT)..
+1	VERT	VERT	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=622|end_char=626
+2	)	)	PUNCT	_	_	1	punct	_	start_char=626|end_char=627
+3	.	.	PUNCT	_	_	1	punct	_	start_char=627|end_char=628
+4	.	.	PUNCT	_	_	1	punct	_	start_char=628|end_char=629
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-9
+# text = COTA 
+FASTAMENTO HORIZONTAL TOTAL(AH TOTAL -Projeção dos avanços no plano horizontal, acumulados como se fossem unidirecionais )..
+1	COTA	COTA	PROPN	_	Gender=Fem|Number=Sing	0	root	_	start_char=631|end_char=635
+2	FASTAMENTO	FASTAMENTO	PROPN	_	Number=Sing	1	flat:name	_	start_char=637|end_char=647
+3	HORIZONTAL	HORIZONTAL	PROPN	_	Number=Sing	1	flat:name	_	start_char=648|end_char=658
+4	TOTAL(AH	TOTAL(AH	PROPN	_	Number=Sing	1	flat:name	_	start_char=659|end_char=667
+5	TOTAL	TOTAL	PROPN	_	Number=Sing	1	flat:name	_	start_char=668|end_char=673
+6	-	-	PUNCT	_	_	7	punct	_	start_char=674|end_char=675
+7	Projeção	projeção	PROPN	_	Gender=Fem|Number=Sing	1	conj	_	start_char=675|end_char=683
+8-9	dos	_	_	_	_	_	_	_	start_char=684|end_char=687
+8	de	de	ADP	_	_	10	case	_	_
+9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	avanços	avanço	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	start_char=688|end_char=695
+11-12	no	_	_	_	_	_	_	_	start_char=696|end_char=698
+11	em	em	ADP	_	_	13	case	_	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	plano	plano	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=699|end_char=704
+14	horizontal	horizontal	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	start_char=705|end_char=715
+15	,	,	PUNCT	_	_	16	punct	_	start_char=715|end_char=716
+16	acumulados	acumular	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	13	acl	_	start_char=717|end_char=727
+17	como	como	ADV	_	_	20	advmod	_	start_char=728|end_char=732
+18	se	se	SCONJ	_	_	20	mark	_	start_char=733|end_char=735
+19	fossem	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	start_char=736|end_char=742
+20	unidirecionais	unidirecional	ADJ	_	Gender=Masc|Number=Plur	16	advcl	_	start_char=743|end_char=757
+21	)	)	PUNCT	_	_	20	punct	_	start_char=758|end_char=759
+22	..	..	PUNCT	_	_	1	punct	_	start_char=759|end_char=761
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-10
+# text = MOLIAVINLAL PLO JOLAaAUU Cll PAGO VELLILAL DAODS ALVA | N(+)/S(-), Avanço na direção Norte/Sul(positivo no sentido N, negativo no sentido S. E(+)/W(-), Avanço na direção Leste/Oeste(positivo no sentido
+1	MOLIAVINLAL	MOLIAVINLAL	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=763|end_char=774
+2-3	PLO	_	_	_	_	_	_	_	start_char=775|end_char=778
+2	Por	por	ADP	_	_	4	case	_	_
+3	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	JOLAaAUU	Jolaçauu	PROPN	_	Gender=Masc|Number=Sing	1	nmod	_	start_char=779|end_char=787
+5	Cll	Cll	PROPN	_	Number=Sing	4	flat:name	_	start_char=788|end_char=791
+6	PAGO	PAGO	PROPN	_	Number=Sing	4	flat:name	_	start_char=792|end_char=796
+7	VELLILAL	VELLILAL	PROPN	_	Number=Sing	4	flat:name	_	start_char=797|end_char=805
+8	DAODS	DAODS	PROPN	_	Number=Sing	4	flat:name	_	start_char=806|end_char=811
+9	ALVA	ALVA	PROPN	_	Number=Sing	4	flat:name	_	start_char=812|end_char=816
+10	|	|	PUNCT	_	_	11	punct	_	start_char=817|end_char=818
+11	N(+	N(+	PROPN	_	Gender=Masc|Number=Sing	4	appos	_	start_char=819|end_char=822
+12	)	)	PUNCT	_	_	11	punct	_	start_char=822|end_char=823
+13	/	/	PUNCT	_	_	14	punct	_	start_char=823|end_char=824
+14	S(-	S(-	PROPN	_	Gender=Masc|Number=Sing	4	appos	_	start_char=824|end_char=827
+15	)	)	PUNCT	_	_	14	punct	_	start_char=827|end_char=828
+16	,	,	PUNCT	_	_	17	punct	_	start_char=828|end_char=829
+17	Avanço	avanço	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=830|end_char=836
+18-19	na	_	_	_	_	_	_	_	start_char=837|end_char=839
+18	em	em	ADP	_	_	20	case	_	_
+19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	direção	direção	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	start_char=840|end_char=847
+21	Norte/Sul	Norte/Sul	PROPN	_	Gender=Fem|Number=Sing	20	nmod	_	start_char=848|end_char=857
+22	(	(	PUNCT	_	_	23	punct	_	start_char=857|end_char=858
+23	positivo	positivo	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	start_char=858|end_char=866
+24-25	no	_	_	_	_	_	_	_	start_char=867|end_char=869
+24	em	em	ADP	_	_	26	case	_	_
+25	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	sentido	sentido	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	start_char=870|end_char=877
+27	N	N	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	start_char=878|end_char=879
+28	,	,	PUNCT	_	_	29	punct	_	start_char=879|end_char=880
+29	negativo	negativo	ADJ	_	Gender=Masc|Number=Sing	27	conj	_	start_char=881|end_char=889
+30-31	no	_	_	_	_	_	_	_	start_char=890|end_char=892
+30	em	em	ADP	_	_	32	case	_	_
+31	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	sentido	sentido	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	start_char=893|end_char=900
+33	S.	S.	PROPN	_	Gender=Masc|Number=Sing	32	nmod	_	start_char=901|end_char=903
+34	E(+	E(+	PROPN	_	Number=Sing	33	flat:name	_	start_char=904|end_char=907
+35	)	)	PUNCT	_	_	23	punct	_	start_char=907|end_char=908
+36	/W(	/W(	PROPN	_	Number=Sing	33	flat:name	_	start_char=908|end_char=911
+37	-	-	PUNCT	_	_	40	punct	_	start_char=911|end_char=912
+38	)	)	PUNCT	_	_	23	punct	_	start_char=912|end_char=913
+39	,	,	PUNCT	_	_	40	punct	_	start_char=913|end_char=914
+40	Avanço	avanço	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=915|end_char=921
+41-42	na	_	_	_	_	_	_	_	start_char=922|end_char=924
+41	em	em	ADP	_	_	43	case	_	_
+42	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
+43	direção	direção	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	start_char=925|end_char=932
+44	Leste/Oeste(	Leste/Oeste(	PROPN	_	Gender=Fem|Number=Sing	43	nmod	_	start_char=933|end_char=945
+45	positivo	positivo	ADJ	_	Gender=Masc|Number=Sing	43	amod	_	start_char=945|end_char=953
+46-47	no	_	_	_	_	_	_	_	start_char=954|end_char=956
+46	em	em	ADP	_	_	48	case	_	_
+47	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
+48	sentido	sentido	NOUN	_	Gender=Masc|Number=Sing	43	nmod	_	start_char=957|end_char=964
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-11
+# text = E, negativo no sentido W. DLS( "DOG LEG SEVERITY" - variação da trajetória do poço - graus/100 pés = graus/30m)..
+1	E	e	CCONJ	_	_	3	cc	_	start_char=966|end_char=967
+2	,	,	PUNCT	_	_	3	punct	_	start_char=967|end_char=968
+3	negativo	negativo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	start_char=969|end_char=977
+4-5	no	_	_	_	_	_	_	_	start_char=978|end_char=980
+4	em	em	ADP	_	_	6	case	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	sentido	sentido	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=981|end_char=988
+7	W.	W.	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=989|end_char=991
+8	DLS	DLS	PROPN	_	Number=Sing	7	flat:name	_	start_char=992|end_char=995
+9	(	(	PUNCT	_	_	11	punct	_	start_char=995|end_char=996
+10	"	«	PUNCT	_	_	11	punct	_	start_char=997|end_char=998
+11	DOG	DOG	PROPN	_	Gender=Masc|Number=Sing	6	appos	_	start_char=998|end_char=1001
+12	LEG	LEG	PROPN	_	Number=Sing	11	flat:name	_	start_char=1002|end_char=1005
+13	SEVERITY	SEVERITY	PROPN	_	Number=Sing	11	flat:name	_	start_char=1006|end_char=1014
+14	"	«	PUNCT	_	_	16	punct	_	start_char=1014|end_char=1015
+15	-	-	PUNCT	_	_	16	punct	_	start_char=1016|end_char=1017
+16	variação	variação	NOUN	_	Gender=Fem|Number=Sing	11	appos	_	start_char=1018|end_char=1026
+17-18	da	_	_	_	_	_	_	_	start_char=1027|end_char=1029
+17	de	de	ADP	_	_	19	case	_	_
+18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	trajetória	trajetória	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	start_char=1030|end_char=1040
+20-21	do	_	_	_	_	_	_	_	start_char=1041|end_char=1043
+20	de	de	ADP	_	_	22	case	_	_
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	poço	poço	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	start_char=1044|end_char=1048
+23	-	-	PUNCT	_	_	24	punct	_	start_char=1049|end_char=1050
+24	graus/	grausuir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=1051|end_char=1057
+25	100	100	NUM	_	NumType=Card	26	nummod	_	start_char=1057|end_char=1060
+26	pés	pé	NOUN	_	Gender=Masc|Number=Plur	24	obj	_	start_char=1061|end_char=1064
+27	=	=	PUNCT	_	_	28	punct	_	start_char=1065|end_char=1066
+28	graus/30m	graus/30m	NOUN	_	Gender=Masc|Number=Sing	26	appos	_	start_char=1067|end_char=1076
+29	)	)	PUNCT	_	_	28	punct	_	start_char=1076|end_char=1077
+30	.	.	PUNCT	_	_	24	punct	_	start_char=1077|end_char=1078
+31	.	.	PUNCT	_	_	3	punct	_	start_char=1078|end_char=1079
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-12
+# text = GRÁFICOS de projeção do poço: horizontal(planta) e vertical(perfil) - DIREÇÃO.CAL @ uma planilha SC4 e, como tal, necessita que se disponha do "software"..
+1	GRÁFICOS	grárico	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=1081|end_char=1089
+2	de	de	ADP	_	_	3	case	_	start_char=1090|end_char=1092
+3	projeção	projeção	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	start_char=1093|end_char=1101
+4-5	do	_	_	_	_	_	_	_	start_char=1102|end_char=1104
+4	de	de	ADP	_	_	6	case	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	poço	poço	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	start_char=1105|end_char=1109
+7	:	:	PUNCT	_	_	9	punct	_	start_char=1109|end_char=1110
+8	horizontal(	horizontal(	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	start_char=1111|end_char=1122
+9	planta	planta	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	start_char=1122|end_char=1128
+10	)	)	PUNCT	_	_	9	punct	_	start_char=1128|end_char=1129
+11	e	e	CCONJ	_	_	12	cc	_	start_char=1130|end_char=1131
+12	vertical	vertical	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1132|end_char=1140
+13	(	(	PUNCT	_	_	14	punct	_	start_char=1140|end_char=1141
+14	perfil	perfil	NOUN	_	Gender=Masc|Number=Sing	17	appos	_	start_char=1141|end_char=1147
+15	)	)	PUNCT	_	_	14	punct	_	start_char=1147|end_char=1148
+16	-	-	PUNCT	_	_	17	punct	_	start_char=1149|end_char=1150
+17	DIREÇÃO.CAL	DIREÇÃO.CAL	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1151|end_char=1162
+18	@	@	PROPN	_	Number=Sing	17	flat:name	_	start_char=1163|end_char=1164
+19	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=1165|end_char=1168
+20	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	start_char=1169|end_char=1177
+21	SC4	SC4	PROPN	_	Gender=Fem|Number=Sing	20	nmod	_	start_char=1178|end_char=1181
+22	e	e	CCONJ	_	_	27	cc	_	start_char=1182|end_char=1183
+23	,	,	PUNCT	_	_	25	punct	_	start_char=1183|end_char=1184
+24	como	como	ADP	_	_	25	case	_	start_char=1185|end_char=1189
+25	tal	tal	ADV	_	_	27	advmod	_	start_char=1190|end_char=1193
+26	,	,	PUNCT	_	_	25	punct	_	start_char=1193|end_char=1194
+27	necessita	necessitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=1195|end_char=1204
+28	que	que	SCONJ	_	_	30	mark	_	start_char=1205|end_char=1208
+29	se	se	PRON	_	Case=Acc|PronType=Prs	30	expl	_	start_char=1209|end_char=1211
+30	disponha	dispor	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	ccomp	_	start_char=1212|end_char=1220
+31-32	do	_	_	_	_	_	_	_	start_char=1221|end_char=1223
+31	de	de	ADP	_	_	34	case	_	_
+32	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+33	"	«	PUNCT	_	_	34	punct	_	start_char=1224|end_char=1225
+34	software	software	NOUN	_	Gender=Masc|Number=Sing	30	obl:arg	_	start_char=1225|end_char=1233
+35	"	«	PUNCT	_	_	34	punct	_	start_char=1233|end_char=1234
+36	.	.	PUNCT	_	_	34	punct	_	start_char=1234|end_char=1235
+37	.	.	PUNCT	_	_	1	punct	_	start_char=1235|end_char=1236
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-13
+# text = O acesso é rápido, a execução dos cálculos é imediata, de fácil visualização/impressão dos valores e ocupa pouco espaço na memória..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=1238|end_char=1239
+2	acesso	acesso	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	start_char=1240|end_char=1246
+3	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1247|end_char=1248
+4	rápido	rápido	ADJ	_	Gender=Masc|Number=Sing	0	root	_	start_char=1249|end_char=1255
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1255|end_char=1256
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=1257|end_char=1258
+7	execução	execução	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	start_char=1259|end_char=1267
+8-9	dos	_	_	_	_	_	_	_	start_char=1268|end_char=1271
+8	de	de	ADP	_	_	10	case	_	_
+9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	cálculos	cálculo	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	start_char=1272|end_char=1280
+11	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=1281|end_char=1282
+12	imediata	imediato	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	start_char=1283|end_char=1291
+13	,	,	PUNCT	_	_	16	punct	_	start_char=1291|end_char=1292
+14	de	de	ADP	_	_	16	case	_	start_char=1293|end_char=1295
+15	fácil	fácil	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	start_char=1296|end_char=1301
+16	visualização	visualização	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	start_char=1302|end_char=1314
+17	/	/	PUNCT	_	_	18	punct	_	start_char=1314|end_char=1315
+18	impressão	impressão	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	start_char=1315|end_char=1324
+19-20	dos	_	_	_	_	_	_	_	start_char=1325|end_char=1328
+19	de	de	ADP	_	_	21	case	_	_
+20	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	valores	valor	NOUN	_	Gender=Masc|Number=Plur	18	nmod	_	start_char=1329|end_char=1336
+22	e	e	CCONJ	_	_	23	cc	_	start_char=1337|end_char=1338
+23	ocupa	ocupar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	start_char=1339|end_char=1344
+24	pouco	pouco	DET	_	Gender=Masc|Number=Sing|PronType=Ind	25	det	_	start_char=1345|end_char=1350
+25	espaço	espaço	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	start_char=1351|end_char=1357
+26-27	na	_	_	_	_	_	_	_	start_char=1358|end_char=1360
+26	em	em	ADP	_	_	28	case	_	_
+27	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	memória	memória	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	start_char=1361|end_char=1368
+29	.	.	PUNCT	_	_	23	punct	_	start_char=1368|end_char=1369
+30	.	.	PUNCT	_	_	4	punct	_	start_char=1369|end_char=1370
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-14
+# text = CARREGANDO A PLANILHA 
+DIREÇÃO..
+1	CARREGANDO	carregando	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1372|end_char=1382
+2	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=1383|end_char=1384
+3	PLANILHA	PLANILHA	PROPN	_	Gender=Fem|Number=Sing	1	obj	_	start_char=1385|end_char=1393
+4	DIREÇÃO	DIREÇÃO	PROPN	_	Number=Sing	3	flat:name	_	start_char=1395|end_char=1402
+5	.	.	PUNCT	_	_	1	punct	_	start_char=1402|end_char=1403
+6	.	.	PUNCT	_	_	1	punct	_	start_char=1403|end_char=1404
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-15
+# text = CAL pode ser obtida através de cópia do arquivo
+1	CAL	CAL	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	start_char=1406|end_char=1409
+2	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1410|end_char=1414
+3	ser	ser	AUX	_	VerbForm=Inf	4	aux:pass	_	start_char=1415|end_char=1418
+4	obtida	obter	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	xcomp	_	start_char=1419|end_char=1425
+5	através	através	ADV	_	_	7	case	_	start_char=1426|end_char=1433
+6	de	de	ADP	_	_	5	fixed	_	start_char=1434|end_char=1436
+7	cópia	cópia	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	start_char=1437|end_char=1442
+8-9	do	_	_	_	_	_	_	_	start_char=1443|end_char=1445
+8	de	de	ADP	_	_	10	case	_	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	arquivo	arquivo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=1446|end_char=1453
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-16
+# text = SA79.DIRECAO via XMIT32 no "MAIN FRAME" (IBM transferir com a opção binário)..
+1	SA79.DIRECAO	SA79.DIRECAO	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	start_char=1455|end_char=1467
+2	via	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1468|end_char=1471
+3	XMIT32	XMIT32	PROPN	_	Gender=Masc|Number=Sing	2	obj	_	start_char=1472|end_char=1478
+4-5	no	_	_	_	_	_	_	_	start_char=1479|end_char=1481
+4	em	em	ADP	_	_	7	case	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	"	«	PUNCT	_	_	7	punct	_	start_char=1482|end_char=1483
+7	MAIN	MAIN	PROPN	_	Gender=Masc|Number=Sing	2	obl	_	start_char=1483|end_char=1487
+8	FRAME	FRAME	PROPN	_	Number=Sing	7	flat:name	_	start_char=1488|end_char=1493
+9	"	«	PUNCT	_	_	11	punct	_	start_char=1493|end_char=1494
+10	(	(	PUNCT	_	_	11	punct	_	start_char=1495|end_char=1496
+11	IBM	IBM	PROPN	_	Gender=Masc|Number=Sing	7	appos	_	start_char=1496|end_char=1499
+12	transferir	transferir	VERB	_	Number=Sing|Person=3|VerbForm=Inf	11	acl	_	start_char=1500|end_char=1510
+13	com	com	ADP	_	_	15	case	_	start_char=1511|end_char=1514
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=1515|end_char=1516
+15	opção	opção	NOUN	_	Gender=Fem|Number=Sing	12	obl:arg	_	start_char=1517|end_char=1522
+16	binário	binário	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	start_char=1523|end_char=1530
+17	)	)	PUNCT	_	_	12	punct	_	start_char=1530|end_char=1531
+18	.	.	PUNCT	_	_	2	punct	_	start_char=1531|end_char=1532
+19	.	.	PUNCT	_	_	2	punct	_	start_char=1532|end_char=1533
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-17
+# text = DIREÇÃO..
+1	DIREÇÃO	direção	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=1535|end_char=1542
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1542|end_char=1543
+3	.	.	PUNCT	_	_	1	punct	_	start_char=1543|end_char=1544
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-18
+# text = CAL pode ser copiada diretamente para o diretório SC4 ou para um subdiretório SC4\AGEPOCOS criado para armazenar estas planilhas(nosso caso)..
+1	CAL	CAL	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	start_char=1546|end_char=1549
+2	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1550|end_char=1554
+3	ser	ser	AUX	_	VerbForm=Inf	4	aux:pass	_	start_char=1555|end_char=1558
+4	copiada	copoar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	xcomp	_	start_char=1559|end_char=1566
+5	diretamente	diretamente	ADV	_	_	4	advmod	_	start_char=1567|end_char=1578
+6	para	para	ADP	_	_	8	case	_	start_char=1579|end_char=1583
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=1584|end_char=1585
+8	diretório	diretório	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	start_char=1586|end_char=1595
+9	SC4	SC4	PROPN	_	Gender=Masc|Number=Sing	8	nmod	_	start_char=1596|end_char=1599
+10	ou	ou	CCONJ	_	_	13	cc	_	start_char=1600|end_char=1602
+11	para	para	ADP	_	_	13	case	_	start_char=1603|end_char=1607
+12	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=1608|end_char=1610
+13	subdiretório	subdiretório	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	start_char=1611|end_char=1623
+14	SC4\AGEPOCOS	Scnragepo	PROPN	_	Gender=Masc|Number=Sing	13	nmod	_	start_char=1624|end_char=1636
+15	criado	criar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	start_char=1637|end_char=1643
+16	para	para	SCONJ	_	_	17	mark	_	start_char=1644|end_char=1648
+17	armazenar	armazenar	VERB	_	VerbForm=Inf	15	advcl	_	start_char=1649|end_char=1658
+18	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	19	det	_	start_char=1659|end_char=1664
+19	planilhas	planilha	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	start_char=1665|end_char=1674
+20	(	(	PUNCT	_	_	22	punct	_	start_char=1674|end_char=1675
+21	nosso	nosso	DET	_	Gender=Masc|Number=Sing|PronType=Prs	22	det	_	start_char=1675|end_char=1680
+22	caso	caso	NOUN	_	Gender=Masc|Number=Sing	19	appos	_	start_char=1681|end_char=1685
+23	)	)	PUNCT	_	_	22	punct	_	start_char=1685|end_char=1686
+24	.	.	PUNCT	_	_	2	punct	_	start_char=1686|end_char=1687
+25	.	.	PUNCT	_	_	2	punct	_	start_char=1687|end_char=1688
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-19
+# text = Com o micro ligado, acessar o diretório e a planilha SC4..
+1	Com	com	ADP	_	_	3	case	_	start_char=1690|end_char=1693
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=1694|end_char=1695
+3	micro	micro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1696|end_char=1701
+4	ligado	ligar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	start_char=1702|end_char=1708
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1708|end_char=1709
+6	acessar	acessar	VERB	_	VerbForm=Inf	3	acl	_	start_char=1710|end_char=1717
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	start_char=1718|end_char=1719
+8	diretório	diretório	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	start_char=1720|end_char=1729
+9	e	e	CCONJ	_	_	11	cc	_	start_char=1730|end_char=1731
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	start_char=1732|end_char=1733
+11	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	start_char=1734|end_char=1742
+12	SC4	SC4	PROPN	_	Gender=Fem|Number=Sing	11	nmod	_	start_char=1743|end_char=1746
+13	.	.	PUNCT	_	_	6	punct	_	start_char=1746|end_char=1747
+14	.	.	PUNCT	_	_	3	punct	_	start_char=1747|end_char=1748
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-20
+# text = o A tela do SC4 é apresentada no monitor: Acione qualquer tecla p/continuar e surgirá a a SC4 em branco..
+1	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=1750|end_char=1751
+2	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=1752|end_char=1753
+3	tela	tela	NOUN	_	Gender=Fem|Number=Sing	8	nsubj:pass	_	start_char=1754|end_char=1758
+4-5	do	_	_	_	_	_	_	_	start_char=1759|end_char=1761
+4	de	de	ADP	_	_	6	case	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	SC4	SC4	PROPN	_	Gender=Masc|Number=Sing	3	nmod	_	start_char=1762|end_char=1765
+7	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=1766|end_char=1767
+8	apresentada	apresentar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=1768|end_char=1779
+9-10	no	_	_	_	_	_	_	_	start_char=1780|end_char=1782
+9	em	em	ADP	_	_	11	case	_	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	monitor	monitor	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	start_char=1783|end_char=1790
+12	:	:	PUNCT	_	_	8	punct	_	start_char=1790|end_char=1791
+13	Acione	acionar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	appos	_	start_char=1792|end_char=1798
+14	qualquer	qualquer	DET	_	Gender=Fem|Number=Sing|PronType=Ind	15	det	_	start_char=1799|end_char=1807
+15	tecla	tecla	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	start_char=1808|end_char=1813
+16	p/continuar	p/continuar	VERB	_	VerbForm=Inf	13	xcomp	_	start_char=1814|end_char=1825
+17	e	e	CCONJ	_	_	18	cc	_	start_char=1826|end_char=1827
+18	surgirá	surgir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	conj	_	start_char=1828|end_char=1835
+19	a	a	ADP	_	_	21	case	_	start_char=1836|end_char=1837
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	start_char=1838|end_char=1839
+21	SC4	SC4	PROPN	_	Gender=Fem|Number=Sing	18	obl	_	start_char=1840|end_char=1843
+22	em	em	ADP	_	_	23	case	_	start_char=1844|end_char=1846
+23	branco	branco	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	start_char=1847|end_char=1853
+24	.	.	PUNCT	_	_	8	punct	_	start_char=1853|end_char=1854
+25	.	.	PUNCT	_	_	8	punct	_	start_char=1854|end_char=1855
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-21
+# text = Tecle o seguinte comando: planilha Sc4 em branco..
+1	Tecle	teclar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1857|end_char=1862
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=1863|end_char=1864
+3	seguinte	seguinte	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=1865|end_char=1873
+4	comando	comando	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	start_char=1874|end_char=1881
+5	:	:	PUNCT	_	_	6	punct	_	start_char=1881|end_char=1882
+6	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	start_char=1883|end_char=1891
+7	Sc4	Sc4	PROPN	_	Gender=Fem|Number=Sing	6	nmod	_	start_char=1892|end_char=1895
+8	em	em	ADP	_	_	9	case	_	start_char=1896|end_char=1898
+9	branco	branco	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=1899|end_char=1905
+10	.	.	PUNCT	_	_	1	punct	_	start_char=1905|end_char=1906
+11	.	.	PUNCT	_	_	1	punct	_	start_char=1906|end_char=1907
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-22
+# text = Tecle o seguinte comando:
+/LOAD, \SC4\AGEPOCOS\DIRECAO [ENTER] ALL [E] 
+Acione a tecla "A" ou coloque o cursor sobre a opção "ALL" e [ENTER]..
+1	Tecle	teclar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1909|end_char=1914
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=1915|end_char=1916
+3	seguinte	seguinte	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=1917|end_char=1925
+4	comando	comando	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	start_char=1926|end_char=1933
+5	:	:	PUNCT	_	_	7	punct	_	start_char=1933|end_char=1934
+6	/	/	PUNCT	_	_	7	punct	_	start_char=1935|end_char=1936
+7	LOAD	LOAD	PROPN	_	Gender=Masc|Number=Sing	4	appos	_	start_char=1936|end_char=1940
+8	,	,	PUNCT	_	_	7	flat:name	_	start_char=1940|end_char=1941
+9	\	\	PROPN	_	Number=Sing	7	flat:name	_	start_char=1942|end_char=1943
+10	SC4\AGEPOCOS\DIRECAO	SC4\AGEPOCOS\DIRECAO	PROPN	_	Number=Sing	7	flat:name	_	start_char=1943|end_char=1963
+11	[	[	PUNCT	_	_	12	punct	_	start_char=1964|end_char=1965
+12	ENTER	ENTER	PROPN	_	Gender=Masc|Number=Sing	7	appos	_	start_char=1965|end_char=1970
+13	]	]	PUNCT	_	_	12	punct	_	start_char=1970|end_char=1971
+14	ALL	ALL	PROPN	_	Gender=Fem|Number=Sing	7	conj	_	start_char=1972|end_char=1975
+15	[	[	PUNCT	_	_	12	punct	_	start_char=1976|end_char=1977
+16	E	e	CCONJ	_	_	18	cc	_	start_char=1977|end_char=1978
+17	]	]	PUNCT	_	_	12	punct	_	start_char=1978|end_char=1979
+18	Acione	acionar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=1981|end_char=1987
+19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=1988|end_char=1989
+20	tecla	tecla	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	start_char=1990|end_char=1995
+21	"	«	PUNCT	_	_	22	punct	_	start_char=1996|end_char=1997
+22	A	A	PROPN	_	Gender=Fem|Number=Sing	20	appos	_	start_char=1997|end_char=1998
+23	"	«	PUNCT	_	_	25	punct	_	start_char=1998|end_char=1999
+24	ou	ou	CCONJ	_	_	25	cc	_	start_char=2000|end_char=2002
+25	coloque	colocar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	start_char=2003|end_char=2010
+26	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	start_char=2011|end_char=2012
+27	cursor	cursor	NOUN	_	Gender=Masc|Number=Sing	25	obj	_	start_char=2013|end_char=2019
+28	sobre	sobre	ADP	_	_	30	case	_	start_char=2020|end_char=2025
+29	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	start_char=2026|end_char=2027
+30	opção	opção	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	start_char=2028|end_char=2033
+31	"	«	PUNCT	_	_	32	punct	_	start_char=2034|end_char=2035
+32	ALL	ALL	PROPN	_	Gender=Fem|Number=Sing	30	appos	_	start_char=2035|end_char=2038
+33	"	«	PUNCT	_	_	36	punct	_	start_char=2038|end_char=2039
+34	e	e	CCONJ	_	_	36	cc	_	start_char=2040|end_char=2041
+35	[	[	PUNCT	_	_	36	punct	_	start_char=2042|end_char=2043
+36	ENTER	ENTER	PROPN	_	Gender=Fem|Number=Sing	32	conj	_	start_char=2043|end_char=2048
+37	]	]	PUNCT	_	_	36	punct	_	start_char=2048|end_char=2049
+38	.	.	PUNCT	_	_	36	punct	_	start_char=2049|end_char=2050
+39	.	.	PUNCT	_	_	1	punct	_	start_char=2050|end_char=2051
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-23
+# text = A planilha DIREÇÃO será carregada..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=2053|end_char=2054
+2	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	start_char=2055|end_char=2063
+3	DIREÇÃO	direção	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	start_char=2064|end_char=2071
+4	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	start_char=2072|end_char=2076
+5	carregada	carregar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=2077|end_char=2086
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2086|end_char=2087
+7	.	.	PUNCT	_	_	5	punct	_	start_char=2087|end_char=2088
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-24
+# text = 2: OPERANDO A PLANILHA
+1	2	2	NUM	_	NumType=Card	3	nummod	_	start_char=2090|end_char=2091
+2	:	:	PUNCT	_	_	3	punct	_	start_char=2091|end_char=2092
+3	OPERANDO	OPERANDO	PROPN	_	Gender=Fem|Number=Sing	0	root	_	start_char=2093|end_char=2101
+4	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=2102|end_char=2103
+5	PLANILHA	planilha	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	start_char=2104|end_char=2112
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-25
+# text = Uma vez carregada a matriz DIREÇÃO, antes de preenchê-la, deve-se salvá-la com o nome do poço criando-se outra:
+/SAVE, SCANAGEPOCOS" 7ARI7D.CAL [ENTER] ALL [E] 
+Este procedimento evitará que se preencha a matriz DIREÇÃO e a manterá livre para uso em outros poços..
+1	Uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=2114|end_char=2117
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	start_char=2118|end_char=2121
+3	carregada	carregar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	_	start_char=2122|end_char=2131
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=2132|end_char=2133
+5	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	start_char=2134|end_char=2140
+6	DIREÇÃO	direção	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	start_char=2141|end_char=2148
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2148|end_char=2149
+8	antes	antes	ADV	_	_	10	mark	_	start_char=2150|end_char=2155
+9	de	de	ADP	_	_	8	fixed	_	start_char=2156|end_char=2158
+10-11	preenchê-la	_	_	_	_	_	_	_	start_char=2159|end_char=2170
+10	preenchê	preencher	VERB	_	VerbForm=Inf	3	advcl	_	_
+11	la	ela	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	,	,	PUNCT	_	_	10	punct	_	start_char=2170|end_char=2171
+13-14	deve-se	_	_	_	_	_	_	_	start_char=2172|end_char=2179
+13	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	se	se	PRON	_	Case=Acc|PronType=Prs	13	expl	_	_
+15-16	salvá-la	_	_	_	_	_	_	_	start_char=2180|end_char=2188
+15	salvá	salvar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+16	la	ela	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+17	com	com	ADP	_	_	19	case	_	start_char=2189|end_char=2192
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	start_char=2193|end_char=2194
+19	nome	nome	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	start_char=2195|end_char=2199
+20-21	do	_	_	_	_	_	_	_	start_char=2200|end_char=2202
+20	de	de	ADP	_	_	22	case	_	_
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	poço	poço	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	start_char=2203|end_char=2207
+23-24	criando-se	_	_	_	_	_	_	_	start_char=2208|end_char=2218
+23	criando	criar	VERB	_	VerbForm=Ger	15	advcl	_	_
+24	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl	_	_
+25	outra	outro	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	23	obj	_	start_char=2219|end_char=2224
+26	:	:	PUNCT	_	_	28	punct	_	start_char=2224|end_char=2225
+27	/	/	PUNCT	_	_	28	punct	_	start_char=2226|end_char=2227
+28	SAVE	SAVE	PROPN	_	Gender=Masc|Number=Sing	25	appos	_	start_char=2227|end_char=2231
+29	,	,	PUNCT	_	_	30	punct	_	start_char=2231|end_char=2232
+30	SCANAGEPOCOS	Scanagepoco	PROPN	_	Gender=Fem|Number=Sing	28	conj	_	start_char=2233|end_char=2245
+31	"	«	PUNCT	_	_	32	punct	_	start_char=2245|end_char=2246
+32	7ARI7D.CAL	7ARI7D.CAL	PROPN	_	Gender=Fem|Number=Sing	28	conj	_	start_char=2247|end_char=2257
+33	[	[	PUNCT	_	_	34	punct	_	start_char=2258|end_char=2259
+34	ENTER	ENTER	PROPN	_	Gender=Fem|Number=Sing	32	appos	_	start_char=2259|end_char=2264
+35	]	]	PUNCT	_	_	34	punct	_	start_char=2264|end_char=2265
+36	ALL	ALL	PROPN	_	Gender=Fem|Number=Sing	28	conj	_	start_char=2266|end_char=2269
+37	[	[	PUNCT	_	_	42	punct	_	start_char=2270|end_char=2271
+38	E	e	CCONJ	_	_	42	cc	_	start_char=2271|end_char=2272
+39	]	]	PUNCT	_	_	42	punct	_	start_char=2272|end_char=2273
+40	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	41	det	_	start_char=2275|end_char=2279
+41	procedimento	procedimento	NOUN	_	Gender=Masc|Number=Sing	42	nsubj	_	start_char=2280|end_char=2292
+42	evitará	evitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	conj	_	start_char=2293|end_char=2300
+43	que	que	SCONJ	_	_	45	mark	_	start_char=2301|end_char=2304
+44	se	se	PRON	_	Case=Acc|PronType=Prs	45	expl	_	start_char=2305|end_char=2307
+45	preencha	preencher	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	ccomp	_	start_char=2308|end_char=2316
+46	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	start_char=2317|end_char=2318
+47	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	45	obj	_	start_char=2319|end_char=2325
+48	DIREÇÃO	direção	ADJ	_	Gender=Fem|Number=Sing	47	amod	_	start_char=2326|end_char=2333
+49	e	e	CCONJ	_	_	51	cc	_	start_char=2334|end_char=2335
+50	a	ela	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	obj	_	start_char=2336|end_char=2337
+51	manterá	manter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	45	conj	_	start_char=2338|end_char=2345
+52	livre	livre	ADJ	_	Gender=Fem|Number=Sing	51	xcomp	_	start_char=2346|end_char=2351
+53	para	para	ADP	_	_	54	case	_	start_char=2352|end_char=2356
+54	uso	uso	NOUN	_	Gender=Masc|Number=Sing	51	obl	_	start_char=2357|end_char=2360
+55	em	em	ADP	_	_	57	case	_	start_char=2361|end_char=2363
+56	outros	outro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	57	det	_	start_char=2364|end_char=2370
+57	poços	poço	NOUN	_	Gender=Masc|Number=Plur	54	nmod	_	start_char=2371|end_char=2376
+58	.	.	PUNCT	_	_	42	punct	_	start_char=2376|end_char=2377
+59	.	.	PUNCT	_	_	13	punct	_	start_char=2377|end_char=2378
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-26
+# text = ENTRANDO COM OS DADOS
+1	ENTRANDO	entrando	VERB	_	VerbForm=Ger	0	root	_	start_char=2380|end_char=2388
+2	COM	com	ADP	_	_	4	case	_	start_char=2389|end_char=2392
+3	OS	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	start_char=2393|end_char=2395
+4	DADOS	DADOS	PROPN	_	Gender=Masc|Number=Plur	1	obl:arg	_	start_char=2396|end_char=2401
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-27
+# text = As informações necessárias são as seguintes: A)
+1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	start_char=2403|end_char=2405
+2	informações	informação	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	start_char=2406|end_char=2417
+3	necessárias	necessário	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	start_char=2418|end_char=2429
+4	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=2430|end_char=2433
+5	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	start_char=2434|end_char=2436
+6	seguintes	seguinte	ADJ	_	Gender=Fem|Number=Plur	0	root	_	start_char=2437|end_char=2446
+7	:	:	PUNCT	_	_	6	punct	_	start_char=2446|end_char=2447
+8	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=2448|end_char=2449
+9	)	)	PUNCT	_	_	6	punct	_	start_char=2449|end_char=2450
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-28
+# text = CABECALHO 
+A)
+1	CABECALHO	cabecalho	INTJ	_	_	0	root	_	start_char=2452|end_char=2461
+2	A	o	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod	_	start_char=2463|end_char=2464
+3	)	)	PUNCT	_	_	1	punct	_	start_char=2464|end_char=2465
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-29
+# text = CABEÇALHO 
+A direção programada e o afastamento do alvo são calculados e: apresentados automaticamente pela planilha (tecla [F7] ou [!])..
+1	CABEÇALHO	cabeçalho	NOUN	_	Gender=Masc|Number=Sing	12	nsubj:pass	_	start_char=2467|end_char=2476
+2	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=2478|end_char=2479
+3	direção	direção	NOUN	_	Gender=Fem|Number=Sing	12	nsubj:pass	_	start_char=2480|end_char=2487
+4	programada	programar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	3	acl	_	start_char=2488|end_char=2498
+5	e	e	CCONJ	_	_	7	cc	_	start_char=2499|end_char=2500
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=2501|end_char=2502
+7	afastamento	afastamento	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	start_char=2503|end_char=2514
+8-9	do	_	_	_	_	_	_	_	start_char=2515|end_char=2517
+8	de	de	ADP	_	_	10	case	_	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	alvo	alvo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=2518|end_char=2522
+11	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	start_char=2523|end_char=2526
+12	calculados	calcular	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=2527|end_char=2537
+13	e	e	CCONJ	_	_	15	cc	_	start_char=2538|end_char=2539
+14	:	:	PUNCT	_	_	15	punct	_	start_char=2539|end_char=2540
+15	apresentados	apresentar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	12	conj	_	start_char=2541|end_char=2553
+16	automaticamente	automaticamente	ADV	_	_	15	advmod	_	start_char=2554|end_char=2569
+17-18	pela	_	_	_	_	_	_	_	start_char=2570|end_char=2574
+17	por	por	ADP	_	_	19	case	_	_
+18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	15	obl:agent	_	start_char=2575|end_char=2583
+20	(	(	PUNCT	_	_	21	punct	_	start_char=2584|end_char=2585
+21	tecla	tecla	NOUN	_	Gender=Fem|Number=Sing	19	appos	_	start_char=2585|end_char=2590
+22	[	[	PUNCT	_	_	23	punct	_	start_char=2591|end_char=2592
+23	F7	F7	PROPN	_	Gender=Fem|Number=Sing	21	appos	_	start_char=2592|end_char=2594
+24	]	]	PUNCT	_	_	23	punct	_	start_char=2594|end_char=2595
+25	ou	ou	CCONJ	_	_	27	cc	_	start_char=2596|end_char=2598
+26	[	[	PUNCT	_	_	27	punct	_	start_char=2599|end_char=2600
+27	!	!	PUNCT	_	_	21	punct	_	start_char=2600|end_char=2601
+28	]	]	PUNCT	_	_	21	punct	_	start_char=2601|end_char=2602
+29	)	)	PUNCT	_	_	21	punct	_	start_char=2602|end_char=2603
+30	.	.	PUNCT	_	_	12	punct	_	start_char=2603|end_char=2604
+31	.	.	PUNCT	_	_	12	punct	_	start_char=2604|end_char=2605
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-30
+# text = B) "CORPO" DA PLANILHA in e E À Ce o aid ads Sa E OY
+1	B	b	NOUN	_	Gender=Masc|Number=Sing	4	parataxis	_	start_char=2607|end_char=2608
+2	)	)	PUNCT	_	_	1	punct	_	start_char=2608|end_char=2609
+3	"	«	PUNCT	_	_	4	punct	_	start_char=2610|end_char=2611
+4	CORPO	CORPO	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2611|end_char=2616
+5	"	«	PUNCT	_	_	4	flat:name	_	start_char=2616|end_char=2617
+6-7	DA	_	_	_	_	_	_	_	start_char=2618|end_char=2620
+6	DE	de	ADP	_	_	4	flat:name	_	_
+7	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat:name	_	_
+8	PLANILHA	PLANILHA	PROPN	_	Number=Sing	4	flat:name	_	start_char=2621|end_char=2629
+9	in	in	PROPN	_	Number=Sing	4	flat:name	_	start_char=2630|end_char=2632
+10	e	e	CCONJ	_	_	14	cc	_	start_char=2633|end_char=2634
+11	E	e	CCONJ	_	_	14	cc	_	start_char=2635|end_char=2636
+12-13	À	_	_	_	_	_	_	_	start_char=2637|end_char=2638
+12	A	a	ADP	_	_	14	case	_	_
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Ce	Ce	PROPN	_	Number=Sing	4	conj	_	start_char=2639|end_char=2641
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	flat:name	_	start_char=2642|end_char=2643
+16	aid	aid	PROPN	_	Number=Sing	14	flat:name	_	start_char=2644|end_char=2647
+17	ads	ads	PROPN	_	Number=Sing	14	flat:name	_	start_char=2648|end_char=2651
+18	Sa	Sa	PROPN	_	Number=Sing	14	flat:name	_	start_char=2652|end_char=2654
+19	E	e	CCONJ	_	_	14	flat:name	_	start_char=2655|end_char=2656
+20	OY	OY	PROPN	_	Number=Sing	14	flat:name	_	start_char=2657|end_char=2659
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-31
+# text = As três primeiras colunas destinam-se à entrada dos dados, as demais calculam e apresentam os resultados sendo protegidas contra edição..
+1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	start_char=2661|end_char=2663
+2	três	três	NUM	_	NumType=Card	4	nummod	_	start_char=2664|end_char=2668
+3	primeiras	primeiro	ADJ	_	Gender=Fem|NumType=Ord|Number=Plur	4	amod	_	start_char=2669|end_char=2678
+4	colunas	coluna	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	start_char=2679|end_char=2686
+5-6	destinam-se	_	_	_	_	_	_	_	start_char=2687|end_char=2698
+5	destinam	destinar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	expl	_	_
+7-8	à	_	_	_	_	_	_	_	start_char=2699|end_char=2700
+7	a	a	ADP	_	_	9	case	_	_
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	entrada	entrada	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	start_char=2701|end_char=2708
+10-11	dos	_	_	_	_	_	_	_	start_char=2709|end_char=2712
+10	de	de	ADP	_	_	12	case	_	_
+11	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	dados	dado	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	start_char=2713|end_char=2718
+13	,	,	PUNCT	_	_	16	punct	_	start_char=2718|end_char=2719
+14	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	start_char=2720|end_char=2722
+15	demais	demais	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	16	nsubj	_	start_char=2723|end_char=2729
+16	calculam	calcular	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=2730|end_char=2738
+17	e	e	CCONJ	_	_	18	cc	_	start_char=2739|end_char=2740
+18	apresentam	apresentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	start_char=2741|end_char=2751
+19	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	start_char=2752|end_char=2754
+20	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	18	obj	_	start_char=2755|end_char=2765
+21	sendo	ser	AUX	_	VerbForm=Ger	22	aux:pass	_	start_char=2766|end_char=2771
+22	protegidas	proteger	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	16	advcl	_	start_char=2772|end_char=2782
+23	contra	contra	ADP	_	_	24	case	_	start_char=2783|end_char=2789
+24	edição	edição	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	start_char=2790|end_char=2796
+25	.	.	PUNCT	_	_	22	punct	_	start_char=2796|end_char=2797
+26	.	.	PUNCT	_	_	5	punct	_	start_char=2797|end_char=2798
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-32
+# text = A anorlinaran Aava car Aada am qranao
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nsubj	_	start_char=2800|end_char=2801
+2	anorlinaran	anorlinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	0	root	_	start_char=2802|end_char=2813
+3	Aava	Aava	PROPN	_	Gender=Fem|Number=Sing	2	obj	_	start_char=2814|end_char=2818
+4	car	car	PROPN	_	Number=Sing	3	flat:name	_	start_char=2819|end_char=2822
+5	Aada	Aada	PROPN	_	Number=Sing	3	flat:name	_	start_char=2823|end_char=2827
+6	am	am	PROPN	_	Number=Sing	3	flat:name	_	start_char=2828|end_char=2830
+7	qranao	qranao	PUNCT	_	_	2	punct	_	start_char=2831|end_char=2837
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-33
+# text = Aanimaia o O: inclinação “deve ser dada em graus decimais (ex. 10.75)
+1	Aanimaia	aanimar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2839|end_char=2847
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=2848|end_char=2849
+3	O	O	PROPN	_	Gender=Masc|Number=Sing	1	obj	_	start_char=2850|end_char=2851
+4	:	:	PUNCT	_	_	5	punct	_	start_char=2851|end_char=2852
+5	inclinação	inclinação	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	start_char=2853|end_char=2863
+6	“	»	PUNCT	_	_	5	punct	_	start_char=2864|end_char=2865
+7	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=2865|end_char=2869
+8	ser	ser	AUX	_	VerbForm=Inf	9	aux:pass	_	start_char=2870|end_char=2873
+9	dada	dar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	7	xcomp	_	start_char=2874|end_char=2878
+10	em	em	ADP	_	_	11	case	_	start_char=2879|end_char=2881
+11	graus	grau	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	start_char=2882|end_char=2887
+12	decimais	decimal	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	start_char=2888|end_char=2896
+13	(	(	PUNCT	_	_	14	punct	_	start_char=2897|end_char=2898
+14	ex.	ex.	SYM	_	_	11	appos	_	start_char=2898|end_char=2901
+15	10.75	10.75	NUM	_	NumType=Card	14	nummod	_	start_char=2902|end_char=2907
+16	)	)	PUNCT	_	_	14	punct	_	start_char=2907|end_char=2908
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-34
+# text = A direcão, em azimute, varia entre 0 e 360
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=2910|end_char=2911
+2	direcão	direcão	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	start_char=2912|end_char=2919
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2919|end_char=2920
+4	em	em	ADP	_	_	5	case	_	start_char=2921|end_char=2923
+5	azimute	azimute	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=2924|end_char=2931
+6	,	,	PUNCT	_	_	5	punct	_	start_char=2931|end_char=2932
+7	varia	variar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2933|end_char=2938
+8	entre	entre	ADP	_	_	9	case	_	start_char=2939|end_char=2944
+9	0	0	NUM	_	NumType=Card	7	obl	_	start_char=2945|end_char=2946
+10	e	e	CCONJ	_	_	11	cc	_	start_char=2947|end_char=2948
+11	360	360	NUM	_	NumType=Card	9	conj	_	start_char=2949|end_char=2952
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-35
+# text = A direção, em azimute, varia entre 0 e 360 graus decimais(p.ex.: N 25 W será indicado por 335
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=2954|end_char=2955
+2	direção	direção	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	start_char=2956|end_char=2963
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2963|end_char=2964
+4	em	em	ADP	_	_	5	case	_	start_char=2965|end_char=2967
+5	azimute	azimute	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=2968|end_char=2975
+6	,	,	PUNCT	_	_	5	punct	_	start_char=2975|end_char=2976
+7	varia	variar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2977|end_char=2982
+8	entre	entre	ADP	_	_	12	case	_	start_char=2983|end_char=2988
+9	0	0	NUM	_	NumType=Card	12	nummod	_	start_char=2989|end_char=2990
+10	e	e	CCONJ	_	_	11	cc	_	start_char=2991|end_char=2992
+11	360	360	NUM	_	NumType=Card	9	conj	_	start_char=2993|end_char=2996
+12	graus	grau	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	start_char=2997|end_char=3002
+13	decimais	decimal	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	start_char=3003|end_char=3011
+14	(	(	PUNCT	_	_	15	punct	_	start_char=3011|end_char=3012
+15	p.ex	p.ex	ADV	_	_	7	advmod	_	start_char=3012|end_char=3016
+16	.	.	PUNCT	_	_	15	punct	_	start_char=3016|end_char=3017
+17	:	:	PUNCT	_	_	18	punct	_	start_char=3017|end_char=3018
+18	N	N	PROPN	_	Gender=Masc|Number=Sing	12	appos	_	start_char=3019|end_char=3020
+19	25	25	NUM	_	NumType=Card	20	nummod	_	start_char=3021|end_char=3023
+20	W	w	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	start_char=3024|end_char=3025
+21	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	aux:pass	_	start_char=3026|end_char=3030
+22	indicado	indicar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	conj	_	start_char=3031|end_char=3039
+23	por	por	ADP	_	_	24	case	_	start_char=3040|end_char=3043
+24	335	335	NUM	_	NumType=Card	22	obl	_	start_char=3044|end_char=3047
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-36
+# text = Após inserir os dados, aciona-se [F7] ou [!] e a planilha apresentará a cada ponto: prof. vert., cota etc..
+1	Após	após	SCONJ	_	_	2	mark	_	start_char=3049|end_char=3053
+2	inserir	inserir	VERB	_	VerbForm=Inf	6	advcl	_	start_char=3054|end_char=3061
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	start_char=3062|end_char=3064
+4	dados	dado	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	start_char=3065|end_char=3070
+5	,	,	PUNCT	_	_	2	punct	_	start_char=3070|end_char=3071
+6-7	aciona-se	_	_	_	_	_	_	_	start_char=3072|end_char=3081
+6	aciona	acionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+8	[	[	PUNCT	_	_	9	punct	_	start_char=3082|end_char=3083
+9	F7	F7	PROPN	_	Gender=Masc|Number=Sing	6	parataxis	_	start_char=3083|end_char=3085
+10	]	]	PUNCT	_	_	9	punct	_	start_char=3085|end_char=3086
+11	ou	ou	CCONJ	_	_	18	cc	_	start_char=3087|end_char=3089
+12	[	[	PUNCT	_	_	13	punct	_	start_char=3090|end_char=3091
+13	!	!	PUNCT	_	_	6	punct	_	start_char=3091|end_char=3092
+14	]	]	PUNCT	_	_	13	punct	_	start_char=3092|end_char=3093
+15	e	e	CCONJ	_	_	18	cc	_	start_char=3094|end_char=3095
+16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=3096|end_char=3097
+17	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	start_char=3098|end_char=3106
+18	apresentará	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	conj	_	start_char=3107|end_char=3118
+19	a	a	ADP	_	_	21	case	_	start_char=3119|end_char=3120
+20	cada	cada	DET	_	Gender=Masc|Number=Sing|PronType=Tot	21	det	_	start_char=3121|end_char=3125
+21	ponto	ponto	NOUN	_	Gender=Masc|Number=Sing	18	obl:arg	_	start_char=3126|end_char=3131
+22	:	:	PUNCT	_	_	23	punct	_	start_char=3131|end_char=3132
+23	prof.	prof.	NOUN	_	Gender=Masc|Number=Sing	21	appos	_	start_char=3133|end_char=3138
+24	vert.	vert.	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	start_char=3139|end_char=3144
+25	,	,	PUNCT	_	_	26	punct	_	start_char=3144|end_char=3145
+26	cota	cota	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	start_char=3146|end_char=3150
+27	etc.	etc.	ADV	_	_	23	advmod	_	start_char=3151|end_char=3155
+28	.	.	PUNCT	_	_	6	punct	_	start_char=3155|end_char=3156
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-37
+# text = AMPLIANDO A PLANILHA
+1	AMPLIANDO	ampliando	VERB	_	VerbForm=Inf	0	root	_	start_char=3158|end_char=3167
+2	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=3168|end_char=3169
+3	PLANILHA	planilha	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	start_char=3170|end_char=3178
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-38
+# text = Caso seja necessário ampliá-la, procede-se « seguinte modo:
+/Insert,Row,N(última linha)..
+1	Caso	caso	SCONJ	_	_	3	mark	_	start_char=3180|end_char=3184
+2	seja	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3185|end_char=3189
+3	necessário	necessário	ADJ	_	Gender=Masc|Number=Sing	7	advcl	_	start_char=3190|end_char=3200
+4-5	ampliá-la	_	_	_	_	_	_	_	start_char=3201|end_char=3210
+4	ampliá	ampliar	VERB	_	VerbForm=Inf	3	csubj	_	_
+5	la	ela	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	,	,	PUNCT	_	_	4	punct	_	start_char=3210|end_char=3211
+7-8	procede-se	_	_	_	_	_	_	_	start_char=3212|end_char=3222
+7	procede	proceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:impers	_	_
+9	«	«	PUNCT	_	_	11	punct	_	start_char=3223|end_char=3224
+10	seguinte	seguinte	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=3225|end_char=3233
+11	modo	modo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	start_char=3234|end_char=3238
+12	:	:	PUNCT	_	_	14	punct	_	start_char=3238|end_char=3239
+13	/	/	PUNCT	_	_	14	punct	_	start_char=3240|end_char=3241
+14	Insert	Insert	PROPN	_	Gender=Masc|Number=Sing	11	appos	_	start_char=3241|end_char=3247
+15	,	,	PUNCT	_	_	16	punct	_	start_char=3247|end_char=3248
+16	Row	Row	PROPN	_	Gender=Masc|Number=Sing	14	conj	_	start_char=3248|end_char=3251
+17	,	,	PUNCT	_	_	18	punct	_	start_char=3251|end_char=3252
+18	N(	N(	PROPN	_	Gender=Masc|Number=Sing	14	conj	_	start_char=3252|end_char=3254
+19	última	último	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	20	amod	_	start_char=3254|end_char=3260
+20	linha	linha	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	start_char=3261|end_char=3266
+21	)	)	PUNCT	_	_	14	punct	_	start_char=3266|end_char=3267
+22	.	.	PUNCT	_	_	7	punct	_	start_char=3267|end_char=3268
+23	.	.	PUNCT	_	_	7	punct	_	start_char=3268|end_char=3269
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-39
+# text = N+10 [E] 
+Para copiar as fórmulas no trecho inserido entre com o comando:
+/Copy, N(última linha com fórmulas),N+1.N+10 [E] 
+*Acionar [PF7] para realinhar fórmulas..
+1	N+10	N+10	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3271|end_char=3275
+2	[	[	PUNCT	_	_	1	flat:name	_	start_char=3276|end_char=3277
+3	E	e	CCONJ	_	_	6	cc	_	start_char=3277|end_char=3278
+4	]	]	PUNCT	_	_	1	flat:name	_	start_char=3278|end_char=3279
+5	Para	para	SCONJ	_	_	6	mark	_	start_char=3281|end_char=3285
+6	copiar	copiar	VERB	_	VerbForm=Inf	1	advcl	_	start_char=3286|end_char=3292
+7	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	start_char=3293|end_char=3295
+8	fórmulas	fórmula	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	start_char=3296|end_char=3304
+9-10	no	_	_	_	_	_	_	_	start_char=3305|end_char=3307
+9	em	em	ADP	_	_	11	case	_	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	trecho	trecho	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	start_char=3308|end_char=3314
+12	inserido	inserir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	start_char=3315|end_char=3323
+13	entre	entre	ADP	_	_	16	case	_	start_char=3324|end_char=3329
+14	com	com	ADP	_	_	16	case	_	start_char=3330|end_char=3333
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=3334|end_char=3335
+16	comando	comando	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	start_char=3336|end_char=3343
+17	:	:	PUNCT	_	_	19	punct	_	start_char=3343|end_char=3344
+18	/	/	PUNCT	_	_	19	punct	_	start_char=3345|end_char=3346
+19	Copy	Copy	PROPN	_	Gender=Masc|Number=Sing	16	appos	_	start_char=3346|end_char=3350
+20	,	,	PUNCT	_	_	21	punct	_	start_char=3350|end_char=3351
+21	N(	N(	PROPN	_	Gender=Masc|Number=Sing	19	conj	_	start_char=3352|end_char=3354
+22	última	último	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	23	amod	_	start_char=3354|end_char=3360
+23	linha	linha	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	start_char=3361|end_char=3366
+24	com	com	ADP	_	_	25	case	_	start_char=3367|end_char=3370
+25	fórmulas	fórmula	NOUN	_	Gender=Fem|Number=Plur	23	nmod	_	start_char=3371|end_char=3379
+26	)	)	PUNCT	_	_	19	punct	_	start_char=3379|end_char=3380
+27	,	,	PUNCT	_	_	28	punct	_	start_char=3380|end_char=3381
+28	N+1.N+10	N+1.N+10	PROPN	_	Gender=Fem|Number=Sing	19	conj	_	start_char=3381|end_char=3389
+29	[	[	PUNCT	_	_	35	punct	_	start_char=3390|end_char=3391
+30	E	e	CCONJ	_	_	33	cc	_	start_char=3391|end_char=3392
+31	]	]	PUNCT	_	_	30	punct	_	start_char=3392|end_char=3393
+32	*	*	PUNCT	_	_	33	punct	_	start_char=3395|end_char=3396
+33	Acionar	acionar	VERB	_	VerbForm=Inf	6	conj	_	start_char=3396|end_char=3403
+34	[	[	PUNCT	_	_	35	punct	_	start_char=3404|end_char=3405
+35	PF7	PF7	PROPN	_	Gender=Masc|Number=Sing	33	appos	_	start_char=3405|end_char=3408
+36	]	]	PUNCT	_	_	35	punct	_	start_char=3408|end_char=3409
+37	para	para	SCONJ	_	_	38	mark	_	start_char=3410|end_char=3414
+38	realinhar	realinhar	VERB	_	VerbForm=Inf	33	advcl	_	start_char=3415|end_char=3424
+39	fórmulas	fórmula	NOUN	_	Gender=Fem|Number=Plur	38	obj	_	start_char=3425|end_char=3433
+40	.	.	PUNCT	_	_	38	punct	_	start_char=3433|end_char=3434
+41	.	.	PUNCT	_	_	1	punct	_	start_char=3434|end_char=3435
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-40
+# text = *Deve-se verificar se as linhas e fórmulas inseridas estão de acordo com o desejado..
+1	*	*	PUNCT	_	_	2	punct	_	start_char=3437|end_char=3438
+2-3	Deve-se	_	_	_	_	_	_	_	start_char=3438|end_char=3445
+2	Deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	PRON	_	Case=Acc|PronType=Prs	2	expl	_	_
+4	verificar	verificar	VERB	_	VerbForm=Inf	2	xcomp	_	start_char=3446|end_char=3455
+5	se	se	SCONJ	_	_	13	mark	_	start_char=3456|end_char=3458
+6	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	start_char=3459|end_char=3461
+7	linhas	linha	NOUN	_	Gender=Fem|Number=Plur	13	nsubj	_	start_char=3462|end_char=3468
+8	e	e	CCONJ	_	_	9	cc	_	start_char=3469|end_char=3470
+9	fórmulas	fórmula	NOUN	_	Gender=Fem|Number=Plur	7	conj	_	start_char=3471|end_char=3479
+10	inseridas	inserir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	7	acl	_	start_char=3480|end_char=3489
+11	estão	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=3490|end_char=3495
+12	de	de	ADP	_	_	13	case	_	start_char=3496|end_char=3498
+13	acordo	acordo	NOUN	_	Gender=Masc|Number=Sing	4	ccomp	_	start_char=3499|end_char=3505
+14	com	com	ADP	_	_	16	case	_	start_char=3506|end_char=3509
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=3510|end_char=3511
+16	desejado	desejado	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	start_char=3512|end_char=3520
+17	.	.	PUNCT	_	_	2	punct	_	start_char=3520|end_char=3521
+18	.	.	PUNCT	_	_	2	punct	_	start_char=3521|end_char=3522
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-41
+# text = 1. - KOP 2..
+1	1	1	NUM	_	NumType=Card	4	nummod	_	start_char=3524|end_char=3525
+2	.	.	PUNCT	_	_	1	punct	_	start_char=3525|end_char=3526
+3	-	-	PUNCT	_	_	4	punct	_	start_char=3527|end_char=3528
+4	KOP	KOP	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3529|end_char=3532
+5	2..	2..	PROPN	_	Number=Sing	4	flat:name	_	start_char=3533|end_char=3536
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-42
+# text = BUILD UP 3..
+1	BUILD	Build.	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3538|end_char=3543
+2	UP	UP	PROPN	_	Number=Sing	1	flat:name	_	start_char=3544|end_char=3546
+3	3..	3..	PROPN	_	Number=Sing	1	flat:name	_	start_char=3547|end_char=3550
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-43
+# text = INÍCIO DO SLANT 4. SLANT(TRECHO BETO) 5..
+1	INÍCIO	início	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3552|end_char=3558
+2-3	DO	_	_	_	_	_	_	_	start_char=3559|end_char=3561
+2	DE	de	ADP	_	_	4	case	_	_
+3	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	SLANT	SLANT	PROPN	_	Gender=Masc|Number=Sing	1	nmod	_	start_char=3562|end_char=3567
+5	4.	4.	PROPN	_	Number=Sing	4	flat:name	_	start_char=3568|end_char=3570
+6	SLANT(TRECHO	SLANT(TRECHO	PROPN	_	Number=Sing	4	flat:name	_	start_char=3571|end_char=3583
+7	BETO	BETO	PROPN	_	Number=Sing	4	flat:name	_	start_char=3584|end_char=3588
+8	)	)	PUNCT	_	_	4	flat:name	_	start_char=3588|end_char=3589
+9	5	5	NUM	_	NumType=Card	4	flat:name	_	start_char=3590|end_char=3591
+10	..	..	PUNCT	_	_	1	punct	_	start_char=3591|end_char=3593
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-44
+# text = DROP OFF 6..
+1	DROP	DROP	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3595|end_char=3599
+2	OFF	OFF	PROPN	_	Number=Sing	1	flat:name	_	start_char=3600|end_char=3603
+3	6..	6..	PROPN	_	Number=Sing	1	flat:name	_	start_char=3604|end_char=3607
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-45
+# text = FINAL "DROP OFF" INICIO VERTICAL ALVO RAIO DE TOLERÂNCIA
+1	FINAL	final	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3609|end_char=3614
+2	"	«	PUNCT	_	_	3	punct	_	start_char=3615|end_char=3616
+3	DROP	DROP	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=3616|end_char=3620
+4	OFF	OFF	PROPN	_	Number=Sing	3	flat:name	_	start_char=3621|end_char=3624
+5	"	«	PUNCT	_	_	6	punct	_	start_char=3624|end_char=3625
+6	INICIO	INICIO	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=3626|end_char=3632
+7	VERTICAL	VERTICAL	PROPN	_	Number=Sing	6	flat:name	_	start_char=3633|end_char=3641
+8	ALVO	ALVO	PROPN	_	Number=Sing	6	flat:name	_	start_char=3642|end_char=3646
+9	RAIO	RAIO	PROPN	_	Number=Sing	6	flat:name	_	start_char=3647|end_char=3651
+10	DE	de	ADP	_	_	6	flat:name	_	start_char=3652|end_char=3654
+11	TOLERÂNCIA	TOLERÂNCIA	PROPN	_	Number=Sing	6	flat:name	_	start_char=3655|end_char=3665
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-46
+# text = Da Distância base-alvo
+1-2	Da	_	_	_	_	_	_	_	start_char=3667|end_char=3669
+1	De	de	ADP	_	_	3	case	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Distância	distância	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=3670|end_char=3679
+4	base-alvo	base-alvo	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	start_char=3680|end_char=3689
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-47
+# text = Va Prof..
+1	Va	Va	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3691|end_char=3693
+2	Prof.	Prof.	PROPN	_	Number=Sing	1	flat:name	_	start_char=3694|end_char=3699
+3	.	.	PUNCT	_	_	1	punct	_	start_char=3699|end_char=3700
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-48
+# text = Vertical alvo 1
+1	Vertical	vertical	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3702|end_char=3710
+2	alvo	alvo	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=3711|end_char=3715
+3	1	1	NUM	_	NumType=Card	1	nummod	_	start_char=3716|end_char=3717
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-49
+# text = Inclinação
+1	Inclinação	inclinação	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=3719|end_char=3729
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-50
+# text = IMPRIMINDO A PLANILHA
+1	IMPRIMINDO	imprimindo	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3731|end_char=3741
+2	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=3742|end_char=3743
+3	PLANILHA	planilha	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	start_char=3744|end_char=3752
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-51
+# text = Para impressão da planilha são requeridas as seguintes opções:
+/Output,Printer,Options, 
+As opções feitas na tela acima são salvas com:/Global,Keep,Yes [E] Efetuadas as opções, define-se o RANGE da planilha que deve ser impressa:
+/Output, Printer, Range,A1:042, [E] 
+Verificar se o papel está posicionado na impressora e se a mesma está pronta(REMOTO)..
+1	Para	para	ADP	_	_	2	case	_	start_char=3754|end_char=3758
+2	impressão	impressão	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	start_char=3759|end_char=3768
+3-4	da	_	_	_	_	_	_	_	start_char=3769|end_char=3771
+3	de	de	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=3772|end_char=3780
+6	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=3781|end_char=3784
+7	requeridas	requerer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=3785|end_char=3795
+8	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	start_char=3796|end_char=3798
+9	seguintes	seguinte	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	start_char=3799|end_char=3808
+10	opções	opção	NOUN	_	Gender=Fem|Number=Plur	7	nsubj:pass	_	start_char=3809|end_char=3815
+11	:	:	PUNCT	_	_	13	punct	_	start_char=3815|end_char=3816
+12	/	/	PUNCT	_	_	13	punct	_	start_char=3817|end_char=3818
+13	Output	Output	PROPN	_	Gender=Masc|Number=Sing	10	appos	_	start_char=3818|end_char=3824
+14	,	,	PUNCT	_	_	15	punct	_	start_char=3824|end_char=3825
+15	Printer	Printer	PROPN	_	Gender=Fem|Number=Sing	13	conj	_	start_char=3825|end_char=3832
+16	,	,	PUNCT	_	_	17	punct	_	start_char=3832|end_char=3833
+17	Options	Options	PROPN	_	Gender=Fem|Number=Sing	13	conj	_	start_char=3833|end_char=3840
+18	,	,	PUNCT	_	_	13	punct	_	start_char=3840|end_char=3841
+19	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	start_char=3843|end_char=3845
+20	opções	opção	NOUN	_	Gender=Fem|Number=Plur	27	nsubj:pass	_	start_char=3846|end_char=3852
+21	feitas	fazer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	20	acl	_	start_char=3853|end_char=3859
+22-23	na	_	_	_	_	_	_	_	start_char=3860|end_char=3862
+22	em	em	ADP	_	_	24	case	_	_
+23	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	tela	tela	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	start_char=3863|end_char=3867
+25	acima	acima	ADV	_	_	27	advmod	_	start_char=3868|end_char=3873
+26	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	aux:pass	_	start_char=3874|end_char=3877
+27	salvas	salvar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	7	conj	_	start_char=3878|end_char=3884
+28	com	com	ADP	_	_	31	case	_	start_char=3885|end_char=3888
+29	:	:	PUNCT	_	_	27	punct	_	start_char=3888|end_char=3889
+30	/	/	PUNCT	_	_	31	punct	_	start_char=3889|end_char=3890
+31	Global	Global	PROPN	_	Gender=Fem|Number=Sing	27	obl:agent	_	start_char=3890|end_char=3896
+32	,	,	PUNCT	_	_	33	punct	_	start_char=3896|end_char=3897
+33	Keep	Keep	PROPN	_	Gender=Fem|Number=Sing	31	conj	_	start_char=3897|end_char=3901
+34	,	,	PUNCT	_	_	35	punct	_	start_char=3901|end_char=3902
+35	Yes	Yes	PROPN	_	Gender=Fem|Number=Sing	31	conj	_	start_char=3902|end_char=3905
+36	[	[	PUNCT	_	_	39	punct	_	start_char=3906|end_char=3907
+37	E	e	CCONJ	_	_	39	cc	_	start_char=3907|end_char=3908
+38	]	]	PUNCT	_	_	35	punct	_	start_char=3908|end_char=3909
+39	Efetuadas	efetuar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	31	acl	_	start_char=3910|end_char=3919
+40	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	41	det	_	start_char=3920|end_char=3922
+41	opções	opção	NOUN	_	Gender=Fem|Number=Plur	39	obj	_	start_char=3923|end_char=3929
+42	,	,	PUNCT	_	_	39	punct	_	start_char=3929|end_char=3930
+43-44	define-se	_	_	_	_	_	_	_	start_char=3931|end_char=3940
+43	define	definir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
+44	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs	43	expl	_	_
+45	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	start_char=3941|end_char=3942
+46	RANGE	RANGE	PROPN	_	Gender=Masc|Number=Sing	43	obj	_	start_char=3943|end_char=3948
+47-48	da	_	_	_	_	_	_	_	start_char=3949|end_char=3951
+47	de	de	ADP	_	_	49	case	_	_
+48	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	_
+49	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	46	nmod	_	start_char=3952|end_char=3960
+50	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	51	nsubj	_	start_char=3961|end_char=3964
+51	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	49	acl:relcl	_	start_char=3965|end_char=3969
+52	ser	ser	AUX	_	VerbForm=Inf	53	aux:pass	_	start_char=3970|end_char=3973
+53	impressa	imprimir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	51	xcomp	_	start_char=3974|end_char=3982
+54	:	:	PUNCT	_	_	56	punct	_	start_char=3982|end_char=3983
+55	/	/	PUNCT	_	_	56	punct	_	start_char=3984|end_char=3985
+56	Output	Output	PROPN	_	Gender=Masc|Number=Sing	53	nsubj:pass	_	start_char=3985|end_char=3991
+57	,	,	PUNCT	_	_	58	punct	_	start_char=3991|end_char=3992
+58	Printer	Printer	PROPN	_	Gender=Masc|Number=Sing	56	conj	_	start_char=3993|end_char=4000
+59	,	,	PUNCT	_	_	60	punct	_	start_char=4000|end_char=4001
+60	Range	Range	PROPN	_	Gender=Fem|Number=Sing	56	conj	_	start_char=4002|end_char=4007
+61	,	,	PUNCT	_	_	62	punct	_	start_char=4007|end_char=4008
+62	A1:042	A1:042	PROPN	_	Gender=Fem|Number=Sing	56	conj	_	start_char=4008|end_char=4014
+63	,	,	PUNCT	_	_	67	punct	_	start_char=4014|end_char=4015
+64	[	[	PUNCT	_	_	67	punct	_	start_char=4016|end_char=4017
+65	E	e	CCONJ	_	_	67	cc	_	start_char=4017|end_char=4018
+66	]	]	PUNCT	_	_	65	punct	_	start_char=4018|end_char=4019
+67	Verificar	verificar	VERB	_	VerbForm=Inf	53	conj	_	start_char=4021|end_char=4030
+68	se	se	SCONJ	_	_	72	mark	_	start_char=4031|end_char=4033
+69	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	70	det	_	start_char=4034|end_char=4035
+70	papel	papel	NOUN	_	Gender=Masc|Number=Sing	72	nsubj	_	start_char=4036|end_char=4041
+71	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	72	cop	_	start_char=4042|end_char=4046
+72	posicionado	posicionado	ADJ	_	Gender=Masc|Number=Sing	67	ccomp	_	start_char=4047|end_char=4058
+73-74	na	_	_	_	_	_	_	_	start_char=4059|end_char=4061
+73	em	em	ADP	_	_	75	case	_	_
+74	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	75	det	_	_
+75	impressora	impressora	NOUN	_	Gender=Fem|Number=Sing	72	obl	_	start_char=4062|end_char=4072
+76	e	e	CCONJ	_	_	81	cc	_	start_char=4073|end_char=4074
+77	se	se	SCONJ	_	_	81	mark	_	start_char=4075|end_char=4077
+78	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	79	det	_	start_char=4078|end_char=4079
+79	mesma	mesmo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	81	nsubj	_	start_char=4080|end_char=4085
+80	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	81	cop	_	start_char=4086|end_char=4090
+81	pronta	pronto	ADJ	_	Gender=Fem|Number=Sing	72	conj	_	start_char=4091|end_char=4097
+82	(	(	PUNCT	_	_	83	punct	_	start_char=4097|end_char=4098
+83	REMOTO	REMOTO	PROPN	_	Gender=Masc|Number=Sing	81	appos	_	start_char=4098|end_char=4104
+84	)	)	PUNCT	_	_	83	punct	_	start_char=4104|end_char=4105
+85	.	.	PUNCT	_	_	83	punct	_	start_char=4105|end_char=4106
+86	.	.	PUNCT	_	_	7	punct	_	start_char=4106|end_char=4107
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-52
+# text = ut,Printer,Go (Inicia-se a impressão)
+1	ut	ut	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4109|end_char=4111
+2	,	,	PUNCT	_	_	3	punct	_	start_char=4111|end_char=4112
+3	Printer	Printer	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=4112|end_char=4119
+4	,	,	PUNCT	_	_	3	flat:name	_	start_char=4119|end_char=4120
+5	Go	Go	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=4120|end_char=4122
+6	(	(	PUNCT	_	_	7	punct	_	start_char=4123|end_char=4124
+7-8	Inicia-se	_	_	_	_	_	_	_	start_char=4124|end_char=4133
+7	inicia	iniciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+8	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=4134|end_char=4135
+10	impressão	impressão	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	start_char=4136|end_char=4145
+11	)	)	PUNCT	_	_	7	punct	_	start_char=4145|end_char=4146
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-53
+# text = CONSTRUINDO OS GRÁFICOS( PLANTA E PERFIL)
+1	CONSTRUINDO	CONSTRUINDO	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4148|end_char=4159
+2	OS	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	1	flat:name	_	start_char=4160|end_char=4162
+3	GRÁFICOS	Gráfico	PROPN	_	Number=Sing	1	flat:name	_	start_char=4163|end_char=4171
+4	(	(	PUNCT	_	_	5	punct	_	start_char=4171|end_char=4172
+5	PLANTA	PLANTA	PROPN	_	Gender=Fem|Number=Sing	1	appos	_	start_char=4173|end_char=4179
+6	E	e	CCONJ	_	_	5	flat:name	_	start_char=4180|end_char=4181
+7	PERFIL	Perfil	PROPN	_	Number=Sing	5	flat:name	_	start_char=4182|end_char=4188
+8	)	)	PUNCT	_	_	5	punct	_	start_char=4188|end_char=4189
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-54
+# text = Calculados os pontos, salva-se a planilha:/SAVE ,SC4\AGEPOCOS\7ARI7D.CAL [E] GRAFICO 1( PROJECAO EM PLANTA ) /LOAD , \SC4\AGEPOCOS\7ARI7D.CAL [E] 
+São plotadas em plano horizontal as projeções dos avanços medidos relacionando-os com o afastamento da origem (base do poco) sobre eixos X(E/W) e Y(N/S)..
+1	Calculados	calcular	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	5	advcl	_	start_char=4191|end_char=4201
+2	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	start_char=4202|end_char=4204
+3	pontos	ponto	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	start_char=4205|end_char=4211
+4	,	,	PUNCT	_	_	1	punct	_	start_char=4211|end_char=4212
+5-6	salva-se	_	_	_	_	_	_	_	start_char=4213|end_char=4221
+5	salva	salvar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	_	Case=Acc|PronType=Prs	5	expl:impers	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=4222|end_char=4223
+8	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	start_char=4224|end_char=4232
+9	:	:	PUNCT	_	_	11	punct	_	start_char=4232|end_char=4233
+10	/	/	PUNCT	_	_	11	punct	_	start_char=4233|end_char=4234
+11	SAVE	SAVE	PROPN	_	Gender=Masc|Number=Sing	8	appos	_	start_char=4234|end_char=4238
+12	,	,	PUNCT	_	_	13	punct	_	start_char=4239|end_char=4240
+13	SC4\AGEPOCOS\7ARI7D.CAL	SC4\AGEPOCOS\7ARI7D.CAL	PROPN	_	Gender=Fem|Number=Sing	11	conj	_	start_char=4240|end_char=4263
+14	[	[	PUNCT	_	_	17	punct	_	start_char=4264|end_char=4265
+15	E	e	CCONJ	_	_	17	cc	_	start_char=4265|end_char=4266
+16	]	]	PUNCT	_	_	20	punct	_	start_char=4266|end_char=4267
+17	GRAFICO	Grafico	PROPN	_	Gender=Masc|Number=Sing	11	conj	_	start_char=4268|end_char=4275
+18	1	1	PROPN	_	Number=Sing	17	flat:name	_	start_char=4276|end_char=4277
+19	(	(	PUNCT	_	_	20	punct	_	start_char=4277|end_char=4278
+20	PROJECAO	PROJECAO	PROPN	_	Gender=Fem|Number=Sing	17	appos	_	start_char=4279|end_char=4287
+21	EM	em	ADP	_	_	22	case	_	start_char=4288|end_char=4290
+22	PLANTA	PLANTA	PROPN	_	Gender=Fem|Number=Sing	20	nmod	_	start_char=4291|end_char=4297
+23	)	)	PUNCT	_	_	20	punct	_	start_char=4298|end_char=4299
+24	/	/	PUNCT	_	_	25	punct	_	start_char=4300|end_char=4301
+25	LOAD	LOAD	PROPN	_	Gender=Fem|Number=Sing	11	conj	_	start_char=4301|end_char=4305
+26	,	,	PUNCT	_	_	27	punct	_	start_char=4306|end_char=4307
+27	\	\	PROPN	_	Gender=Fem|Number=Sing	11	conj	_	start_char=4308|end_char=4309
+28	SC4\AGEPOCOS\7ARI7D.CAL	SC4\AGEPOCOS\7ARI7D.CAL	PROPN	_	Gender=Fem|Number=Sing	27	flat:name	_	start_char=4309|end_char=4332
+29	[	[	PUNCT	_	_	33	punct	_	start_char=4333|end_char=4334
+30	E	e	CCONJ	_	_	33	cc	_	start_char=4334|end_char=4335
+31	]	]	PUNCT	_	_	27	punct	_	start_char=4335|end_char=4336
+32	São	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	aux:pass	_	start_char=4338|end_char=4341
+33	plotadas	plotar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	5	conj	_	start_char=4342|end_char=4350
+34	em	em	ADP	_	_	35	case	_	start_char=4351|end_char=4353
+35	plano	plano	NOUN	_	Gender=Masc|Number=Sing	33	obl	_	start_char=4354|end_char=4359
+36	horizontal	horizontal	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	start_char=4360|end_char=4370
+37	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	38	det	_	start_char=4371|end_char=4373
+38	projeções	projeção	NOUN	_	Gender=Fem|Number=Plur	33	nsubj:pass	_	start_char=4374|end_char=4383
+39-40	dos	_	_	_	_	_	_	_	start_char=4384|end_char=4387
+39	de	de	ADP	_	_	41	case	_	_
+40	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	det	_	_
+41	avanços	avanço	NOUN	_	Gender=Masc|Number=Plur	38	nmod	_	start_char=4388|end_char=4395
+42	medidos	medir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	41	acl	_	start_char=4396|end_char=4403
+43-44	relacionando-os	_	_	_	_	_	_	_	start_char=4404|end_char=4419
+43	relacinondo	relacinonder	VERB	_	VerbForm=Ger	33	advcl	_	_
+44	os	o	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	43	obj	_	_
+45	com	com	ADP	_	_	47	case	_	start_char=4420|end_char=4423
+46	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	start_char=4424|end_char=4425
+47	afastamento	afastamento	NOUN	_	Gender=Masc|Number=Sing	43	obl	_	start_char=4426|end_char=4437
+48-49	da	_	_	_	_	_	_	_	start_char=4438|end_char=4440
+48	de	de	ADP	_	_	50	case	_	_
+49	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	50	det	_	_
+50	origem	origem	NOUN	_	Gender=Fem|Number=Sing	47	nmod	_	start_char=4441|end_char=4447
+51	(	(	PUNCT	_	_	52	punct	_	start_char=4448|end_char=4449
+52	base	base	NOUN	_	Gender=Fem|Number=Sing	50	appos	_	start_char=4449|end_char=4453
+53-54	do	_	_	_	_	_	_	_	start_char=4454|end_char=4456
+53	de	de	ADP	_	_	55	case	_	_
+54	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	55	det	_	_
+55	poco	poco	NOUN	_	Gender=Masc|Number=Sing	52	nmod	_	start_char=4457|end_char=4461
+56	)	)	PUNCT	_	_	52	punct	_	start_char=4461|end_char=4462
+57	sobre	sobre	ADP	_	_	58	case	_	start_char=4463|end_char=4468
+58	eixos	eixo	NOUN	_	Gender=Masc|Number=Plur	43	obl	_	start_char=4469|end_char=4474
+59	X(E/W	X(E/W	PROPN	_	Gender=Masc|Number=Sing	58	nmod	_	start_char=4475|end_char=4480
+60	)	)	PUNCT	_	_	52	punct	_	start_char=4480|end_char=4481
+61	e	e	CCONJ	_	_	62	cc	_	start_char=4482|end_char=4483
+62	Y(N/S	Y(N/S	PROPN	_	Gender=Masc|Number=Sing	52	conj	_	start_char=4484|end_char=4489
+63	)	)	PUNCT	_	_	52	punct	_	start_char=4489|end_char=4490
+64	.	.	PUNCT	_	_	62	flat:name	_	start_char=4490|end_char=4491
+65	.	.	PUNCT	_	_	5	punct	_	start_char=4491|end_char=4492
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-55
+# text = Os Ítens componentes dos gráficos bem como os comandos necessários para a seleção dos mesmos são descritos abaixo: Cabeçalho Principal
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=4494|end_char=4496
+2	Ítens	gtem	NOUN	_	Gender=Masc|Number=Plur	19	nsubj:pass	_	start_char=4497|end_char=4502
+3	componentes	componente	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	start_char=4503|end_char=4514
+4-5	dos	_	_	_	_	_	_	_	start_char=4515|end_char=4518
+4	de	de	ADP	_	_	6	case	_	_
+5	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	gráficos	gráfico	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=4519|end_char=4527
+7	bem	bem	ADP	_	_	10	case	_	start_char=4528|end_char=4531
+8	como	como	ADV	_	_	10	advmod	_	start_char=4532|end_char=4536
+9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	start_char=4537|end_char=4539
+10	comandos	comando	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=4540|end_char=4548
+11	necessários	necessário	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	start_char=4549|end_char=4560
+12	para	para	ADP	_	_	14	case	_	start_char=4561|end_char=4565
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	start_char=4566|end_char=4567
+14	seleção	seleção	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	start_char=4568|end_char=4575
+15-16	dos	_	_	_	_	_	_	_	start_char=4576|end_char=4579
+15	de	de	ADP	_	_	17	case	_	_
+16	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	mesmos	mesmo	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	start_char=4580|end_char=4586
+18	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux:pass	_	start_char=4587|end_char=4590
+19	descritos	descrever	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=4591|end_char=4600
+20	abaixo	abaixo	ADV	_	_	19	advmod	_	start_char=4601|end_char=4607
+21	:	:	PUNCT	_	_	22	punct	_	start_char=4607|end_char=4608
+22	Cabeçalho	Cabeçalho	PROPN	_	Gender=Masc|Number=Sing	19	xcomp	_	start_char=4609|end_char=4618
+23	Principal	Principal	PROPN	_	Number=Sing	22	flat:name	_	start_char=4619|end_char=4628
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-56
+# text = Definição da escala gráfica ("range") (Preencher os dados da parte inferior esquerda da planilha - PLANTA)
+1	Definição	definição	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=4630|end_char=4639
+2-3	da	_	_	_	_	_	_	_	start_char=4640|end_char=4642
+2	de	de	ADP	_	_	4	case	_	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	escala	escala	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	start_char=4643|end_char=4649
+5	gráfica	gráfico	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=4650|end_char=4657
+6	(	(	PUNCT	_	_	8	punct	_	start_char=4658|end_char=4659
+7	"	«	PUNCT	_	_	8	punct	_	start_char=4659|end_char=4660
+8	range	range	X	_	_	4	appos	_	start_char=4660|end_char=4665
+9	"	«	PUNCT	_	_	8	flat:foreign	_	start_char=4665|end_char=4666
+10	)	)	PUNCT	_	_	8	punct	_	start_char=4666|end_char=4667
+11	(	(	PUNCT	_	_	12	punct	_	start_char=4668|end_char=4669
+12	Preencher	preencher	VERB	_	VerbForm=Inf	1	acl	_	start_char=4669|end_char=4678
+13	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	start_char=4679|end_char=4681
+14	dados	dado	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	start_char=4682|end_char=4687
+15-16	da	_	_	_	_	_	_	_	start_char=4688|end_char=4690
+15	de	de	ADP	_	_	17	case	_	_
+16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	parte	parte	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	start_char=4691|end_char=4696
+18	inferior	inferior	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	start_char=4697|end_char=4705
+19	esquerda	esquerdo	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	start_char=4706|end_char=4714
+20-21	da	_	_	_	_	_	_	_	start_char=4715|end_char=4717
+20	de	de	ADP	_	_	22	case	_	_
+21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	planilha	planilha	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	start_char=4718|end_char=4726
+23	-	-	PUNCT	_	_	24	punct	_	start_char=4727|end_char=4728
+24	PLANTA	PLANTA	PROPN	_	Gender=Fem|Number=Sing	22	appos	_	start_char=4729|end_char=4735
+25	)	)	PUNCT	_	_	24	punct	_	start_char=4735|end_char=4736
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-57
+# text = A escala, limitada pela variação (mínimo/máximo) deve ter "range" igual para ambas as variáveis para evitar deformação nas projeções. (P.ex. Xmin= -100m Xmax=300m, Ymin=0 Ymax=400m; em ambos os eixos a variação é de 400m)..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4738|end_char=4739
+2	escala	escala	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	start_char=4740|end_char=4746
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4746|end_char=4747
+4	limitada	limitar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	start_char=4748|end_char=4756
+5-6	pela	_	_	_	_	_	_	_	start_char=4757|end_char=4761
+5	por	por	ADP	_	_	7	case	_	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	variação	variação	NOUN	_	Gender=Fem|Number=Sing	4	obl:agent	_	start_char=4762|end_char=4770
+8	(	(	PUNCT	_	_	9	punct	_	start_char=4771|end_char=4772
+9	mínimo/máximo	mínimo/máximo	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	start_char=4772|end_char=4785
+10	)	)	PUNCT	_	_	9	punct	_	start_char=4785|end_char=4786
+11	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4787|end_char=4791
+12	ter	ter	VERB	_	VerbForm=Inf	11	xcomp	_	start_char=4792|end_char=4795
+13	"	«	PUNCT	_	_	14	punct	_	start_char=4796|end_char=4797
+14	range	range	X	_	_	12	obj	_	start_char=4797|end_char=4802
+15	"	«	PUNCT	_	_	16	punct	_	start_char=4802|end_char=4803
+16	igual	igual	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	start_char=4804|end_char=4809
+17	para	para	ADP	_	_	20	case	_	start_char=4810|end_char=4814
+18	ambas	ambos	DET	_	Gender=Fem|Number=Plur|PronType=Tot	20	det	_	start_char=4815|end_char=4820
+19	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	start_char=4821|end_char=4823
+20	variáveis	variável	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	start_char=4824|end_char=4833
+21	para	para	SCONJ	_	_	22	mark	_	start_char=4834|end_char=4838
+22	evitar	evitar	VERB	_	VerbForm=Inf	12	advcl	_	start_char=4839|end_char=4845
+23	deformação	deformação	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	start_char=4846|end_char=4856
+24-25	nas	_	_	_	_	_	_	_	start_char=4857|end_char=4860
+24	em	em	ADP	_	_	26	case	_	_
+25	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
+26	projeções	projeção	NOUN	_	Gender=Fem|Number=Plur	22	obl	_	start_char=4861|end_char=4870
+27	.	.	PUNCT	_	_	29	punct	_	start_char=4870|end_char=4871
+28	(	(	PUNCT	_	_	29	punct	_	start_char=4872|end_char=4873
+29	P.ex	P.ex	PROPN	_	Gender=Masc|Number=Sing	26	appos	_	start_char=4873|end_char=4877
+30	.	.	PUNCT	_	_	31	punct	_	start_char=4877|end_char=4878
+31	Xmin=	Xmin=	PROPN	_	Gender=Masc|Number=Sing	29	appos	_	start_char=4879|end_char=4884
+32	-100m	-100m	PROPN	_	Number=Sing	31	flat:name	_	start_char=4885|end_char=4890
+33	Xmax=300m	Xmax=300m	PROPN	_	Gender=Masc|Number=Sing	31	flat:name	_	start_char=4891|end_char=4900
+34	,	,	PUNCT	_	_	35	punct	_	start_char=4900|end_char=4901
+35	Ymin=0	Ymin=0	PROPN	_	Gender=Fem|Number=Sing	29	conj	_	start_char=4902|end_char=4908
+36	Ymax=400m	Ymax=400m	PROPN	_	Number=Sing	35	flat:name	_	start_char=4909|end_char=4918
+37	;	;	PUNCT	_	_	41	punct	_	start_char=4918|end_char=4919
+38	em	em	ADP	_	_	41	case	_	start_char=4920|end_char=4922
+39	ambos	ambos	DET	_	Gender=Masc|Number=Plur|PronType=Tot	41	det	_	start_char=4923|end_char=4928
+40	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	det	_	start_char=4929|end_char=4931
+41	eixos	eixo	NOUN	_	Gender=Masc|Number=Plur	46	nmod	_	start_char=4932|end_char=4937
+42	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	start_char=4938|end_char=4939
+43	variação	variação	NOUN	_	Gender=Fem|Number=Sing	46	nsubj	_	start_char=4940|end_char=4948
+44	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	cop	_	start_char=4949|end_char=4950
+45	de	de	ADP	_	_	46	case	_	start_char=4951|end_char=4953
+46	400m	400m	NUM	_	NumType=Card	11	parataxis	_	start_char=4954|end_char=4958
+47	)	)	PUNCT	_	_	29	punct	_	start_char=4958|end_char=4959
+48	.	.	PUNCT	_	_	11	punct	_	start_char=4959|end_char=4960
+49	.	.	PUNCT	_	_	11	punct	_	start_char=4960|end_char=4961
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-58
+# text = * Caso haja distorção no gráfico quando plotado,estando as opções de escala como indicado acima, verificar as dimensões estabelecidas p/o "layout":/Glohal .Cranhics (Graph Tvpe.Widh 6.00 .Lenath 6.00)
+/LOAD, NSCANAGEPOCOSN7ARI7D.CAL [E] 
+As projeções dos avanços medidos são plotadas em plano vertical de direção base-alvo relacionando-se o avanço horizontal real(AHR-avanço na direção do alvo) com a profundidade em cota..
+1	*	*	PUNCT	_	_	3	punct	_	start_char=4963|end_char=4964
+2	Caso	caso	SCONJ	_	_	3	mark	_	start_char=4965|end_char=4969
+3	haja	haver	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	57	advcl	_	start_char=4970|end_char=4974
+4	distorção	distorção	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	start_char=4975|end_char=4984
+5-6	no	_	_	_	_	_	_	_	start_char=4985|end_char=4987
+5	em	em	ADP	_	_	7	case	_	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	gráfico	gráfico	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=4988|end_char=4995
+8	quando	quando	ADV	_	_	9	advmod	_	start_char=4996|end_char=5002
+9	plotado	plotar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	start_char=5003|end_char=5010
+10	,	,	PUNCT	_	_	3	punct	_	start_char=5010|end_char=5011
+11	estando	estar	AUX	_	VerbForm=Ger	13	cop	_	start_char=5011|end_char=5018
+12	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	start_char=5019|end_char=5021
+13	opções	opção	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	start_char=5022|end_char=5028
+14	de	de	ADP	_	_	15	case	_	start_char=5029|end_char=5031
+15	escala	escala	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	start_char=5032|end_char=5038
+16	como	como	ADV	_	_	17	advmod	_	start_char=5039|end_char=5043
+17	indicado	indicar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	start_char=5044|end_char=5052
+18	acima	acima	ADV	_	_	17	advmod	_	start_char=5053|end_char=5058
+19	,	,	PUNCT	_	_	20	punct	_	start_char=5058|end_char=5059
+20	verificar	verificar	VERB	_	VerbForm=Inf	3	conj	_	start_char=5060|end_char=5069
+21	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	start_char=5070|end_char=5072
+22	dimensões	dimensão	NOUN	_	Gender=Fem|Number=Plur	20	obj	_	start_char=5073|end_char=5082
+23	estabelecidas	estabelecer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	22	acl	_	start_char=5083|end_char=5096
+24	p/o	p/o	ADP	_	_	26	case	_	start_char=5097|end_char=5100
+25	"	«	PUNCT	_	_	26	punct	_	start_char=5101|end_char=5102
+26	layout	layout	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	start_char=5102|end_char=5108
+27	"	«	PUNCT	_	_	30	punct	_	start_char=5108|end_char=5109
+28	:	:	PUNCT	_	_	30	punct	_	start_char=5109|end_char=5110
+29	/	/	PUNCT	_	_	30	punct	_	start_char=5110|end_char=5111
+30	Glohal	Glohal	PROPN	_	Gender=Masc|Number=Sing	26	appos	_	start_char=5111|end_char=5117
+31	.	.	PUNCT	_	_	32	punct	_	start_char=5118|end_char=5119
+32	Cranhics	Cranhics	PROPN	_	Gender=Masc|Number=Sing	30	conj	_	start_char=5119|end_char=5127
+33	(	(	PUNCT	_	_	34	punct	_	start_char=5128|end_char=5129
+34	Graph	Graph	PROPN	_	Gender=Masc|Number=Sing	30	appos	_	start_char=5129|end_char=5134
+35	Tvpe	Tvpe	PROPN	_	Number=Sing	34	flat:name	_	start_char=5135|end_char=5139
+36	.	.	PUNCT	_	_	37	punct	_	start_char=5139|end_char=5140
+37	Widh	Widh	PROPN	_	Gender=Fem|Number=Sing	34	conj	_	start_char=5140|end_char=5144
+38	6.00	6.00	PROPN	_	Number=Sing	37	flat:name	_	start_char=5145|end_char=5149
+39	.	.	PUNCT	_	_	40	punct	_	start_char=5150|end_char=5151
+40	Lenath	Lenath	PROPN	_	Gender=Fem|Number=Sing	34	conj	_	start_char=5151|end_char=5157
+41	6.00	6.00	PROPN	_	Number=Sing	40	flat:name	_	start_char=5158|end_char=5162
+42	)	)	PUNCT	_	_	34	punct	_	start_char=5162|end_char=5163
+43	/	/	PUNCT	_	_	44	punct	_	start_char=5164|end_char=5165
+44	LOAD	LOAD	PROPN	_	Gender=Fem|Number=Sing	34	conj	_	start_char=5165|end_char=5169
+45	,	,	PUNCT	_	_	44	punct	_	start_char=5169|end_char=5170
+46	NSCANAGEPOCOSN7ARI7D.CAL	NSCANAGEPOCOSN7ARI7D.CAL	PROPN	_	Gender=Fem|Number=Sing	44	appos	_	start_char=5171|end_char=5195
+47	[	[	PUNCT	_	_	48	punct	_	start_char=5196|end_char=5197
+48	E	e	CCONJ	_	_	57	cc	_	start_char=5197|end_char=5198
+49	]	]	PUNCT	_	_	48	punct	_	start_char=5198|end_char=5199
+50	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	51	det	_	start_char=5201|end_char=5203
+51	projeções	projeção	NOUN	_	Gender=Fem|Number=Plur	57	nsubj:pass	_	start_char=5204|end_char=5213
+52-53	dos	_	_	_	_	_	_	_	start_char=5214|end_char=5217
+52	de	de	ADP	_	_	54	case	_	_
+53	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	54	det	_	_
+54	avanços	avanço	NOUN	_	Gender=Masc|Number=Plur	51	nmod	_	start_char=5218|end_char=5225
+55	medidos	medir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	54	acl	_	start_char=5226|end_char=5233
+56	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	57	aux:pass	_	start_char=5234|end_char=5237
+57	plotadas	plotar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=5238|end_char=5246
+58	em	em	ADP	_	_	59	case	_	start_char=5247|end_char=5249
+59	plano	plano	NOUN	_	Gender=Masc|Number=Sing	57	obl	_	start_char=5250|end_char=5255
+60	vertical	vertical	ADJ	_	Gender=Masc|Number=Sing	59	amod	_	start_char=5256|end_char=5264
+61	de	de	ADP	_	_	62	case	_	start_char=5265|end_char=5267
+62	direção	direção	NOUN	_	Gender=Fem|Number=Sing	59	nmod	_	start_char=5268|end_char=5275
+63	base-alvo	base-alvo	ADJ	_	Gender=Fem|Number=Sing	62	amod	_	start_char=5276|end_char=5285
+64-65	relacionando-se	_	_	_	_	_	_	_	start_char=5286|end_char=5301
+64	relacinonano	relacinonano	ADJ	_	Gender=Masc|Number=Sing	62	amod	_	_
+65	se	se	PRON	_	Case=Acc|PronType=Prs	57	aux:pass	_	_
+66	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	67	det	_	start_char=5302|end_char=5303
+67	avanço	avanço	NOUN	_	Gender=Masc|Number=Sing	57	nsubj:pass	_	start_char=5304|end_char=5310
+68	horizontal	horizontal	ADJ	_	Gender=Masc|Number=Sing	67	amod	_	start_char=5311|end_char=5321
+69	real	real	ADJ	_	Gender=Masc|Number=Sing	67	amod	_	start_char=5322|end_char=5326
+70	(	(	PUNCT	_	_	71	punct	_	start_char=5326|end_char=5327
+71	AHR-avanço	AHR-avanço	PROPN	_	Gender=Masc|Number=Sing	67	appos	_	start_char=5327|end_char=5337
+72-73	na	_	_	_	_	_	_	_	start_char=5338|end_char=5340
+72	em	em	ADP	_	_	74	case	_	_
+73	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	74	det	_	_
+74	direção	direção	NOUN	_	Gender=Fem|Number=Sing	71	nmod	_	start_char=5341|end_char=5348
+75-76	do	_	_	_	_	_	_	_	start_char=5349|end_char=5351
+75	de	de	ADP	_	_	77	case	_	_
+76	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	77	det	_	_
+77	alvo	alvo	NOUN	_	Gender=Masc|Number=Sing	74	nmod	_	start_char=5352|end_char=5356
+78	)	)	PUNCT	_	_	71	punct	_	start_char=5356|end_char=5357
+79	com	com	ADP	_	_	81	case	_	start_char=5358|end_char=5361
+80	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	81	det	_	start_char=5362|end_char=5363
+81	profundidade	profundidade	NOUN	_	Gender=Fem|Number=Sing	57	obl	_	start_char=5364|end_char=5376
+82	em	em	ADP	_	_	83	case	_	start_char=5377|end_char=5379
+83	cota	cota	NOUN	_	Gender=Fem|Number=Sing	81	nmod	_	start_char=5380|end_char=5384
+84	.	.	PUNCT	_	_	57	punct	_	start_char=5384|end_char=5385
+85	.	.	PUNCT	_	_	57	punct	_	start_char=5385|end_char=5386
+
+# sent_id = 2BCEFF3BD2741082E0534EEB1D0A5B69-59
+# text = Os ítens e comandos para obtenção deste gráfico são descritos a seguir: A escala deve ter variação igual para ambas as variáveis embora os limites máximo e mínimo possam ser diferentes, isto é, a diferença entre os limites devem ser iguais nos dois eixos(P.ex. Xmin= O Xmax= 500m Ymin= -100m Ymax= 400m; em ambos os eixos a variação é de 500m)..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=5388|end_char=5390
+2	ítens	ítem	NOUN	_	Gender=Masc|Number=Plur	11	nsubj:pass	_	start_char=5391|end_char=5396
+3	e	e	CCONJ	_	_	4	cc	_	start_char=5397|end_char=5398
+4	comandos	comando	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	start_char=5399|end_char=5407
+5	para	para	ADP	_	_	6	case	_	start_char=5408|end_char=5412
+6	obtenção	obtenção	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=5413|end_char=5421
+7-8	deste	_	_	_	_	_	_	_	start_char=5422|end_char=5427
+7	de	de	ADP	_	_	9	case	_	_
+8	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	gráfico	gráfico	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=5428|end_char=5435
+10	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	start_char=5436|end_char=5439
+11	descritos	descrever	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=5440|end_char=5449
+12	a	a	SCONJ	_	_	13	mark	_	start_char=5450|end_char=5451
+13	seguir	seguir	VERB	_	VerbForm=Inf	11	advcl	_	start_char=5452|end_char=5458
+14	:	:	PUNCT	_	_	11	punct	_	start_char=5458|end_char=5459
+15	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	start_char=5460|end_char=5461
+16	escala	escala	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	start_char=5462|end_char=5468
+17	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	start_char=5469|end_char=5473
+18	ter	ter	VERB	_	VerbForm=Inf	17	xcomp	_	start_char=5474|end_char=5477
+19	variação	variação	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	start_char=5478|end_char=5486
+20	igual	igual	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	start_char=5487|end_char=5492
+21	para	para	ADP	_	_	24	case	_	start_char=5493|end_char=5497
+22	ambas	ambos	DET	_	Gender=Fem|Number=Plur|PronType=Tot	24	det	_	start_char=5498|end_char=5503
+23	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	start_char=5504|end_char=5506
+24	variáveis	variável	NOUN	_	Gender=Fem|Number=Plur	18	obl	_	start_char=5507|end_char=5516
+25	embora	embora	SCONJ	_	_	31	mark	_	start_char=5517|end_char=5523
+26	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	start_char=5524|end_char=5526
+27	limites	limite	NOUN	_	Gender=Masc|Number=Plur	31	nsubj	_	start_char=5527|end_char=5534
+28	máximo	grande	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	start_char=5535|end_char=5541
+29	e	e	CCONJ	_	_	30	cc	_	start_char=5542|end_char=5543
+30	mínimo	mínimo	ADJ	_	Gender=Masc|Number=Sing	28	conj	_	start_char=5544|end_char=5550
+31	possam	poder	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	start_char=5551|end_char=5557
+32	ser	ser	AUX	_	VerbForm=Inf	33	cop	_	start_char=5558|end_char=5561
+33	diferentes	diferente	ADJ	_	Gender=Masc|Number=Plur	31	xcomp	_	start_char=5562|end_char=5572
+34	,	,	PUNCT	_	_	35	punct	_	start_char=5572|end_char=5573
+35	isto	isto	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	43	cc	_	start_char=5574|end_char=5578
+36	é	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	fixed	_	start_char=5579|end_char=5580
+37	,	,	PUNCT	_	_	35	punct	_	start_char=5580|end_char=5581
+38	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	start_char=5582|end_char=5583
+39	diferença	diferença	NOUN	_	Gender=Fem|Number=Sing	43	nsubj	_	start_char=5584|end_char=5593
+40	entre	entre	ADP	_	_	42	case	_	start_char=5594|end_char=5599
+41	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	42	det	_	start_char=5600|end_char=5602
+42	limites	limite	NOUN	_	Gender=Masc|Number=Plur	39	nmod	_	start_char=5603|end_char=5610
+43	devem	dever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	conj	_	start_char=5611|end_char=5616
+44	ser	ser	AUX	_	VerbForm=Inf	45	cop	_	start_char=5617|end_char=5620
+45	iguais	igual	ADJ	_	Gender=Masc|Number=Plur	43	xcomp	_	start_char=5621|end_char=5627
+46-47	nos	_	_	_	_	_	_	_	start_char=5628|end_char=5631
+46	em	em	ADP	_	_	49	case	_	_
+47	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	49	det	_	_
+48	dois	dois	NUM	_	NumType=Card	49	nummod	_	start_char=5632|end_char=5636
+49	eixos	eixo	NOUN	_	Gender=Masc|Number=Plur	45	obl	_	start_char=5637|end_char=5642
+50	(	(	PUNCT	_	_	51	punct	_	start_char=5642|end_char=5643
+51	P.ex	P.ex	PROPN	_	Gender=Masc|Number=Sing	49	appos	_	start_char=5643|end_char=5647
+52	.	.	PUNCT	_	_	53	punct	_	start_char=5647|end_char=5648
+53	Xmin=	Xmin=	PROPN	_	Gender=Masc|Number=Sing	51	conj	_	start_char=5649|end_char=5654
+54	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	55	det	_	start_char=5655|end_char=5656
+55	Xmax=	Xmax=	PROPN	_	Gender=Masc|Number=Sing	51	conj	_	start_char=5657|end_char=5662
+56	500	500	NUM	_	NumType=Card	57	nummod	_	start_char=5663|end_char=5666
+57	m	m	NOUN	_	Gender=Masc|Number=Plur	55	nmod	_	start_char=5666|end_char=5667
+58	Ymin=	Ymin=	PROPN	_	Gender=Masc|Number=Sing	57	nmod	_	start_char=5668|end_char=5673
+59	-	-	PUNCT	_	_	61	punct	_	start_char=5674|end_char=5675
+60	100	100	NUM	_	NumType=Card	61	nummod	_	start_char=5675|end_char=5678
+61	m	m	NOUN	_	Gender=Masc|Number=Plur	55	appos	_	start_char=5678|end_char=5679
+62	Ymax=	ymax=	NUM	_	NumType=Card	61	nummod	_	start_char=5680|end_char=5685
+63	400m	400m	NUM	_	NumType=Card	61	nummod	_	start_char=5686|end_char=5690
+64	;	;	PUNCT	_	_	73	punct	_	start_char=5690|end_char=5691
+65	em	em	ADP	_	_	68	case	_	start_char=5692|end_char=5694
+66	ambos	ambos	DET	_	Gender=Masc|Number=Plur|PronType=Tot	68	det	_	start_char=5695|end_char=5700
+67	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	68	det	_	start_char=5701|end_char=5703
+68	eixos	eixo	NOUN	_	Gender=Masc|Number=Plur	73	nmod	_	start_char=5704|end_char=5709
+69	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	70	det	_	start_char=5710|end_char=5711
+70	variação	variação	NOUN	_	Gender=Fem|Number=Sing	73	nsubj	_	start_char=5712|end_char=5720
+71	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	73	cop	_	start_char=5721|end_char=5722
+72	de	de	ADP	_	_	73	case	_	start_char=5723|end_char=5725
+73	500m	500m	NUM	_	NumType=Card	61	nummod	_	start_char=5726|end_char=5730
+74	)	)	PUNCT	_	_	51	punct	_	start_char=5730|end_char=5731
+75	.	.	PUNCT	_	_	73	punct	_	start_char=5731|end_char=5732
+76	.	.	PUNCT	_	_	11	punct	_	start_char=5732|end_char=5733

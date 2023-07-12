@@ -1,0 +1,245 @@
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-1
+# text = CENPES/PDGEO/IRPS LABORATÓRIO DE DIFRATOMETRIA DE RAIO X - BOLETIM DE RESULTADO [DDE3] MARCOS KLOTZ DE SOUZA
+1	CENPES	CENPES	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=0|end_char=6
+2	/PDGEO/IRPS	/PDGEO/IRPS	PROPN	_	Number=Sing	1	flat:name	O	start_char=6|end_char=17
+3	LABORATÓRIO	LABORATÓRIO	PROPN	_	Number=Sing	1	flat:name	O	start_char=18|end_char=29
+4	DE	de	ADP	_	_	1	flat:name	O	start_char=30|end_char=32
+5	DIFRATOMETRIA	DIFRATOMETRIA	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	O	start_char=33|end_char=46
+6	DE	de	ADP	_	_	1	flat:name	O	start_char=47|end_char=49
+7	RAIO	RAIO	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=50|end_char=54
+8	X	X	PROPN	_	Number=Sing	1	flat:name	O	start_char=55|end_char=56
+9	-	-	PUNCT	_	_	10	punct	O	start_char=57|end_char=58
+10	BOLETIM	BOLETIM	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=59|end_char=66
+11	DE	de	ADP	_	_	10	flat:name	O	start_char=67|end_char=69
+12	RESULTADO	Resultado	PROPN	_	Number=Sing	10	flat:name	O	start_char=70|end_char=79
+13	[	[	PUNCT	_	_	14	punct	O	start_char=80|end_char=81
+14	DDE3	DDE3	PROPN	_	Gender=Masc|Number=Sing	10	appos	O	start_char=81|end_char=85
+15	]	]	PUNCT	_	_	14	punct	O	start_char=85|end_char=86
+16	MARCOS	Marcos	PROPN	_	Gender=Masc|Number=Sing	10	flat:name	O	start_char=87|end_char=93
+17	KLOTZ	KLOTZ	PROPN	_	Number=Sing	16	flat:name	O	start_char=94|end_char=99
+18	DE	de	ADP	_	_	16	flat:name	O	start_char=100|end_char=102
+19	SOUZA	SOUZA	PROPN	_	Number=Sing	16	flat:name	O	start_char=103|end_char=108
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-2
+# text = Solicitantes: Nº Solicitação: 37 CENPES/PDEP/GSE
+1	Solicitantes	solicitante	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=110|end_char=122
+2	:	:	PUNCT	_	_	3	punct	O	start_char=122|end_char=123
+3	Nº	Nº	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=124|end_char=126
+4	Solicitação	Solicitação	PROPN	_	Number=Sing	3	flat:name	O	start_char=127|end_char=138
+5	:	:	PUNCT	_	_	7	punct	O	start_char=138|end_char=139
+6	37	37	NUM	_	NumType=Card	7	nummod	O	start_char=140|end_char=142
+7	CENPES/PDEP	CENPES/PDEP	PROPN	_	Gender=Masc|Number=Sing	3	appos	O	start_char=143|end_char=154
+8	/GSE	/GSE	PROPN	_	Number=Sing	7	flat:name	O	start_char=154|end_char=158
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-3
+# text = Orgão: Nº de Amostras: Diagrama de Rede: 1000925914-0020 MÉTODO DE ANÁLISE raios-X..
+1	Orgão	orgão	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=160|end_char=165
+2	:	:	PUNCT	_	_	3	punct	O	start_char=165|end_char=166
+3	Nº	Nº	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=167|end_char=169
+4	de	de	ADP	_	_	3	flat:name	O	start_char=170|end_char=172
+5	Amostras	Amostras	PROPN	_	Number=Sing	3	flat:name	O	start_char=173|end_char=181
+6	:	:	PUNCT	_	_	7	punct	O	start_char=181|end_char=182
+7	Diagrama	Diagrama	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=183|end_char=191
+8	de	de	ADP	_	_	7	flat:name	O	start_char=192|end_char=194
+9	Rede	Rede	PROPN	_	Number=Sing	7	flat:name	O	start_char=195|end_char=199
+10	:	:	PUNCT	_	_	12	punct	O	start_char=199|end_char=200
+11	1000925914-0020	1000925914-0020	NUM	_	NumType=Card	12	nummod	O	start_char=201|end_char=216
+12	MÉTODO	método	NOUN	_	Gender=Masc|Number=Sing	7	appos	O	start_char=217|end_char=223
+13	DE	de	ADP	_	_	12	flat:name	O	start_char=224|end_char=226
+14	ANÁLISE	ANÁLISE	PROPN	_	Number=Sing	12	nmod	O	start_char=227|end_char=234
+15	raios-X..	raios-X..	PROPN	_	Number=Sing	12	nmod	O	start_char=235|end_char=244
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-4
+# text = RESULTADOS  ALVES, D.B. 1987..
+1	RESULTADOS	resultado	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=246|end_char=256
+2	ALVES	Alves	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=258|end_char=263
+3	,	,	PUNCT	_	_	4	punct	O	start_char=263|end_char=264
+4	D.B.	D.B.	PROPN	_	Gender=Masc|Number=Sing	2	conj	O	start_char=265|end_char=269
+5	1987	1987	NUM	_	NumType=Card	4	flat:name	O	start_char=270|end_char=274
+6	.	.	PUNCT	_	_	4	flat:name	O	start_char=274|end_char=275
+7	.	.	PUNCT	_	_	1	punct	O	start_char=275|end_char=276
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-5
+# text = Desenvolvimento da metodologia de preparação de amostras para análise difratométrica de argilominerais no Centro de Pesquisas da PETROBRAS..
+1	Desenvolvimento	desenvolvimento	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=278|end_char=293
+2-3	da	_	_	_	_	_	_	O	start_char=294|end_char=296
+2	de	de	ADP	_	_	4	case	O	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	_
+4	metodologia	metodologia	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=297|end_char=308
+5	de	de	ADP	_	_	6	case	O	start_char=309|end_char=311
+6	preparação	preparação	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=312|end_char=322
+7	de	de	ADP	_	_	8	case	O	start_char=323|end_char=325
+8	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	6	nmod	O	start_char=326|end_char=334
+9	para	para	ADP	_	_	10	case	O	start_char=335|end_char=339
+10	análise	análise	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=340|end_char=347
+11	difratométrica	difratométrico	ADJ	_	Gender=Fem|Number=Sing	10	amod	O	start_char=348|end_char=362
+12	de	de	ADP	_	_	13	case	O	start_char=363|end_char=365
+13	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	10	nmod	O	start_char=366|end_char=380
+14-15	no	_	_	_	_	_	_	O	start_char=381|end_char=383
+14	em	em	ADP	_	_	16	case	O	_
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	O	_
+16	Centro	Centro	PROPN	_	Gender=Masc|Number=Sing	10	nmod	O	start_char=384|end_char=390
+17	de	de	ADP	_	_	16	flat:name	O	start_char=391|end_char=393
+18	Pesquisas	Pesquisas	PROPN	_	Number=Sing	16	flat:name	O	start_char=394|end_char=403
+19-20	da	_	_	_	_	_	_	O	start_char=404|end_char=406
+19	de	de	ADP	_	_	16	flat:name	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	flat:name	O	_
+21	PETROBRAS..	Petrorra-..	PROPN	_	Number=Sing	16	flat:name	O	start_char=407|end_char=418
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-6
+# text = 30letim de Geociências da PETROBRAS, 1(2):157-175..
+1	30letim	30letim	NUM	_	NumType=Card	0	root	O	start_char=420|end_char=427
+2	de	de	ADP	_	_	1	flat:name	O	start_char=428|end_char=430
+3	Geociências	Geociências	PROPN	_	Number=Sing	1	nmod	O	start_char=431|end_char=442
+4-5	da	_	_	_	_	_	_	O	start_char=443|end_char=445
+4	de	de	ADP	_	_	6	case	O	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	O	_
+6	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=446|end_char=455
+7	,	,	PUNCT	_	_	6	flat:name	O	start_char=455|end_char=456
+8	1(2):157-175	1(2):157-175	NUM	_	NumType=Card	6	flat:name	O	start_char=457|end_char=469
+9	.	.	PUNCT	_	_	1	punct	O	start_char=469|end_char=470
+10	.	.	PUNCT	_	_	1	punct	O	start_char=470|end_char=471
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-7
+# text = REFERÊNCIAS BIBLIOGRÁFICAS
+1	REFERÊNCIAS	refermnia	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=473|end_char=484
+2	BIBLIOGRÁFICAS	bibliográsdica	ADJ	_	Gender=Fem|Number=Plur	1	amod	O	start_char=485|end_char=499
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-8
+# text = Boletim de Geociências da PETROBRAS, 1(2):157-175..
+1	Boletim	boletim	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=501|end_char=508
+2	de	de	ADP	_	_	1	flat:name	O	start_char=509|end_char=511
+3	Geociências	Geociências	PROPN	_	Number=Sing	1	flat:name	O	start_char=512|end_char=523
+4-5	da	_	_	_	_	_	_	O	start_char=524|end_char=526
+4	de	de	ADP	_	_	6	case	O	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	O	_
+6	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=527|end_char=536
+7	,	,	PUNCT	_	_	1	flat:name	O	start_char=536|end_char=537
+8	1(2):157-175	1(2):157-175	NUM	_	NumType=Card	6	flat:name	O	start_char=538|end_char=550
+9	.	.	PUNCT	_	_	1	punct	O	start_char=550|end_char=551
+10	.	.	PUNCT	_	_	1	punct	O	start_char=551|end_char=552
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-9
+# text = BRUKER AXS GMBH..
+1	BRUKER	BRUKER	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=554|end_char=560
+2	AXS	AXS	PROPN	_	Number=Sing	1	flat:name	O	start_char=561|end_char=564
+3	GMBH.	GMBH.	PROPN	_	Number=Sing	1	flat:name	O	start_char=565|end_char=570
+4	.	.	PUNCT	_	_	1	punct	O	start_char=570|end_char=571
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-10
+# text = DIFFRAC.EVA, versão 4.2.0.2..
+1	DIFFRAC.EVA	DIFFRAC.EVA	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=573|end_char=584
+2	,	,	PUNCT	_	_	3	punct	O	start_char=584|end_char=585
+3	versão	versão	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=586|end_char=592
+4	4.2.0.2.	4.2.0.2.	NUM	_	NumType=Card	3	nummod	O	start_char=593|end_char=601
+5	.	.	PUNCT	_	_	1	punct	O	start_char=601|end_char=602
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-11
+# text = Karlsruhe: Bruker AXS, 2011..
+1	Karlsruhe	Karlsruhe	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=604|end_char=613
+2	:	:	PUNCT	_	_	3	punct	O	start_char=613|end_char=614
+3	Bruker	Bruker	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=615|end_char=621
+4	AXS	AXS	PROPN	_	Number=Sing	3	flat:name	O	start_char=622|end_char=625
+5	,	,	PUNCT	_	_	3	flat:name	O	start_char=625|end_char=626
+6	2011	2011	NOUN	_	Gender=Masc|Number=Plur	3	flat:name	O	start_char=627|end_char=631
+7	.	.	PUNCT	_	_	3	flat:name	O	start_char=631|end_char=632
+8	.	.	PUNCT	_	_	1	punct	O	start_char=632|end_char=633
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-12
+# text = CD-ROM..
+1	CD-ROM	cd-rom	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=635|end_char=641
+2	.	.	PUNCT	_	_	1	punct	O	start_char=641|end_char=642
+3	.	.	PUNCT	_	_	1	punct	O	start_char=642|end_char=643
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-13
+# text = BRUKER AXS GMBH..
+1	BRUKER	BRUKER	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=645|end_char=651
+2	AXS	AXS	PROPN	_	Number=Sing	1	flat:name	O	start_char=652|end_char=655
+3	GMBH.	GMBH.	PROPN	_	Number=Sing	1	flat:name	O	start_char=656|end_char=661
+4	.	.	PUNCT	_	_	1	punct	O	start_char=661|end_char=662
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-14
+# text = DIFFRAC.TOPAS, versão 4.2.0.2..
+1	DIFFRAC.TOPAS	DIFFRAC.TOPAS	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=664|end_char=677
+2	,	,	PUNCT	_	_	3	punct	O	start_char=677|end_char=678
+3	versão	versão	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=679|end_char=685
+4	4.2.0.2.	4.2.0.2.	NUM	_	NumType=Card	3	nummod	O	start_char=686|end_char=694
+5	.	.	PUNCT	_	_	1	punct	O	start_char=694|end_char=695
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-15
+# text = Karlsruhe: Bruker AXS, 2011..
+1	Karlsruhe	Karlsruhe	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=697|end_char=706
+2	:	:	PUNCT	_	_	3	punct	O	start_char=706|end_char=707
+3	Bruker	Bruker	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=708|end_char=714
+4	AXS	AXS	PROPN	_	Number=Sing	3	flat:name	O	start_char=715|end_char=718
+5	,	,	PUNCT	_	_	3	flat:name	O	start_char=718|end_char=719
+6	2011	2011	NOUN	_	Gender=Masc|Number=Plur	3	flat:name	O	start_char=720|end_char=724
+7	.	.	PUNCT	_	_	3	flat:name	O	start_char=724|end_char=725
+8	.	.	PUNCT	_	_	1	punct	O	start_char=725|end_char=726
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-16
+# text = CD-ROM. ICDD. PDF-2, Release 2013..
+1	CD-ROM	cd-rom	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=728|end_char=734
+2	.	.	PUNCT	_	_	3	punct	O	start_char=734|end_char=735
+3	ICDD.	ICDD.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=736|end_char=741
+4	PDF-2	PDF-2	PROPN	_	Number=Sing	3	flat:name	O	start_char=742|end_char=747
+5	,	,	PUNCT	_	_	6	punct	O	start_char=747|end_char=748
+6	Release	Release	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=749|end_char=756
+7	2013	2013	PROPN	_	Number=Sing	6	flat:name	O	start_char=757|end_char=761
+8	.	.	PUNCT	_	_	1	punct	O	start_char=761|end_char=762
+9	.	.	PUNCT	_	_	1	punct	O	start_char=762|end_char=763
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-17
+# text = Pennsylvania: International
+1	Pennsylvania	Pennsylvania	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=765|end_char=777
+2	:	:	PUNCT	_	_	3	punct	O	start_char=777|end_char=778
+3	International	International	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=779|end_char=792
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-18
+# text = Centre for Diffraction data, 2013..
+1	Centre	Centre	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	O	start_char=794|end_char=800
+2	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	cop	O	start_char=801|end_char=804
+3	Diffraction	Diffraction	PROPN	_	Number=Sing	0	root	O	start_char=805|end_char=816
+4	data	data	NOUN	_	Gender=Fem|Number=Sing	3	flat:name	O	start_char=817|end_char=821
+5	,	,	PUNCT	_	_	6	punct	O	start_char=821|end_char=822
+6	2013	2013	NOUN	_	Gender=Masc|Number=Plur	3	flat:name	O	start_char=823|end_char=827
+7	.	.	PUNCT	_	_	3	punct	O	start_char=827|end_char=828
+8	.	.	PUNCT	_	_	3	punct	O	start_char=828|end_char=829
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-19
+# text = CD-ROM. MDI..
+1	CD-ROM	cd-rom	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=831|end_char=837
+2	.	.	PUNCT	_	_	3	punct	O	start_char=837|end_char=838
+3	MDI	MDI	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=839|end_char=842
+4	.	.	PUNCT	_	_	3	punct	O	start_char=842|end_char=843
+5	.	.	PUNCT	_	_	1	punct	O	start_char=843|end_char=844
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-20
+# text = Jade 9, versão 9.6..
+1	Jade	Jade	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=846|end_char=850
+2	9	9	PROPN	_	Number=Sing	1	flat:name	O	start_char=851|end_char=852
+3	,	,	PUNCT	_	_	4	punct	O	start_char=852|end_char=853
+4	versão	versão	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=854|end_char=860
+5	9.6	9.6	NUM	_	NumType=Card	4	nummod	O	start_char=861|end_char=864
+6	.	.	PUNCT	_	_	1	flat:name	O	start_char=864|end_char=865
+7	.	.	PUNCT	_	_	1	punct	O	start_char=865|end_char=866
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-21
+# text = Livermore: Materials Data, 2015..
+1	Livermore	Livermore	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=868|end_char=877
+2	:	:	PUNCT	_	_	3	punct	O	start_char=877|end_char=878
+3	Materials	Materials	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=879|end_char=888
+4	Data	Data	PROPN	_	Number=Sing	3	flat:name	O	start_char=889|end_char=893
+5	,	,	PUNCT	_	_	3	flat:name	O	start_char=893|end_char=894
+6	2015	2015	NUM	_	NumType=Card	3	flat:name	O	start_char=895|end_char=899
+7	.	.	PUNCT	_	_	3	flat:name	O	start_char=899|end_char=900
+8	.	.	PUNCT	_	_	1	punct	O	start_char=900|end_char=901
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-22
+# text = CD-ROM
+1	CD-ROM	cd-rom	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=903|end_char=909
+
+# sent_id = 480469882FD61115E05351EB1D0ADEA2-23
+# text = REFERÊNCIAS BIBLIOGRÁFICAS
+1	REFERÊNCIAS	refermnia	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=911|end_char=922
+2	BIBLIOGRÁFICAS	bibliográsdica	ADJ	_	Gender=Fem|Number=Plur	1	amod	O	start_char=923|end_char=937

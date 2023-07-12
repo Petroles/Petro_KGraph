@@ -1,0 +1,1424 @@
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-1
+# text = Resumo
+1	Resumo	resumo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=0|end_char=6
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-2
+# text = A utilização de tubos com revestimento interno de polietileno em poços produtores com bombeio mecânico mostrou bom desempenho em testes realizados no Campo de Carmópolis..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=8|end_char=9
+2	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	start_char=10|end_char=20
+3	de	de	ADP	_	_	4	case	_	start_char=21|end_char=23
+4	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=24|end_char=29
+5	com	com	ADP	_	_	6	case	_	start_char=30|end_char=33
+6	revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=34|end_char=46
+7	interno	interno	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	start_char=47|end_char=54
+8	de	de	ADP	_	_	9	case	_	start_char=55|end_char=57
+9	polietileno	polietileno	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=58|end_char=69
+10	em	em	ADP	_	_	11	case	_	start_char=70|end_char=72
+11	poços	poço	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	start_char=73|end_char=78
+12	produtores	produtor	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	start_char=79|end_char=89
+13	com	com	ADP	_	_	14	case	_	start_char=90|end_char=93
+14	bombeio	bombeio	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	start_char=94|end_char=101
+15	mecânico	mecânico	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	start_char=102|end_char=110
+16	mostrou	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=111|end_char=118
+17	bom	bom	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	start_char=119|end_char=122
+18	desempenho	desempenho	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	start_char=123|end_char=133
+19	em	em	ADP	_	_	20	case	_	start_char=134|end_char=136
+20	testes	teste	NOUN	_	Gender=Masc|Number=Plur	18	nmod	_	start_char=137|end_char=143
+21	realizados	realizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	20	acl	_	start_char=144|end_char=154
+22-23	no	_	_	_	_	_	_	_	start_char=155|end_char=157
+22	em	em	ADP	_	_	24	case	_	_
+23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	Campo	Campo	PROPN	_	Gender=Masc|Number=Sing	21	obl	_	start_char=158|end_char=163
+25	de	de	ADP	_	_	24	flat:name	_	start_char=164|end_char=166
+26	Carmópolis	Carmópolis	PROPN	_	Number=Sing	24	flat:name	_	start_char=167|end_char=177
+27	.	.	PUNCT	_	_	16	punct	_	start_char=177|end_char=178
+28	.	.	PUNCT	_	_	16	punct	_	start_char=178|end_char=179
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-3
+# text = Este trabalho apresenta os resultados do teste, demonstra a viabilidade de ampliação do uso destes tubos, com base nos dados históricos de análise de falhas, e a economicidade esperada no conjunto de poços selecionados..
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=181|end_char=185
+2	trabalho	trabalho	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	start_char=186|end_char=194
+3	apresenta	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=195|end_char=204
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	start_char=205|end_char=207
+5	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	start_char=208|end_char=218
+6-7	do	_	_	_	_	_	_	_	start_char=219|end_char=221
+6	de	de	ADP	_	_	8	case	_	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	teste	teste	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	start_char=222|end_char=227
+9	,	,	PUNCT	_	_	10	punct	_	start_char=227|end_char=228
+10	demonstra	demonstrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=229|end_char=238
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	start_char=239|end_char=240
+12	viabilidade	viabilidade	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	start_char=241|end_char=252
+13	de	de	ADP	_	_	14	case	_	start_char=253|end_char=255
+14	ampliação	ampliação	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	start_char=256|end_char=265
+15-16	do	_	_	_	_	_	_	_	start_char=266|end_char=268
+15	de	de	ADP	_	_	17	case	_	_
+16	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	uso	uso	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=269|end_char=272
+18-19	destes	_	_	_	_	_	_	_	start_char=273|end_char=279
+18	de	de	ADP	_	_	20	case	_	_
+19	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	20	det	_	_
+20	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	start_char=280|end_char=285
+21	,	,	PUNCT	_	_	23	punct	_	start_char=285|end_char=286
+22	com	com	ADP	_	_	23	case	_	start_char=287|end_char=290
+23	base	base	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	start_char=291|end_char=295
+24-25	nos	_	_	_	_	_	_	_	start_char=296|end_char=299
+24	em	em	ADP	_	_	26	case	_	_
+25	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	dados	dado	NOUN	_	Gender=Masc|Number=Plur	23	nmod	_	start_char=300|end_char=305
+27	históricos	histórico	ADJ	_	Gender=Masc|Number=Plur	26	amod	_	start_char=306|end_char=316
+28	de	de	ADP	_	_	29	case	_	start_char=317|end_char=319
+29	análise	análise	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	start_char=320|end_char=327
+30	de	de	ADP	_	_	31	case	_	start_char=328|end_char=330
+31	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	29	nmod	_	start_char=331|end_char=337
+32	,	,	PUNCT	_	_	35	punct	_	start_char=337|end_char=338
+33	e	e	CCONJ	_	_	35	cc	_	start_char=339|end_char=340
+34	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	start_char=341|end_char=342
+35	economicidade	economicidade	NOUN	_	Gender=Fem|Number=Sing	12	conj	_	start_char=343|end_char=356
+36	esperada	esperar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	35	acl	_	start_char=357|end_char=365
+37-38	no	_	_	_	_	_	_	_	start_char=366|end_char=368
+37	em	em	ADP	_	_	39	case	_	_
+38	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+39	conjunto	conjunto	NOUN	_	Gender=Masc|Number=Sing	36	obl	_	start_char=369|end_char=377
+40	de	de	ADP	_	_	41	case	_	start_char=378|end_char=380
+41	poços	poço	NOUN	_	Gender=Masc|Number=Plur	39	nmod	_	start_char=381|end_char=386
+42	selecionados	selecionar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	41	acl	_	start_char=387|end_char=399
+43	.	.	PUNCT	_	_	42	punct	_	start_char=399|end_char=400
+44	.	.	PUNCT	_	_	3	punct	_	start_char=400|end_char=401
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-4
+# text = Nos cerca de 1200 poços bombeados da UN-SEAL ocorrem , em média, 50 falhas por furos em tubos por mês representando 30% das falhas nestes poços..
+1-2	Nos	_	_	_	_	_	_	_	start_char=403|end_char=406
+1	Em	em	ADP	_	_	6	case	_	_
+2	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+3	cerca	cerca	ADV	_	_	6	advmod	_	start_char=407|end_char=412
+4	de	de	ADP	_	_	3	fixed	_	start_char=413|end_char=415
+5	1200	1200	NUM	_	NumType=Card	6	nummod	_	start_char=416|end_char=420
+6	poços	poço	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	start_char=421|end_char=426
+7	bombeados	bombear	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	6	acl	_	start_char=427|end_char=436
+8-9	da	_	_	_	_	_	_	_	start_char=437|end_char=439
+8	de	de	ADP	_	_	10	case	_	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	UN-SEAL	UN-SEAL	PROPN	_	Gender=Fem|Number=Sing	6	nmod	_	start_char=440|end_char=447
+11	ocorrem	ocorrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=448|end_char=455
+12	,	,	PUNCT	_	_	11	punct	_	start_char=456|end_char=457
+13	em	em	ADP	_	_	14	case	_	start_char=458|end_char=460
+14	média	média	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	start_char=461|end_char=466
+15	,	,	PUNCT	_	_	11	punct	_	start_char=466|end_char=467
+16	50	50	NUM	_	NumType=Card	17	nummod	_	start_char=468|end_char=470
+17	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	start_char=471|end_char=477
+18	por	por	ADP	_	_	19	case	_	start_char=478|end_char=481
+19	furos	furo	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	start_char=482|end_char=487
+20	em	em	ADP	_	_	21	case	_	start_char=488|end_char=490
+21	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	start_char=491|end_char=496
+22	por	por	ADP	_	_	23	case	_	start_char=497|end_char=500
+23	mês	mês	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	start_char=501|end_char=504
+24	representando	representar	VERB	_	VerbForm=Ger	11	advcl	_	start_char=505|end_char=518
+25	30	30	NUM	_	NumType=Card	26	nummod	_	start_char=519|end_char=521
+26	%	%	SYM	_	_	24	obj	_	start_char=521|end_char=522
+27-28	das	_	_	_	_	_	_	_	start_char=523|end_char=526
+27	de	de	ADP	_	_	29	case	_	_
+28	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	_
+29	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	26	nmod	_	start_char=527|end_char=533
+30-31	nestes	_	_	_	_	_	_	_	start_char=534|end_char=540
+30	em	em	ADP	_	_	32	case	_	_
+31	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	32	det	_	_
+32	poços	poço	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	start_char=541|end_char=546
+33	.	.	PUNCT	_	_	11	punct	_	start_char=546|end_char=547
+34	.	.	PUNCT	_	_	11	punct	_	start_char=547|end_char=548
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-5
+# text = Os principais problemas em tubos têm sua origem no ataque químico do fluido, associado à abrasão causada pelas hastes de bombeamento..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	start_char=550|end_char=552
+2	principais	principal	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	start_char=553|end_char=563
+3	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	start_char=564|end_char=573
+4	em	em	ADP	_	_	5	case	_	start_char=574|end_char=576
+5	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	start_char=577|end_char=582
+6	têm	ter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=583|end_char=586
+7	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	8	det	_	start_char=587|end_char=590
+8	origem	origem	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	start_char=591|end_char=597
+9-10	no	_	_	_	_	_	_	_	start_char=598|end_char=600
+9	em	em	ADP	_	_	11	case	_	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ataque	ataque	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	start_char=601|end_char=607
+12	químico	químico	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=608|end_char=615
+13-14	do	_	_	_	_	_	_	_	start_char=616|end_char=618
+13	de	de	ADP	_	_	15	case	_	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	fluido	fluido	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	start_char=619|end_char=625
+16	,	,	PUNCT	_	_	17	punct	_	start_char=625|end_char=626
+17	associado	associar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	start_char=627|end_char=636
+18-19	à	_	_	_	_	_	_	_	start_char=637|end_char=638
+18	a	a	ADP	_	_	20	case	_	_
+19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	abrasão	abrasão	NOUN	_	Gender=Fem|Number=Sing	17	obl:arg	_	start_char=639|end_char=646
+21	causada	causar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	20	acl	_	start_char=647|end_char=654
+22-23	pelas	_	_	_	_	_	_	_	start_char=655|end_char=660
+22	por	por	ADP	_	_	24	case	_	_
+23	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+24	hastes	haste	NOUN	_	Gender=Fem|Number=Plur	21	obl:agent	_	start_char=661|end_char=667
+25	de	de	ADP	_	_	26	case	_	start_char=668|end_char=670
+26	bombeamento	bombeamento	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	start_char=671|end_char=682
+27	.	.	PUNCT	_	_	6	punct	_	start_char=682|end_char=683
+28	.	.	PUNCT	_	_	6	punct	_	start_char=683|end_char=684
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-6
+# text = Uma das soluções testadas para redução destas falhas foi a utilização da tubulação com revestimento interno de polietileno .
+1	Uma	um	NUM	_	NumType=Card	13	nsubj	_	start_char=686|end_char=689
+2-3	das	_	_	_	_	_	_	_	start_char=690|end_char=693
+2	de	de	ADP	_	_	4	case	_	_
+3	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	soluções	solução	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	start_char=694|end_char=702
+5	testadas	testar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	4	acl	_	start_char=703|end_char=711
+6	para	para	ADP	_	_	7	case	_	start_char=712|end_char=716
+7	redução	redução	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	start_char=717|end_char=724
+8-9	destas	_	_	_	_	_	_	_	start_char=725|end_char=731
+8	de	de	ADP	_	_	10	case	_	_
+9	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	start_char=732|end_char=738
+11	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=739|end_char=742
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=743|end_char=744
+13	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=745|end_char=755
+14-15	da	_	_	_	_	_	_	_	start_char=756|end_char=758
+14	de	de	ADP	_	_	16	case	_	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	tubulação	tubulação	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	start_char=759|end_char=768
+17	com	com	ADP	_	_	18	case	_	start_char=769|end_char=772
+18	revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	start_char=773|end_char=785
+19	interno	interno	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	start_char=786|end_char=793
+20	de	de	ADP	_	_	21	case	_	start_char=794|end_char=796
+21	polietileno	polietileno	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	start_char=797|end_char=808
+22	.	.	PUNCT	_	_	13	punct	_	start_char=809|end_char=810
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-7
+# text = Este teste foi iniciado em meados do ano 2000 e os tubos apresentaram bom desempenho..
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=812|end_char=816
+2	teste	teste	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	start_char=817|end_char=822
+3	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=823|end_char=826
+4	iniciado	iniciar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=827|end_char=835
+5	em	em	ADP	_	_	6	case	_	start_char=836|end_char=838
+6	meados	meado	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	start_char=839|end_char=845
+7-8	do	_	_	_	_	_	_	_	start_char=846|end_char=848
+7	de	de	ADP	_	_	9	case	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ano	ano	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=849|end_char=852
+10	2000	2000	NUM	_	NumType=Card	9	nummod	_	start_char=853|end_char=857
+11	e	e	CCONJ	_	_	14	cc	_	start_char=858|end_char=859
+12	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	start_char=860|end_char=862
+13	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	start_char=863|end_char=868
+14	apresentaram	apresentar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	4	conj	_	start_char=869|end_char=881
+15	bom	bom	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	start_char=882|end_char=885
+16	desempenho	desempenho	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	start_char=886|end_char=896
+17	.	.	PUNCT	_	_	14	punct	_	start_char=896|end_char=897
+18	.	.	PUNCT	_	_	4	punct	_	start_char=897|end_char=898
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-8
+# text = A solução foi considerada aplicável para poços de ambiente agressivo..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=900|end_char=901
+2	solução	solução	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	start_char=902|end_char=909
+3	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=910|end_char=913
+4	considerada	considerar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=914|end_char=925
+5	aplicável	aplicável	ADJ	_	Gender=Fem|Number=Sing	4	xcomp	_	start_char=926|end_char=935
+6	para	para	ADP	_	_	7	case	_	start_char=936|end_char=940
+7	poços	poço	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	start_char=941|end_char=946
+8	de	de	ADP	_	_	9	case	_	start_char=947|end_char=949
+9	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=950|end_char=958
+10	agressivo	agressivo	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	start_char=959|end_char=968
+11	.	.	PUNCT	_	_	4	punct	_	start_char=968|end_char=969
+12	.	.	PUNCT	_	_	4	punct	_	start_char=969|end_char=970
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-9
+# text = Este trabalho apresenta resultados do teste destes tubos no Campo de Carmópolis, uma metodologia para verificar a viabilidade econômica e um estudo de ampliação da sua utilização para 130 poços..
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=972|end_char=976
+2	trabalho	trabalho	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	start_char=977|end_char=985
+3	apresenta	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=986|end_char=995
+4	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	start_char=996|end_char=1006
+5-6	do	_	_	_	_	_	_	_	start_char=1007|end_char=1009
+5	de	de	ADP	_	_	7	case	_	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	teste	teste	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	start_char=1010|end_char=1015
+8-9	destes	_	_	_	_	_	_	_	start_char=1016|end_char=1022
+8	de	de	ADP	_	_	10	case	_	_
+9	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+10	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	start_char=1023|end_char=1028
+11-12	no	_	_	_	_	_	_	_	start_char=1029|end_char=1031
+11	em	em	ADP	_	_	13	case	_	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Campo	Campo	PROPN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=1032|end_char=1037
+14	de	de	ADP	_	_	13	flat:name	_	start_char=1038|end_char=1040
+15	Carmópolis	Carmópolis	PROPN	_	Number=Sing	13	flat:name	_	start_char=1041|end_char=1051
+16	,	,	PUNCT	_	_	18	punct	_	start_char=1051|end_char=1052
+17	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	start_char=1053|end_char=1056
+18	metodologia	metodologia	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	start_char=1057|end_char=1068
+19	para	para	SCONJ	_	_	20	mark	_	start_char=1069|end_char=1073
+20	verificar	verificar	VERB	_	VerbForm=Inf	3	advcl	_	start_char=1074|end_char=1083
+21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=1084|end_char=1085
+22	viabilidade	viabilidade	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	start_char=1086|end_char=1097
+23	econômica	econômico	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	start_char=1098|end_char=1107
+24	e	e	CCONJ	_	_	26	cc	_	start_char=1108|end_char=1109
+25	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	start_char=1110|end_char=1112
+26	estudo	estudo	NOUN	_	Gender=Masc|Number=Sing	22	conj	_	start_char=1113|end_char=1119
+27	de	de	ADP	_	_	28	case	_	start_char=1120|end_char=1122
+28	ampliação	ampliação	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	start_char=1123|end_char=1132
+29-30	da	_	_	_	_	_	_	_	start_char=1133|end_char=1135
+29	de	de	ADP	_	_	32	case	_	_
+30	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+31	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	32	det	_	start_char=1136|end_char=1139
+32	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	start_char=1140|end_char=1150
+33	para	para	ADP	_	_	35	case	_	start_char=1151|end_char=1155
+34	130	130	NUM	_	NumType=Card	35	nummod	_	start_char=1156|end_char=1159
+35	poços	poço	NOUN	_	Gender=Masc|Number=Plur	32	nmod	_	start_char=1160|end_char=1165
+36	.	.	PUNCT	_	_	3	punct	_	start_char=1165|end_char=1166
+37	.	.	PUNCT	_	_	3	punct	_	start_char=1166|end_char=1167
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-10
+# text = Pesquisa sobre o universo de utilização dos tubos revestidos
+1	Pesquisa	pesquisa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=1169|end_char=1177
+2	sobre	sobre	ADP	_	_	4	case	_	start_char=1178|end_char=1183
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=1184|end_char=1185
+4	universo	universo	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	start_char=1186|end_char=1194
+5	de	de	ADP	_	_	6	case	_	start_char=1195|end_char=1197
+6	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=1198|end_char=1208
+7-8	dos	_	_	_	_	_	_	_	start_char=1209|end_char=1212
+7	de	de	ADP	_	_	9	case	_	_
+8	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	start_char=1213|end_char=1218
+10	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	9	acl	_	start_char=1219|end_char=1229
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-11
+# text = Os tubos revestidos apresentam algumas restrições à sua aplicação , tais como a redução do diâmetro interno pela adição do revestimento e o custo mais elevado..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=1231|end_char=1233
+2	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	start_char=1234|end_char=1239
+3	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	_	start_char=1240|end_char=1250
+4	apresentam	apresentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1251|end_char=1261
+5	algumas	algum	DET	_	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	start_char=1262|end_char=1269
+6	restrições	restrição	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	start_char=1270|end_char=1280
+7-8	à	_	_	_	_	_	_	_	start_char=1281|end_char=1282
+7	a	a	ADP	_	_	10	case	_	_
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	10	det	_	start_char=1283|end_char=1286
+10	aplicação	aplicação	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	start_char=1287|end_char=1296
+11	,	,	PUNCT	_	_	15	punct	_	start_char=1297|end_char=1298
+12	tais	tal	DET	_	Gender=Fem|Number=Plur|PronType=Dem	15	case	_	start_char=1299|end_char=1303
+13	como	como	ADP	_	_	12	fixed	_	start_char=1304|end_char=1308
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=1309|end_char=1310
+15	redução	redução	NOUN	_	Gender=Fem|Number=Sing	10	nmod:appos	_	start_char=1311|end_char=1318
+16-17	do	_	_	_	_	_	_	_	start_char=1319|end_char=1321
+16	de	de	ADP	_	_	18	case	_	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	diâmetro	diâmetro	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	start_char=1322|end_char=1330
+19	interno	interno	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	start_char=1331|end_char=1338
+20-21	pela	_	_	_	_	_	_	_	start_char=1339|end_char=1343
+20	por	por	ADP	_	_	22	case	_	_
+21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	adição	adição	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	start_char=1344|end_char=1350
+23-24	do	_	_	_	_	_	_	_	start_char=1351|end_char=1353
+23	de	de	ADP	_	_	25	case	_	_
+24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	revestimento	revestimento	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	start_char=1354|end_char=1366
+26	e	e	CCONJ	_	_	28	cc	_	start_char=1367|end_char=1368
+27	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	start_char=1369|end_char=1370
+28	custo	custo	NOUN	_	Gender=Masc|Number=Sing	15	conj	_	start_char=1371|end_char=1376
+29	mais	mais	ADV	_	_	30	advmod	_	start_char=1377|end_char=1381
+30	elevado	elevar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	28	acl	_	start_char=1382|end_char=1389
+31	.	.	PUNCT	_	_	4	punct	_	start_char=1389|end_char=1390
+32	.	.	PUNCT	_	_	4	punct	_	start_char=1390|end_char=1391
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-12
+# text = Será inicialmente pesquisada a utilização de tubos em poços equipados com Bombeio Mecânico..
+1	Será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux:pass	_	start_char=1393|end_char=1397
+2	inicialmente	inicialmente	ADV	_	_	3	advmod	_	start_char=1398|end_char=1410
+3	pesquisada	pesquisar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=1411|end_char=1421
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=1422|end_char=1423
+5	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	3	nsubj:pass	_	start_char=1424|end_char=1434
+6	de	de	ADP	_	_	7	case	_	start_char=1435|end_char=1437
+7	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	start_char=1438|end_char=1443
+8	em	em	ADP	_	_	9	case	_	start_char=1444|end_char=1446
+9	poços	poço	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	start_char=1447|end_char=1452
+10	equipados	equipar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	9	acl	_	start_char=1453|end_char=1462
+11	com	com	ADP	_	_	12	case	_	start_char=1463|end_char=1466
+12	Bombeio	Bombeio	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	start_char=1467|end_char=1474
+13	Mecânico	Mecânico	PROPN	_	Number=Sing	12	flat:name	_	start_char=1475|end_char=1483
+14	.	.	PUNCT	_	_	3	punct	_	start_char=1483|end_char=1484
+15	.	.	PUNCT	_	_	3	punct	_	start_char=1484|end_char=1485
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-13
+# text = O diâmetro interno reduzido limita a passagem do pistão de bombas tubulares e da camisa de bombas insertáveis..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=1487|end_char=1488
+2	diâmetro	diâmetro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=1489|end_char=1497
+3	interno	interno	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	start_char=1498|end_char=1505
+4	reduzido	reduzir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	start_char=1506|end_char=1514
+5	limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1515|end_char=1521
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=1522|end_char=1523
+7	passagem	passagem	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	start_char=1524|end_char=1532
+8-9	do	_	_	_	_	_	_	_	start_char=1533|end_char=1535
+8	de	de	ADP	_	_	10	case	_	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	pistão	pistão	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=1536|end_char=1542
+11	de	de	ADP	_	_	12	case	_	start_char=1543|end_char=1545
+12	bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	start_char=1546|end_char=1552
+13	tubulares	tubular	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	start_char=1553|end_char=1562
+14	e	e	CCONJ	_	_	17	cc	_	start_char=1563|end_char=1564
+15-16	da	_	_	_	_	_	_	_	start_char=1565|end_char=1567
+15	de	de	ADP	_	_	17	case	_	_
+16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	camisa	camisa	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	start_char=1568|end_char=1574
+18	de	de	ADP	_	_	19	case	_	start_char=1575|end_char=1577
+19	bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	17	nmod	_	start_char=1578|end_char=1584
+20	insertáveis	insertável	ADJ	_	Gender=Fem|Number=Plur	19	amod	_	start_char=1585|end_char=1596
+21	.	.	PUNCT	_	_	5	punct	_	start_char=1596|end_char=1597
+22	.	.	PUNCT	_	_	5	punct	_	start_char=1597|end_char=1598
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-14
+# text = Atualmente, das 1083 bombas instaladas, 867 poderiam participar deste projeto..
+1	Atualmente	atualmente	ADV	_	_	10	advmod	_	start_char=1600|end_char=1610
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1610|end_char=1611
+3-4	das	_	_	_	_	_	_	_	start_char=1612|end_char=1615
+3	de	de	ADP	_	_	6	case	_	_
+4	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	1083	1083	NUM	_	NumType=Card	6	nummod	_	start_char=1616|end_char=1620
+6	bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	start_char=1621|end_char=1627
+7	instaladas	instalar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	6	acl	_	start_char=1628|end_char=1638
+8	,	,	PUNCT	_	_	7	punct	_	start_char=1638|end_char=1639
+9	867	867	NUM	_	NumType=Card	10	nsubj	_	start_char=1640|end_char=1643
+10	poderiam	poder	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	start_char=1644|end_char=1652
+11	participar	participar	VERB	_	VerbForm=Inf	10	xcomp	_	start_char=1653|end_char=1663
+12-13	deste	_	_	_	_	_	_	_	start_char=1664|end_char=1669
+12	de	de	ADP	_	_	14	case	_	_
+13	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+14	projeto	projeto	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	start_char=1670|end_char=1677
+15	.	.	PUNCT	_	_	11	punct	_	start_char=1677|end_char=1678
+16	.	.	PUNCT	_	_	10	punct	_	start_char=1678|end_char=1679
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-15
+# text = Estudaremos no universo dos 867 poços as situações mais indicadas para a utilização econômica dos tubos..
+1	Estudaremos	estudar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	start_char=1681|end_char=1692
+2-3	no	_	_	_	_	_	_	_	start_char=1693|end_char=1695
+2	em	em	ADP	_	_	4	case	_	_
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	universo	universo	NOUN	_	Gender=Masc|Number=Sing	1	obl:arg	_	start_char=1696|end_char=1704
+5-6	dos	_	_	_	_	_	_	_	start_char=1705|end_char=1708
+5	de	de	ADP	_	_	8	case	_	_
+6	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	867	867	NUM	_	NumType=Card	8	nummod	_	start_char=1709|end_char=1712
+8	poços	poço	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	start_char=1713|end_char=1718
+9	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	start_char=1719|end_char=1721
+10	situações	situação	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	start_char=1722|end_char=1731
+11	mais	mais	ADV	_	_	12	advmod	_	start_char=1732|end_char=1736
+12	indicadas	indicar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	10	acl	_	start_char=1737|end_char=1746
+13	para	para	ADP	_	_	15	case	_	start_char=1747|end_char=1751
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=1752|end_char=1753
+15	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	start_char=1754|end_char=1764
+16	econômica	econômico	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	start_char=1765|end_char=1774
+17-18	dos	_	_	_	_	_	_	_	start_char=1775|end_char=1778
+17	de	de	ADP	_	_	19	case	_	_
+18	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	start_char=1779|end_char=1784
+20	.	.	PUNCT	_	_	1	punct	_	start_char=1784|end_char=1785
+21	.	.	PUNCT	_	_	1	punct	_	start_char=1785|end_char=1786
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-16
+# text = Foi realizada uma pesquisa no Sistema INFO/SIP no periodo de 01/04/1998 a 31/03/2002..
+1	Foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	start_char=1788|end_char=1791
+2	realizada	realizar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=1792|end_char=1801
+3	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=1802|end_char=1805
+4	pesquisa	pesquisa	NOUN	_	Gender=Fem|Number=Sing	2	nsubj:pass	_	start_char=1806|end_char=1814
+5-6	no	_	_	_	_	_	_	_	start_char=1815|end_char=1817
+5	em	em	ADP	_	_	7	case	_	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Sistema	Sistema	PROPN	_	Gender=Masc|Number=Sing	2	obl	_	start_char=1818|end_char=1825
+8	INFO/	INFO/	PROPN	_	Number=Sing	7	flat:name	_	start_char=1826|end_char=1831
+9	SIP	SIP	PROPN	_	Number=Sing	7	flat:name	_	start_char=1831|end_char=1834
+10-11	no	_	_	_	_	_	_	_	start_char=1835|end_char=1837
+10	em	em	ADP	_	_	12	case	_	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	periodo	periodo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	start_char=1838|end_char=1845
+13	de	de	ADP	_	_	14	case	_	start_char=1846|end_char=1848
+14	01/04/1998	01/04/1998	NUM	_	NumType=Card	12	nummod	_	start_char=1849|end_char=1859
+15	a	a	ADP	_	_	16	case	_	start_char=1860|end_char=1861
+16	31/03/2002	31/03/2002	NUM	_	NumType=Card	14	conj	_	start_char=1862|end_char=1872
+17	.	.	PUNCT	_	_	2	punct	_	start_char=1872|end_char=1873
+18	.	.	PUNCT	_	_	2	punct	_	start_char=1873|end_char=1874
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-17
+# text = Foram coletadas as ocorrências dos 867 poços que hoje têm possibilidade de se instalar coluna revestida, com os seguintes resultados : Verificamos que 34% dos poços apresentaram 66% das falhas..
+1	Foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	2	aux:pass	_	start_char=1876|end_char=1881
+2	coletadas	coletar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=1882|end_char=1891
+3	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	start_char=1892|end_char=1894
+4	ocorrências	ocorrência	NOUN	_	Gender=Fem|Number=Plur	2	nsubj:pass	_	start_char=1895|end_char=1906
+5-6	dos	_	_	_	_	_	_	_	start_char=1907|end_char=1910
+5	de	de	ADP	_	_	8	case	_	_
+6	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+7	867	867	NUM	_	NumType=Card	8	nummod	_	start_char=1911|end_char=1914
+8	poços	poço	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	start_char=1915|end_char=1920
+9	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	11	nsubj	_	start_char=1921|end_char=1924
+10	hoje	hoje	ADV	_	_	11	advmod	_	start_char=1925|end_char=1929
+11	têm	ter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=1930|end_char=1933
+12	possibilidade	possibilidade	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	start_char=1934|end_char=1947
+13	de	de	SCONJ	_	_	15	mark	_	start_char=1948|end_char=1950
+14	se	se	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	15	expl	_	start_char=1951|end_char=1953
+15	instalar	instalar	VERB	_	VerbForm=Inf	11	advcl	_	start_char=1954|end_char=1962
+16	coluna	coluna	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	start_char=1963|end_char=1969
+17	revestida	revestir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	start_char=1970|end_char=1979
+18	,	,	PUNCT	_	_	17	punct	_	start_char=1979|end_char=1980
+19	com	com	ADP	_	_	22	case	_	start_char=1981|end_char=1984
+20	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	start_char=1985|end_char=1987
+21	seguintes	seguinte	ADJ	_	Gender=Masc|Number=Plur	22	amod	_	start_char=1988|end_char=1997
+22	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	start_char=1998|end_char=2008
+23	:	:	PUNCT	_	_	24	punct	_	start_char=2009|end_char=2010
+24	Verificamos	verificar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	start_char=2011|end_char=2022
+25	que	que	SCONJ	_	_	31	mark	_	start_char=2023|end_char=2026
+26	34	34	NUM	_	NumType=Card	27	nummod	_	start_char=2027|end_char=2029
+27	%	%	SYM	_	_	31	nsubj	_	start_char=2029|end_char=2030
+28-29	dos	_	_	_	_	_	_	_	start_char=2031|end_char=2034
+28	de	de	ADP	_	_	30	case	_	_
+29	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
+30	poços	poço	NOUN	_	Gender=Masc|Number=Plur	27	nmod	_	start_char=2035|end_char=2040
+31	apresentaram	apresentar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	24	ccomp	_	start_char=2041|end_char=2053
+32	66	66	NUM	_	NumType=Card	33	nummod	_	start_char=2054|end_char=2056
+33	%	%	SYM	_	_	31	obj	_	start_char=2056|end_char=2057
+34-35	das	_	_	_	_	_	_	_	start_char=2058|end_char=2061
+34	de	de	ADP	_	_	36	case	_	_
+35	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	_
+36	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	33	nmod	_	start_char=2062|end_char=2068
+37	.	.	PUNCT	_	_	31	punct	_	start_char=2068|end_char=2069
+38	.	.	PUNCT	_	_	2	punct	_	start_char=2069|end_char=2070
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-18
+# text = Estes 34% representam cerca de 130 poços que, em princípio, é o nosso conjunto alvo para uso dos tubos revestidos..
+1	Estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	start_char=2072|end_char=2077
+2	34	34	NUM	_	NumType=Card	3	nummod	_	start_char=2078|end_char=2080
+3	%	%	SYM	_	_	4	nsubj	_	start_char=2080|end_char=2081
+4	representam	representar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2082|end_char=2093
+5	cerca	cerca	ADV	_	_	8	advmod	_	start_char=2094|end_char=2099
+6	de	de	ADP	_	_	5	fixed	_	start_char=2100|end_char=2102
+7	130	130	NUM	_	NumType=Card	8	nummod	_	start_char=2103|end_char=2106
+8	poços	poço	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	start_char=2107|end_char=2112
+9	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	17	nsubj	_	start_char=2113|end_char=2116
+10	,	,	PUNCT	_	_	12	punct	_	start_char=2116|end_char=2117
+11	em	em	ADP	_	_	12	case	_	start_char=2118|end_char=2120
+12	princípio	princípio	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	start_char=2121|end_char=2130
+13	,	,	PUNCT	_	_	12	punct	_	start_char=2130|end_char=2131
+14	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=2132|end_char=2133
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	start_char=2134|end_char=2135
+16	nosso	nosso	DET	_	Gender=Masc|Number=Sing|PronType=Prs	17	det	_	start_char=2136|end_char=2141
+17	conjunto	conjunto	NOUN	_	Gender=Masc|Number=Sing	8	acl:relcl	_	start_char=2142|end_char=2150
+18	alvo	alvo	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	start_char=2151|end_char=2155
+19	para	para	ADP	_	_	20	case	_	start_char=2156|end_char=2160
+20	uso	uso	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	start_char=2161|end_char=2164
+21-22	dos	_	_	_	_	_	_	_	start_char=2165|end_char=2168
+21	de	de	ADP	_	_	23	case	_	_
+22	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	20	nmod	_	start_char=2169|end_char=2174
+24	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	23	acl	_	start_char=2175|end_char=2185
+25	.	.	PUNCT	_	_	4	punct	_	start_char=2185|end_char=2186
+26	.	.	PUNCT	_	_	4	punct	_	start_char=2186|end_char=2187
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-19
+# text = Análise econômica
+1	Análise	Análise	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=2189|end_char=2196
+2	econômica	econômico	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	start_char=2197|end_char=2206
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-20
+# text = Verificação do limite econômico de utilização dos tubos revestidos: A vida útil dos tubos comuns para estes poços é estimada em 5 anos..
+1	Verificação	Verificação	NOUN	_	Gender=Fem|Number=Sing	24	nsubj:pass	_	start_char=2208|end_char=2219
+2-3	do	_	_	_	_	_	_	_	start_char=2220|end_char=2222
+2	de	de	ADP	_	_	4	case	_	_
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	limite	limite	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	start_char=2223|end_char=2229
+5	econômico	econômico	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=2230|end_char=2239
+6	de	de	ADP	_	_	7	case	_	start_char=2240|end_char=2242
+7	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=2243|end_char=2253
+8-9	dos	_	_	_	_	_	_	_	start_char=2254|end_char=2257
+8	de	de	ADP	_	_	10	case	_	_
+9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	start_char=2258|end_char=2263
+11	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	10	acl	_	start_char=2264|end_char=2274
+12	:	:	PUNCT	_	_	24	punct	_	start_char=2274|end_char=2275
+13	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	start_char=2276|end_char=2277
+14	vida	vida	NOUN	_	Gender=Fem|Number=Sing	24	nsubj:pass	_	start_char=2278|end_char=2282
+15	útil	útil	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	start_char=2283|end_char=2287
+16-17	dos	_	_	_	_	_	_	_	start_char=2288|end_char=2291
+16	de	de	ADP	_	_	18	case	_	_
+17	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	start_char=2292|end_char=2297
+19	comuns	comum	ADJ	_	Gender=Masc|Number=Plur	18	amod	_	start_char=2298|end_char=2304
+20	para	para	ADP	_	_	22	case	_	start_char=2305|end_char=2309
+21	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	22	det	_	start_char=2310|end_char=2315
+22	poços	poço	NOUN	_	Gender=Masc|Number=Plur	18	nmod	_	start_char=2316|end_char=2321
+23	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	start_char=2322|end_char=2323
+24	estimada	estimar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=2324|end_char=2332
+25	em	em	ADP	_	_	27	case	_	start_char=2333|end_char=2335
+26	5	5	NUM	_	NumType=Card	27	nummod	_	start_char=2336|end_char=2337
+27	anos	ano	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	start_char=2338|end_char=2342
+28	.	.	PUNCT	_	_	24	punct	_	start_char=2342|end_char=2343
+29	.	.	PUNCT	_	_	24	punct	_	start_char=2343|end_char=2344
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-21
+# text = Para a análise econômica
+1	Para	para	ADP	_	_	3	case	_	start_char=2346|end_char=2350
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=2351|end_char=2352
+3	análise	análise	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=2353|end_char=2360
+4	econômica	econômico	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	start_char=2361|end_char=2370
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-22
+# text = Para bombas com tubos de 2 3/8": 1,20 interv..
+1	Para	para	ADP	_	_	2	case	_	start_char=2372|end_char=2376
+2	bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	0	root	_	start_char=2377|end_char=2383
+3	com	com	ADP	_	_	4	case	_	start_char=2384|end_char=2387
+4	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=2388|end_char=2393
+5	de	de	ADP	_	_	7	case	_	start_char=2394|end_char=2396
+6	2	2	NUM	_	NumType=Card	7	nummod	_	start_char=2397|end_char=2398
+7	3/8	3/8	NUM	_	NumType=Card	4	nummod	_	start_char=2399|end_char=2402
+8	"	«	PUNCT	_	_	11	punct	_	start_char=2402|end_char=2403
+9	:	:	PUNCT	_	_	11	punct	_	start_char=2403|end_char=2404
+10	1,20	1,20	NUM	_	NumType=Card	11	nummod	_	start_char=2405|end_char=2409
+11	interv.	interv.	NOUN	_	Gender=Masc|Number=Plur	4	appos	_	start_char=2410|end_char=2417
+12	.	.	PUNCT	_	_	2	punct	_	start_char=2417|end_char=2418
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-23
+# text = por poço em 4 anos..
+1	por	por	ADP	_	_	2	case	_	start_char=2420|end_char=2423
+2	poço	poço	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2424|end_char=2428
+3	em	em	ADP	_	_	5	case	_	start_char=2429|end_char=2431
+4	4	4	NUM	_	NumType=Card	5	nummod	_	start_char=2432|end_char=2433
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=2434|end_char=2438
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2438|end_char=2439
+7	.	.	PUNCT	_	_	2	punct	_	start_char=2439|end_char=2440
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-24
+# text = Para bombas com tubos de 2 7/8 ': 1,26 interv..
+1	Para	para	ADP	_	_	2	case	_	start_char=2442|end_char=2446
+2	bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	0	root	_	start_char=2447|end_char=2453
+3	com	com	ADP	_	_	4	case	_	start_char=2454|end_char=2457
+4	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=2458|end_char=2463
+5	de	de	ADP	_	_	7	case	_	start_char=2464|end_char=2466
+6	2	2	NUM	_	NumType=Card	7	nummod	_	start_char=2467|end_char=2468
+7	7/8	7/8	NUM	_	NumType=Card	4	nummod	_	start_char=2469|end_char=2472
+8	'	'	PUNCT	_	_	11	punct	_	start_char=2473|end_char=2474
+9	:	:	PUNCT	_	_	11	punct	_	start_char=2474|end_char=2475
+10	1,26	1,26	NUM	_	NumType=Card	11	nummod	_	start_char=2476|end_char=2480
+11	interv.	interv.	NOUN	_	Gender=Masc|Number=Plur	4	appos	_	start_char=2481|end_char=2488
+12	.	.	PUNCT	_	_	2	punct	_	start_char=2488|end_char=2489
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-25
+# text = por poço em 4 anos..
+1	por	por	ADP	_	_	2	case	_	start_char=2491|end_char=2494
+2	poço	poço	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2495|end_char=2499
+3	em	em	ADP	_	_	5	case	_	start_char=2500|end_char=2502
+4	4	4	NUM	_	NumType=Card	5	nummod	_	start_char=2503|end_char=2504
+5	anos	ano	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=2505|end_char=2509
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2509|end_char=2510
+7	.	.	PUNCT	_	_	2	punct	_	start_char=2510|end_char=2511
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-26
+# text = Considerações sobre os pocos selecionados: Todos os poços têm 3 ou mais falhas em 4 anos..
+1	Considerações	consideração	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	start_char=2513|end_char=2526
+2	sobre	sobre	ADP	_	_	4	case	_	start_char=2527|end_char=2532
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	start_char=2533|end_char=2535
+4	pocos	poco	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	start_char=2536|end_char=2541
+5	selecionados	selecionar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	4	acl	_	start_char=2542|end_char=2554
+6	:	:	PUNCT	_	_	10	punct	_	start_char=2554|end_char=2555
+7	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	9	det	_	start_char=2556|end_char=2561
+8	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	start_char=2562|end_char=2564
+9	poços	poço	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	start_char=2565|end_char=2570
+10	têm	ter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2571|end_char=2574
+11	3	3	NUM	_	NumType=Card	14	nummod	_	start_char=2575|end_char=2576
+12	ou	ou	CCONJ	_	_	13	cc	_	start_char=2577|end_char=2579
+13	mais	mais	DET	_	Gender=Fem|Number=Plur|PronType=Ind	14	det	_	start_char=2580|end_char=2584
+14	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	start_char=2585|end_char=2591
+15	em	em	ADP	_	_	17	case	_	start_char=2592|end_char=2594
+16	4	4	NUM	_	NumType=Card	17	nummod	_	start_char=2595|end_char=2596
+17	anos	ano	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	start_char=2597|end_char=2601
+18	.	.	PUNCT	_	_	10	punct	_	start_char=2601|end_char=2602
+19	.	.	PUNCT	_	_	1	punct	_	start_char=2602|end_char=2603
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-27
+# text = Caso os poços com apenas 3 falhas por tubos apresentarem apenas uma falha em 4 anos com tubos revestidos, a instalação é lucrativa, na pior condição, pois a redução seria de 2 quando o necessário seria apenas 1,26 conforme demonstrado acima..
+1	Caso	caso	SCONJ	_	_	10	mark	_	start_char=2605|end_char=2609
+2	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	start_char=2610|end_char=2612
+3	poços	poço	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	start_char=2613|end_char=2618
+4	com	com	ADP	_	_	7	case	_	start_char=2619|end_char=2622
+5	apenas	apenas	ADV	_	_	6	advmod	_	start_char=2623|end_char=2629
+6	3	3	NUM	_	NumType=Card	7	nummod	_	start_char=2630|end_char=2631
+7	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	start_char=2632|end_char=2638
+8	por	por	ADP	_	_	9	case	_	start_char=2639|end_char=2642
+9	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	start_char=2643|end_char=2648
+10	apresentarem	apresentar	VERB	_	Number=Plur|Person=3|VerbForm=Inf	24	advcl	_	start_char=2649|end_char=2661
+11	apenas	apenas	ADV	_	_	10	advmod	_	start_char=2662|end_char=2668
+12	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=2669|end_char=2672
+13	falha	falha	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	start_char=2673|end_char=2678
+14	em	em	ADP	_	_	16	case	_	start_char=2679|end_char=2681
+15	4	4	NUM	_	NumType=Card	16	nummod	_	start_char=2682|end_char=2683
+16	anos	ano	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	start_char=2684|end_char=2688
+17	com	com	ADP	_	_	18	case	_	start_char=2689|end_char=2692
+18	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	start_char=2693|end_char=2698
+19	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	18	acl	_	start_char=2699|end_char=2709
+20	,	,	PUNCT	_	_	10	punct	_	start_char=2709|end_char=2710
+21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=2711|end_char=2712
+22	instalação	instalação	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	start_char=2713|end_char=2723
+23	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=2724|end_char=2725
+24	lucrativa	lucrativo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	start_char=2726|end_char=2735
+25	,	,	PUNCT	_	_	24	punct	_	start_char=2735|end_char=2736
+26-27	na	_	_	_	_	_	_	_	start_char=2737|end_char=2739
+26	em	em	ADP	_	_	29	case	_	_
+27	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+28	pior	mau	ADJ	_	Gender=Fem|Number=Sing	29	amod	_	start_char=2740|end_char=2744
+29	condição	condição	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	start_char=2745|end_char=2753
+30	,	,	PUNCT	_	_	24	punct	_	start_char=2753|end_char=2754
+31	pois	pois	SCONJ	_	_	36	mark	_	start_char=2755|end_char=2759
+32	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	start_char=2760|end_char=2761
+33	redução	redução	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	_	start_char=2762|end_char=2769
+34	seria	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	36	cop	_	start_char=2770|end_char=2775
+35	de	de	ADP	_	_	36	case	_	start_char=2776|end_char=2778
+36	2	2	NUM	_	NumType=Card	24	advcl	_	start_char=2779|end_char=2780
+37	quando	quando	ADV	_	_	42	advmod	_	start_char=2781|end_char=2787
+38	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	start_char=2788|end_char=2789
+39	necessário	necessário	NOUN	_	Gender=Masc|Number=Sing	42	nsubj	_	start_char=2790|end_char=2800
+40	seria	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	42	cop	_	start_char=2801|end_char=2806
+41	apenas	apenas	ADV	_	_	42	advmod	_	start_char=2807|end_char=2813
+42	1,26	1,26	NUM	_	NumType=Card	24	conj	_	start_char=2814|end_char=2818
+43	conforme	conforme	ADV	_	_	44	advmod	_	start_char=2819|end_char=2827
+44	demonstrado	demonstrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	42	advcl	_	start_char=2828|end_char=2839
+45	acima	acima	ADV	_	_	44	advmod	_	start_char=2840|end_char=2845
+46	.	.	PUNCT	_	_	44	punct	_	start_char=2845|end_char=2846
+47	.	.	PUNCT	_	_	24	punct	_	start_char=2846|end_char=2847
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-28
+# text = Considerando 133 poços e 667 intervenções em 4 anos, seria necessária uma redução de 168 intervenções em 4 anos ou redução de 42 intervenções por ano para pagar o investimento..
+1	Considerando	considerar	VERB	_	VerbForm=Ger	12	advcl	_	start_char=2849|end_char=2861
+2	133	133	NUM	_	NumType=Card	3	nummod	_	start_char=2862|end_char=2865
+3	poços	poço	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	start_char=2866|end_char=2871
+4	e	e	CCONJ	_	_	6	cc	_	start_char=2872|end_char=2873
+5	667	667	NUM	_	NumType=Card	6	nummod	_	start_char=2874|end_char=2877
+6	intervenções	intervenção	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	start_char=2878|end_char=2890
+7	em	em	ADP	_	_	9	case	_	start_char=2891|end_char=2893
+8	4	4	NUM	_	NumType=Card	9	nummod	_	start_char=2894|end_char=2895
+9	anos	ano	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	start_char=2896|end_char=2900
+10	,	,	PUNCT	_	_	1	punct	_	start_char=2900|end_char=2901
+11	seria	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	12	cop	_	start_char=2902|end_char=2907
+12	necessária	necessário	ADJ	_	Gender=Fem|Number=Sing	0	root	_	start_char=2908|end_char=2918
+13	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	start_char=2919|end_char=2922
+14	redução	redução	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	start_char=2923|end_char=2930
+15	de	de	ADP	_	_	17	case	_	start_char=2931|end_char=2933
+16	168	168	NUM	_	NumType=Card	17	nummod	_	start_char=2934|end_char=2937
+17	intervenções	intervenção	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	start_char=2938|end_char=2950
+18	em	em	ADP	_	_	20	case	_	start_char=2951|end_char=2953
+19	4	4	NUM	_	NumType=Card	20	nummod	_	start_char=2954|end_char=2955
+20	anos	ano	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	start_char=2956|end_char=2960
+21	ou	ou	CCONJ	_	_	22	cc	_	start_char=2961|end_char=2963
+22	redução	redução	NOUN	_	Gender=Fem|Number=Sing	20	conj	_	start_char=2964|end_char=2971
+23	de	de	ADP	_	_	25	case	_	start_char=2972|end_char=2974
+24	42	42	NUM	_	NumType=Card	25	nummod	_	start_char=2975|end_char=2977
+25	intervenções	intervenção	NOUN	_	Gender=Fem|Number=Plur	22	nmod	_	start_char=2978|end_char=2990
+26	por	por	ADP	_	_	27	case	_	start_char=2991|end_char=2994
+27	ano	ano	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	start_char=2995|end_char=2998
+28	para	para	SCONJ	_	_	29	mark	_	start_char=2999|end_char=3003
+29	pagar	pagar	VERB	_	VerbForm=Inf	12	advcl	_	start_char=3004|end_char=3009
+30	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	start_char=3010|end_char=3011
+31	investimento	investimento	NOUN	_	Gender=Masc|Number=Sing	29	obj	_	start_char=3012|end_char=3024
+32	.	.	PUNCT	_	_	12	punct	_	start_char=3024|end_char=3025
+33	.	.	PUNCT	_	_	12	punct	_	start_char=3025|end_char=3026
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-29
+# text = Observação: O custo financeiro da despesa inicial pode ser considerado compensado uma vez que os tubos devem operar durante mais de 4 anos..
+1	Observação	observação	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	start_char=3028|end_char=3038
+2	:	:	PUNCT	_	_	10	punct	_	start_char=3038|end_char=3039
+3	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=3040|end_char=3041
+4	custo	custo	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	start_char=3042|end_char=3047
+5	financeiro	financeiro	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=3048|end_char=3058
+6-7	da	_	_	_	_	_	_	_	start_char=3059|end_char=3061
+6	de	de	ADP	_	_	8	case	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	despesa	despesa	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=3062|end_char=3069
+9	inicial	inicial	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	start_char=3070|end_char=3077
+10	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3078|end_char=3082
+11	ser	ser	AUX	_	VerbForm=Inf	12	aux:pass	_	start_char=3083|end_char=3086
+12	considerado	considerar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	10	xcomp	_	start_char=3087|end_char=3098
+13	compensado	compensar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	12	xcomp	_	start_char=3099|end_char=3109
+14	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	mark	_	start_char=3110|end_char=3113
+15	vez	vez	NOUN	_	Gender=Fem|Number=Sing	14	fixed	_	start_char=3114|end_char=3117
+16	que	que	SCONJ	_	_	14	fixed	_	start_char=3118|end_char=3121
+17	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	start_char=3122|end_char=3124
+18	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	19	nsubj	_	start_char=3125|end_char=3130
+19	devem	dever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=3131|end_char=3136
+20	operar	operar	VERB	_	VerbForm=Inf	19	xcomp	_	start_char=3137|end_char=3143
+21	durante	durante	ADP	_	_	25	case	_	start_char=3144|end_char=3151
+22	mais	mais	ADV	_	_	25	advmod	_	start_char=3152|end_char=3156
+23	de	de	ADP	_	_	22	fixed	_	start_char=3157|end_char=3159
+24	4	4	NUM	_	NumType=Card	25	nummod	_	start_char=3160|end_char=3161
+25	anos	ano	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	start_char=3162|end_char=3166
+26	.	.	PUNCT	_	_	25	nmod	_	start_char=3166|end_char=3167
+27	.	.	PUNCT	_	_	10	punct	_	start_char=3167|end_char=3168
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-30
+# text = Colocando os dados em termos anuaís, para os 133 poços temos : O aumento mínimo do Tempo Médio Até a Falha (MITF) de tubos deve ser de 33,6% para este conjunto de poços..
+1	Colocando	colocar	VERB	_	VerbForm=Ger	12	advcl	_	start_char=3170|end_char=3179
+2	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	start_char=3180|end_char=3182
+3	dados	dado	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	start_char=3183|end_char=3188
+4	em	em	ADP	_	_	5	case	_	start_char=3189|end_char=3191
+5	termos	termos	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	start_char=3192|end_char=3198
+6	anuaís	anual	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	start_char=3199|end_char=3205
+7	,	,	PUNCT	_	_	1	punct	_	start_char=3205|end_char=3206
+8	para	para	ADP	_	_	11	case	_	start_char=3207|end_char=3211
+9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	start_char=3212|end_char=3214
+10	133	133	NUM	_	NumType=Card	11	nummod	_	start_char=3215|end_char=3218
+11	poços	poço	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	start_char=3219|end_char=3224
+12	temos	ter	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3225|end_char=3230
+13	:	:	PUNCT	_	_	12	punct	_	start_char=3231|end_char=3232
+14	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=3233|end_char=3234
+15	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	29	nsubj	_	start_char=3235|end_char=3242
+16	mínimo	mínimo	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	start_char=3243|end_char=3249
+17-18	do	_	_	_	_	_	_	_	start_char=3250|end_char=3252
+17	de	de	ADP	_	_	19	case	_	_
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	Tempo	Tempo	PROPN	_	Gender=Masc|Number=Sing	15	nmod	_	start_char=3253|end_char=3258
+20	Médio	Médio	PROPN	_	Number=Sing	19	flat:name	_	start_char=3259|end_char=3264
+21	Até	até	ADP	_	_	19	flat:name	_	start_char=3265|end_char=3268
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	flat:name	_	start_char=3269|end_char=3270
+23	Falha	Falha	PROPN	_	Number=Sing	19	flat:name	_	start_char=3271|end_char=3276
+24	(	(	PUNCT	_	_	25	punct	_	start_char=3277|end_char=3278
+25	MITF	MITF	PROPN	_	Gender=Masc|Number=Sing	19	appos	_	start_char=3278|end_char=3282
+26	)	)	PUNCT	_	_	25	punct	_	start_char=3282|end_char=3283
+27	de	de	ADP	_	_	28	case	_	start_char=3284|end_char=3286
+28	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	start_char=3287|end_char=3292
+29	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=3293|end_char=3297
+30	ser	ser	AUX	_	VerbForm=Inf	33	cop	_	start_char=3298|end_char=3301
+31	de	de	ADP	_	_	33	case	_	start_char=3302|end_char=3304
+32	33,6	33,6	NUM	_	NumType=Card	33	nummod	_	start_char=3305|end_char=3309
+33	%	%	SYM	_	_	29	obl	_	start_char=3309|end_char=3310
+34	para	para	ADP	_	_	36	case	_	start_char=3311|end_char=3315
+35	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	36	det	_	start_char=3316|end_char=3320
+36	conjunto	conjunto	NOUN	_	Gender=Masc|Number=Sing	33	nmod	_	start_char=3321|end_char=3329
+37	de	de	ADP	_	_	38	case	_	start_char=3330|end_char=3332
+38	poços	poço	NOUN	_	Gender=Masc|Number=Plur	36	nmod	_	start_char=3333|end_char=3338
+39	.	.	PUNCT	_	_	29	punct	_	start_char=3338|end_char=3339
+40	.	.	PUNCT	_	_	12	punct	_	start_char=3339|end_char=3340
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-31
+# text = A análise da utilização em outros campos e dos testes em Carmópolis (ver Figura 1) demonstra que este percentual é amplamente superado..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=3342|end_char=3343
+2	análise	análise	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	start_char=3344|end_char=3351
+3-4	da	_	_	_	_	_	_	_	start_char=3352|end_char=3354
+3	de	de	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=3355|end_char=3365
+6	em	em	ADP	_	_	8	case	_	start_char=3366|end_char=3368
+7	outros	outro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	start_char=3369|end_char=3375
+8	campos	campo	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	start_char=3376|end_char=3382
+9	e	e	CCONJ	_	_	12	cc	_	start_char=3383|end_char=3384
+10-11	dos	_	_	_	_	_	_	_	start_char=3385|end_char=3388
+10	de	de	ADP	_	_	12	case	_	_
+11	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	testes	teste	NOUN	_	Gender=Masc|Number=Plur	8	conj	_	start_char=3389|end_char=3395
+13	em	em	ADP	_	_	14	case	_	start_char=3396|end_char=3398
+14	Carmópolis	Carmópolis	PROPN	_	Gender=Masc|Number=Sing	12	nmod	_	start_char=3399|end_char=3409
+15	(	(	PUNCT	_	_	16	punct	_	start_char=3410|end_char=3411
+16	ver	ver	VERB	_	VerbForm=Inf	12	acl	_	start_char=3411|end_char=3414
+17	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	16	obj	_	start_char=3415|end_char=3421
+18	1	1	PROPN	_	Number=Sing	17	flat:name	_	start_char=3422|end_char=3423
+19	)	)	PUNCT	_	_	16	punct	_	start_char=3423|end_char=3424
+20	demonstra	demonstrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3425|end_char=3434
+21	que	que	SCONJ	_	_	26	mark	_	start_char=3435|end_char=3438
+22	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	23	det	_	start_char=3439|end_char=3443
+23	percentual	percentual	NOUN	_	Gender=Masc|Number=Sing	26	nsubj:pass	_	start_char=3444|end_char=3454
+24	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	_	start_char=3455|end_char=3456
+25	amplamente	amplamente	ADV	_	_	26	advmod	_	start_char=3457|end_char=3467
+26	superado	superar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	20	ccomp	_	start_char=3468|end_char=3476
+27	.	.	PUNCT	_	_	26	punct	_	start_char=3476|end_char=3477
+28	.	.	PUNCT	_	_	20	punct	_	start_char=3477|end_char=3478
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-32
+# text = Observamos, na figura 1, que os poços do teste superaram amplamente o tempo do limite econômico (coluna hachurada)..
+1	Observamos	observar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3480|end_char=3490
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3490|end_char=3491
+3-4	na	_	_	_	_	_	_	_	start_char=3492|end_char=3494
+3	em	em	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	figura	figura	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	start_char=3495|end_char=3501
+6	1	1	NUM	_	NumType=Card	5	nummod	_	start_char=3502|end_char=3503
+7	,	,	PUNCT	_	_	1	punct	_	start_char=3503|end_char=3504
+8	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	14	obl	_	start_char=3505|end_char=3508
+9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	start_char=3509|end_char=3511
+10	poços	poço	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	start_char=3512|end_char=3517
+11-12	do	_	_	_	_	_	_	_	start_char=3518|end_char=3520
+11	de	de	ADP	_	_	13	case	_	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	teste	teste	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	start_char=3521|end_char=3526
+14	superaram	superar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	5	acl:relcl	_	start_char=3527|end_char=3536
+15	amplamente	amplamente	ADV	_	_	14	advmod	_	start_char=3537|end_char=3547
+16	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	start_char=3548|end_char=3549
+17	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	start_char=3550|end_char=3555
+18-19	do	_	_	_	_	_	_	_	start_char=3556|end_char=3558
+18	de	de	ADP	_	_	20	case	_	_
+19	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	limite	limite	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	start_char=3559|end_char=3565
+21	econômico	econômico	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	start_char=3566|end_char=3575
+22	(	(	PUNCT	_	_	23	punct	_	start_char=3576|end_char=3577
+23	coluna	coluna	NOUN	_	Gender=Fem|Number=Sing	20	appos	_	start_char=3577|end_char=3583
+24	hachurada	hachurar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	23	acl	_	start_char=3584|end_char=3593
+25	)	)	PUNCT	_	_	23	punct	_	start_char=3593|end_char=3594
+26	.	.	PUNCT	_	_	1	punct	_	start_char=3594|end_char=3595
+27	.	.	PUNCT	_	_	1	punct	_	start_char=3595|end_char=3596
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-33
+# text = A utilização dos tubos revestidos foi testada em 4 poços do Campo de Carmópolis: CP-0137, CP­ 1215, CP-1230 e CP-1277, cujos resultados são apresentados a seguir..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=3598|end_char=3599
+2	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	8	nsubj:pass	_	start_char=3600|end_char=3610
+3-4	dos	_	_	_	_	_	_	_	start_char=3611|end_char=3614
+3	de	de	ADP	_	_	5	case	_	_
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=3615|end_char=3620
+6	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	5	acl	_	start_char=3621|end_char=3631
+7	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	start_char=3632|end_char=3635
+8	testada	testar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=3636|end_char=3643
+9	em	em	ADP	_	_	11	case	_	start_char=3644|end_char=3646
+10	4	4	NUM	_	NumType=Card	11	nummod	_	start_char=3647|end_char=3648
+11	poços	poço	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	start_char=3649|end_char=3654
+12-13	do	_	_	_	_	_	_	_	start_char=3655|end_char=3657
+12	de	de	ADP	_	_	14	case	_	_
+13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Campo	Campo	PROPN	_	Gender=Masc|Number=Sing	11	nmod	_	start_char=3658|end_char=3663
+15	de	de	ADP	_	_	14	flat:name	_	start_char=3664|end_char=3666
+16	Carmópolis	Carmópolis	PROPN	_	Number=Sing	14	flat:name	_	start_char=3667|end_char=3677
+17	:	:	PUNCT	_	_	18	punct	_	start_char=3677|end_char=3678
+18	CP-0137	CP-0137	PROPN	_	Gender=Masc|Number=Sing	14	appos	_	start_char=3679|end_char=3686
+19	,	,	PUNCT	_	_	20	punct	_	start_char=3686|end_char=3687
+20	CP­	CP­	PROPN	_	Gender=Masc|Number=Sing	18	conj	_	start_char=3688|end_char=3691
+21	1215	1215	NUM	_	NumType=Card	20	flat:name	_	start_char=3692|end_char=3696
+22	,	,	PUNCT	_	_	23	punct	_	start_char=3696|end_char=3697
+23	CP-1230	CP-1230	PROPN	_	Gender=Masc|Number=Sing	18	conj	_	start_char=3698|end_char=3705
+24	e	e	CCONJ	_	_	25	cc	_	start_char=3706|end_char=3707
+25	CP-1277	CP-1277	PROPN	_	Gender=Masc|Number=Sing	18	conj	_	start_char=3708|end_char=3715
+26	,	,	PUNCT	_	_	18	punct	_	start_char=3715|end_char=3716
+27	cujos	cujo	DET	_	Gender=Masc|Number=Plur|PronType=Rel	28	det	_	start_char=3717|end_char=3722
+28	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	30	nsubj:pass	_	start_char=3723|end_char=3733
+29	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux:pass	_	start_char=3734|end_char=3737
+30	apresentados	apresentar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	18	acl:relcl	_	start_char=3738|end_char=3750
+31	a	a	SCONJ	_	_	32	mark	_	start_char=3751|end_char=3752
+32	seguir	seguir	VERB	_	VerbForm=Inf	30	advcl	_	start_char=3753|end_char=3759
+33	.	.	PUNCT	_	_	32	punct	_	start_char=3759|end_char=3760
+34	.	.	PUNCT	_	_	8	punct	_	start_char=3760|end_char=3761
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-34
+# text = Os tubos instalados para teste não falharam até 31/10/02..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=3763|end_char=3765
+2	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	start_char=3766|end_char=3771
+3	instalados	instalar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	_	start_char=3772|end_char=3782
+4	para	para	ADP	_	_	5	case	_	start_char=3783|end_char=3787
+5	teste	teste	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=3788|end_char=3793
+6	não	não	ADV	_	Polarity=Neg	7	advmod	_	start_char=3794|end_char=3797
+7	falharam	falhar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	start_char=3798|end_char=3806
+8	até	até	ADP	_	_	9	case	_	start_char=3807|end_char=3810
+9	31/10/02	31/10/02	NUM	_	NumType=Card	7	obl	_	start_char=3811|end_char=3819
+10	.	.	PUNCT	_	_	7	punct	_	start_char=3819|end_char=3820
+11	.	.	PUNCT	_	_	7	punct	_	start_char=3820|end_char=3821
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-35
+# text = Portanto o tempo médio até a falha será calculado até esta data, sabendo-se que é menor que o real..
+1	Portanto	portanto	ADV	_	_	9	advmod	_	start_char=3823|end_char=3831
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=3832|end_char=3833
+3	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:pass	_	start_char=3834|end_char=3839
+4	médio	médio	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	start_char=3840|end_char=3845
+5	até	até	ADP	_	_	7	case	_	start_char=3846|end_char=3849
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=3850|end_char=3851
+7	falha	falha	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	start_char=3852|end_char=3857
+8	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	aux:pass	_	start_char=3858|end_char=3862
+9	calculado	calcular	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=3863|end_char=3872
+10	até	até	ADP	_	_	12	case	_	start_char=3873|end_char=3876
+11	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	start_char=3877|end_char=3881
+12	data	data	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	start_char=3882|end_char=3886
+13	,	,	PUNCT	_	_	14	punct	_	start_char=3886|end_char=3887
+14-15	sabendo-se	_	_	_	_	_	_	_	start_char=3888|end_char=3898
+14	sabendo	saber	VERB	_	VerbForm=Ger	9	advcl	_	_
+15	se	se	PRON	_	Case=Acc|PronType=Prs	14	expl	_	_
+16	que	que	SCONJ	_	_	18	mark	_	start_char=3899|end_char=3902
+17	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=3903|end_char=3904
+18	menor	pequeno	ADJ	_	Gender=Masc|Number=Sing	14	ccomp	_	start_char=3905|end_char=3910
+19	que	que	SCONJ	_	_	21	mark	_	start_char=3911|end_char=3914
+20	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	start_char=3915|end_char=3916
+21	real	real	NOUN	_	Gender=Masc|Number=Sing	18	advcl	_	start_char=3917|end_char=3921
+22	.	.	PUNCT	_	_	9	punct	_	start_char=3921|end_char=3922
+23	.	.	PUNCT	_	_	9	punct	_	start_char=3922|end_char=3923
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-36
+# text = O tempo médio até a falha deste grupo de poços passou de 165 dias (Ver Apêndice A) para mais de 483 dias..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=3925|end_char=3926
+2	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	start_char=3927|end_char=3932
+3	médio	médio	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	start_char=3933|end_char=3938
+4	até	até	ADP	_	_	6	case	_	start_char=3939|end_char=3942
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=3943|end_char=3944
+6	falha	falha	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=3945|end_char=3950
+7-8	deste	_	_	_	_	_	_	_	start_char=3951|end_char=3956
+7	de	de	ADP	_	_	9	case	_	_
+8	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=3957|end_char=3962
+10	de	de	ADP	_	_	11	case	_	start_char=3963|end_char=3965
+11	poços	poço	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	start_char=3966|end_char=3971
+12	passou	passar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=3972|end_char=3978
+13	de	de	ADP	_	_	15	case	_	start_char=3979|end_char=3981
+14	165	165	NUM	_	NumType=Card	15	nummod	_	start_char=3982|end_char=3985
+15	dias	dia	NOUN	_	Gender=Masc|Number=Plur	12	obl:arg	_	start_char=3986|end_char=3990
+16	(	(	PUNCT	_	_	17	punct	_	start_char=3991|end_char=3992
+17	Ver	ver	VERB	_	VerbForm=Inf	12	parataxis	_	start_char=3992|end_char=3995
+18	Apêndice	Apêndice	PROPN	_	Gender=Masc|Number=Sing	17	obj	_	start_char=3996|end_char=4004
+19	A	A	PROPN	_	Number=Sing	18	flat:name	_	start_char=4005|end_char=4006
+20	)	)	PUNCT	_	_	17	punct	_	start_char=4006|end_char=4007
+21	para	para	ADP	_	_	25	case	_	start_char=4008|end_char=4012
+22	mais	mais	ADV	_	_	25	advmod	_	start_char=4013|end_char=4017
+23	de	de	ADP	_	_	22	fixed	_	start_char=4018|end_char=4020
+24	483	483	NUM	_	NumType=Card	25	nummod	_	start_char=4021|end_char=4024
+25	dias	dia	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	start_char=4025|end_char=4029
+26	.	.	PUNCT	_	_	12	punct	_	start_char=4029|end_char=4030
+27	.	.	PUNCT	_	_	12	punct	_	start_char=4030|end_char=4031
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-37
+# text = Considerando uma vida útil de 4 anos, vamos fazer uma simulação de quantas intervenções aconteceriam para o grupo dos 133 poços selecionados, caso estes tivessem performance semelhante à atingida pelo grupo testado..
+1	Considerando	considerar	VERB	_	VerbForm=Ger	10	advcl	_	start_char=4033|end_char=4045
+2	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=4046|end_char=4049
+3	vida	vida	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	start_char=4050|end_char=4054
+4	útil	útil	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	start_char=4055|end_char=4059
+5	de	de	ADP	_	_	7	case	_	start_char=4060|end_char=4062
+6	4	4	NUM	_	NumType=Card	7	nummod	_	start_char=4063|end_char=4064
+7	anos	ano	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	start_char=4065|end_char=4069
+8	,	,	PUNCT	_	_	1	punct	_	start_char=4069|end_char=4070
+9	vamos	ir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=4071|end_char=4076
+10	fazer	fazer	VERB	_	VerbForm=Inf	0	root	_	start_char=4077|end_char=4082
+11	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	start_char=4083|end_char=4086
+12	simulação	simulação	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	start_char=4087|end_char=4096
+13	de	de	ADP	_	_	15	case	_	start_char=4097|end_char=4099
+14	quantas	quanto	DET	_	Gender=Fem|Number=Plur|PronType=Rel	15	det	_	start_char=4100|end_char=4107
+15	intervenções	intervenção	NOUN	_	Gender=Fem|Number=Plur	12	nmod	_	start_char=4108|end_char=4120
+16	aconteceriam	acontecer	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	10	ccomp	_	start_char=4121|end_char=4133
+17	para	para	ADP	_	_	19	case	_	start_char=4134|end_char=4138
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	start_char=4139|end_char=4140
+19	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	start_char=4141|end_char=4146
+20-21	dos	_	_	_	_	_	_	_	start_char=4147|end_char=4150
+20	de	de	ADP	_	_	23	case	_	_
+21	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+22	133	133	NUM	_	NumType=Card	23	nummod	_	start_char=4151|end_char=4154
+23	poços	poço	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	start_char=4155|end_char=4160
+24	selecionados	selecionar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	23	acl	_	start_char=4161|end_char=4173
+25	,	,	PUNCT	_	_	24	punct	_	start_char=4173|end_char=4174
+26	caso	caso	SCONJ	_	_	28	mark	_	start_char=4175|end_char=4179
+27	estes	este	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	28	nsubj	_	start_char=4180|end_char=4185
+28	tivessem	ter	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	start_char=4186|end_char=4194
+29	performance	performance	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	start_char=4195|end_char=4206
+30	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	29	amod	_	start_char=4207|end_char=4217
+31-32	à	_	_	_	_	_	_	_	start_char=4218|end_char=4219
+31	a	a	ADP	_	_	33	mark	_	_
+32	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
+33	atingida	atingir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	28	advcl	_	start_char=4220|end_char=4228
+34-35	pelo	_	_	_	_	_	_	_	start_char=4229|end_char=4233
+34	por	por	ADP	_	_	36	case	_	_
+35	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	33	obl:agent	_	start_char=4234|end_char=4239
+37	testado	testar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	36	acl	_	start_char=4240|end_char=4247
+38	.	.	PUNCT	_	_	37	punct	_	start_char=4247|end_char=4248
+39	.	.	PUNCT	_	_	10	punct	_	start_char=4248|end_char=4249
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-38
+# text = Investimento: O investimento consiste na diferença entre o valor dos tubos de 3 Y2" com polietileno e valor de tubos comuns de 2 7/8" (Tabela 8)..
+1	Investimento	Investimento	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=4251|end_char=4263
+2	:	:	PUNCT	_	_	5	punct	_	start_char=4263|end_char=4264
+3	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=4265|end_char=4266
+4	investimento	investimento	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=4267|end_char=4279
+5	consiste	consistir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4280|end_char=4288
+6-7	na	_	_	_	_	_	_	_	start_char=4289|end_char=4291
+6	em	em	ADP	_	_	8	case	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	diferença	diferença	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	start_char=4292|end_char=4301
+9	entre	entre	ADP	_	_	11	case	_	start_char=4302|end_char=4307
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=4308|end_char=4309
+11	valor	valor	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	start_char=4310|end_char=4315
+12-13	dos	_	_	_	_	_	_	_	start_char=4316|end_char=4319
+12	de	de	ADP	_	_	14	case	_	_
+13	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	start_char=4320|end_char=4325
+15	de	de	ADP	_	_	17	case	_	start_char=4326|end_char=4328
+16	3	3	NUM	_	NumType=Card	17	nummod	_	start_char=4329|end_char=4330
+17	Y2	Y2	PROPN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=4331|end_char=4333
+18	"	«	PUNCT	_	_	20	punct	_	start_char=4333|end_char=4334
+19	com	com	ADP	_	_	20	case	_	start_char=4335|end_char=4338
+20	polietileno	polietileno	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	start_char=4339|end_char=4350
+21	e	e	CCONJ	_	_	22	cc	_	start_char=4351|end_char=4352
+22	valor	valor	NOUN	_	Gender=Masc|Number=Sing	20	conj	_	start_char=4353|end_char=4358
+23	de	de	ADP	_	_	24	case	_	start_char=4359|end_char=4361
+24	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	22	nmod	_	start_char=4362|end_char=4367
+25	comuns	comum	ADJ	_	Gender=Masc|Number=Plur	24	amod	_	start_char=4368|end_char=4374
+26	de	de	ADP	_	_	28	case	_	start_char=4375|end_char=4377
+27	2	2	NUM	_	NumType=Card	28	nummod	_	start_char=4378|end_char=4379
+28	7/8	7/8	NUM	_	NumType=Card	24	nummod	_	start_char=4380|end_char=4383
+29	"	«	PUNCT	_	_	31	punct	_	start_char=4383|end_char=4384
+30	(	(	PUNCT	_	_	31	punct	_	start_char=4385|end_char=4386
+31	Tabela	Tabela	PROPN	_	Gender=Fem|Number=Sing	5	parataxis	_	start_char=4386|end_char=4392
+32	8	8	NUM	_	NumType=Card	31	nummod	_	start_char=4393|end_char=4394
+33	)	)	PUNCT	_	_	31	punct	_	start_char=4394|end_char=4395
+34	.	.	PUNCT	_	_	5	punct	_	start_char=4395|end_char=4396
+35	.	.	PUNCT	_	_	5	punct	_	start_char=4396|end_char=4397
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-39
+# text = Não é considerado custo de intervenção de sonda pois a substituição será feita por ocasião de uma falha..
+1	Não	não	ADV	_	Polarity=Neg	3	advmod	_	start_char=4399|end_char=4402
+2	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=4403|end_char=4404
+3	considerado	considerar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=4405|end_char=4416
+4	custo	custo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj:pass	_	start_char=4417|end_char=4422
+5	de	de	ADP	_	_	6	case	_	start_char=4423|end_char=4425
+6	intervenção	intervenção	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=4426|end_char=4437
+7	de	de	ADP	_	_	8	case	_	start_char=4438|end_char=4440
+8	sonda	sonda	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	start_char=4441|end_char=4446
+9	pois	pois	SCONJ	_	_	13	mark	_	start_char=4447|end_char=4451
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	start_char=4452|end_char=4453
+11	substituição	substituição	NOUN	_	Gender=Fem|Number=Sing	13	nsubj:pass	_	start_char=4454|end_char=4466
+12	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux:pass	_	start_char=4467|end_char=4471
+13	feita	fazer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	advcl	_	start_char=4472|end_char=4477
+14	por	por	ADP	_	_	15	case	_	start_char=4478|end_char=4481
+15	ocasião	ocasião	NOUN	_	Gender=Fem|Number=Sing	13	obl:agent	_	start_char=4482|end_char=4489
+16	de	de	ADP	_	_	18	case	_	start_char=4490|end_char=4492
+17	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	start_char=4493|end_char=4496
+18	falha	falha	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	start_char=4497|end_char=4502
+19	.	.	PUNCT	_	_	3	punct	_	start_char=4502|end_char=4503
+20	.	.	PUNCT	_	_	3	punct	_	start_char=4503|end_char=4504
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-40
+# text = Investimento = 8468 US$/POÇO • 133 POÇOS = 1.126 MIL US$ em 4 anos..
+1	Investimento	Investimento	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=4506|end_char=4518
+2	=	=	PUNCT	_	_	4	punct	_	start_char=4519|end_char=4520
+3	8468	8468	NUM	_	NumType=Card	4	nummod	_	start_char=4521|end_char=4525
+4	US$/POÇO	US$/POÇO	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=4526|end_char=4534
+5	•	•	PUNCT	_	_	7	punct	_	start_char=4535|end_char=4536
+6	133	133	NUM	_	NumType=Card	7	nummod	_	start_char=4537|end_char=4540
+7	POÇOS	Poços	PROPN	_	Gender=Masc|Number=Plur	4	conj	_	start_char=4541|end_char=4546
+8	=	=	PUNCT	_	_	11	punct	_	start_char=4547|end_char=4548
+9	1.126	1.126	NUM	_	NumType=Card	11	nummod	_	start_char=4549|end_char=4554
+10	MIL	mil	NUM	_	NumType=Card	11	nummod	_	start_char=4555|end_char=4558
+11	US$	US$	SYM	_	_	1	conj	_	start_char=4559|end_char=4562
+12	em	em	ADP	_	_	14	case	_	start_char=4563|end_char=4565
+13	4	4	NUM	_	NumType=Card	14	nummod	_	start_char=4566|end_char=4567
+14	anos	ano	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	start_char=4568|end_char=4572
+15	.	.	PUNCT	_	_	1	punct	_	start_char=4572|end_char=4573
+16	.	.	PUNCT	_	_	1	punct	_	start_char=4573|end_char=4574
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-41
+# text = A Figura 2 mostra que, com um aumento acima de 30% no tempo médio até a falha, a utilização destes tubos, no conjunto de poços estudado, apresenta vantagens..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4576|end_char=4577
+2	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	4	nsubj	_	start_char=4578|end_char=4584
+3	2	2	PROPN	_	Number=Sing	2	flat:name	_	start_char=4585|end_char=4586
+4	mostra	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4587|end_char=4593
+5	que	que	SCONJ	_	_	35	mark	_	start_char=4594|end_char=4597
+6	,	,	PUNCT	_	_	9	punct	_	start_char=4597|end_char=4598
+7	com	com	ADP	_	_	9	case	_	start_char=4599|end_char=4602
+8	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=4603|end_char=4605
+9	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	35	obl	_	start_char=4606|end_char=4613
+10	acima	acima	ADV	_	_	9	advmod	_	start_char=4614|end_char=4619
+11	de	de	ADP	_	_	13	case	_	start_char=4620|end_char=4622
+12	30	30	NUM	_	NumType=Card	13	nummod	_	start_char=4623|end_char=4625
+13	%	%	SYM	_	_	9	nmod	_	start_char=4625|end_char=4626
+14-15	no	_	_	_	_	_	_	_	start_char=4627|end_char=4629
+14	em	em	ADP	_	_	16	case	_	_
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	start_char=4630|end_char=4635
+17	médio	médio	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	start_char=4636|end_char=4641
+18	até	até	ADP	_	_	20	case	_	start_char=4642|end_char=4645
+19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=4646|end_char=4647
+20	falha	falha	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	start_char=4648|end_char=4653
+21	,	,	PUNCT	_	_	9	punct	_	start_char=4653|end_char=4654
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	start_char=4655|end_char=4656
+23	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	35	nsubj	_	start_char=4657|end_char=4667
+24-25	destes	_	_	_	_	_	_	_	start_char=4668|end_char=4674
+24	de	de	ADP	_	_	26	case	_	_
+25	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	26	det	_	_
+26	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	23	nmod	_	start_char=4675|end_char=4680
+27	,	,	PUNCT	_	_	30	punct	_	start_char=4680|end_char=4681
+28-29	no	_	_	_	_	_	_	_	start_char=4682|end_char=4684
+28	em	em	ADP	_	_	30	case	_	_
+29	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	conjunto	conjunto	NOUN	_	Gender=Masc|Number=Sing	35	obl	_	start_char=4685|end_char=4693
+31	de	de	ADP	_	_	32	case	_	start_char=4694|end_char=4696
+32	poços	poço	NOUN	_	Gender=Masc|Number=Plur	30	nmod	_	start_char=4697|end_char=4702
+33	estudado	estudar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	32	acl	_	start_char=4703|end_char=4711
+34	,	,	PUNCT	_	_	33	punct	_	start_char=4711|end_char=4712
+35	apresenta	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=4713|end_char=4722
+36	vantagens	vantagem	NOUN	_	Gender=Fem|Number=Plur	35	obj	_	start_char=4723|end_char=4732
+37	.	.	PUNCT	_	_	35	punct	_	start_char=4732|end_char=4733
+38	.	.	PUNCT	_	_	4	punct	_	start_char=4733|end_char=4734
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-42
+# text = O ponto sinalizado com um quadrado indica o resultado com os poços em teste..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=4736|end_char=4737
+2	ponto	ponto	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	start_char=4738|end_char=4743
+3	sinalizado	sinalizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	start_char=4744|end_char=4754
+4	com	com	ADP	_	_	6	case	_	start_char=4755|end_char=4758
+5	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=4759|end_char=4761
+6	quadrado	quadrado	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=4762|end_char=4770
+7	indica	indicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4771|end_char=4777
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=4778|end_char=4779
+9	resultado	resultado	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	start_char=4780|end_char=4789
+10	com	com	ADP	_	_	12	case	_	start_char=4790|end_char=4793
+11	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	start_char=4794|end_char=4796
+12	poços	poço	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	start_char=4797|end_char=4802
+13	em	em	ADP	_	_	14	case	_	start_char=4803|end_char=4805
+14	teste	teste	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	start_char=4806|end_char=4811
+15	.	.	PUNCT	_	_	7	punct	_	start_char=4811|end_char=4812
+16	.	.	PUNCT	_	_	7	punct	_	start_char=4812|end_char=4813
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-43
+# text = O aumento do MTTF foi de 298%, porém ressalta-se que esta melhoria significativa é decorrente dos baixos MTIF's dos poços selecionados..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=4815|end_char=4816
+2	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	start_char=4817|end_char=4824
+3-4	do	_	_	_	_	_	_	_	start_char=4825|end_char=4827
+3	de	de	ADP	_	_	5	case	_	_
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	MTTF	MTTF	PROPN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=4828|end_char=4832
+6	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=4833|end_char=4836
+7	de	de	ADP	_	_	9	case	_	start_char=4837|end_char=4839
+8	298	298	NUM	_	NumType=Card	9	nummod	_	start_char=4840|end_char=4843
+9	%	%	SYM	_	_	0	root	_	start_char=4843|end_char=4844
+10	,	,	PUNCT	_	_	12	punct	_	start_char=4844|end_char=4845
+11	porém	porém	CCONJ	_	_	12	cc	_	start_char=4846|end_char=4851
+12-13	ressalta-se	_	_	_	_	_	_	_	start_char=4852|end_char=4863
+12	ressalta	ressaltar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+13	se	se	PRON	_	Case=Acc|PronType=Prs	12	expl	_	_
+14	que	que	SCONJ	_	_	19	mark	_	start_char=4864|end_char=4867
+15	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	16	det	_	start_char=4868|end_char=4872
+16	melhoria	melhoria	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	start_char=4873|end_char=4881
+17	significativa	significativo	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	start_char=4882|end_char=4895
+18	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=4896|end_char=4897
+19	decorrente	decorrente	ADJ	_	Gender=Fem|Number=Sing	12	ccomp	_	start_char=4898|end_char=4908
+20-21	dos	_	_	_	_	_	_	_	start_char=4909|end_char=4912
+20	de	de	ADP	_	_	23	case	_	_
+21	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+22	baixos	baixo	ADJ	_	Gender=Masc|Number=Plur	23	amod	_	start_char=4913|end_char=4919
+23	MTIF's	MTIF's	PROPN	_	Gender=Masc|Number=Plur	19	obl	_	start_char=4920|end_char=4926
+24-25	dos	_	_	_	_	_	_	_	start_char=4927|end_char=4930
+24	de	de	ADP	_	_	26	case	_	_
+25	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	poços	poço	NOUN	_	Gender=Masc|Number=Plur	23	nmod	_	start_char=4931|end_char=4936
+27	selecionados	selecionar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	26	acl	_	start_char=4937|end_char=4949
+28	.	.	PUNCT	_	_	9	punct	_	start_char=4949|end_char=4950
+29	.	.	PUNCT	_	_	9	punct	_	start_char=4950|end_char=4951
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-44
+# text = A medida que forem inseridos poços com menores incidências de falhas, a melhoria relativa tende a ser conseguida com mais dificuldade..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4953|end_char=4954
+2	medida	medida	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	start_char=4955|end_char=4961
+3	que	que	SCONJ	_	_	5	mark	_	start_char=4962|end_char=4965
+4	forem	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	start_char=4966|end_char=4971
+5	inseridos	inserir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	16	advcl	_	start_char=4972|end_char=4981
+6	poços	poço	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	start_char=4982|end_char=4987
+7	com	com	ADP	_	_	9	case	_	start_char=4988|end_char=4991
+8	menores	pequeno	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	start_char=4992|end_char=4999
+9	incidências	incidência	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	start_char=5000|end_char=5011
+10	de	de	ADP	_	_	11	case	_	start_char=5012|end_char=5014
+11	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	start_char=5015|end_char=5021
+12	,	,	PUNCT	_	_	5	punct	_	start_char=5021|end_char=5022
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	start_char=5023|end_char=5024
+14	melhoria	melhoria	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	start_char=5025|end_char=5033
+15	relativa	relativo	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	start_char=5034|end_char=5042
+16	tende	tender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5043|end_char=5048
+17	a	a	SCONJ	_	_	19	mark	_	start_char=5049|end_char=5050
+18	ser	ser	AUX	_	VerbForm=Inf	19	aux:pass	_	start_char=5051|end_char=5054
+19	conseguida	conseguir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	16	xcomp	_	start_char=5055|end_char=5065
+20	com	com	ADP	_	_	22	case	_	start_char=5066|end_char=5069
+21	mais	mais	DET	_	Gender=Fem|Number=Sing|PronType=Ind	22	det	_	start_char=5070|end_char=5074
+22	dificuldade	dificuldade	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	start_char=5075|end_char=5086
+23	.	.	PUNCT	_	_	16	punct	_	start_char=5086|end_char=5087
+24	.	.	PUNCT	_	_	16	punct	_	start_char=5087|end_char=5088
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-45
+# text = De qualquer forma, observa-se que existe ampla faixa de melhoria que vai de 33% até os possíveís 300%, onde os tubos revestidos podem ser utilizados com vantagem..
+1	De	de	ADP	_	_	3	case	_	start_char=5090|end_char=5092
+2	qualquer	qualquer	DET	_	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	start_char=5093|end_char=5101
+3	forma	forma	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	start_char=5102|end_char=5107
+4	,	,	PUNCT	_	_	3	punct	_	start_char=5107|end_char=5108
+5-6	observa-se	_	_	_	_	_	_	_	start_char=5109|end_char=5119
+5	observa	observar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	_	Case=Acc|PronType=Prs	5	expl	_	_
+7	que	que	SCONJ	_	_	8	mark	_	start_char=5120|end_char=5123
+8	existe	existir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=5124|end_char=5130
+9	ampla	amplo	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	start_char=5131|end_char=5136
+10	faixa	faixa	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	start_char=5137|end_char=5142
+11	de	de	ADP	_	_	12	case	_	start_char=5143|end_char=5145
+12	melhoria	melhoria	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	start_char=5146|end_char=5154
+13	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	17	nsubj	_	start_char=5155|end_char=5158
+14	vai	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=5159|end_char=5162
+15	de	de	ADP	_	_	17	case	_	start_char=5163|end_char=5165
+16	33	33	NUM	_	NumType=Card	17	nummod	_	start_char=5166|end_char=5168
+17	%	%	SYM	_	_	10	acl:relcl	_	start_char=5168|end_char=5169
+18	até	até	ADP	_	_	20	case	_	start_char=5170|end_char=5173
+19	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	start_char=5174|end_char=5176
+20	possíveís	possíveís	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	start_char=5177|end_char=5186
+21	300	300	NUM	_	NumType=Card	22	nummod	_	start_char=5187|end_char=5190
+22	%	%	SYM	_	_	20	nmod	_	start_char=5190|end_char=5191
+23	,	,	PUNCT	_	_	17	punct	_	start_char=5191|end_char=5192
+24	onde	onde	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	28	obl	_	start_char=5193|end_char=5197
+25	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	start_char=5198|end_char=5200
+26	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	28	nsubj	_	start_char=5201|end_char=5206
+27	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	26	acl	_	start_char=5207|end_char=5217
+28	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	start_char=5218|end_char=5223
+29	ser	ser	AUX	_	VerbForm=Inf	30	aux:pass	_	start_char=5224|end_char=5227
+30	utilizados	utilizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	28	xcomp	_	start_char=5228|end_char=5238
+31	com	com	ADP	_	_	32	case	_	start_char=5239|end_char=5242
+32	vantagem	vantagem	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	start_char=5243|end_char=5251
+33	.	.	PUNCT	_	_	32	amod	_	start_char=5251|end_char=5252
+34	.	.	PUNCT	_	_	5	punct	_	start_char=5252|end_char=5253
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-46
+# text = Conclusão
+1	Conclusão	conclusão	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=5255|end_char=5264
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-47
+# text = Para o conjunto de poços estudado existe vantagem econômica se a instalação dos tubos revestidos resultar num aumento do tempo médio até a falha maior que 30%..
+1	Para	para	ADP	_	_	3	case	_	start_char=5266|end_char=5270
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=5271|end_char=5272
+3	conjunto	conjunto	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	start_char=5273|end_char=5281
+4	de	de	ADP	_	_	5	case	_	start_char=5282|end_char=5284
+5	poços	poço	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	start_char=5285|end_char=5290
+6	estudado	estudar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	start_char=5291|end_char=5299
+7	existe	existir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5300|end_char=5306
+8	vantagem	vantagem	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	start_char=5307|end_char=5315
+9	econômica	econômico	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	start_char=5316|end_char=5325
+10	se	se	SCONJ	_	_	17	mark	_	start_char=5326|end_char=5328
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	start_char=5329|end_char=5330
+12	instalação	instalação	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	start_char=5331|end_char=5341
+13-14	dos	_	_	_	_	_	_	_	start_char=5342|end_char=5345
+13	de	de	ADP	_	_	15	case	_	_
+14	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	start_char=5346|end_char=5351
+16	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	15	acl	_	start_char=5352|end_char=5362
+17	resultar	resultar	VERB	_	Person=3|VerbForm=Inf	7	advcl	_	start_char=5363|end_char=5371
+18-19	num	_	_	_	_	_	_	_	start_char=5372|end_char=5375
+18	em	em	ADP	_	_	20	case	_	_
+19	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	17	obl:arg	_	start_char=5376|end_char=5383
+21-22	do	_	_	_	_	_	_	_	start_char=5384|end_char=5386
+21	de	de	ADP	_	_	23	case	_	_
+22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	start_char=5387|end_char=5392
+24	médio	médio	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	start_char=5393|end_char=5398
+25	até	até	ADP	_	_	27	case	_	start_char=5399|end_char=5402
+26	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	start_char=5403|end_char=5404
+27	falha	falha	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	start_char=5405|end_char=5410
+28	maior	grande	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	start_char=5411|end_char=5416
+29	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	31	nsubj	_	start_char=5417|end_char=5420
+30	30	30	NUM	_	NumType=Card	31	nummod	_	start_char=5421|end_char=5423
+31	%	%	SYM	_	_	27	nmod	_	start_char=5423|end_char=5424
+32	.	.	PUNCT	_	_	7	punct	_	start_char=5424|end_char=5425
+33	.	.	PUNCT	_	_	7	punct	_	start_char=5425|end_char=5426
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-48
+# text = O cálculo acima foi feito de forma conservadora..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=5428|end_char=5429
+2	cálculo	cálculo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=5430|end_char=5437
+3	acima	acima	ADV	_	_	5	advmod	_	start_char=5438|end_char=5443
+4	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	start_char=5444|end_char=5447
+5	feito	fazer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=5448|end_char=5453
+6	de	de	ADP	_	_	7	case	_	start_char=5454|end_char=5456
+7	forma	forma	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	start_char=5457|end_char=5462
+8	conservadora	conservador	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	start_char=5463|end_char=5475
+9	.	.	PUNCT	_	_	5	punct	_	start_char=5475|end_char=5476
+10	.	.	PUNCT	_	_	5	punct	_	start_char=5476|end_char=5477
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-49
+# text = O teste realizado em Carmópolis, assim como o histórico de utilização destes tubos em outros campos, demonstra que o tempo médio até a falha supera amplamente esta taxa..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=5479|end_char=5480
+2	teste	teste	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	start_char=5481|end_char=5486
+3	realizado	realizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	start_char=5487|end_char=5496
+4	em	em	ADP	_	_	5	case	_	start_char=5497|end_char=5499
+5	Carmópolis	Carmópolis	PROPN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=5500|end_char=5510
+6	,	,	PUNCT	_	_	10	punct	_	start_char=5510|end_char=5511
+7	assim	assim	ADV	_	_	10	cc	_	start_char=5512|end_char=5517
+8	como	como	ADP	_	_	7	fixed	_	start_char=5518|end_char=5522
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	start_char=5523|end_char=5524
+10	histórico	histórico	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	start_char=5525|end_char=5534
+11	de	de	ADP	_	_	12	case	_	start_char=5535|end_char=5537
+12	utilização	utilização	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	start_char=5538|end_char=5548
+13-14	destes	_	_	_	_	_	_	_	start_char=5549|end_char=5555
+13	de	de	ADP	_	_	15	case	_	_
+14	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+15	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	start_char=5556|end_char=5561
+16	em	em	ADP	_	_	18	case	_	start_char=5562|end_char=5564
+17	outros	outro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	start_char=5565|end_char=5571
+18	campos	campo	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	start_char=5572|end_char=5578
+19	,	,	PUNCT	_	_	10	punct	_	start_char=5578|end_char=5579
+20	demonstra	demonstrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5580|end_char=5589
+21	que	que	SCONJ	_	_	28	mark	_	start_char=5590|end_char=5593
+22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	start_char=5594|end_char=5595
+23	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	28	nsubj	_	start_char=5596|end_char=5601
+24	médio	médio	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	start_char=5602|end_char=5607
+25	até	até	ADP	_	_	27	case	_	start_char=5608|end_char=5611
+26	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	start_char=5612|end_char=5613
+27	falha	falha	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	start_char=5614|end_char=5619
+28	supera	superar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	ccomp	_	start_char=5620|end_char=5626
+29	amplamente	amplamente	ADV	_	_	28	advmod	_	start_char=5627|end_char=5637
+30	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	31	det	_	start_char=5638|end_char=5642
+31	taxa	taxa	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	start_char=5643|end_char=5647
+32	.	.	PUNCT	_	_	20	punct	_	start_char=5647|end_char=5648
+33	.	.	PUNCT	_	_	20	punct	_	start_char=5648|end_char=5649
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-50
+# text = Portanto concluímos que a instalação dos tubos revestidos com polietileno nos 130 poços do Campo de Carmópolis com maior incidência de falhas é vantajosa..
+1	Portanto	portanto	ADV	_	_	2	advmod	_	start_char=5651|end_char=5659
+2	concluímos	concluir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5660|end_char=5670
+3	que	que	SCONJ	_	_	27	mark	_	start_char=5671|end_char=5674
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=5675|end_char=5676
+5	instalação	instalação	NOUN	_	Gender=Fem|Number=Sing	27	nsubj	_	start_char=5677|end_char=5687
+6-7	dos	_	_	_	_	_	_	_	start_char=5688|end_char=5691
+6	de	de	ADP	_	_	8	case	_	_
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	start_char=5692|end_char=5697
+9	revestidos	revestir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	8	acl	_	start_char=5698|end_char=5708
+10	com	com	ADP	_	_	11	case	_	start_char=5709|end_char=5712
+11	polietileno	polietileno	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	start_char=5713|end_char=5724
+12-13	nos	_	_	_	_	_	_	_	start_char=5725|end_char=5728
+12	em	em	ADP	_	_	15	case	_	_
+13	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+14	130	130	NUM	_	NumType=Card	15	nummod	_	start_char=5729|end_char=5732
+15	poços	poço	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	start_char=5733|end_char=5738
+16-17	do	_	_	_	_	_	_	_	start_char=5739|end_char=5741
+16	de	de	ADP	_	_	18	case	_	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Campo	Campo	PROPN	_	Gender=Masc|Number=Sing	15	nmod	_	start_char=5742|end_char=5747
+19	de	de	ADP	_	_	18	flat:name	_	start_char=5748|end_char=5750
+20	Carmópolis	Carmópolis	PROPN	_	Number=Sing	18	flat:name	_	start_char=5751|end_char=5761
+21	com	com	ADP	_	_	23	case	_	start_char=5762|end_char=5765
+22	maior	grande	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	start_char=5766|end_char=5771
+23	incidência	incidência	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	start_char=5772|end_char=5782
+24	de	de	ADP	_	_	25	case	_	start_char=5783|end_char=5785
+25	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	23	nmod	_	start_char=5786|end_char=5792
+26	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	start_char=5793|end_char=5794
+27	vantajosa	vantajoso	ADJ	_	Gender=Fem|Number=Sing	2	ccomp	_	start_char=5795|end_char=5804
+28	.	.	PUNCT	_	_	2	punct	_	start_char=5804|end_char=5805
+29	.	.	PUNCT	_	_	2	punct	_	start_char=5805|end_char=5806
+
+# sent_id = 2E2FD41A607F36C2E05354EB1D0AFA79-51
+# text = Referência Bibliográfica Os dados de falhas e tempos de campanhas dos tubos encontram-se nas Tabelas A1, A2, A3, M .
+1	Referência	referência	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	start_char=5808|end_char=5818
+2	Bibliográfica	bibliográfica	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	start_char=5819|end_char=5832
+3	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	start_char=5833|end_char=5835
+4	dados	dado	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	start_char=5836|end_char=5841
+5	de	de	ADP	_	_	6	case	_	start_char=5842|end_char=5844
+6	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	start_char=5845|end_char=5851
+7	e	e	CCONJ	_	_	8	cc	_	start_char=5852|end_char=5853
+8	tempos	tempo	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	start_char=5854|end_char=5860
+9	de	de	ADP	_	_	10	case	_	start_char=5861|end_char=5863
+10	campanhas	campanha	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	start_char=5864|end_char=5873
+11-12	dos	_	_	_	_	_	_	_	start_char=5874|end_char=5877
+11	de	de	ADP	_	_	13	case	_	_
+12	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	start_char=5878|end_char=5883
+14-15	encontram-se	_	_	_	_	_	_	_	start_char=5884|end_char=5896
+14	encontram	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	expl	_	_
+16-17	nas	_	_	_	_	_	_	_	start_char=5897|end_char=5900
+16	em	em	ADP	_	_	18	case	_	_
+17	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	Tabelas	Tabelas	PROPN	_	Gender=Fem|Number=Plur	14	obl	_	start_char=5901|end_char=5908
+19	A1	A1	PROPN	_	Number=Sing	18	flat:name	_	start_char=5909|end_char=5911
+20	,	,	PUNCT	_	_	21	punct	_	start_char=5911|end_char=5912
+21	A2	A2	PROPN	_	Gender=Masc|Number=Sing	18	conj	_	start_char=5913|end_char=5915
+22	,	,	PUNCT	_	_	23	punct	_	start_char=5915|end_char=5916
+23	A3	A3	PROPN	_	Gender=Fem|Number=Sing	18	conj	_	start_char=5917|end_char=5919
+24	,	,	PUNCT	_	_	25	punct	_	start_char=5919|end_char=5920
+25	M	m	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	start_char=5921|end_char=5922
+26	.	.	PUNCT	_	_	14	punct	_	start_char=5923|end_char=5924

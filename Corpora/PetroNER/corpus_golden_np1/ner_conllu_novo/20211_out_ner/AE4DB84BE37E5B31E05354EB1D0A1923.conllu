@@ -1,0 +1,539 @@
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-1
+# text = Seismic Characterization of Salt Stratifications: a Santos Basin Overview Author Block: Pablo Barros, Alexandre Maul, Josué Fonseca, Leonardo Teixeira, Thiago Yamamoto, Filipe Borges, Maria González; 1Petrobras, Rio de Janeiro, Brazil, 2Emerson-Paradigm, Rio de Janeiro, Brazil..
+1	Seismic	Seismic	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=0|end_char=7
+2	Characterization	Characterization	PROPN	_	Number=Sing	1	flat:name	O	start_char=8|end_char=24
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=25|end_char=27
+4	Salt	Salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=28|end_char=32
+5	Stratifications	Stratifications	PROPN	_	Number=Sing	1	flat:name	O	start_char=33|end_char=48
+6	:	:	PUNCT	_	_	8	punct	O	start_char=48|end_char=49
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	O	start_char=50|end_char=51
+8	Santos	Santos	PROPN	_	Gender=Masc|Number=Sing	1	appos	B=BACIA	start_char=52|end_char=58
+9	Basin	Basin	PROPN	_	Number=Sing	8	flat:name	I=BACIA	start_char=59|end_char=64
+10	Overview	Overview	PROPN	_	Number=Sing	8	flat:name	O	start_char=65|end_char=73
+11	Author	Author	PROPN	_	Number=Sing	8	flat:name	O	start_char=74|end_char=80
+12	Block	Block	PROPN	_	Number=Sing	8	flat:name	O	start_char=81|end_char=86
+13	:	:	PUNCT	_	_	14	punct	O	start_char=86|end_char=87
+14	Pablo	Pablo	PROPN	_	Gender=Masc|Number=Sing	8	appos	O	start_char=88|end_char=93
+15	Barros	Barros	PROPN	_	Number=Sing	14	flat:name	O	start_char=94|end_char=100
+16	,	,	PUNCT	_	_	17	punct	O	start_char=100|end_char=101
+17	Alexandre	Alexandre	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=102|end_char=111
+18	Maul	Maul	PROPN	_	Number=Sing	17	flat:name	O	start_char=112|end_char=116
+19	,	,	PUNCT	_	_	20	punct	O	start_char=116|end_char=117
+20	Josué	Josué	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=118|end_char=123
+21	Fonseca	Fonseca	PROPN	_	Number=Sing	20	flat:name	O	start_char=124|end_char=131
+22	,	,	PUNCT	_	_	23	punct	O	start_char=131|end_char=132
+23	Leonardo	Leonardo	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=133|end_char=141
+24	Teixeira	Teixeira	PROPN	_	Number=Sing	23	flat:name	O	start_char=142|end_char=150
+25	,	,	PUNCT	_	_	26	punct	O	start_char=150|end_char=151
+26	Thiago	Thiago	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=152|end_char=158
+27	Yamamoto	Yamamoto	PROPN	_	Number=Sing	26	flat:name	O	start_char=159|end_char=167
+28	,	,	PUNCT	_	_	29	punct	O	start_char=167|end_char=168
+29	Filipe	Filipe	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=169|end_char=175
+30	Borges	Borges	PROPN	_	Number=Sing	29	flat:name	O	start_char=176|end_char=182
+31	,	,	PUNCT	_	_	32	punct	O	start_char=182|end_char=183
+32	Maria	Maria	PROPN	_	Gender=Fem|Number=Sing	14	conj	O	start_char=184|end_char=189
+33	González	González	PROPN	_	Number=Sing	32	flat:name	O	start_char=190|end_char=198
+34	;	;	PUNCT	_	_	35	punct	O	start_char=198|end_char=199
+35	1Petrobras	1Petrobras	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=200|end_char=210
+36	,	,	PUNCT	_	_	37	punct	O	start_char=210|end_char=211
+37	Rio	Rio	PROPN	_	Gender=Masc|Number=Sing	35	appos	O	start_char=212|end_char=215
+38	de	de	ADP	_	_	37	flat:name	O	start_char=216|end_char=218
+39	Janeiro	Janeiro	PROPN	_	Number=Sing	37	flat:name	O	start_char=219|end_char=226
+40	,	,	PUNCT	_	_	41	punct	O	start_char=226|end_char=227
+41	Brazil	Brazil	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=228|end_char=234
+42	,	,	PUNCT	_	_	43	punct	O	start_char=234|end_char=235
+43	2Emerson	2Emerson	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=236|end_char=244
+44	-Paradigm	-Paradigm	PROPN	_	Number=Sing	43	flat:name	O	start_char=244|end_char=253
+45	,	,	PUNCT	_	_	46	punct	O	start_char=253|end_char=254
+46	Rio	Rio	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=255|end_char=258
+47	de	de	ADP	_	_	46	flat:name	O	start_char=259|end_char=261
+48	Janeiro	Janeiro	PROPN	_	Number=Sing	46	flat:name	O	start_char=262|end_char=269
+49	,	,	PUNCT	_	_	50	punct	O	start_char=269|end_char=270
+50	Brazil	Brazil	PROPN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=271|end_char=277
+51	.	.	PUNCT	_	_	50	flat:name	O	start_char=277|end_char=278
+52	.	.	PUNCT	_	_	1	punct	O	start_char=278|end_char=279
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-2
+# text = Drilling for presalt reservoirs in Brazilian offshore
+1	Drilling	Drilling	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	O	start_char=281|end_char=289
+2	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	O	start_char=290|end_char=293
+3	presalt	presalt	ADJ	_	Gender=Masc|Number=Sing	4	amod	O	start_char=294|end_char=301
+4	reservoirs	reservoir	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=302|end_char=312
+5	in	in	X	_	_	4	flat:foreign	O	start_char=313|end_char=315
+6	Brazilian	brazilian	X	_	_	4	flat:foreign	O	start_char=316|end_char=325
+7	offshore	offshore	X	_	_	4	flat:foreign	O	start_char=326|end_char=334
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-3
+# text = Santos basin requires crossing an evaporitic section that ranges from dozens of meters to a few kilometers of thickness..
+1	Santos	Santos	PROPN	_	Gender=Masc|Number=Sing	0	root	B=BACIA	start_char=336|end_char=342
+2	basin	basin	X	_	_	1	flat:name	O	start_char=343|end_char=348
+3	requires	requires	PROPN	_	Number=Sing	1	flat:name	O	start_char=349|end_char=357
+4	crossing	crossing	PROPN	_	Number=Sing	1	flat:name	O	start_char=358|end_char=366
+5	an	an	PROPN	_	Number=Sing	1	flat:name	O	start_char=367|end_char=369
+6	evaporitic	evaporitic	PROPN	_	Number=Sing	1	flat:name	O	start_char=370|end_char=380
+7	section	section	PROPN	_	Number=Sing	1	flat:name	O	start_char=381|end_char=388
+8	that	that	PROPN	_	Number=Sing	1	flat:name	O	start_char=389|end_char=393
+9	ranges	ranges	PROPN	_	Number=Sing	1	flat:name	O	start_char=394|end_char=400
+10	from	from	PROPN	_	Number=Sing	1	flat:name	O	start_char=401|end_char=405
+11	dozens	dozens	PROPN	_	Number=Sing	1	flat:name	O	start_char=406|end_char=412
+12	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=413|end_char=415
+13	meters	meters	PROPN	_	Number=Sing	1	flat:name	O	start_char=416|end_char=422
+14	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=423|end_char=425
+15	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=426|end_char=427
+16	few	few	PROPN	_	Number=Sing	1	flat:name	O	start_char=428|end_char=431
+17	kilometers	kilometers	PROPN	_	Number=Sing	1	flat:name	O	start_char=432|end_char=442
+18	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=443|end_char=445
+19	thickness	thickness	PROPN	_	Number=Sing	1	flat:name	O	start_char=446|end_char=455
+20	.	.	PUNCT	_	_	1	punct	O	start_char=455|end_char=456
+21	.	.	PUNCT	_	_	1	punct	O	start_char=456|end_char=457
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-4
+# text = Therefore, understanding and properly characterizing the rocks inside this section is essential for activities as diverse as safe well drilling, geological velocity modelling for seismic processing, and geomechanical hazards evaluation..
+1	Therefore	Therefore	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=459|end_char=468
+2	,	,	PUNCT	_	_	3	punct	O	start_char=468|end_char=469
+3	understanding	understanding	X	_	_	1	appos	O	start_char=470|end_char=483
+4	and	and	PROPN	_	Number=Sing	3	flat:name	O	start_char=484|end_char=487
+5	properly	properly	PROPN	_	Number=Sing	3	flat:name	O	start_char=488|end_char=496
+6	characterizing	characterizing	PROPN	_	Number=Sing	3	flat:name	O	start_char=497|end_char=511
+7	the	the	PROPN	_	Number=Sing	3	flat:name	O	start_char=512|end_char=515
+8	rocks	rocks	PROPN	_	Number=Sing	3	flat:name	O	start_char=516|end_char=521
+9	inside	inside	PROPN	_	Number=Sing	3	flat:name	O	start_char=522|end_char=528
+10	this	this	PROPN	_	Number=Sing	3	flat:name	O	start_char=529|end_char=533
+11	section	section	PROPN	_	Number=Sing	3	flat:name	O	start_char=534|end_char=541
+12	is	is	PROPN	_	Number=Sing	3	flat:name	O	start_char=542|end_char=544
+13	essential	essential	PROPN	_	Number=Sing	3	flat:name	O	start_char=545|end_char=554
+14	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	cop	O	start_char=555|end_char=558
+15	activities	activities	PROPN	_	Number=Sing	1	conj	O	start_char=559|end_char=569
+16	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	flat:name	O	start_char=570|end_char=572
+17	diverse	diverse	PROPN	_	Number=Sing	15	flat:name	O	start_char=573|end_char=580
+18	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	flat:name	O	start_char=581|end_char=583
+19	safe	safe	PROPN	_	Number=Sing	15	flat:name	O	start_char=584|end_char=588
+20	well	well	PROPN	_	Number=Sing	15	flat:name	O	start_char=589|end_char=593
+21	drilling	drilling	PROPN	_	Number=Sing	15	flat:name	O	start_char=594|end_char=602
+22	,	,	PUNCT	_	_	15	flat:name	O	start_char=602|end_char=603
+23	geological	geological	PROPN	_	Number=Sing	15	flat:name	O	start_char=604|end_char=614
+24	velocity	velocity	PROPN	_	Number=Sing	15	flat:name	O	start_char=615|end_char=623
+25	modelling	modelling	PROPN	_	Number=Sing	23	flat:name	O	start_char=624|end_char=633
+26	for	for	PROPN	_	Number=Sing	23	flat:name	O	start_char=634|end_char=637
+27	seismic	seismic	PROPN	_	Number=Sing	23	flat:name	O	start_char=638|end_char=645
+28	processing	processing	PROPN	_	Number=Sing	23	flat:name	O	start_char=646|end_char=656
+29	,	,	PUNCT	_	_	15	flat:name	O	start_char=656|end_char=657
+30	and	and	PROPN	_	Number=Sing	23	flat:name	O	start_char=658|end_char=661
+31	geomechanical	geomechanical	PROPN	_	Number=Sing	30	flat:name	O	start_char=662|end_char=675
+32	hazards	hazards	PROPN	_	Number=Sing	30	flat:name	O	start_char=676|end_char=683
+33	evaluation.	evaluation.	PROPN	_	Number=Sing	30	flat:name	O	start_char=684|end_char=695
+34	.	.	PUNCT	_	_	15	punct	O	start_char=695|end_char=696
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-5
+# text = seismic processing, and geomechanical hazards evaluation..
+1	seismic	seismic	X	_	_	0	root	O	start_char=698|end_char=705
+2	processing	processing	X	_	_	1	flat:foreign	O	start_char=706|end_char=716
+3	,	,	PUNCT	_	_	4	punct	O	start_char=716|end_char=717
+4	and	and	X	_	_	1	flat:foreign	O	start_char=718|end_char=721
+5	geomechanical	geomechanical	X	_	_	4	flat:foreign	O	start_char=722|end_char=735
+6	hazards	hazards	X	_	_	4	flat:foreign	O	start_char=736|end_char=743
+7	evaluation.	evaluation.	X	_	_	4	flat:foreign	O	start_char=744|end_char=755
+8	.	.	PUNCT	_	_	1	punct	O	start_char=755|end_char=756
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-6
+# text = From well logs and cutting samples it is realized that the evaporitic section is mostly composed of halite (about 80%), with varying proportions of higher density (mostly anhydrite) and lower density salts (carnallite, tachyhydrite and sylvite)..
+1	From	From	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=758|end_char=762
+2	well	well	PROPN	_	Number=Sing	1	flat:name	O	start_char=763|end_char=767
+3	logs	logs	PROPN	_	Number=Sing	1	flat:name	O	start_char=768|end_char=772
+4	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=773|end_char=776
+5	cutting	cutting	PROPN	_	Number=Sing	1	flat:name	O	start_char=777|end_char=784
+6	samples	samples	PROPN	_	Number=Sing	1	flat:name	O	start_char=785|end_char=792
+7	it	it	PROPN	_	Number=Sing	1	flat:name	O	start_char=793|end_char=795
+8	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=796|end_char=798
+9	realized	realized	PROPN	_	Number=Sing	1	flat:name	O	start_char=799|end_char=807
+10	that	that	PROPN	_	Number=Sing	1	flat:name	O	start_char=808|end_char=812
+11	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=813|end_char=816
+12	evaporitic	evaporitic	PROPN	_	Number=Sing	1	flat:name	O	start_char=817|end_char=827
+13	section	section	PROPN	_	Number=Sing	1	flat:name	O	start_char=828|end_char=835
+14	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=836|end_char=838
+15	mostly	mostly	PROPN	_	Number=Sing	1	flat:name	O	start_char=839|end_char=845
+16	composed	composed	PROPN	_	Number=Sing	1	flat:name	O	start_char=846|end_char=854
+17	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=855|end_char=857
+18	halite	halite	PROPN	_	Number=Sing	1	flat:name	O	start_char=858|end_char=864
+19	(	(	PUNCT	_	_	20	punct	O	start_char=865|end_char=866
+20	about	about	X	_	_	1	appos	O	start_char=866|end_char=871
+21	80	80	PROPN	_	Number=Sing	20	flat:foreign	O	start_char=872|end_char=874
+22	%	%	SYM	_	_	20	flat:foreign	O	start_char=874|end_char=875
+23	)	)	PUNCT	_	_	20	punct	O	start_char=875|end_char=876
+24	,	,	PUNCT	_	_	25	punct	O	start_char=876|end_char=877
+25	with	with	X	_	_	1	conj	O	start_char=878|end_char=882
+26	varying	varying	X	_	_	25	flat:foreign	O	start_char=883|end_char=890
+27	proportions	proportions	X	_	_	25	flat:foreign	O	start_char=891|end_char=902
+28	of	of	X	_	_	25	flat:foreign	O	start_char=903|end_char=905
+29	higher	higher	X	_	_	25	flat:foreign	O	start_char=906|end_char=912
+30	density	density	X	_	_	25	flat:foreign	O	start_char=913|end_char=920
+31	(	(	PUNCT	_	_	32	punct	O	start_char=921|end_char=922
+32	mostly	mostly	X	_	_	25	appos	O	start_char=922|end_char=928
+33	anhydrite	anhydrite	X	_	_	32	flat:foreign	O	start_char=929|end_char=938
+34	)	)	PUNCT	_	_	32	punct	O	start_char=938|end_char=939
+35	and	and	X	_	_	25	flat:foreign	O	start_char=940|end_char=943
+36	lower	lower	X	_	_	35	flat:foreign	O	start_char=944|end_char=949
+37	density	density	X	_	_	35	flat:foreign	O	start_char=950|end_char=957
+38	salts	salts	X	_	_	35	flat:foreign	O	start_char=958|end_char=963
+39	(	(	PUNCT	_	_	40	punct	O	start_char=964|end_char=965
+40	carnallite	carnallite	NOUN	_	Gender=Fem|Number=Sing	35	appos	O	start_char=965|end_char=975
+41	,	,	PUNCT	_	_	42	punct	O	start_char=975|end_char=976
+42	tachyhydrite	tachyhydrite	X	_	_	40	appos	O	start_char=977|end_char=989
+43	and	and	X	_	_	42	flat:foreign	O	start_char=990|end_char=993
+44	sylvite	sylvite	X	_	_	42	flat:foreign	O	start_char=994|end_char=1001
+45	)	)	PUNCT	_	_	40	punct	O	start_char=1001|end_char=1002
+46	.	.	PUNCT	_	_	32	punct	O	start_char=1002|end_char=1003
+47	.	.	PUNCT	_	_	1	punct	O	start_char=1003|end_char=1004
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-7
+# text = This information, despite having high vertical resolution, is difficult to correlate horizontally..
+1	This	This	X	_	_	0	root	O	start_char=1006|end_char=1010
+2	information	information	X	_	_	1	compound	O	start_char=1011|end_char=1022
+3	,	,	PUNCT	_	_	4	punct	O	start_char=1022|end_char=1023
+4	despite	despite	X	_	_	1	appos	O	start_char=1024|end_char=1031
+5	having	having	X	_	_	4	flat:foreign	O	start_char=1032|end_char=1038
+6	high	high	X	_	_	4	flat:foreign	O	start_char=1039|end_char=1043
+7	vertical	vertical	X	_	_	4	flat:foreign	O	start_char=1044|end_char=1052
+8	resolution	resolution	X	_	_	4	flat:foreign	O	start_char=1053|end_char=1063
+9	,	,	PUNCT	_	_	10	punct	O	start_char=1063|end_char=1064
+10	is	is	X	_	_	4	flat:foreign	O	start_char=1065|end_char=1067
+11	difficult	difficult	PROPN	_	Number=Sing	10	flat:name	O	start_char=1068|end_char=1077
+12	to	to	PROPN	_	Number=Sing	10	flat:name	O	start_char=1078|end_char=1080
+13	correlate	correlate	PROPN	_	Number=Sing	10	flat:name	O	start_char=1081|end_char=1090
+14	horizontally	horizontally	PROPN	_	Number=Sing	10	flat:name	O	start_char=1091|end_char=1103
+15	.	.	PUNCT	_	_	1	punct	O	start_char=1103|end_char=1104
+16	.	.	PUNCT	_	_	1	punct	O	start_char=1104|end_char=1105
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-8
+# text = Seismic images, on the other hand, indicate some homogeneous domes surrounded by regions with strong reflections, the stratifications, within the evaporitic section..
+1	Seismic	Seismic	PROPN	_	Gender=Masc|Number=Sing	11	nsubj	O	start_char=1107|end_char=1114
+2	images	images	X	_	_	1	flat:name	O	start_char=1115|end_char=1121
+3	,	,	PUNCT	_	_	4	punct	O	start_char=1121|end_char=1122
+4	on	on	X	_	_	1	flat:name	O	start_char=1123|end_char=1125
+5	the	the	PROPN	_	Number=Sing	4	flat:name	O	start_char=1126|end_char=1129
+6	other	other	PROPN	_	Number=Sing	4	flat:name	O	start_char=1130|end_char=1135
+7	hand	hand	PROPN	_	Number=Sing	4	flat:name	O	start_char=1136|end_char=1140
+8	,	,	PUNCT	_	_	4	punct	O	start_char=1140|end_char=1141
+9	indicate	indicate	PROPN	_	Number=Sing	4	flat:name	O	start_char=1142|end_char=1150
+10	some	sumir	PROPN	_	Number=Sing	4	flat:name	O	start_char=1151|end_char=1155
+11	homogeneous	homogenear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	start_char=1156|end_char=1167
+12	domes	domes	PROPN	_	Number=Sing	11	obj	O	start_char=1168|end_char=1173
+13	surrounded	surrounded	PROPN	_	Number=Sing	12	flat:name	O	start_char=1174|end_char=1184
+14	by	by	PROPN	_	Number=Sing	12	flat:name	O	start_char=1185|end_char=1187
+15	regions	regions	PROPN	_	Number=Sing	12	flat:name	O	start_char=1188|end_char=1195
+16	with	with	PROPN	_	Number=Sing	12	flat:name	O	start_char=1196|end_char=1200
+17	strong	strong	X	_	_	12	flat:name	O	start_char=1201|end_char=1207
+18	reflections	reflections	PROPN	_	Number=Sing	12	flat:name	O	start_char=1208|end_char=1219
+19	,	,	PUNCT	_	_	11	punct	O	start_char=1219|end_char=1220
+20	the	the	PROPN	_	Number=Sing	17	flat:name	O	start_char=1221|end_char=1224
+21	stratifications	stratifications	PROPN	_	Number=Sing	20	flat:name	O	start_char=1225|end_char=1240
+22	,	,	PUNCT	_	_	11	punct	O	start_char=1240|end_char=1241
+23	within	within	PROPN	_	Number=Sing	20	flat:name	O	start_char=1242|end_char=1248
+24	the	the	PROPN	_	Number=Sing	23	flat:name	O	start_char=1249|end_char=1252
+25	evaporitic	evaporitic	PROPN	_	Number=Sing	23	flat:name	O	start_char=1253|end_char=1263
+26	section.	section.	PROPN	_	Number=Sing	23	flat:name	O	start_char=1264|end_char=1272
+27	.	.	PUNCT	_	_	11	punct	O	start_char=1272|end_char=1273
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-9
+# text = We correlate those stratified regions with areas containing a higher content of salts other than halite, deposited in continuous layers..
+1	We	We	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1275|end_char=1277
+2	correlate	correlate	X	_	_	1	flat:name	O	start_char=1278|end_char=1287
+3	those	those	PROPN	_	Number=Sing	1	flat:name	O	start_char=1288|end_char=1293
+4	stratified	stratified	PROPN	_	Number=Sing	1	flat:name	O	start_char=1294|end_char=1304
+5	regions	regions	PROPN	_	Number=Sing	1	flat:name	O	start_char=1305|end_char=1312
+6	with	with	PROPN	_	Number=Sing	1	flat:name	O	start_char=1313|end_char=1317
+7	areas	areas	PROPN	_	Number=Sing	1	flat:name	O	start_char=1318|end_char=1323
+8	containing	containing	PROPN	_	Number=Sing	1	flat:name	O	start_char=1324|end_char=1334
+9	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=1335|end_char=1336
+10	higher	higher	PROPN	_	Number=Sing	1	flat:name	O	start_char=1337|end_char=1343
+11	content	content	PROPN	_	Number=Sing	1	flat:name	O	start_char=1344|end_char=1351
+12	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1352|end_char=1354
+13	salts	salts	PROPN	_	Number=Sing	1	flat:name	O	start_char=1355|end_char=1360
+14	other	other	PROPN	_	Number=Sing	1	flat:name	O	start_char=1361|end_char=1366
+15	than	than	PROPN	_	Number=Sing	1	flat:name	O	start_char=1367|end_char=1371
+16	halite	halite	PROPN	_	Number=Sing	1	flat:name	O	start_char=1372|end_char=1378
+17	,	,	PUNCT	_	_	1	flat:name	O	start_char=1378|end_char=1379
+18	deposited	deposited	PROPN	_	Number=Sing	1	flat:name	O	start_char=1380|end_char=1389
+19	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=1390|end_char=1392
+20	continuous	continuous	PROPN	_	Number=Sing	1	flat:name	O	start_char=1393|end_char=1403
+21	layers	layers	PROPN	_	Number=Sing	1	flat:name	O	start_char=1404|end_char=1410
+22	.	.	PUNCT	_	_	1	punct	O	start_char=1410|end_char=1411
+23	.	.	PUNCT	_	_	1	punct	O	start_char=1411|end_char=1412
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-10
+# text = Seismic gives us lower vertical resolution, but spans the whole section..
+1	Seismic	Seismic	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1414|end_char=1421
+2	gives	gives	X	_	_	1	flat:name	O	start_char=1422|end_char=1427
+3	us	us	PROPN	_	Number=Sing	1	flat:name	O	start_char=1428|end_char=1430
+4	lower	lower	X	_	_	1	flat:name	O	start_char=1431|end_char=1436
+5	vertical	vertical	PROPN	_	Number=Sing	1	flat:name	O	start_char=1437|end_char=1445
+6	resolution	resolution	PROPN	_	Number=Sing	1	flat:name	O	start_char=1446|end_char=1456
+7	,	,	PUNCT	_	_	1	flat:name	O	start_char=1456|end_char=1457
+8	but	but	PROPN	_	Number=Sing	1	flat:name	O	start_char=1458|end_char=1461
+9	spans	spans	PROPN	_	Number=Sing	1	flat:name	O	start_char=1462|end_char=1467
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1468|end_char=1471
+11	whole	whole	PROPN	_	Number=Sing	1	flat:name	O	start_char=1472|end_char=1477
+12	section.	section.	PROPN	_	Number=Sing	1	flat:name	O	start_char=1478|end_char=1486
+13	.	.	PUNCT	_	_	1	punct	O	start_char=1486|end_char=1487
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-11
+# text = We propose a workflow that combines well information with seismic data to create a 3D model of this section in terms of salt contents, inside seismic resolution limits..
+1	We	We	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1489|end_char=1491
+2	propose	propose	X	_	_	1	flat:name	O	start_char=1492|end_char=1499
+3	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=1500|end_char=1501
+4	workflow	workflow	PROPN	_	Number=Sing	1	flat:name	O	start_char=1502|end_char=1510
+5	that	that	PROPN	_	Number=Sing	1	flat:name	O	start_char=1511|end_char=1515
+6	combines	combines	PROPN	_	Number=Sing	1	flat:name	O	start_char=1516|end_char=1524
+7	well	well	PROPN	_	Number=Sing	1	flat:name	O	start_char=1525|end_char=1529
+8	information	information	PROPN	_	Number=Sing	1	flat:name	O	start_char=1530|end_char=1541
+9	with	with	PROPN	_	Number=Sing	1	flat:name	O	start_char=1542|end_char=1546
+10	seismic	seismic	PROPN	_	Number=Sing	1	flat:name	O	start_char=1547|end_char=1554
+11	data	data	PROPN	_	Number=Sing	1	flat:name	O	start_char=1555|end_char=1559
+12	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=1560|end_char=1562
+13	create	create	PROPN	_	Number=Sing	1	flat:name	O	start_char=1563|end_char=1569
+14	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=1570|end_char=1571
+15	3D	3D	PROPN	_	Number=Sing	1	flat:name	O	start_char=1572|end_char=1574
+16	model	model	PROPN	_	Number=Sing	1	flat:name	O	start_char=1575|end_char=1580
+17	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1581|end_char=1583
+18	this	this	PROPN	_	Number=Sing	1	flat:name	O	start_char=1584|end_char=1588
+19	section	section	PROPN	_	Number=Sing	1	flat:name	O	start_char=1589|end_char=1596
+20	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=1597|end_char=1599
+21	terms	terms	PROPN	_	Number=Sing	1	flat:name	O	start_char=1600|end_char=1605
+22	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1606|end_char=1608
+23	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=1609|end_char=1613
+24	contents	contents	PROPN	_	Number=Sing	1	flat:name	O	start_char=1614|end_char=1622
+25	,	,	PUNCT	_	_	1	flat:name	O	start_char=1622|end_char=1623
+26	inside	inside	PROPN	_	Number=Sing	1	flat:name	O	start_char=1624|end_char=1630
+27	seismic	seismic	PROPN	_	Number=Sing	1	flat:name	O	start_char=1631|end_char=1638
+28	resolution	resolution	PROPN	_	Number=Sing	1	flat:name	O	start_char=1639|end_char=1649
+29	limits	limits	PROPN	_	Number=Sing	26	flat:name	O	start_char=1650|end_char=1656
+30	.	.	PUNCT	_	_	1	punct	O	start_char=1656|end_char=1657
+31	.	.	PUNCT	_	_	1	punct	O	start_char=1657|end_char=1658
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-12
+# text = We achieve this by doing a seismic inversion in the evaporitic section, using well logs and cutting samples, interpreted horizons to build the low frequency model..
+1	We	We	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1660|end_char=1662
+2	achieve	achieve	PROPN	_	Number=Sing	1	flat:name	O	start_char=1663|end_char=1670
+3	this	this	PROPN	_	Number=Sing	1	flat:name	O	start_char=1671|end_char=1675
+4	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=1676|end_char=1678
+5	doing	doing	PROPN	_	Number=Sing	1	flat:name	O	start_char=1679|end_char=1684
+6	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=1685|end_char=1686
+7	seismic	seismic	PROPN	_	Number=Sing	1	flat:name	O	start_char=1687|end_char=1694
+8	inversion	inversion	PROPN	_	Number=Sing	1	flat:name	O	start_char=1695|end_char=1704
+9	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=1705|end_char=1707
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1708|end_char=1711
+11	evaporitic	evaporitic	PROPN	_	Number=Sing	1	flat:name	O	start_char=1712|end_char=1722
+12	section	section	PROPN	_	Number=Sing	1	flat:name	O	start_char=1723|end_char=1730
+13	,	,	PUNCT	_	_	1	flat:name	O	start_char=1730|end_char=1731
+14	using	using	PROPN	_	Number=Sing	1	flat:name	O	start_char=1732|end_char=1737
+15	well	well	PROPN	_	Number=Sing	1	flat:name	O	start_char=1738|end_char=1742
+16	logs	logs	PROPN	_	Number=Sing	1	flat:name	O	start_char=1743|end_char=1747
+17	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1748|end_char=1751
+18	cutting	cutting	PROPN	_	Number=Sing	1	flat:name	O	start_char=1752|end_char=1759
+19	samples	samples	PROPN	_	Number=Sing	1	flat:name	O	start_char=1760|end_char=1767
+20	,	,	PUNCT	_	_	1	flat:name	O	start_char=1767|end_char=1768
+21	interpreted	interpreted	PROPN	_	Number=Sing	1	flat:name	O	start_char=1769|end_char=1780
+22	horizons	horizons	PROPN	_	Number=Sing	1	flat:name	O	start_char=1781|end_char=1789
+23	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=1790|end_char=1792
+24	build	build	PROPN	_	Number=Sing	1	flat:name	O	start_char=1793|end_char=1798
+25	the	the	PROPN	_	Number=Sing	21	flat:name	O	start_char=1799|end_char=1802
+26	low	low	PROPN	_	Number=Sing	21	flat:name	O	start_char=1803|end_char=1806
+27	frequency	frequency	PROPN	_	Number=Sing	21	flat:name	O	start_char=1807|end_char=1816
+28	model	model	PROPN	_	Number=Sing	21	flat:name	O	start_char=1817|end_char=1822
+29	.	.	PUNCT	_	_	1	punct	O	start_char=1822|end_char=1823
+30	.	.	PUNCT	_	_	1	punct	O	start_char=1823|end_char=1824
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-13
+# text = Seismic facies analysis over the resulting impedance volume allows for positioning the different mineral types, reducing uncertainties in well drilling forecasts and adding valuable information to geomechanical models..
+1	Seismic	Seismic	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1826|end_char=1833
+2	facies	facies	PROPN	_	Number=Sing	1	flat:name	O	start_char=1834|end_char=1840
+3	analysis	analysis	PROPN	_	Number=Sing	1	flat:name	O	start_char=1841|end_char=1849
+4	over	over	PROPN	_	Number=Sing	1	flat:name	O	start_char=1850|end_char=1854
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1855|end_char=1858
+6	resulting	resulting	PROPN	_	Number=Sing	1	flat:name	O	start_char=1859|end_char=1868
+7	impedance	impedance	PROPN	_	Number=Sing	1	flat:name	O	start_char=1869|end_char=1878
+8	volume	volume	PROPN	_	Number=Sing	1	flat:name	O	start_char=1879|end_char=1885
+9	allows	allows	PROPN	_	Number=Sing	1	flat:name	O	start_char=1886|end_char=1892
+10	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	cop	O	start_char=1893|end_char=1896
+11	positioning	positioning	PROPN	_	Number=Sing	1	flat:name	O	start_char=1897|end_char=1908
+12	the	the	PROPN	_	Number=Sing	11	flat:name	O	start_char=1909|end_char=1912
+13	different	different	PROPN	_	Number=Sing	11	flat:name	O	start_char=1913|end_char=1922
+14	mineral	mineral	PROPN	_	Number=Sing	1	flat:name	O	start_char=1923|end_char=1930
+15	types	types	PROPN	_	Number=Sing	1	flat:name	O	start_char=1931|end_char=1936
+16	,	,	PUNCT	_	_	11	flat:name	O	start_char=1936|end_char=1937
+17	reducing	reducing	PROPN	_	Number=Sing	11	flat:name	O	start_char=1938|end_char=1946
+18	uncertainties	uncertainties	PROPN	_	Number=Sing	1	flat:name	O	start_char=1947|end_char=1960
+19	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=1961|end_char=1963
+20	well	well	PROPN	_	Number=Sing	1	flat:name	O	start_char=1964|end_char=1968
+21	drilling	drilling	PROPN	_	Number=Sing	1	flat:name	O	start_char=1969|end_char=1977
+22	forecasts	forecasts	PROPN	_	Number=Sing	1	flat:name	O	start_char=1978|end_char=1987
+23	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1988|end_char=1991
+24	adding	adding	PROPN	_	Number=Sing	1	flat:name	O	start_char=1992|end_char=1998
+25	valuable	valuable	PROPN	_	Number=Sing	1	flat:name	O	start_char=1999|end_char=2007
+26	information	information	PROPN	_	Number=Sing	1	flat:name	O	start_char=2008|end_char=2019
+27	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=2020|end_char=2022
+28	geomechanical	geomechanical	PROPN	_	Number=Sing	1	flat:name	O	start_char=2023|end_char=2036
+29	models	models	PROPN	_	Number=Sing	1	flat:name	O	start_char=2037|end_char=2043
+30	.	.	PUNCT	_	_	1	punct	O	start_char=2043|end_char=2044
+31	.	.	PUNCT	_	_	11	punct	O	start_char=2044|end_char=2045
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-14
+# text = By using well relations, we can evaluate rock properties with vertical resolution close to 10m and, more importantly, with good horizontal resolution (limited by the seismic incident angle in the current seismic image)..
+1	By	By	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2047|end_char=2049
+2	using	using	X	_	_	1	flat:name	O	start_char=2050|end_char=2055
+3	well	well	PROPN	_	Number=Sing	1	flat:name	O	start_char=2056|end_char=2060
+4	relations	relations	PROPN	_	Number=Sing	1	flat:name	O	start_char=2061|end_char=2070
+5	,	,	PUNCT	_	_	1	flat:name	O	start_char=2070|end_char=2071
+6	we	we	PROPN	_	Number=Sing	1	flat:name	O	start_char=2072|end_char=2074
+7	can	can	PROPN	_	Number=Sing	1	flat:name	O	start_char=2075|end_char=2078
+8	evaluate	evaluate	PROPN	_	Number=Sing	1	flat:name	O	start_char=2079|end_char=2087
+9	rock	rock	PROPN	_	Number=Sing	1	flat:name	O	start_char=2088|end_char=2092
+10	properties	properties	PROPN	_	Number=Sing	1	flat:name	O	start_char=2093|end_char=2103
+11	with	with	PROPN	_	Number=Sing	1	flat:name	O	start_char=2104|end_char=2108
+12	vertical	vertical	PROPN	_	Number=Sing	1	flat:name	O	start_char=2109|end_char=2117
+13	resolution	resolution	PROPN	_	Number=Sing	1	flat:name	O	start_char=2118|end_char=2128
+14	close	close	PROPN	_	Number=Sing	1	flat:name	O	start_char=2129|end_char=2134
+15	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=2135|end_char=2137
+16	10m	10m	PROPN	_	Number=Sing	1	flat:name	O	start_char=2138|end_char=2141
+17	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2142|end_char=2145
+18	,	,	PUNCT	_	_	1	flat:name	O	start_char=2145|end_char=2146
+19	more	more	PROPN	_	Number=Sing	1	flat:name	O	start_char=2147|end_char=2151
+20	importantly	importantly	PROPN	_	Number=Sing	1	flat:name	O	start_char=2152|end_char=2163
+21	,	,	PUNCT	_	_	1	flat:name	O	start_char=2163|end_char=2164
+22	with	with	PROPN	_	Number=Sing	1	flat:name	O	start_char=2165|end_char=2169
+23	good	good	PROPN	_	Number=Sing	19	flat:name	O	start_char=2170|end_char=2174
+24	horizontal	horizontal	PROPN	_	Number=Sing	19	flat:name	O	start_char=2175|end_char=2185
+25	resolution	resolution	PROPN	_	Number=Sing	22	flat:name	O	start_char=2186|end_char=2196
+26	(	(	PUNCT	_	_	27	punct	O	start_char=2197|end_char=2198
+27	limited	limited	PROPN	_	Number=Sing	1	flat:name	O	start_char=2198|end_char=2205
+28	by	by	PROPN	_	Number=Sing	27	flat:name	O	start_char=2206|end_char=2208
+29	the	the	PROPN	_	Number=Sing	27	flat:name	O	start_char=2209|end_char=2212
+30	seismic	seismic	PROPN	_	Number=Sing	27	flat:name	O	start_char=2213|end_char=2220
+31	incident	incident	PROPN	_	Number=Sing	27	flat:name	O	start_char=2221|end_char=2229
+32	angle	angle	PROPN	_	Number=Sing	27	flat:name	O	start_char=2230|end_char=2235
+33	in	in	PROPN	_	Number=Sing	27	flat:name	O	start_char=2236|end_char=2238
+34	the	the	PROPN	_	Number=Sing	27	flat:name	O	start_char=2239|end_char=2242
+35	current	current	PROPN	_	Number=Sing	27	flat:name	O	start_char=2243|end_char=2250
+36	seismic	seismic	PROPN	_	Number=Sing	27	flat:name	O	start_char=2251|end_char=2258
+37	image	image	PROPN	_	Number=Sing	27	flat:name	O	start_char=2259|end_char=2264
+38	)	)	PUNCT	_	_	27	punct	O	start_char=2264|end_char=2265
+39	.	.	PUNCT	_	_	27	punct	O	start_char=2265|end_char=2266
+40	.	.	PUNCT	_	_	1	punct	O	start_char=2266|end_char=2267
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-15
+# text = This workflow has been applied in most of the presalt fields both in development and production phases, with a database including over 200 wells..
+1	This	This	X	_	Number=Sing	0	root	O	start_char=2269|end_char=2273
+2	workflow	workflow	X	_	_	1	flat:name	O	start_char=2274|end_char=2282
+3	has	has	PROPN	_	Number=Sing	1	flat:name	O	start_char=2283|end_char=2286
+4	been	been	PROPN	_	Number=Sing	1	flat:name	O	start_char=2287|end_char=2291
+5	applied	applied	PROPN	_	Number=Sing	1	flat:name	O	start_char=2292|end_char=2299
+6	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=2300|end_char=2302
+7	most	most	PROPN	_	Number=Sing	1	flat:name	O	start_char=2303|end_char=2307
+8	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2308|end_char=2310
+9	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2311|end_char=2314
+10	presalt	presalt	PROPN	_	Number=Sing	1	flat:name	O	start_char=2315|end_char=2322
+11	fields	fields	PROPN	_	Number=Sing	1	flat:name	O	start_char=2323|end_char=2329
+12	both	both	PROPN	_	Number=Sing	1	flat:name	O	start_char=2330|end_char=2334
+13	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=2335|end_char=2337
+14	development	development	PROPN	_	Number=Sing	1	flat:name	O	start_char=2338|end_char=2349
+15	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2350|end_char=2353
+16	production	production	PROPN	_	Number=Sing	1	flat:name	O	start_char=2354|end_char=2364
+17	phases	phases	PROPN	_	Number=Sing	1	flat:name	O	start_char=2365|end_char=2371
+18	,	,	PUNCT	_	_	1	flat:name	O	start_char=2371|end_char=2372
+19	with	with	PROPN	_	Number=Sing	1	flat:name	O	start_char=2373|end_char=2377
+20	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=2378|end_char=2379
+21	database	database	PROPN	_	Number=Sing	1	flat:name	O	start_char=2380|end_char=2388
+22	including	including	PROPN	_	Number=Sing	1	flat:name	O	start_char=2389|end_char=2398
+23	over	over	PROPN	_	Number=Sing	1	flat:name	O	start_char=2399|end_char=2403
+24	200	200	PROPN	_	Number=Sing	1	flat:name	O	start_char=2404|end_char=2407
+25	wells	wells	PROPN	_	Number=Sing	1	flat:name	O	start_char=2408|end_char=2413
+26	.	.	PUNCT	_	_	1	punct	O	start_char=2413|end_char=2414
+27	.	.	PUNCT	_	_	1	punct	O	start_char=2414|end_char=2415
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-16
+# text = If you have answered no, please indicate when you expect to have approval (number of days, weeks, or Abstract: Please indicate your Student status.: I am not a Student Please indicate your company's permission.: No Powered by cOASIS, The Online Abstract Submission and Invitation System SM © 1996 - 2018 CTI
+1	If	If	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2417|end_char=2419
+2	you	you	PROPN	_	Number=Sing	1	flat:name	O	start_char=2420|end_char=2423
+3	have	have	PROPN	_	Number=Sing	1	flat:name	O	start_char=2424|end_char=2428
+4	answered	answered	PROPN	_	Number=Sing	1	flat:name	O	start_char=2429|end_char=2437
+5-6	no	_	_	_	_	_	_	O	start_char=2438|end_char=2440
+5	em	em	ADP	_	_	1	flat:name	O	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat:name	O	_
+7	,	,	PUNCT	_	_	1	flat:name	O	start_char=2440|end_char=2441
+8	please	please	PROPN	_	Number=Sing	1	flat:name	O	start_char=2442|end_char=2448
+9	indicate	indicate	PROPN	_	Number=Sing	1	flat:name	O	start_char=2449|end_char=2457
+10	when	when	PROPN	_	Number=Sing	1	flat:name	O	start_char=2458|end_char=2462
+11	you	you	PROPN	_	Number=Sing	1	flat:name	O	start_char=2463|end_char=2466
+12	expect	expect	PROPN	_	Number=Sing	1	flat:name	O	start_char=2467|end_char=2473
+13	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=2474|end_char=2476
+14	have	have	PROPN	_	Number=Sing	1	flat:name	O	start_char=2477|end_char=2481
+15	approval	approval	PROPN	_	Number=Sing	1	flat:name	O	start_char=2482|end_char=2490
+16	(	(	PUNCT	_	_	17	punct	O	start_char=2491|end_char=2492
+17	number	number	PROPN	_	Number=Sing	1	flat:name	O	start_char=2492|end_char=2498
+18	of	of	PROPN	_	Number=Sing	17	flat:name	O	start_char=2499|end_char=2501
+19	days	days	PROPN	_	Number=Sing	17	flat:name	O	start_char=2502|end_char=2506
+20	,	,	PUNCT	_	_	17	flat:name	O	start_char=2506|end_char=2507
+21	weeks	weeks	PROPN	_	Number=Sing	17	flat:name	O	start_char=2508|end_char=2513
+22	,	,	PUNCT	_	_	17	flat:name	O	start_char=2513|end_char=2514
+23	or	or	PROPN	_	Number=Sing	17	flat:name	O	start_char=2515|end_char=2517
+24	Abstract	Abstract	PROPN	_	Number=Sing	17	flat:name	O	start_char=2518|end_char=2526
+25	:	:	PUNCT	_	_	26	punct	O	start_char=2526|end_char=2527
+26	Please	Please	PROPN	_	Number=Sing	1	flat:name	O	start_char=2528|end_char=2534
+27	indicate	indicate	PROPN	_	Number=Sing	26	flat:name	O	start_char=2535|end_char=2543
+28	your	your	PROPN	_	Number=Sing	26	flat:name	O	start_char=2544|end_char=2548
+29	Student	Student	PROPN	_	Number=Sing	26	flat:name	O	start_char=2549|end_char=2556
+30	status	status	PROPN	_	Number=Sing	26	flat:name	O	start_char=2557|end_char=2563
+31	.	.	PUNCT	_	_	33	punct	O	start_char=2563|end_char=2564
+32	:	:	PUNCT	_	_	33	punct	O	start_char=2564|end_char=2565
+33	I	I	PROPN	_	Gender=Fem|Number=Sing	26	appos	O	start_char=2566|end_char=2567
+34	am	am	PROPN	_	Number=Sing	33	flat:name	O	start_char=2568|end_char=2570
+35	not	not	PROPN	_	Number=Sing	33	flat:name	O	start_char=2571|end_char=2574
+36	a	a	PROPN	_	Number=Sing	33	flat:name	O	start_char=2575|end_char=2576
+37	Student	Student	PROPN	_	Number=Sing	33	flat:name	O	start_char=2577|end_char=2584
+38	Please	Please	PROPN	_	Number=Sing	33	flat:name	O	start_char=2585|end_char=2591
+39	indicate	indicate	PROPN	_	Number=Sing	33	flat:name	O	start_char=2592|end_char=2600
+40	your	your	PROPN	_	Number=Sing	33	flat:name	O	start_char=2601|end_char=2605
+41	company's	company's	PROPN	_	Number=Sing	33	flat:name	O	start_char=2606|end_char=2615
+42	permission	permission	PROPN	_	Number=Sing	33	flat:name	O	start_char=2616|end_char=2626
+43	.	.	PUNCT	_	_	47	punct	O	start_char=2626|end_char=2627
+44	:	:	PUNCT	_	_	47	punct	O	start_char=2627|end_char=2628
+45-46	No	_	_	_	_	_	_	O	start_char=2629|end_char=2631
+45	Em	em	ADP	_	_	47	case	O	_
+46	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	O	_
+47	Powered	Powered	PROPN	_	Gender=Masc|Number=Sing	33	nmod	O	start_char=2632|end_char=2639
+48	by	by	PROPN	_	Number=Sing	47	flat:name	O	start_char=2640|end_char=2642
+49	cOASIS	coasis	PROPN	_	Number=Sing	47	flat:name	O	start_char=2643|end_char=2649
+50	,	,	PUNCT	_	_	47	flat:name	O	start_char=2649|end_char=2650
+51	The	The	PROPN	_	Number=Sing	47	flat:name	O	start_char=2651|end_char=2654
+52	Online	Online	PROPN	_	Number=Sing	47	flat:name	O	start_char=2655|end_char=2661
+53	Abstract	Abstract	PROPN	_	Number=Sing	47	flat:name	O	start_char=2662|end_char=2670
+54	Submission	Submission	PROPN	_	Number=Sing	47	flat:name	O	start_char=2671|end_char=2681
+55	and	and	PROPN	_	Number=Sing	47	flat:name	O	start_char=2682|end_char=2685
+56	Invitation	Invitation	PROPN	_	Number=Sing	47	flat:name	O	start_char=2686|end_char=2696
+57	System	System	PROPN	_	Number=Sing	47	flat:name	O	start_char=2697|end_char=2703
+58	SM	SM	PROPN	_	Number=Sing	47	flat:name	O	start_char=2704|end_char=2706
+59	©	©	PROPN	_	Number=Sing	47	flat:name	O	start_char=2707|end_char=2708
+60	1996	1996	NUM	_	NumType=Card	47	flat:name	O	start_char=2709|end_char=2713
+61	-	-	PUNCT	_	_	63	punct	O	start_char=2714|end_char=2715
+62	2018	2018	NUM	_	NumType=Card	63	nummod	O	start_char=2716|end_char=2720
+63	CTI	CTI	PROPN	_	Gender=Masc|Number=Sing	47	conj	O	start_char=2721|end_char=2724
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-17
+# text = Meeting Technology All rights reserved..
+1	Meeting	Meeting	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2726|end_char=2733
+2	Technology	Technology	PROPN	_	Number=Sing	1	flat:name	O	start_char=2734|end_char=2744
+3	All	All	PROPN	_	Number=Sing	1	flat:name	O	start_char=2745|end_char=2748
+4	rights	rights	PROPN	_	Number=Sing	1	flat:name	O	start_char=2749|end_char=2755
+5	reserved.	reserved.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2756|end_char=2765
+6	.	.	PUNCT	_	_	1	punct	O	start_char=2765|end_char=2766
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-18
+# text = Privacy Policy
+1	Privacy	Privacy	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2768|end_char=2775
+2	Policy	Policy	PROPN	_	Number=Sing	1	flat:name	O	start_char=2776|end_char=2782
+
+# sent_id = AE4DB84BE37E5B31E05354EB1D0A1923-19
+# text = Leave cOASIS Feedback
+1	Leave	Leave	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2784|end_char=2789
+2	cOASIS	coasis	PROPN	_	Number=Sing	1	flat:name	O	start_char=2790|end_char=2796
+3	Feedback	Feedback	PROPN	_	Number=Sing	1	flat:name	O	start_char=2797|end_char=2805

@@ -1,0 +1,112 @@
+# sent_id = 0C22AE1D9F574BC1E054002128300A66-1
+# text = CENPES/PDGEO/IRPS LABORATÓRIO DE DIFRATOMETRIA DE RAIO X - BOLETIM DE RESULTADO 1 CENPES/PDGEO/BPA
+1	CENPES	CENPES	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=0|end_char=6
+2	/PDGEO/IRPS	/PDGEO/IRPS	PROPN	_	Number=Sing	1	flat:name	O	start_char=6|end_char=17
+3	LABORATÓRIO	LABORATÓRIO	PROPN	_	Number=Sing	1	flat:name	O	start_char=18|end_char=29
+4	DE	de	ADP	_	_	1	flat:name	O	start_char=30|end_char=32
+5	DIFRATOMETRIA	DIFRATOMETRIA	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=33|end_char=46
+6	DE	de	ADP	_	_	7	case	O	start_char=47|end_char=49
+7	RAIO	RAIO	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=50|end_char=54
+8	X	X	PROPN	_	Number=Sing	7	flat:name	O	start_char=55|end_char=56
+9	-	-	PUNCT	_	_	10	punct	O	start_char=57|end_char=58
+10	BOLETIM	BOLETIM	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=59|end_char=66
+11	DE	de	ADP	_	_	10	flat:name	O	start_char=67|end_char=69
+12	RESULTADO	Resultado	PROPN	_	Number=Sing	10	flat:name	O	start_char=70|end_char=79
+13	1	1	PROPN	_	Number=Sing	10	flat:name	O	start_char=80|end_char=81
+14	CENPES	CENPES	PROPN	_	Gender=Masc|Number=Sing	10	flat:name	O	start_char=82|end_char=88
+15	/PDGEO	/PDGEO	PROPN	_	Number=Sing	10	flat:name	O	start_char=88|end_char=94
+16	/BPA	/BPA	PROPN	_	Number=Sing	10	flat:name	O	start_char=94|end_char=98
+
+# sent_id = 0C22AE1D9F574BC1E054002128300A66-2
+# text = Orgão: Nº de Amostras: Diagrama de Rede: 10007537760-030
+1	Orgão	orgão	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=100|end_char=105
+2	:	:	PUNCT	_	_	3	punct	O	start_char=105|end_char=106
+3	Nº	Nº	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=107|end_char=109
+4	de	de	ADP	_	_	3	flat:name	O	start_char=110|end_char=112
+5	Amostras	Amostras	PROPN	_	Number=Sing	3	flat:name	O	start_char=113|end_char=121
+6	:	:	PUNCT	_	_	7	punct	O	start_char=121|end_char=122
+7	Diagrama	Diagrama	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=123|end_char=131
+8	de	de	ADP	_	_	7	flat:name	O	start_char=132|end_char=134
+9	Rede	Rede	PROPN	_	Number=Sing	7	flat:name	O	start_char=135|end_char=139
+10	:	:	PUNCT	_	_	7	punct	O	start_char=139|end_char=140
+11	10007537760-030	10007537760-030	NUM	_	NumType=Card	7	nmod:appos	O	start_char=141|end_char=156
+
+# sent_id = 0C22AE1D9F574BC1E054002128300A66-3
+# text = aemaemosdeA Identificação argilominerais presente fração argila fol obtida por comparação com os padrões disponíveis literatura científica (3)..          
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=158|end_char=159
+2	Identificação	identificação	NOUN	_	Gender=Fem|Number=Sing	12	nsubj:pass	O	start_char=160|end_char=173
+3-4	dos	_	_	_	_	_	_	O	start_char=174|end_char=177
+3	de	de	ADP	_	_	5	case	O	_
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	O	_
+5	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	2	nmod	O	start_char=178|end_char=192
+6	presente	presente	ADJ	_	Gender=Masc|Number=Sing	5	amod	O	start_char=193|end_char=201
+7-8	na	_	_	_	_	_	_	O	start_char=202|end_char=204
+7	em	em	ADP	_	_	9	case	O	_
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	O	_
+9	fração	fração	NOUN	_	Gender=Fem|Number=Sing	6	obl	O	start_char=205|end_char=211
+10	argila	argila	ADJ	_	Gender=Fem|Number=Sing	9	amod	O	start_char=212|end_char=218
+11	fol	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	O	start_char=219|end_char=222
+12	obtida	obter	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=223|end_char=229
+13	por	por	ADP	_	_	14	case	O	start_char=230|end_char=233
+14	comparação	comparação	NOUN	_	Gender=Fem|Number=Sing	12	obl:agent	O	start_char=234|end_char=244
+15	com	com	ADP	_	_	17	case	O	start_char=245|end_char=248
+16	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	O	start_char=249|end_char=251
+17	padrões	padrão	NOUN	_	Gender=Masc|Number=Plur	14	nmod	O	start_char=252|end_char=259
+18	disponíveis	disponível	ADJ	_	Gender=Masc|Number=Plur	17	amod	O	start_char=260|end_char=271
+19-20	na	_	_	_	_	_	_	O	start_char=272|end_char=274
+19	em	em	ADP	_	_	21	case	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	O	_
+21	literatura	literatura	NOUN	_	Gender=Fem|Number=Sing	17	nmod	O	start_char=275|end_char=285
+22	científica	científico	ADJ	_	Gender=Fem|Number=Sing	21	amod	O	start_char=286|end_char=296
+23	(	(	PUNCT	_	_	24	punct	O	start_char=297|end_char=298
+24	3)..	3)..	NUM	_	NumType=Card	21	appos	O	start_char=298|end_char=302
+
+# sent_id = 0C22AE1D9F574BC1E054002128300A66-4
+# text = asdeadeosdeseEstimaramEsosmvalores semiquantitativos argilominerais a partir deconvolução relexões principais..                      
+1-2	Estimaram-se	_	_	_	_	_	_	O	start_char=304|end_char=316
+1	Estimaram	estimar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	O	_
+2	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	expl:impers	O	_
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	O	start_char=317|end_char=319
+4	valores	valor	NOUN	_	Gender=Masc|Number=Plur	1	obj	O	start_char=320|end_char=327
+5	semiquantitativos	semiquantitativo	ADJ	_	Gender=Masc|Number=Plur	4	amod	O	start_char=328|end_char=345
+6-7	dos	_	_	_	_	_	_	O	start_char=346|end_char=349
+6	de	de	ADP	_	_	8	case	O	_
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	O	_
+8	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	4	nmod	O	start_char=350|end_char=364
+9	a	a	ADP	_	_	13	case	O	start_char=365|end_char=366
+10	partir	partir	VERB	_	VerbForm=Inf	9	fixed	O	start_char=367|end_char=373
+11-12	da	_	_	_	_	_	_	O	start_char=374|end_char=376
+11	de	de	ADP	_	_	9	fixed	O	_
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	O	_
+13	deconvolução	deconvolução	NOUN	_	Gender=Fem|Number=Sing	1	obl	O	start_char=377|end_char=389
+14-15	das	_	_	_	_	_	_	O	start_char=390|end_char=393
+14	de	de	ADP	_	_	16	case	O	_
+15	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	O	_
+16	relexões	relexão	NOUN	_	Gender=Fem|Number=Plur	13	nmod	O	start_char=394|end_char=402
+17	principais	principal	ADJ	_	Gender=Fem|Number=Plur	16	amod	O	start_char=403|end_char=413
+18	.	.	PUNCT	_	_	1	punct	O	start_char=413|end_char=414
+19	.	.	PUNCT	_	_	1	punct	O	start_char=414|end_char=415
+
+# sent_id = 0C22AE1D9F574BC1E054002128300A66-5
+# text = CS-2015-08-00081 1.117,65 m 100 Presença de quartzo..
+1	CS-2015-08-00081	CS-2015-08-00081	SYM	_	_	3	nummod	O	start_char=417|end_char=433
+2	1.117,65	1.117,65	NUM	_	NumType=Card	1	nummod	O	start_char=434|end_char=442
+3	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=443|end_char=444
+4	100	100	NUM	_	NumType=Card	5	nummod	O	start_char=445|end_char=448
+5	Presença	presença	NOUN	_	Gender=Fem|Number=Sing	3	nmod	O	start_char=449|end_char=457
+6	de	de	ADP	_	_	7	case	O	start_char=458|end_char=460
+7	quartzo.	quartzo.	NOUN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=461|end_char=469
+8	.	.	PUNCT	_	_	3	punct	O	start_char=469|end_char=470
+
+# sent_id = 0C22AE1D9F574BC1E054002128300A66-6
+# text = ILI=Ilita; REFERÊNCIAS BIBLIOGRÁFICAS RESULTADOS
+1	ILI=Ilita	ILI=Ilita	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=472|end_char=481
+2	;	;	PUNCT	_	_	3	punct	O	start_char=481|end_char=482
+3	REFERÊNCIAS	refermnia	NOUN	_	Gender=Fem|Number=Plur	1	conj	O	start_char=483|end_char=494
+4	BIBLIOGRÁFICAS	bibliográsdica	ADJ	_	Gender=Fem|Number=Plur	3	amod	O	start_char=495|end_char=509
+5	RESULTADOS	resultado	NOUN	_	Gender=Masc|Number=Plur	3	nmod	O	start_char=510|end_char=520
+
+# sent_id = 0C22AE1D9F574BC1E054002128300A66-7
+# text = REFERÊNCIAS BIBLIOGRÁFICAS
+1	REFERÊNCIAS	refermnia	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=522|end_char=533
+2	BIBLIOGRÁFICAS	bibliográsdica	ADJ	_	Gender=Fem|Number=Plur	1	amod	O	start_char=534|end_char=548

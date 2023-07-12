@@ -1,0 +1,1653 @@
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-1
+# text = CENTRO DE PESQUISAS E DESENVOLVIMENTO LEOPOLDO A. MIGUEZ DE MELLO PESQUISA E DESENVOLVIMENTO E ENGENHARIA DE EXPLORAÇÃO E PRODUÇÃO [lj PETROBRAS  BALANCING OF A REGIONAL GEOLOGIC SECTION IN SANTOS BASIN, BRAZIL  INTRODUCTION the interpretation of a composite seismic line crossing BM-S-8 (figure 1)..
+1	CENTRO	CENTRO	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=0|end_char=6
+2	DE	de	ADP	_	_	1	flat:name	O	start_char=7|end_char=9
+3	PESQUISAS	Pesquisas	PROPN	_	Number=Sing	1	flat:name	O	start_char=10|end_char=19
+4	E	e	CCONJ	_	_	1	flat:name	O	start_char=20|end_char=21
+5	DESENVOLVIMENTO	DESENVOLVIMENTO	PROPN	_	Number=Sing	1	flat:name	O	start_char=22|end_char=37
+6	LEOPOLDO	LEOPOLDO	PROPN	_	Gender=Masc|Number=Sing	1	flat:name	O	start_char=38|end_char=46
+7	A.	A.	PROPN	_	Number=Sing	1	flat:name	O	start_char=47|end_char=49
+8	MIGUEZ	MIGUEZ	PROPN	_	Number=Sing	1	flat:name	O	start_char=50|end_char=56
+9	DE	de	ADP	_	_	10	case	O	start_char=57|end_char=59
+10	MELLO	Mello	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=60|end_char=65
+11	PESQUISA	Pesquisa	PROPN	_	Number=Sing	1	flat:name	O	start_char=66|end_char=74
+12	E	e	CCONJ	_	_	10	cc	O	start_char=75|end_char=76
+13	DESENVOLVIMENTO	DESENVOLVIMENTO	PROPN	_	Number=Sing	1	conj	O	start_char=77|end_char=92
+14	E	e	CCONJ	_	_	10	flat:name	O	start_char=93|end_char=94
+15	ENGENHARIA	ENGENHARIA	PROPN	_	Number=Sing	10	flat:name	O	start_char=95|end_char=105
+16	DE	de	ADP	_	_	10	flat:name	O	start_char=106|end_char=108
+17	EXPLORAÇÃO	EXPLORAÇÃO	PROPN	_	Number=Sing	1	flat:name	O	start_char=109|end_char=119
+18	E	e	CCONJ	_	_	15	cc	O	start_char=120|end_char=121
+19	PRODUÇÃO	PRODUÇÃO	PROPN	_	Number=Sing	1	flat:name	O	start_char=122|end_char=130
+20	[lj	[lj	PROPN	_	Number=Sing	1	flat:name	O	start_char=131|end_char=134
+21	PETROBRAS	Petrorras	PROPN	_	Number=Sing	1	flat:name	O	start_char=135|end_char=144
+22	BALANCING	BALANCING	PROPN	_	Number=Sing	1	flat:name	O	start_char=146|end_char=155
+23	OF	OF	PROPN	_	Number=Sing	1	flat:name	O	start_char=156|end_char=158
+24	A	A	PROPN	_	Number=Sing	1	flat:name	O	start_char=159|end_char=160
+25	REGIONAL	REGIONAL	PROPN	_	Number=Sing	1	flat:name	O	start_char=161|end_char=169
+26	GEOLOGIC	GEOLOGIC	PROPN	_	Number=Sing	1	flat:name	O	start_char=170|end_char=178
+27	SECTION	Section	PROPN	_	Number=Sing	1	flat:name	O	start_char=179|end_char=186
+28	IN	IN	PROPN	_	Number=Sing	1	flat:name	O	start_char=187|end_char=189
+29	SANTOS	Santos	PROPN	_	Number=Sing	1	flat:name	O	start_char=190|end_char=196
+30	BASIN	Basin	PROPN	_	Number=Sing	1	flat:name	O	start_char=197|end_char=202
+31	,	,	PUNCT	_	_	1	flat:name	O	start_char=202|end_char=203
+32	BRAZIL	BRAZIL	PROPN	_	Number=Sing	1	flat:name	O	start_char=204|end_char=210
+33	INTRODUCTION	INTRODUCTION	PROPN	_	Number=Sing	1	flat:name	O	start_char=212|end_char=224
+34	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=225|end_char=228
+35	interpretation	interpretation	PROPN	_	Number=Sing	1	flat:name	O	start_char=229|end_char=243
+36	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=244|end_char=246
+37	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=247|end_char=248
+38	composite	composite	PROPN	_	Number=Sing	1	flat:name	O	start_char=249|end_char=258
+39	seismic	seismic	PROPN	_	Number=Sing	1	flat:name	O	start_char=259|end_char=266
+40	line	line	PROPN	_	Number=Sing	1	flat:name	O	start_char=267|end_char=271
+41	crossing	crossing	PROPN	_	Number=Sing	1	flat:name	O	start_char=272|end_char=280
+42	BM-S-8	BM-S-8	PROPN	_	Number=Sing	1	flat:name	B=POÇO	start_char=281|end_char=287
+43	(	(	PUNCT	_	_	44	punct	O	start_char=288|end_char=289
+44	figure	figure	X	_	_	1	appos	O	start_char=289|end_char=295
+45	1)..	1)..	PROPN	_	Number=Sing	44	flat:name	O	start_char=296|end_char=300
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-2
+# text = The great amount of salt present in the Santos Basin is the main responsible for the structural framework of this basin..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=302|end_char=305
+2	great	great	PROPN	_	Number=Sing	1	flat:name	O	start_char=306|end_char=311
+3	amount	amount	PROPN	_	Number=Sing	1	flat:name	O	start_char=312|end_char=318
+4	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=319|end_char=321
+5	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=322|end_char=326
+6	present	present	PROPN	_	Number=Sing	1	flat:name	O	start_char=327|end_char=334
+7	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=335|end_char=337
+8	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=338|end_char=341
+9	Santos	Santos	PROPN	_	Number=Sing	1	flat:name	B=BACIA	start_char=342|end_char=348
+10	Basin	Basin	PROPN	_	Number=Sing	1	flat:name	O	start_char=349|end_char=354
+11	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=355|end_char=357
+12	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=358|end_char=361
+13	main	main	PROPN	_	Number=Sing	1	flat:name	O	start_char=362|end_char=366
+14	responsible	responsible	PROPN	_	Number=Sing	1	flat:name	O	start_char=367|end_char=378
+15	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	cop	O	start_char=379|end_char=382
+16	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=383|end_char=386
+17	structural	structural	PROPN	_	Number=Sing	16	flat:name	O	start_char=387|end_char=397
+18	framework	framework	PROPN	_	Number=Sing	16	flat:name	O	start_char=398|end_char=407
+19	of	of	PROPN	_	Number=Sing	16	flat:name	O	start_char=408|end_char=410
+20	this	this	PROPN	_	Number=Sing	16	flat:name	O	start_char=411|end_char=415
+21	basin.	basin.	PROPN	_	Number=Sing	16	flat:name	O	start_char=416|end_char=422
+22	.	.	PUNCT	_	_	16	punct	O	start_char=422|end_char=423
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-3
+# text = Salt flew basinwards due to basin subsidence and differential overburden resulting in a thin skinned tectonics that led to the development of an extensional domain in the proximal part of basin and a compressional domain in the distal part..
+1	Salt	Salt	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=425|end_char=429
+2	flew	flew	PROPN	_	Number=Sing	1	flat:name	O	start_char=430|end_char=434
+3	basinwards	basinwards	PROPN	_	Number=Sing	1	flat:name	O	start_char=435|end_char=445
+4	due	due	PROPN	_	Number=Sing	1	flat:name	O	start_char=446|end_char=449
+5	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=450|end_char=452
+6	basin	basin	PROPN	_	Number=Sing	1	flat:name	O	start_char=453|end_char=458
+7	subsidence	subsidence	PROPN	_	Number=Sing	1	flat:name	O	start_char=459|end_char=469
+8	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=470|end_char=473
+9	differential	differential	PROPN	_	Number=Sing	1	flat:name	O	start_char=474|end_char=486
+10	overburden	overburden	PROPN	_	Number=Sing	1	flat:name	O	start_char=487|end_char=497
+11	resulting	resulting	PROPN	_	Number=Sing	1	flat:name	O	start_char=498|end_char=507
+12	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=508|end_char=510
+13	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=511|end_char=512
+14	thin	thin	PROPN	_	Number=Sing	1	flat:name	O	start_char=513|end_char=517
+15	skinned	skinned	PROPN	_	Number=Sing	1	flat:name	O	start_char=518|end_char=525
+16	tectonics	tectonics	PROPN	_	Number=Sing	1	flat:name	O	start_char=526|end_char=535
+17	that	that	PROPN	_	Number=Sing	1	flat:name	O	start_char=536|end_char=540
+18	led	led	PROPN	_	Number=Sing	1	flat:name	O	start_char=541|end_char=544
+19	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=545|end_char=547
+20	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=548|end_char=551
+21	development	development	PROPN	_	Number=Sing	1	flat:name	O	start_char=552|end_char=563
+22	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=564|end_char=566
+23	an	an	PROPN	_	Number=Sing	1	flat:name	O	start_char=567|end_char=569
+24	extensional	extensional	PROPN	_	Number=Sing	1	flat:name	O	start_char=570|end_char=581
+25	domain	domain	PROPN	_	Number=Sing	1	flat:name	O	start_char=582|end_char=588
+26	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=589|end_char=591
+27	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=592|end_char=595
+28	proximal	proximal	PROPN	_	Number=Sing	1	flat:name	O	start_char=596|end_char=604
+29	part	part	PROPN	_	Number=Sing	1	flat:name	O	start_char=605|end_char=609
+30	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=610|end_char=612
+31	basin	basin	PROPN	_	Number=Sing	1	flat:name	O	start_char=613|end_char=618
+32	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=619|end_char=622
+33	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=623|end_char=624
+34	compressional	compressional	PROPN	_	Number=Sing	1	flat:name	O	start_char=625|end_char=638
+35	domain	domain	PROPN	_	Number=Sing	1	flat:name	O	start_char=639|end_char=645
+36	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=646|end_char=648
+37	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=649|end_char=652
+38	distal	distal	PROPN	_	Number=Sing	1	flat:name	O	start_char=653|end_char=659
+39	part.	part.	PROPN	_	Number=Sing	1	flat:name	O	start_char=660|end_char=665
+40	.	.	PUNCT	_	_	1	punct	O	start_char=665|end_char=666
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-4
+# text = The extensional domain is characterized by the presence of synthetic and antithetic listric normal faults detaching on the salt layer and the compressional domain is characterized by growth folds, similar folds and reverse faults (figure 2)..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=668|end_char=671
+2	extensional	extensional	PROPN	_	Number=Sing	1	flat:name	O	start_char=672|end_char=683
+3	domain	domain	PROPN	_	Number=Sing	1	flat:name	O	start_char=684|end_char=690
+4	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=691|end_char=693
+5	characterized	characterized	PROPN	_	Number=Sing	1	flat:name	O	start_char=694|end_char=707
+6	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=708|end_char=710
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=711|end_char=714
+8	presence	presence	PROPN	_	Number=Sing	1	flat:name	O	start_char=715|end_char=723
+9	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=724|end_char=726
+10	synthetic	synthetic	PROPN	_	Number=Sing	1	flat:name	O	start_char=727|end_char=736
+11	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=737|end_char=740
+12	antithetic	antithetic	PROPN	_	Number=Sing	1	flat:name	O	start_char=741|end_char=751
+13	listric	listric	PROPN	_	Number=Sing	1	flat:name	O	start_char=752|end_char=759
+14	normal	normal	PROPN	_	Number=Sing	1	flat:name	O	start_char=760|end_char=766
+15	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=767|end_char=773
+16	detaching	detaching	PROPN	_	Number=Sing	1	flat:name	O	start_char=774|end_char=783
+17	on	on	PROPN	_	Number=Sing	1	flat:name	O	start_char=784|end_char=786
+18	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=787|end_char=790
+19	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=791|end_char=795
+20	layer	layer	PROPN	_	Number=Sing	1	flat:name	O	start_char=796|end_char=801
+21	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=802|end_char=805
+22	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=806|end_char=809
+23	compressional	compressional	PROPN	_	Number=Sing	1	flat:name	O	start_char=810|end_char=823
+24	domain	domain	PROPN	_	Number=Sing	1	flat:name	O	start_char=824|end_char=830
+25	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=831|end_char=833
+26	characterized	characterized	PROPN	_	Number=Sing	1	flat:name	O	start_char=834|end_char=847
+27	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=848|end_char=850
+28	growth	growth	PROPN	_	Number=Sing	1	flat:name	O	start_char=851|end_char=857
+29	folds	folds	PROPN	_	Number=Sing	1	flat:name	O	start_char=858|end_char=863
+30	,	,	PUNCT	_	_	1	flat:name	O	start_char=863|end_char=864
+31	similar	similar	PROPN	_	Number=Sing	1	flat:name	O	start_char=865|end_char=872
+32	folds	folds	PROPN	_	Number=Sing	1	flat:name	O	start_char=873|end_char=878
+33	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=879|end_char=882
+34	reverse	reverse	PROPN	_	Number=Sing	31	flat:name	O	start_char=883|end_char=890
+35	faults	faults	PROPN	_	Number=Sing	31	flat:name	O	start_char=891|end_char=897
+36	(	(	PUNCT	_	_	37	punct	O	start_char=898|end_char=899
+37	figure	figure	X	_	_	1	appos	O	start_char=899|end_char=905
+38	2	2	PROPN	_	Number=Sing	37	flat:name	O	start_char=906|end_char=907
+39	)	)	PUNCT	_	_	37	punct	O	start_char=907|end_char=908
+40	.	.	PUNCT	_	_	37	punct	O	start_char=908|end_char=909
+41	.	.	PUNCT	_	_	1	punct	O	start_char=909|end_char=910
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-5
+# text = Salt occurs as pillows and diapirs along fault planes and in the cores of anticlines comprising an area of approximately 203km”, Synthetic and antithetic planar normal faults predominate bellow the salt layer..
+1	Salt	Salt	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=912|end_char=916
+2	occurs	occurs	PROPN	_	Number=Sing	1	flat:name	O	start_char=917|end_char=923
+3	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	flat:name	O	start_char=924|end_char=926
+4	pillows	pillows	PROPN	_	Number=Sing	1	flat:name	O	start_char=927|end_char=934
+5	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=935|end_char=938
+6	diapirs	diapirs	PROPN	_	Number=Sing	1	flat:name	O	start_char=939|end_char=946
+7	along	along	PROPN	_	Number=Sing	1	flat:name	O	start_char=947|end_char=952
+8	fault	fault	PROPN	_	Number=Sing	1	flat:name	O	start_char=953|end_char=958
+9	planes	planes	PROPN	_	Number=Sing	1	flat:name	O	start_char=959|end_char=965
+10	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=966|end_char=969
+11	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=970|end_char=972
+12	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=973|end_char=976
+13	cores	cor	PROPN	_	Number=Sing	1	flat:name	O	start_char=977|end_char=982
+14	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=983|end_char=985
+15	anticlines	anticlines	PROPN	_	Number=Sing	1	flat:name	O	start_char=986|end_char=996
+16	comprising	comprising	PROPN	_	Number=Sing	1	flat:name	O	start_char=997|end_char=1007
+17	an	an	PROPN	_	Number=Sing	1	flat:name	O	start_char=1008|end_char=1010
+18	area	area	PROPN	_	Number=Sing	1	flat:name	O	start_char=1011|end_char=1015
+19	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1016|end_char=1018
+20	approximately	approximately	PROPN	_	Number=Sing	1	flat:name	O	start_char=1019|end_char=1032
+21	203	203	PROPN	_	Number=Sing	1	flat:name	O	start_char=1033|end_char=1036
+22	km	km	PROPN	_	Number=Sing	1	flat:name	O	start_char=1036|end_char=1038
+23	”	»	PUNCT	_	_	25	punct	O	start_char=1038|end_char=1039
+24	,	,	PUNCT	_	_	25	punct	O	start_char=1039|end_char=1040
+25	Synthetic	Synthetic	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=1041|end_char=1050
+26	and	and	PROPN	_	Number=Sing	25	flat:name	O	start_char=1051|end_char=1054
+27	antithetic	antithetic	PROPN	_	Number=Sing	25	flat:name	O	start_char=1055|end_char=1065
+28	planar	planar	PROPN	_	Number=Sing	25	flat:name	O	start_char=1066|end_char=1072
+29	normal	normal	PROPN	_	Number=Sing	25	flat:name	O	start_char=1073|end_char=1079
+30	faults	faults	PROPN	_	Number=Sing	25	flat:name	O	start_char=1080|end_char=1086
+31	predominate	predominate	PROPN	_	Number=Sing	25	flat:name	O	start_char=1087|end_char=1098
+32	bellow	bellow	X	_	_	25	flat:name	O	start_char=1099|end_char=1105
+33	the	the	PROPN	_	Number=Sing	25	flat:name	O	start_char=1106|end_char=1109
+34	salt	salt	PROPN	_	Number=Sing	25	flat:name	O	start_char=1110|end_char=1114
+35	layer	layer	PROPN	_	Number=Sing	25	flat:name	O	start_char=1115|end_char=1120
+36	.	.	PUNCT	_	_	25	punct	O	start_char=1120|end_char=1121
+37	.	.	PUNCT	_	_	1	punct	O	start_char=1121|end_char=1122
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-6
+# text = BM-S- [li]
+1	BM-S-	bm-s-	INTJ	_	_	2	nummod	O	start_char=1124|end_char=1129
+2	[li	[li	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1130|end_char=1133
+3	]	]	PUNCT	_	_	2	punct	O	start_char=1133|end_char=1134
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-7
+# text = PETROBRAS  METHODOLOGY
+1	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=1136|end_char=1145
+2	METHODOLOGY	METHODOLOGY	PROPN	_	Number=Sing	1	flat:name	O	start_char=1147|end_char=1158
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-8
+# text = The restoration was performed using the software Locace (IFP-Beicip Franlab) and the deformation mechanisms used were basically simple shear, flexural slip, rotation and translation..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1160|end_char=1163
+2	restoration	restoration	X	_	_	1	flat:name	O	start_char=1164|end_char=1175
+3	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=1176|end_char=1179
+4	performed	performed	PROPN	_	Number=Sing	1	flat:name	O	start_char=1180|end_char=1189
+5	using	using	PROPN	_	Number=Sing	1	flat:name	O	start_char=1190|end_char=1195
+6	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1196|end_char=1199
+7	software	software	PROPN	_	Number=Sing	1	flat:name	O	start_char=1200|end_char=1208
+8	Locace	Locace	PROPN	_	Number=Sing	1	flat:name	O	start_char=1209|end_char=1215
+9	(	(	PUNCT	_	_	10	punct	O	start_char=1216|end_char=1217
+10	IFP-Beicip	IFP-Beicip	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=1217|end_char=1227
+11	Franlab	Franlab	PROPN	_	Number=Sing	10	flat:name	O	start_char=1228|end_char=1235
+12	)	)	PUNCT	_	_	10	punct	O	start_char=1235|end_char=1236
+13	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1237|end_char=1240
+14	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1241|end_char=1244
+15	deformation	deformation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1245|end_char=1256
+16	mechanisms	mechanisms	PROPN	_	Number=Sing	1	flat:name	O	start_char=1257|end_char=1267
+17	used	used	PROPN	_	Number=Sing	1	flat:name	O	start_char=1268|end_char=1272
+18	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=1273|end_char=1277
+19	basically	basically	PROPN	_	Number=Sing	1	flat:name	O	start_char=1278|end_char=1287
+20	simple	simple	PROPN	_	Number=Sing	1	flat:name	O	start_char=1288|end_char=1294
+21	shear	shear	PROPN	_	Number=Sing	1	flat:name	O	start_char=1295|end_char=1300
+22	,	,	PUNCT	_	_	1	flat:name	O	start_char=1300|end_char=1301
+23	flexural	flexural	PROPN	_	Number=Sing	1	flat:name	O	start_char=1302|end_char=1310
+24	slip	slip	PROPN	_	Number=Sing	23	flat:name	O	start_char=1311|end_char=1315
+25	,	,	PUNCT	_	_	26	punct	O	start_char=1315|end_char=1316
+26	rotation	rotation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1317|end_char=1325
+27	and	and	PROPN	_	Number=Sing	26	flat:name	O	start_char=1326|end_char=1329
+28	translation.	translation.	PROPN	_	Number=Sing	26	flat:name	O	start_char=1330|end_char=1342
+29	.	.	PUNCT	_	_	1	punct	O	start_char=1342|end_char=1343
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-9
+# text = Salt was restored by filling in the area between restored upper section and the base of salt..
+1	Salt	Salt	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1345|end_char=1349
+2	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=1350|end_char=1353
+3	restored	restored	PROPN	_	Number=Sing	1	flat:name	O	start_char=1354|end_char=1362
+4	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=1363|end_char=1365
+5	filling	filling	PROPN	_	Number=Sing	1	flat:name	O	start_char=1366|end_char=1373
+6	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=1374|end_char=1376
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1377|end_char=1380
+8	area	area	PROPN	_	Number=Sing	1	flat:name	O	start_char=1381|end_char=1385
+9	between	between	PROPN	_	Number=Sing	1	flat:name	O	start_char=1386|end_char=1393
+10	restored	restored	PROPN	_	Number=Sing	1	flat:name	O	start_char=1394|end_char=1402
+11	upper	upper	PROPN	_	Number=Sing	1	flat:name	O	start_char=1403|end_char=1408
+12	section	section	PROPN	_	Number=Sing	1	flat:name	O	start_char=1409|end_char=1416
+13	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1417|end_char=1420
+14	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1421|end_char=1424
+15	base	base	PROPN	_	Number=Sing	1	flat:name	O	start_char=1425|end_char=1429
+16	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1430|end_char=1432
+17	salt.	salt.	PROPN	_	Number=Sing	1	flat:name	O	start_char=1433|end_char=1438
+18	.	.	PUNCT	_	_	1	punct	O	start_char=1438|end_char=1439
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-10
+# text = After each step of restoration the section was decompacted using the porosity data provided by the interpreters..
+1	After	After	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1441|end_char=1446
+2	each	each	PROPN	_	Number=Sing	1	flat:name	O	start_char=1447|end_char=1451
+3	step	step	PROPN	_	Number=Sing	1	flat:name	O	start_char=1452|end_char=1456
+4	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1457|end_char=1459
+5	restoration	restoration	PROPN	_	Number=Sing	1	flat:name	O	start_char=1460|end_char=1471
+6	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1472|end_char=1475
+7	section	section	PROPN	_	Number=Sing	1	flat:name	O	start_char=1476|end_char=1483
+8	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=1484|end_char=1487
+9	decompacted	decompacted	PROPN	_	Number=Sing	1	flat:name	O	start_char=1488|end_char=1499
+10	using	using	PROPN	_	Number=Sing	1	flat:name	O	start_char=1500|end_char=1505
+11	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1506|end_char=1509
+12	porosity	porosity	PROPN	_	Number=Sing	1	flat:name	O	start_char=1510|end_char=1518
+13	data	data	PROPN	_	Number=Sing	1	flat:name	O	start_char=1519|end_char=1523
+14	provided	provided	PROPN	_	Number=Sing	1	flat:name	O	start_char=1524|end_char=1532
+15	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=1533|end_char=1535
+16	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1536|end_char=1539
+17	interpreters	interpreters	PROPN	_	Number=Sing	1	flat:name	O	start_char=1540|end_char=1552
+18	.	.	PUNCT	_	_	1	punct	O	start_char=1552|end_char=1553
+19	.	.	PUNCT	_	_	1	punct	O	start_char=1553|end_char=1554
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-11
+# text = The position of the shelf break was obtained through the analysis of the seismic line and the slope anele was calculated using paleobathymetric data..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1556|end_char=1559
+2	position	position	PROPN	_	Number=Sing	1	flat:name	O	start_char=1560|end_char=1568
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1569|end_char=1571
+4	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1572|end_char=1575
+5	shelf	shelf	PROPN	_	Number=Sing	1	flat:name	O	start_char=1576|end_char=1581
+6	break	break	PROPN	_	Number=Sing	1	flat:name	O	start_char=1582|end_char=1587
+7	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=1588|end_char=1591
+8	obtained	obtained	PROPN	_	Number=Sing	1	flat:name	O	start_char=1592|end_char=1600
+9	through	through	PROPN	_	Number=Sing	1	flat:name	O	start_char=1601|end_char=1608
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1609|end_char=1612
+11	analysis	analysis	PROPN	_	Number=Sing	1	flat:name	O	start_char=1613|end_char=1621
+12	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=1622|end_char=1624
+13	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1625|end_char=1628
+14	seismic	seismic	PROPN	_	Number=Sing	1	flat:name	O	start_char=1629|end_char=1636
+15	line	line	PROPN	_	Number=Sing	1	flat:name	O	start_char=1637|end_char=1641
+16	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1642|end_char=1645
+17	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1646|end_char=1649
+18	slope	slope	PROPN	_	Number=Sing	1	flat:name	O	start_char=1650|end_char=1655
+19	anele	anele	PROPN	_	Number=Sing	1	flat:name	O	start_char=1656|end_char=1661
+20	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=1662|end_char=1665
+21	calculated	calculated	PROPN	_	Number=Sing	1	flat:name	O	start_char=1666|end_char=1676
+22	using	using	PROPN	_	Number=Sing	1	flat:name	O	start_char=1677|end_char=1682
+23	paleobathymetric	paleobathymetric	PROPN	_	Number=Sing	1	flat:name	O	start_char=1683|end_char=1699
+24	data.	data.	PROPN	_	Number=Sing	1	flat:name	O	start_char=1700|end_char=1705
+25	.	.	PUNCT	_	_	1	punct	O	start_char=1705|end_char=1706
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-12
+# text = The restoration was done over eight horizons, which are: Top of Middle Eocene, Top of Maastrichtian, Top of Campanian, Base of Campanian, Top of Turonian, Top of Albian, Top of Sag and Rift..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1708|end_char=1711
+2	restoration	restoration	PROPN	_	Number=Sing	1	flat:name	O	start_char=1712|end_char=1723
+3	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=1724|end_char=1727
+4	done	done	PROPN	_	Number=Sing	1	flat:name	O	start_char=1728|end_char=1732
+5	over	over	PROPN	_	Number=Sing	1	flat:name	O	start_char=1733|end_char=1737
+6	eight	eight	PROPN	_	Number=Sing	1	flat:name	O	start_char=1738|end_char=1743
+7	horizons	horizons	PROPN	_	Number=Sing	1	flat:name	O	start_char=1744|end_char=1752
+8	,	,	PUNCT	_	_	1	flat:name	O	start_char=1752|end_char=1753
+9	which	which	PROPN	_	Number=Sing	1	flat:name	O	start_char=1754|end_char=1759
+10	are	are	PROPN	_	Number=Sing	1	flat:name	O	start_char=1760|end_char=1763
+11	:	:	PUNCT	_	_	12	punct	O	start_char=1763|end_char=1764
+12	Top	Top	PROPN	_	Number=Sing	1	appos	O	start_char=1765|end_char=1768
+13	of	of	PROPN	_	Number=Sing	12	flat:name	O	start_char=1769|end_char=1771
+14	Middle	Middle	PROPN	_	Number=Sing	12	flat:name	O	start_char=1772|end_char=1778
+15	Eocene	Eocene	PROPN	_	Number=Sing	12	flat:name	O	start_char=1779|end_char=1785
+16	,	,	PUNCT	_	_	12	flat:name	O	start_char=1785|end_char=1786
+17	Top	Top	PROPN	_	Number=Sing	12	flat:name	O	start_char=1787|end_char=1790
+18	of	of	PROPN	_	Number=Sing	12	flat:name	O	start_char=1791|end_char=1793
+19	Maastrichtian	Maastrichtian	PROPN	_	Number=Sing	12	flat:name	O	start_char=1794|end_char=1807
+20	,	,	PUNCT	_	_	12	flat:name	O	start_char=1807|end_char=1808
+21	Top	Top	PROPN	_	Number=Sing	12	flat:name	O	start_char=1809|end_char=1812
+22	of	of	PROPN	_	Number=Sing	12	flat:name	O	start_char=1813|end_char=1815
+23	Campanian	Campanian	PROPN	_	Number=Sing	21	flat:name	O	start_char=1816|end_char=1825
+24	,	,	PUNCT	_	_	25	punct	O	start_char=1825|end_char=1826
+25	Base	Base	PROPN	_	Number=Sing	1	conj	O	start_char=1827|end_char=1831
+26	of	of	PROPN	_	Number=Sing	25	flat:name	O	start_char=1832|end_char=1834
+27	Campanian	Campanian	PROPN	_	Number=Sing	25	flat:name	O	start_char=1835|end_char=1844
+28	,	,	PUNCT	_	_	29	punct	O	start_char=1844|end_char=1845
+29	Top	Top	PROPN	_	Number=Sing	25	flat:name	O	start_char=1846|end_char=1849
+30	of	of	PROPN	_	Number=Sing	25	flat:name	O	start_char=1850|end_char=1852
+31	Turonian	Turonian	PROPN	_	Number=Sing	25	flat:name	O	start_char=1853|end_char=1861
+32	,	,	PUNCT	_	_	33	punct	O	start_char=1861|end_char=1862
+33	Top	Top	PROPN	_	Number=Sing	25	flat:name	O	start_char=1863|end_char=1866
+34	of	of	PROPN	_	Number=Sing	29	flat:name	O	start_char=1867|end_char=1869
+35	Albian	Albian	PROPN	_	Number=Sing	33	flat:name	O	start_char=1870|end_char=1876
+36	,	,	PUNCT	_	_	37	punct	O	start_char=1876|end_char=1877
+37	Top	Top	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=1878|end_char=1881
+38	of	of	PROPN	_	Number=Sing	37	flat:name	O	start_char=1882|end_char=1884
+39	Sag	Sag	PROPN	_	Number=Sing	37	flat:name	O	start_char=1885|end_char=1888
+40	and	and	PROPN	_	Number=Sing	37	flat:name	O	start_char=1889|end_char=1892
+41	Rift.	Rift.	PROPN	_	Number=Sing	37	flat:name	O	start_char=1893|end_char=1898
+42	.	.	PUNCT	_	_	1	punct	O	start_char=1898|end_char=1899
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-13
+# text = TOP OF MIDDLE EOCENE
+1	TOP	TOP	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1901|end_char=1904
+2	OF	OF	PROPN	_	Number=Sing	1	flat:name	O	start_char=1905|end_char=1907
+3	MIDDLE	MIDDLE	PROPN	_	Number=Sing	1	flat:name	O	start_char=1908|end_char=1914
+4	EOCENE	EOCENE	PROPN	_	Number=Sing	1	flat:name	O	start_char=1915|end_char=1921
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-14
+# text = Deformation was subtle at this time and restoration was achieved taking into account the displacements along minor faults..
+1	Deformation	Deformation	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1923|end_char=1934
+2	was	was	X	_	_	1	flat:name	O	start_char=1935|end_char=1938
+3	subtle	subtle	X	_	_	1	flat:name	O	start_char=1939|end_char=1945
+4	at	at	PROPN	_	Number=Sing	1	flat:name	O	start_char=1946|end_char=1948
+5	this	this	PROPN	_	Number=Sing	1	flat:name	O	start_char=1949|end_char=1953
+6	time	time	X	_	_	1	flat:name	O	start_char=1954|end_char=1958
+7	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1959|end_char=1962
+8	restoration	restoration	PROPN	_	Number=Sing	1	flat:name	O	start_char=1963|end_char=1974
+9	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=1975|end_char=1978
+10	achieved	achieved	PROPN	_	Number=Sing	1	flat:name	O	start_char=1979|end_char=1987
+11	taking	taking	PROPN	_	Number=Sing	1	flat:name	O	start_char=1988|end_char=1994
+12	into	into	PROPN	_	Number=Sing	1	flat:name	O	start_char=1995|end_char=1999
+13	account	account	PROPN	_	Number=Sing	1	flat:name	O	start_char=2000|end_char=2007
+14	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2008|end_char=2011
+15	displacements	displacements	PROPN	_	Number=Sing	1	flat:name	O	start_char=2012|end_char=2025
+16	along	along	PROPN	_	Number=Sing	1	flat:name	O	start_char=2026|end_char=2031
+17	minor	minor	PROPN	_	Number=Sing	1	flat:name	O	start_char=2032|end_char=2037
+18	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=2038|end_char=2044
+19	.	.	PUNCT	_	_	1	punct	O	start_char=2044|end_char=2045
+20	.	.	PUNCT	_	_	1	punct	O	start_char=2045|end_char=2046
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-15
+# text = The shelf break was positioned approximately 65km basinward the shoreline and it was used an slope angle of 1.3 degrees for the restoration of Middle Eocene time horizon..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2048|end_char=2051
+2	shelf	shelf	PROPN	_	Number=Sing	1	flat:name	O	start_char=2052|end_char=2057
+3	break	break	PROPN	_	Number=Sing	1	flat:name	O	start_char=2058|end_char=2063
+4	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=2064|end_char=2067
+5	positioned	positioned	PROPN	_	Number=Sing	1	flat:name	O	start_char=2068|end_char=2078
+6	approximately	approximately	PROPN	_	Number=Sing	1	flat:name	O	start_char=2079|end_char=2092
+7	65	65	PROPN	_	Number=Sing	1	flat:name	O	start_char=2093|end_char=2095
+8	km	km	PROPN	_	Number=Sing	1	flat:name	O	start_char=2095|end_char=2097
+9	basinward	basinward	PROPN	_	Number=Sing	1	flat:name	O	start_char=2098|end_char=2107
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2108|end_char=2111
+11	shoreline	shoreline	PROPN	_	Number=Sing	1	flat:name	O	start_char=2112|end_char=2121
+12	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2122|end_char=2125
+13	it	it	PROPN	_	Number=Sing	1	flat:name	O	start_char=2126|end_char=2128
+14	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=2129|end_char=2132
+15	used	used	PROPN	_	Number=Sing	1	flat:name	O	start_char=2133|end_char=2137
+16	an	an	PROPN	_	Number=Sing	1	flat:name	O	start_char=2138|end_char=2140
+17	slope	slope	PROPN	_	Number=Sing	1	flat:name	O	start_char=2141|end_char=2146
+18	angle	angle	PROPN	_	Number=Sing	1	flat:name	O	start_char=2147|end_char=2152
+19	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2153|end_char=2155
+20	1.3	1.3	PROPN	_	Number=Sing	1	flat:name	O	start_char=2156|end_char=2159
+21	degrees	degrees	PROPN	_	Number=Sing	1	flat:name	O	start_char=2160|end_char=2167
+22	for	for	PROPN	_	Number=Sing	1	flat:name	O	start_char=2168|end_char=2171
+23	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2172|end_char=2175
+24	restoration	restoration	PROPN	_	Number=Sing	1	flat:name	O	start_char=2176|end_char=2187
+25	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2188|end_char=2190
+26	Middle	Middle	PROPN	_	Number=Sing	1	flat:name	O	start_char=2191|end_char=2197
+27	Eocene	Eocene	PROPN	_	Number=Sing	1	flat:name	O	start_char=2198|end_char=2204
+28	time	time	PROPN	_	Number=Sing	1	flat:name	O	start_char=2205|end_char=2209
+29	horizon.	horizon.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2210|end_char=2218
+30	.	.	PUNCT	_	_	1	punct	O	start_char=2218|end_char=2219
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-16
+# text = Main observations (figure 3):  [El PETROBRAS  TOP OF MAASTRICHTIAN
+1	Main	Main	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2221|end_char=2225
+2	observations	observations	X	_	_	1	flat:name	O	start_char=2226|end_char=2238
+3	(	(	PUNCT	_	_	4	punct	O	start_char=2239|end_char=2240
+4	figure	figure	X	_	_	1	appos	O	start_char=2240|end_char=2246
+5	3	3	NUM	_	NumType=Card	4	flat:foreign	O	start_char=2247|end_char=2248
+6	)	)	PUNCT	_	_	4	punct	O	start_char=2248|end_char=2249
+7	:	:	PUNCT	_	_	9	punct	O	start_char=2249|end_char=2250
+8	[	[	PUNCT	_	_	9	punct	O	start_char=2252|end_char=2253
+9	El	El	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=2253|end_char=2255
+10	PETROBRAS	Petrorras	PROPN	_	Number=Sing	9	flat:name	O	start_char=2256|end_char=2265
+11	TOP	TOP	PROPN	_	Number=Sing	9	flat:name	O	start_char=2267|end_char=2270
+12	OF	OF	PROPN	_	Number=Sing	9	flat:name	O	start_char=2271|end_char=2273
+13	MAASTRICHTIAN	MAASTRICHTIAN	PROPN	_	Number=Sing	9	flat:name	O	start_char=2274|end_char=2287
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-17
+# text = The position of the shelf break was kept constant and the slope angle used for the Maatrichtian was 0.9 degrees..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2289|end_char=2292
+2	position	position	PROPN	_	Number=Sing	1	flat:name	O	start_char=2293|end_char=2301
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2302|end_char=2304
+4	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2305|end_char=2308
+5	shelf	shelf	PROPN	_	Number=Sing	1	flat:name	O	start_char=2309|end_char=2314
+6	break	break	PROPN	_	Number=Sing	1	flat:name	O	start_char=2315|end_char=2320
+7	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=2321|end_char=2324
+8	kept	kept	PROPN	_	Number=Sing	1	flat:name	O	start_char=2325|end_char=2329
+9	constant	constant	PROPN	_	Number=Sing	1	flat:name	O	start_char=2330|end_char=2338
+10	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2339|end_char=2342
+11	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2343|end_char=2346
+12	slope	slope	PROPN	_	Number=Sing	1	flat:name	O	start_char=2347|end_char=2352
+13	angle	angle	PROPN	_	Number=Sing	1	flat:name	O	start_char=2353|end_char=2358
+14	used	used	PROPN	_	Number=Sing	1	flat:name	O	start_char=2359|end_char=2363
+15	for	for	PROPN	_	Number=Sing	1	flat:name	O	start_char=2364|end_char=2367
+16	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2368|end_char=2371
+17	Maatrichtian	Maatrichtian	PROPN	_	Number=Sing	1	flat:name	O	start_char=2372|end_char=2384
+18	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=2385|end_char=2388
+19	0.9	0.9	PROPN	_	Number=Sing	1	flat:name	O	start_char=2389|end_char=2392
+20	degrees	degrees	PROPN	_	Number=Sing	1	flat:name	O	start_char=2393|end_char=2400
+21	.	.	PUNCT	_	_	1	punct	O	start_char=2400|end_char=2401
+22	.	.	PUNCT	_	_	1	punct	O	start_char=2401|end_char=2402
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-18
+# text = Restoration was performed along faults and through unfolding..
+1	Restoration	Restoration	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2404|end_char=2415
+2	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=2416|end_char=2419
+3	performed	performed	PROPN	_	Number=Sing	1	flat:name	O	start_char=2420|end_char=2429
+4	along	along	PROPN	_	Number=Sing	1	flat:name	O	start_char=2430|end_char=2435
+5	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=2436|end_char=2442
+6	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2443|end_char=2446
+7	through	through	PROPN	_	Number=Sing	1	flat:name	O	start_char=2447|end_char=2454
+8	unfolding.	unfolding.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2455|end_char=2465
+9	.	.	PUNCT	_	_	1	punct	O	start_char=2465|end_char=2466
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-19
+# text = The base of the salt layer was rotated 0.1 degree, counterclockwise, to compensate the basin subsidence effect..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2468|end_char=2471
+2	base	base	PROPN	_	Number=Sing	1	flat:name	O	start_char=2472|end_char=2476
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2477|end_char=2479
+4	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2480|end_char=2483
+5	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=2484|end_char=2488
+6	layer	layer	PROPN	_	Number=Sing	1	flat:name	O	start_char=2489|end_char=2494
+7-8	was	_	_	_	_	_	_	O	start_char=2495|end_char=2498
+7	wm	wm	PROPN	_	Number=Sing	1	flat:name	O	_
+8	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	flat:name	O	_
+9	rotated	rotated	PROPN	_	Number=Sing	1	flat:name	O	start_char=2499|end_char=2506
+10	0.1	0.1	PROPN	_	Number=Sing	1	flat:name	O	start_char=2507|end_char=2510
+11	degree	degree	PROPN	_	Number=Sing	1	flat:name	O	start_char=2511|end_char=2517
+12	,	,	PUNCT	_	_	1	flat:name	O	start_char=2517|end_char=2518
+13	counterclockwise	counterclockwise	PROPN	_	Number=Sing	1	flat:name	O	start_char=2519|end_char=2535
+14	,	,	PUNCT	_	_	1	flat:name	O	start_char=2535|end_char=2536
+15	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=2537|end_char=2539
+16	compensate	compensate	PROPN	_	Number=Sing	1	flat:name	O	start_char=2540|end_char=2550
+17	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2551|end_char=2554
+18	basin	basin	PROPN	_	Number=Sing	1	flat:name	O	start_char=2555|end_char=2560
+19	subsidence	subsidence	PROPN	_	Number=Sing	1	flat:name	O	start_char=2561|end_char=2571
+20	effect.	effect.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2572|end_char=2579
+21	.	.	PUNCT	_	_	1	punct	O	start_char=2579|end_char=2580
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-20
+# text = Main observations (figure 4): e Depocenters are controlled mainly by faults F2, F3 and F4..
+1	Main	Main	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2582|end_char=2586
+2	observations	observations	X	_	_	1	flat:name	O	start_char=2587|end_char=2599
+3	(	(	PUNCT	_	_	4	punct	O	start_char=2600|end_char=2601
+4	figure	figure	X	_	_	1	nmod:appos	O	start_char=2601|end_char=2607
+5	4	4	NUM	_	NumType=Card	4	nummod	O	start_char=2608|end_char=2609
+6	)	)	PUNCT	_	_	4	punct	O	start_char=2609|end_char=2610
+7	:	:	PUNCT	_	_	9	punct	O	start_char=2610|end_char=2611
+8	e	e	CCONJ	_	_	9	cc	O	start_char=2612|end_char=2613
+9	Depocenters	Depocenters	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=2614|end_char=2625
+10	are	are	PROPN	_	Number=Sing	9	flat:name	O	start_char=2626|end_char=2629
+11	controlled	controlled	PROPN	_	Number=Sing	9	flat:name	O	start_char=2630|end_char=2640
+12	mainly	mainly	PROPN	_	Number=Sing	9	flat:name	O	start_char=2641|end_char=2647
+13	by	by	PROPN	_	Number=Sing	9	flat:name	O	start_char=2648|end_char=2650
+14	faults	faults	PROPN	_	Number=Sing	9	flat:name	O	start_char=2651|end_char=2657
+15	F2	F2	PROPN	_	Number=Sing	9	flat:name	O	start_char=2658|end_char=2660
+16	,	,	PUNCT	_	_	17	punct	O	start_char=2660|end_char=2661
+17	F3	F3	PROPN	_	Gender=Fem|Number=Sing	9	appos	O	start_char=2662|end_char=2664
+18	and	and	PROPN	_	Number=Sing	17	flat:name	O	start_char=2665|end_char=2668
+19	F4.	F4.	PROPN	_	Number=Sing	17	flat:name	O	start_char=2669|end_char=2672
+20	.	.	PUNCT	_	_	1	punct	O	start_char=2672|end_char=2673
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-21
+# text = e Extension dominates until the 170km position..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=2675|end_char=2676
+2	Extension	Extension	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2677|end_char=2686
+3	dominates	dominates	PROPN	_	Number=Sing	2	flat:name	O	start_char=2687|end_char=2696
+4	until	until	X	_	_	2	flat:name	O	start_char=2697|end_char=2702
+5	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=2703|end_char=2706
+6	170	170	PROPN	_	Number=Sing	2	flat:name	O	start_char=2707|end_char=2710
+7	km	km	NOUN	_	Gender=Masc|Number=Plur	2	flat:name	O	start_char=2710|end_char=2712
+8	position.	position.	PROPN	_	Number=Sing	2	flat:name	O	start_char=2713|end_char=2722
+9	.	.	PUNCT	_	_	2	punct	O	start_char=2722|end_char=2723
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-22
+# text = To the east of D3 compression dominates and smaller depocenters are concentrated on “mini basins’ adjancent to salt domes..
+1	To	To	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2725|end_char=2727
+2	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2728|end_char=2731
+3	east	east	PROPN	_	Number=Sing	1	flat:name	O	start_char=2732|end_char=2736
+4	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=2737|end_char=2739
+5	D3	D3	PROPN	_	Number=Sing	1	flat:name	O	start_char=2740|end_char=2742
+6	compression	compression	PROPN	_	Number=Sing	1	flat:name	O	start_char=2743|end_char=2754
+7	dominates	dominates	PROPN	_	Number=Sing	1	flat:name	O	start_char=2755|end_char=2764
+8	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2765|end_char=2768
+9	smaller	smaller	PROPN	_	Number=Sing	1	flat:name	O	start_char=2769|end_char=2776
+10	depocenters	depocenters	PROPN	_	Number=Sing	1	flat:name	O	start_char=2777|end_char=2788
+11	are	are	PROPN	_	Number=Sing	1	flat:name	O	start_char=2789|end_char=2792
+12	concentrated	concentrated	PROPN	_	Number=Sing	1	flat:name	O	start_char=2793|end_char=2805
+13	on	on	PROPN	_	Number=Sing	1	flat:name	O	start_char=2806|end_char=2808
+14	“	»	PUNCT	_	_	1	flat:name	O	start_char=2809|end_char=2810
+15	mini	mini	PROPN	_	Number=Sing	1	flat:name	O	start_char=2810|end_char=2814
+16	basins’	basins’	PROPN	_	Number=Sing	1	flat:name	O	start_char=2815|end_char=2822
+17	adjancent	adjancent	PROPN	_	Number=Sing	1	flat:name	O	start_char=2823|end_char=2832
+18	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=2833|end_char=2835
+19	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=2836|end_char=2840
+20	domes	domes	PROPN	_	Number=Sing	1	flat:name	O	start_char=2841|end_char=2846
+21	.	.	PUNCT	_	_	1	punct	O	start_char=2846|end_char=2847
+22	.	.	PUNCT	_	_	1	punct	O	start_char=2847|end_char=2848
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-23
+# text = e In the vicinities of domes
+1	e	e	CCONJ	_	_	2	cc	O	start_char=2850|end_char=2851
+2	In	In	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2852|end_char=2854
+3	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=2855|end_char=2858
+4	vicinities	vicinities	PROPN	_	Number=Sing	2	flat:name	O	start_char=2859|end_char=2869
+5	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=2870|end_char=2872
+6	domes	domes	PROPN	_	Number=Sing	2	flat:name	O	start_char=2873|end_char=2878
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-24
+# text = D2 and D6 erosion was taken into account in the restoration..
+1	D2	D2	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2880|end_char=2882
+2	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=2883|end_char=2886
+3	D6	D6	PROPN	_	Number=Sing	1	flat:name	O	start_char=2887|end_char=2889
+4	erosion	erosion	PROPN	_	Number=Sing	1	flat:name	O	start_char=2890|end_char=2897
+5	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=2898|end_char=2901
+6	taken	taken	PROPN	_	Number=Sing	1	flat:name	O	start_char=2902|end_char=2907
+7	into	into	PROPN	_	Number=Sing	1	flat:name	O	start_char=2908|end_char=2912
+8	account	account	PROPN	_	Number=Sing	1	flat:name	O	start_char=2913|end_char=2920
+9	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=2921|end_char=2923
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2924|end_char=2927
+11	restoration.	restoration.	PROPN	_	Number=Sing	1	flat:name	O	start_char=2928|end_char=2940
+12	.	.	PUNCT	_	_	1	punct	O	start_char=2940|end_char=2941
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-25
+# text = e Salt occupies an area of approximately 215 km’..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=2943|end_char=2944
+2	Salt	Salt	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2945|end_char=2949
+3	occupies	occupies	PROPN	_	Number=Sing	2	flat:name	O	start_char=2950|end_char=2958
+4	an	an	PROPN	_	Number=Sing	2	flat:name	O	start_char=2959|end_char=2961
+5	area	area	PROPN	_	Number=Sing	2	flat:name	O	start_char=2962|end_char=2966
+6	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=2967|end_char=2969
+7	approximately	approximately	PROPN	_	Number=Sing	2	flat:name	O	start_char=2970|end_char=2983
+8	215	215	PROPN	_	Number=Sing	2	flat:name	O	start_char=2984|end_char=2987
+9	km	km	PROPN	_	Number=Sing	2	flat:name	O	start_char=2988|end_char=2990
+10	’..	’..	PUNCT	_	_	2	punct	O	start_char=2990|end_char=2993
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-26
+# text = TOP OF CAMPANIAN
+1	TOP	TOP	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=2995|end_char=2998
+2	OF	OF	PROPN	_	Number=Sing	1	flat:name	O	start_char=2999|end_char=3001
+3	CAMPANIAN	CAMPANIAN	PROPN	_	Number=Sing	1	flat:name	O	start_char=3002|end_char=3011
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-27
+# text = The shelf break was placed between positions 40km and 50km and the slope angle used was 0.9 degrees..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3013|end_char=3016
+2	shelf	shelf	PROPN	_	Number=Sing	1	flat:name	O	start_char=3017|end_char=3022
+3	break	break	PROPN	_	Number=Sing	1	flat:name	O	start_char=3023|end_char=3028
+4	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=3029|end_char=3032
+5	placed	placed	PROPN	_	Number=Sing	1	flat:name	O	start_char=3033|end_char=3039
+6	between	between	PROPN	_	Number=Sing	1	flat:name	O	start_char=3040|end_char=3047
+7	positions	positions	PROPN	_	Number=Sing	1	flat:name	O	start_char=3048|end_char=3057
+8	40	40	PROPN	_	Number=Sing	1	flat:name	O	start_char=3058|end_char=3060
+9	km	km	PROPN	_	Number=Sing	1	flat:name	O	start_char=3060|end_char=3062
+10	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=3063|end_char=3066
+11	50	50	PROPN	_	Number=Sing	1	flat:name	O	start_char=3067|end_char=3069
+12	km	km	PROPN	_	Number=Sing	1	flat:name	O	start_char=3069|end_char=3071
+13	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=3072|end_char=3075
+14	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=3076|end_char=3079
+15	slope	slope	PROPN	_	Number=Sing	1	flat:name	O	start_char=3080|end_char=3085
+16	angle	angle	PROPN	_	Number=Sing	1	flat:name	O	start_char=3086|end_char=3091
+17	used	used	PROPN	_	Number=Sing	1	flat:name	O	start_char=3092|end_char=3096
+18	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=3097|end_char=3100
+19	0.9	0.9	PROPN	_	Number=Sing	1	flat:name	O	start_char=3101|end_char=3104
+20	degrees	degrees	PROPN	_	Number=Sing	1	flat:name	O	start_char=3105|end_char=3112
+21	.	.	PUNCT	_	_	1	punct	O	start_char=3112|end_char=3113
+22	.	.	PUNCT	_	_	1	punct	O	start_char=3113|end_char=3114
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-28
+# text = Restoration was done along faults and through unfolding..
+1	Restoration	Restoration	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3116|end_char=3127
+2	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=3128|end_char=3131
+3	done	done	PROPN	_	Number=Sing	1	flat:name	O	start_char=3132|end_char=3136
+4	along	along	PROPN	_	Number=Sing	1	flat:name	O	start_char=3137|end_char=3142
+5	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=3143|end_char=3149
+6	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=3150|end_char=3153
+7	through	through	PROPN	_	Number=Sing	1	flat:name	O	start_char=3154|end_char=3161
+8	unfolding.	unfolding.	PROPN	_	Number=Sing	1	flat:name	O	start_char=3162|end_char=3172
+9	.	.	PUNCT	_	_	1	punct	O	start_char=3172|end_char=3173
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-29
+# text = The base of salt was rotated of 0.1 degree counterclockwise..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3175|end_char=3178
+2	base	base	PROPN	_	Number=Sing	1	flat:name	O	start_char=3179|end_char=3183
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=3184|end_char=3186
+4	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=3187|end_char=3191
+5	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=3192|end_char=3195
+6	rotated	rotated	PROPN	_	Number=Sing	1	flat:name	O	start_char=3196|end_char=3203
+7	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=3204|end_char=3206
+8	0.1	0.1	PROPN	_	Number=Sing	1	flat:name	O	start_char=3207|end_char=3210
+9	degree	degree	PROPN	_	Number=Sing	1	flat:name	O	start_char=3211|end_char=3217
+10	counterclockwise.	counterclockwise.	PROPN	_	Number=Sing	1	flat:name	O	start_char=3218|end_char=3235
+11	.	.	PUNCT	_	_	1	punct	O	start_char=3235|end_char=3236
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-30
+# text = [lil PETROBRAS
+1	[lil	[lil	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3238|end_char=3242
+2	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	1	flat:name	O	start_char=3243|end_char=3252
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-31
+# text = Main observations (figure 5): e The major depocenter was controlled by Fl. e 2 and F3 were not active during the Campanian..
+1	Main	Main	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3254|end_char=3258
+2	observations	observations	PROPN	_	Number=Sing	1	flat:name	O	start_char=3259|end_char=3271
+3	(	(	PUNCT	_	_	4	punct	O	start_char=3272|end_char=3273
+4	figure	figure	X	_	_	1	nmod:appos	O	start_char=3273|end_char=3279
+5	5	5	NUM	_	NumType=Card	4	nummod	O	start_char=3280|end_char=3281
+6	)	)	PUNCT	_	_	4	punct	O	start_char=3281|end_char=3282
+7	:	:	PUNCT	_	_	9	punct	O	start_char=3282|end_char=3283
+8	e	e	CCONJ	_	_	9	cc	O	start_char=3284|end_char=3285
+9	The	The	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=3286|end_char=3289
+10	major	major	PROPN	_	Number=Sing	9	flat:name	O	start_char=3290|end_char=3295
+11	depocenter	depocenter	PROPN	_	Number=Sing	9	flat:name	O	start_char=3296|end_char=3306
+12	was	was	PROPN	_	Number=Sing	9	flat:name	O	start_char=3307|end_char=3310
+13	controlled	controlled	PROPN	_	Number=Sing	9	flat:name	O	start_char=3311|end_char=3321
+14	by	by	PROPN	_	Number=Sing	9	flat:name	O	start_char=3322|end_char=3324
+15	Fl.	Fl.	PROPN	_	Number=Sing	9	flat:name	O	start_char=3325|end_char=3328
+16	e	e	CCONJ	_	_	9	cc	O	start_char=3329|end_char=3330
+17	2	2	PROPN	_	Number=Sing	9	flat:name	O	start_char=3331|end_char=3332
+18	and	and	PROPN	_	Number=Sing	9	flat:name	O	start_char=3333|end_char=3336
+19	F3	F3	PROPN	_	Number=Sing	9	flat:name	O	start_char=3337|end_char=3339
+20	were	were	PROPN	_	Number=Sing	9	flat:name	O	start_char=3340|end_char=3344
+21	not	not	PROPN	_	Number=Sing	9	flat:name	O	start_char=3345|end_char=3348
+22	active	active	PROPN	_	Number=Sing	9	flat:name	O	start_char=3349|end_char=3355
+23	during	during	PROPN	_	Number=Sing	9	flat:name	O	start_char=3356|end_char=3362
+24	the	the	PROPN	_	Number=Sing	9	flat:name	O	start_char=3363|end_char=3366
+25	Campanian	Campanian	PROPN	_	Number=Sing	9	flat:name	O	start_char=3367|end_char=3376
+26	.	.	PUNCT	_	_	1	punct	O	start_char=3376|end_char=3377
+27	.	.	PUNCT	_	_	1	punct	O	start_char=3377|end_char=3378
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-32
+# text = e During the restoration process some normal faults were converted into reverse faults..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=3380|end_char=3381
+2	During	During	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3382|end_char=3388
+3	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=3389|end_char=3392
+4	restoration	restoration	X	_	_	2	flat:name	O	start_char=3393|end_char=3404
+5	process	process	PROPN	_	Number=Sing	2	flat:name	O	start_char=3405|end_char=3412
+6	some	sumir	PROPN	_	Number=Sing	2	flat:name	O	start_char=3413|end_char=3417
+7	normal	normal	PROPN	_	Number=Sing	2	flat:name	O	start_char=3418|end_char=3424
+8	faults	faults	PROPN	_	Number=Sing	2	flat:name	O	start_char=3425|end_char=3431
+9	were	were	PROPN	_	Number=Sing	2	flat:name	O	start_char=3432|end_char=3436
+10	converted	converted	PROPN	_	Number=Sing	2	flat:name	O	start_char=3437|end_char=3446
+11	into	into	PROPN	_	Number=Sing	2	flat:name	O	start_char=3447|end_char=3451
+12	reverse	reverse	PROPN	_	Number=Sing	2	flat:name	O	start_char=3452|end_char=3459
+13	faults	faults	PROPN	_	Number=Sing	2	flat:name	O	start_char=3460|end_char=3466
+14	.	.	PUNCT	_	_	2	punct	O	start_char=3466|end_char=3467
+15	.	.	PUNCT	_	_	2	punct	O	start_char=3467|end_char=3468
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-33
+# text = e A normal fault around the 170km position was defined, along which D4 has evolved..
+1	e	e	CCONJ	_	_	4	cc	O	start_char=3470|end_char=3471
+2	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	start_char=3472|end_char=3473
+3	normal	normal	ADJ	_	Gender=Fem|Number=Sing	4	amod	O	start_char=3474|end_char=3480
+4	fault	fault	X	_	_	0	root	O	start_char=3481|end_char=3486
+5	around	around	X	_	_	4	flat:foreign	O	start_char=3487|end_char=3493
+6	the	the	X	_	_	4	flat:foreign	O	start_char=3494|end_char=3497
+7	170	170	NUM	_	NumType=Card	8	flat:foreign	O	start_char=3498|end_char=3501
+8	km	km	X	_	_	4	flat:foreign	O	start_char=3501|end_char=3503
+9	position	position	X	_	_	4	flat:foreign	O	start_char=3504|end_char=3512
+10	was	was	X	_	_	8	flat:foreign	O	start_char=3513|end_char=3516
+11	defined	defined	X	_	_	8	flat:foreign	O	start_char=3517|end_char=3524
+12	,	,	PUNCT	_	_	13	punct	O	start_char=3524|end_char=3525
+13	along	along	X	_	_	8	flat:foreign	O	start_char=3526|end_char=3531
+14	which	which	X	_	_	13	flat:foreign	O	start_char=3532|end_char=3537
+15	D4	D4	PROPN	_	Number=Sing	13	flat:foreign	O	start_char=3538|end_char=3540
+16	has	has	X	_	_	13	flat:foreign	O	start_char=3541|end_char=3544
+17	evolved.	evolved.	X	_	_	13	flat:foreign	O	start_char=3545|end_char=3553
+18	.	.	PUNCT	_	_	4	punct	O	start_char=3553|end_char=3554
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-34
+# text = e Compression migrated to the east of D4 and in the distal part of the section the depocenters were concentrated adjacent to salt domes..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=3556|end_char=3557
+2	Compression	Compression	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3558|end_char=3569
+3	migrated	migrated	PROPN	_	Number=Sing	2	flat:name	O	start_char=3570|end_char=3578
+4	to	to	PROPN	_	Number=Sing	2	flat:name	O	start_char=3579|end_char=3581
+5	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=3582|end_char=3585
+6	east	east	PROPN	_	Number=Sing	2	flat:name	O	start_char=3586|end_char=3590
+7	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=3591|end_char=3593
+8	D4	D4	PROPN	_	Number=Sing	2	flat:name	O	start_char=3594|end_char=3596
+9	and	and	PROPN	_	Number=Sing	2	flat:name	O	start_char=3597|end_char=3600
+10	in	in	PROPN	_	Number=Sing	2	flat:name	O	start_char=3601|end_char=3603
+11	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=3604|end_char=3607
+12	distal	distal	PROPN	_	Number=Sing	2	flat:name	O	start_char=3608|end_char=3614
+13	part	part	PROPN	_	Number=Sing	2	flat:name	O	start_char=3615|end_char=3619
+14	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=3620|end_char=3622
+15	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=3623|end_char=3626
+16	section	section	PROPN	_	Number=Sing	2	flat:name	O	start_char=3627|end_char=3634
+17	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=3635|end_char=3638
+18	depocenters	depocenters	PROPN	_	Number=Sing	2	flat:name	O	start_char=3639|end_char=3650
+19	were	were	PROPN	_	Number=Sing	2	flat:name	O	start_char=3651|end_char=3655
+20	concentrated	concentrated	PROPN	_	Number=Sing	2	flat:name	O	start_char=3656|end_char=3668
+21	adjacent	adjacent	PROPN	_	Number=Sing	2	flat:name	O	start_char=3669|end_char=3677
+22	to	to	PROPN	_	Number=Sing	2	flat:name	O	start_char=3678|end_char=3680
+23	salt	salt	PROPN	_	Number=Sing	2	flat:name	O	start_char=3681|end_char=3685
+24	domes	domes	PROPN	_	Number=Sing	2	flat:name	O	start_char=3686|end_char=3691
+25	.	.	PUNCT	_	_	2	punct	O	start_char=3691|end_char=3692
+26	.	.	PUNCT	_	_	2	punct	O	start_char=3692|end_char=3693
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-35
+# text = e Salt occupies an area of approximately 300 km’..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=3695|end_char=3696
+2	Salt	Salt	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3697|end_char=3701
+3	occupies	occupies	PROPN	_	Number=Sing	2	flat:name	O	start_char=3702|end_char=3710
+4	an	an	PROPN	_	Number=Sing	2	flat:name	O	start_char=3711|end_char=3713
+5	area	area	PROPN	_	Number=Sing	2	flat:name	O	start_char=3714|end_char=3718
+6	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=3719|end_char=3721
+7	approximately	approximately	PROPN	_	Number=Sing	2	flat:name	O	start_char=3722|end_char=3735
+8	300	300	PROPN	_	Number=Sing	2	flat:name	O	start_char=3736|end_char=3739
+9	km	km	PROPN	_	Number=Sing	2	flat:name	O	start_char=3740|end_char=3742
+10	’..	’..	PUNCT	_	_	2	punct	O	start_char=3742|end_char=3745
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-36
+# text = BASE OF CAMPANIAN
+1	BASE	BASE	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=3747|end_char=3751
+2	OF	OF	PROPN	_	Number=Sing	1	flat:name	O	start_char=3752|end_char=3754
+3	CAMPANIAN	CAMPANIAN	PROPN	_	Number=Sing	1	flat:name	O	start_char=3755|end_char=3764
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-37
+# text = The shelf break was placed between the positions 40km and 50km and it was considered for this time an slope angle of 0.9 degrees..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3766|end_char=3769
+2	shelf	shelf	PROPN	_	Number=Sing	1	flat:name	O	start_char=3770|end_char=3775
+3	break	break	PROPN	_	Number=Sing	1	flat:name	O	start_char=3776|end_char=3781
+4	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=3782|end_char=3785
+5	placed	placed	PROPN	_	Number=Sing	1	flat:name	O	start_char=3786|end_char=3792
+6	between	between	PROPN	_	Number=Sing	1	flat:name	O	start_char=3793|end_char=3800
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=3801|end_char=3804
+8	positions	positions	PROPN	_	Number=Sing	1	flat:name	O	start_char=3805|end_char=3814
+9	40	40	PROPN	_	Number=Sing	1	flat:name	O	start_char=3815|end_char=3817
+10	km	km	PROPN	_	Number=Sing	1	flat:name	O	start_char=3817|end_char=3819
+11	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=3820|end_char=3823
+12	50	50	PROPN	_	Number=Sing	1	flat:name	O	start_char=3824|end_char=3826
+13	km	km	PROPN	_	Number=Sing	1	flat:name	O	start_char=3826|end_char=3828
+14	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=3829|end_char=3832
+15	it	it	PROPN	_	Number=Sing	1	flat:name	O	start_char=3833|end_char=3835
+16	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=3836|end_char=3839
+17	considered	considered	PROPN	_	Number=Sing	1	flat:name	O	start_char=3840|end_char=3850
+18	for	for	PROPN	_	Number=Sing	1	flat:name	O	start_char=3851|end_char=3854
+19	this	this	PROPN	_	Number=Sing	1	flat:name	O	start_char=3855|end_char=3859
+20	time	time	PROPN	_	Number=Sing	1	flat:name	O	start_char=3860|end_char=3864
+21	an	an	PROPN	_	Number=Sing	1	flat:name	O	start_char=3865|end_char=3867
+22	slope	slope	PROPN	_	Number=Sing	1	flat:name	O	start_char=3868|end_char=3873
+23	angle	angle	PROPN	_	Number=Sing	1	flat:name	O	start_char=3874|end_char=3879
+24	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=3880|end_char=3882
+25	0.9	0.9	PROPN	_	Number=Sing	1	flat:name	O	start_char=3883|end_char=3886
+26	degrees	degrees	PROPN	_	Number=Sing	1	flat:name	O	start_char=3887|end_char=3894
+27	.	.	PUNCT	_	_	1	punct	O	start_char=3894|end_char=3895
+28	.	.	PUNCT	_	_	1	punct	O	start_char=3895|end_char=3896
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-38
+# text = Restoration was done along faults and through unfolding..
+1	Restoration	Restoration	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3898|end_char=3909
+2	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=3910|end_char=3913
+3	done	done	PROPN	_	Number=Sing	1	flat:name	O	start_char=3914|end_char=3918
+4	along	along	PROPN	_	Number=Sing	1	flat:name	O	start_char=3919|end_char=3924
+5	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=3925|end_char=3931
+6	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=3932|end_char=3935
+7	through	through	PROPN	_	Number=Sing	1	flat:name	O	start_char=3936|end_char=3943
+8	unfolding.	unfolding.	PROPN	_	Number=Sing	1	flat:name	O	start_char=3944|end_char=3954
+9	.	.	PUNCT	_	_	1	punct	O	start_char=3954|end_char=3955
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-39
+# text = The base of salt was rotated of 0.1 degree, counterclockwise..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=3957|end_char=3960
+2	base	base	PROPN	_	Number=Sing	1	flat:name	O	start_char=3961|end_char=3965
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=3966|end_char=3968
+4	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=3969|end_char=3973
+5	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=3974|end_char=3977
+6	rotated	rotated	PROPN	_	Number=Sing	1	flat:name	O	start_char=3978|end_char=3985
+7	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=3986|end_char=3988
+8	0.1	0.1	PROPN	_	Number=Sing	1	flat:name	O	start_char=3989|end_char=3992
+9	degree	degree	PROPN	_	Number=Sing	1	flat:name	O	start_char=3993|end_char=3999
+10	,	,	PUNCT	_	_	1	flat:name	O	start_char=3999|end_char=4000
+11	counterclockwise	counterclockwise	PROPN	_	Number=Sing	1	flat:name	O	start_char=4001|end_char=4017
+12	.	.	PUNCT	_	_	1	punct	O	start_char=4017|end_char=4018
+13	.	.	PUNCT	_	_	1	punct	O	start_char=4018|end_char=4019
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-40
+# text = Main observations (figure 6): El PE TROBRAS e During the restoration process some normal faults were converted into reverse faults..
+1	Main	Main	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4021|end_char=4025
+2	observations	observations	PROPN	_	Number=Sing	1	flat:name	O	start_char=4026|end_char=4038
+3	(	(	PUNCT	_	_	4	punct	O	start_char=4039|end_char=4040
+4	figure	figure	X	_	_	1	appos	O	start_char=4040|end_char=4046
+5	6	6	NUM	_	NumType=Card	4	nummod	O	start_char=4047|end_char=4048
+6	)	)	PUNCT	_	_	4	punct	O	start_char=4048|end_char=4049
+7	:	:	PUNCT	_	_	8	punct	O	start_char=4049|end_char=4050
+8	El	El	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=4051|end_char=4053
+9	PE	PE	PROPN	_	Number=Sing	8	flat:name	O	start_char=4054|end_char=4056
+10	TROBRAS	TROBRAS	PROPN	_	Number=Sing	8	flat:name	O	start_char=4057|end_char=4064
+11	e	e	CCONJ	_	_	8	flat:name	O	start_char=4065|end_char=4066
+12	During	During	PROPN	_	Number=Sing	8	flat:name	O	start_char=4067|end_char=4073
+13	the	the	PROPN	_	Number=Sing	8	flat:name	O	start_char=4074|end_char=4077
+14	restoration	restoration	PROPN	_	Number=Sing	8	flat:name	O	start_char=4078|end_char=4089
+15	process	process	PROPN	_	Number=Sing	8	flat:name	O	start_char=4090|end_char=4097
+16	some	sumir	PROPN	_	Number=Sing	8	flat:name	O	start_char=4098|end_char=4102
+17	normal	normal	PROPN	_	Number=Sing	8	flat:name	O	start_char=4103|end_char=4109
+18	faults	faults	PROPN	_	Number=Sing	8	flat:name	O	start_char=4110|end_char=4116
+19	were	were	PROPN	_	Number=Sing	8	flat:name	O	start_char=4117|end_char=4121
+20	converted	converted	PROPN	_	Number=Sing	8	flat:name	O	start_char=4122|end_char=4131
+21	into	into	PROPN	_	Number=Sing	8	flat:name	O	start_char=4132|end_char=4136
+22	reverse	reverse	PROPN	_	Number=Sing	8	flat:name	O	start_char=4137|end_char=4144
+23	faults	faults	PROPN	_	Number=Sing	8	flat:name	O	start_char=4145|end_char=4151
+24	.	.	PUNCT	_	_	8	punct	O	start_char=4151|end_char=4152
+25	.	.	PUNCT	_	_	1	punct	O	start_char=4152|end_char=4153
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-41
+# text = e A loss of mass was identified close to position 200km in the Turonian layer..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=4155|end_char=4156
+2	A	A	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=4157|end_char=4158
+3	loss	loss	X	_	_	2	flat:name	O	start_char=4159|end_char=4163
+4	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=4164|end_char=4166
+5	mass	mass	PROPN	_	Number=Sing	2	flat:name	O	start_char=4167|end_char=4171
+6	was	was	PROPN	_	Number=Sing	2	flat:name	O	start_char=4172|end_char=4175
+7	identified	identified	PROPN	_	Number=Sing	2	flat:name	O	start_char=4176|end_char=4186
+8	close	close	PROPN	_	Number=Sing	2	flat:name	O	start_char=4187|end_char=4192
+9	to	to	PROPN	_	Number=Sing	2	flat:name	O	start_char=4193|end_char=4195
+10	position	position	PROPN	_	Number=Sing	2	flat:name	O	start_char=4196|end_char=4204
+11	200	200	PROPN	_	Number=Sing	2	flat:name	O	start_char=4205|end_char=4208
+12	km	km	PROPN	_	Number=Sing	2	flat:name	O	start_char=4208|end_char=4210
+13	in	in	PROPN	_	Number=Sing	2	flat:name	O	start_char=4211|end_char=4213
+14	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=4214|end_char=4217
+15	Turonian	Turonian	PROPN	_	Number=Sing	2	flat:name	O	start_char=4218|end_char=4226
+16	layer	layer	PROPN	_	Number=Sing	2	flat:name	O	start_char=4227|end_char=4232
+17	.	.	PUNCT	_	_	2	punct	O	start_char=4232|end_char=4233
+18	.	.	PUNCT	_	_	2	punct	O	start_char=4233|end_char=4234
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-42
+# text = e The salt layer occupies an area of approximately 415 km”..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=4236|end_char=4237
+2	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4238|end_char=4241
+3	salt	salt	PROPN	_	Number=Sing	2	flat:name	O	start_char=4242|end_char=4246
+4	layer	layer	PROPN	_	Number=Sing	2	flat:name	O	start_char=4247|end_char=4252
+5	occupies	occupies	PROPN	_	Number=Sing	2	flat:name	O	start_char=4253|end_char=4261
+6	an	an	PROPN	_	Number=Sing	2	flat:name	O	start_char=4262|end_char=4264
+7	area	area	PROPN	_	Number=Sing	2	flat:name	O	start_char=4265|end_char=4269
+8	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=4270|end_char=4272
+9	approximately	approximately	PROPN	_	Number=Sing	2	flat:name	O	start_char=4273|end_char=4286
+10	415	415	PROPN	_	Number=Sing	2	flat:name	O	start_char=4287|end_char=4290
+11	km	km	PROPN	_	Number=Sing	2	flat:name	O	start_char=4291|end_char=4293
+12	”	»	PUNCT	_	_	2	flat:name	O	start_char=4293|end_char=4294
+13	..	..	PUNCT	_	_	2	punct	O	start_char=4294|end_char=4296
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-43
+# text = TOP OF TURONIAN
+1	TOP	TOP	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4298|end_char=4301
+2	OF	OF	PROPN	_	Number=Sing	1	flat:name	O	start_char=4302|end_char=4304
+3	TURONIAN	TURONIAN	PROPN	_	Number=Sing	1	flat:name	O	start_char=4305|end_char=4313
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-44
+# text = The shelf break and the slope angle (0.9 degrees) were kept constant..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4315|end_char=4318
+2	shelf	shelf	PROPN	_	Number=Sing	1	flat:name	O	start_char=4319|end_char=4324
+3	break	break	PROPN	_	Number=Sing	1	flat:name	O	start_char=4325|end_char=4330
+4	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=4331|end_char=4334
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=4335|end_char=4338
+6	slope	slope	PROPN	_	Number=Sing	1	flat:name	O	start_char=4339|end_char=4344
+7	angle	angle	PROPN	_	Number=Sing	1	flat:name	O	start_char=4345|end_char=4350
+8	(	(	PUNCT	_	_	9	punct	O	start_char=4351|end_char=4352
+9	0.9	0.9	PROPN	_	Number=Sing	1	flat:name	O	start_char=4352|end_char=4355
+10	degrees	degrees	PROPN	_	Number=Sing	9	flat:name	O	start_char=4356|end_char=4363
+11	)	)	PUNCT	_	_	9	punct	O	start_char=4363|end_char=4364
+12	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=4365|end_char=4369
+13	kept	kept	PROPN	_	Number=Sing	1	flat:name	O	start_char=4370|end_char=4374
+14	constant.	constant.	PROPN	_	Number=Sing	1	flat:name	O	start_char=4375|end_char=4384
+15	.	.	PUNCT	_	_	1	punct	O	start_char=4384|end_char=4385
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-45
+# text = Below the salt layer the faults with bigger throw (F7, F8, F9, F10, F12 and F13) were restored by fault shear and above the salt layer restoration was done along faults and through unfolding..
+1	Below	Below	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4387|end_char=4392
+2	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=4393|end_char=4396
+3	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=4397|end_char=4401
+4	layer	layer	PROPN	_	Number=Sing	1	flat:name	O	start_char=4402|end_char=4407
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=4408|end_char=4411
+6	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=4412|end_char=4418
+7	with	with	PROPN	_	Number=Sing	1	flat:name	O	start_char=4419|end_char=4423
+8	bigger	bigger	PROPN	_	Number=Sing	1	flat:name	O	start_char=4424|end_char=4430
+9	throw	throw	PROPN	_	Number=Sing	1	flat:name	O	start_char=4431|end_char=4436
+10	(	(	PUNCT	_	_	11	punct	O	start_char=4437|end_char=4438
+11	F7	F7	PROPN	_	Number=Sing	1	flat:name	O	start_char=4438|end_char=4440
+12	,	,	PUNCT	_	_	11	flat:name	O	start_char=4440|end_char=4441
+13	F8	F8	PROPN	_	Number=Sing	11	flat:name	O	start_char=4442|end_char=4444
+14	,	,	PUNCT	_	_	11	flat:name	O	start_char=4444|end_char=4445
+15	F9	F9	PROPN	_	Number=Sing	11	flat:name	O	start_char=4446|end_char=4448
+16	,	,	PUNCT	_	_	11	flat:name	O	start_char=4448|end_char=4449
+17	F10	F10	PROPN	_	Number=Sing	11	flat:name	O	start_char=4450|end_char=4453
+18	,	,	PUNCT	_	_	11	flat:name	O	start_char=4453|end_char=4454
+19	F12	F12	PROPN	_	Number=Sing	11	flat:name	O	start_char=4455|end_char=4458
+20	and	and	PROPN	_	Number=Sing	11	flat:name	O	start_char=4459|end_char=4462
+21	F13	F13	PROPN	_	Number=Sing	11	flat:name	O	start_char=4463|end_char=4466
+22	)	)	PUNCT	_	_	11	punct	O	start_char=4466|end_char=4467
+23	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=4468|end_char=4472
+24	restored	restored	PROPN	_	Number=Sing	1	flat:name	O	start_char=4473|end_char=4481
+25	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=4482|end_char=4484
+26	fault	fault	PROPN	_	Number=Sing	1	flat:name	O	start_char=4485|end_char=4490
+27	shear	shear	PROPN	_	Number=Sing	1	flat:name	O	start_char=4491|end_char=4496
+28	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=4497|end_char=4500
+29	above	above	PROPN	_	Number=Sing	1	flat:name	O	start_char=4501|end_char=4506
+30	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=4507|end_char=4510
+31	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=4511|end_char=4515
+32	layer	layer	PROPN	_	Number=Sing	1	flat:name	O	start_char=4516|end_char=4521
+33	restoration	restoration	PROPN	_	Number=Sing	1	flat:name	O	start_char=4522|end_char=4533
+34	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=4534|end_char=4537
+35	done	done	PROPN	_	Number=Sing	1	flat:name	O	start_char=4538|end_char=4542
+36	along	along	PROPN	_	Number=Sing	1	flat:name	O	start_char=4543|end_char=4548
+37	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=4549|end_char=4555
+38	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=4556|end_char=4559
+39	through	through	PROPN	_	Number=Sing	1	flat:name	O	start_char=4560|end_char=4567
+40	unfolding.	unfolding.	PROPN	_	Number=Sing	1	flat:name	O	start_char=4568|end_char=4578
+41	.	.	PUNCT	_	_	1	punct	O	start_char=4578|end_char=4579
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-46
+# text = The base of the salt was rotated by 0.5 degree, counterclockwise..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4581|end_char=4584
+2	base	base	PROPN	_	Number=Sing	1	flat:name	O	start_char=4585|end_char=4589
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=4590|end_char=4592
+4	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=4593|end_char=4596
+5	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=4597|end_char=4601
+6	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=4602|end_char=4605
+7	rotated	rotated	PROPN	_	Number=Sing	1	flat:name	O	start_char=4606|end_char=4613
+8	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=4614|end_char=4616
+9	0.5	0.5	PROPN	_	Number=Sing	1	flat:name	O	start_char=4617|end_char=4620
+10	degree	degree	PROPN	_	Number=Sing	1	flat:name	O	start_char=4621|end_char=4627
+11	,	,	PUNCT	_	_	1	flat:name	O	start_char=4627|end_char=4628
+12	counterclockwise	counterclockwise	PROPN	_	Number=Sing	1	flat:name	O	start_char=4629|end_char=4645
+13	.	.	PUNCT	_	_	1	punct	O	start_char=4645|end_char=4646
+14	.	.	PUNCT	_	_	1	punct	O	start_char=4646|end_char=4647
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-47
+# text = Main observations (figure 7): e Depocenters are controlled mainly by normal faults, especially FO, Fl and Fo. e The region between FO and Fl, which in the previous scenario was representing a structural low, now represents a structural high (see figure 6)..
+1	Main	Main	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4649|end_char=4653
+2	observations	observations	PROPN	_	Number=Sing	1	flat:name	O	start_char=4654|end_char=4666
+3	(	(	PUNCT	_	_	4	punct	O	start_char=4667|end_char=4668
+4	figure	figure	X	_	_	1	nmod:appos	O	start_char=4668|end_char=4674
+5	7	7	NUM	_	NumType=Card	4	nummod	O	start_char=4675|end_char=4676
+6	)	)	PUNCT	_	_	4	punct	O	start_char=4676|end_char=4677
+7	:	:	PUNCT	_	_	9	punct	O	start_char=4677|end_char=4678
+8	e	e	CCONJ	_	_	9	cc	O	start_char=4679|end_char=4680
+9	Depocenters	Depocenters	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=4681|end_char=4692
+10	are	are	PROPN	_	Number=Sing	9	flat:name	O	start_char=4693|end_char=4696
+11	controlled	controlled	PROPN	_	Number=Sing	9	flat:name	O	start_char=4697|end_char=4707
+12	mainly	mainly	PROPN	_	Number=Sing	9	flat:name	O	start_char=4708|end_char=4714
+13	by	by	PROPN	_	Number=Sing	9	flat:name	O	start_char=4715|end_char=4717
+14	normal	normal	PROPN	_	Number=Sing	9	flat:name	O	start_char=4718|end_char=4724
+15	faults	faults	PROPN	_	Number=Sing	9	flat:name	O	start_char=4725|end_char=4731
+16	,	,	PUNCT	_	_	9	flat:name	O	start_char=4731|end_char=4732
+17	especially	especially	PROPN	_	Number=Sing	9	flat:name	O	start_char=4733|end_char=4743
+18	FO	FO	PROPN	_	Number=Sing	9	flat:name	O	start_char=4744|end_char=4746
+19	,	,	PUNCT	_	_	9	flat:name	O	start_char=4746|end_char=4747
+20	Fl	Fl	PROPN	_	Number=Sing	9	flat:name	O	start_char=4748|end_char=4750
+21	and	and	PROPN	_	Number=Sing	9	flat:name	O	start_char=4751|end_char=4754
+22	Fo.	Fo.	PROPN	_	Number=Sing	9	flat:name	O	start_char=4755|end_char=4758
+23	e	e	CCONJ	_	_	20	cc	O	start_char=4759|end_char=4760
+24	The	The	PROPN	_	Number=Sing	9	flat:name	O	start_char=4761|end_char=4764
+25	region	region	PROPN	_	Number=Sing	20	flat:name	O	start_char=4765|end_char=4771
+26	between	between	PROPN	_	Number=Sing	9	flat:name	O	start_char=4772|end_char=4779
+27	FO	FO	PROPN	_	Number=Sing	24	flat:name	O	start_char=4780|end_char=4782
+28	and	and	PROPN	_	Number=Sing	24	flat:name	O	start_char=4783|end_char=4786
+29	Fl	Fl	PROPN	_	Number=Sing	24	flat:name	O	start_char=4787|end_char=4789
+30	,	,	PUNCT	_	_	31	punct	O	start_char=4789|end_char=4790
+31	which	which	PROPN	_	Number=Sing	9	flat:name	O	start_char=4791|end_char=4796
+32	in	in	PROPN	_	Number=Sing	31	flat:name	O	start_char=4797|end_char=4799
+33	the	the	PROPN	_	Number=Sing	31	flat:name	O	start_char=4800|end_char=4803
+34	previous	previous	PROPN	_	Number=Sing	31	flat:name	O	start_char=4804|end_char=4812
+35	scenario	scenario	PROPN	_	Number=Sing	31	flat:name	O	start_char=4813|end_char=4821
+36	was	was	PROPN	_	Number=Sing	31	flat:name	O	start_char=4822|end_char=4825
+37	representing	representing	PROPN	_	Number=Sing	31	flat:name	O	start_char=4826|end_char=4838
+38	a	a	PROPN	_	Number=Sing	31	flat:name	O	start_char=4839|end_char=4840
+39	structural	structural	PROPN	_	Number=Sing	31	flat:name	O	start_char=4841|end_char=4851
+40	low	low	PROPN	_	Number=Sing	31	flat:name	O	start_char=4852|end_char=4855
+41	,	,	PUNCT	_	_	42	punct	O	start_char=4855|end_char=4856
+42	now	now	PROPN	_	Number=Sing	9	flat:name	O	start_char=4857|end_char=4860
+43	represents	represents	PROPN	_	Number=Sing	42	flat:name	O	start_char=4861|end_char=4871
+44	a	a	PROPN	_	Number=Sing	42	flat:name	O	start_char=4872|end_char=4873
+45	structural	structural	PROPN	_	Number=Sing	42	flat:name	O	start_char=4874|end_char=4884
+46	high	high	PROPN	_	Number=Sing	42	flat:name	O	start_char=4885|end_char=4889
+47	(	(	PUNCT	_	_	48	punct	O	start_char=4890|end_char=4891
+48	see	see	PROPN	_	Number=Sing	42	appos	O	start_char=4891|end_char=4894
+49	figure	figure	PROPN	_	Number=Sing	48	flat:name	O	start_char=4895|end_char=4901
+50	6	6	PROPN	_	Number=Sing	48	flat:name	O	start_char=4902|end_char=4903
+51	)	)	PUNCT	_	_	48	punct	O	start_char=4903|end_char=4904
+52	.	.	PUNCT	_	_	48	punct	O	start_char=4904|end_char=4905
+53	.	.	PUNCT	_	_	1	punct	O	start_char=4905|end_char=4906
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-48
+# text = e A loss of mass in the Albian layer was identified close to position 190 km..
+1	e	e	CCONJ	_	_	3	cc	O	start_char=4908|end_char=4909
+2	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=4910|end_char=4911
+3	loss	loss	X	_	_	0	root	O	start_char=4912|end_char=4916
+4	of	of	PROPN	_	Number=Sing	3	flat:name	O	start_char=4917|end_char=4919
+5	mass	mass	PROPN	_	Number=Sing	3	flat:name	O	start_char=4920|end_char=4924
+6	in	in	PROPN	_	Number=Sing	3	flat:name	O	start_char=4925|end_char=4927
+7	the	the	PROPN	_	Number=Sing	3	flat:name	O	start_char=4928|end_char=4931
+8	Albian	Albian	PROPN	_	Number=Sing	3	flat:name	O	start_char=4932|end_char=4938
+9	layer	layer	PROPN	_	Number=Sing	3	flat:name	O	start_char=4939|end_char=4944
+10	was	was	PROPN	_	Number=Sing	3	flat:name	O	start_char=4945|end_char=4948
+11	identified	identified	PROPN	_	Number=Sing	3	flat:name	O	start_char=4949|end_char=4959
+12	close	close	PROPN	_	Number=Sing	3	flat:name	O	start_char=4960|end_char=4965
+13	to	to	PROPN	_	Number=Sing	3	flat:name	O	start_char=4966|end_char=4968
+14	position	position	PROPN	_	Number=Sing	3	flat:name	O	start_char=4969|end_char=4977
+15	190	190	PROPN	_	Number=Sing	3	flat:name	O	start_char=4978|end_char=4981
+16	km	km	PROPN	_	Number=Sing	3	flat:name	O	start_char=4982|end_char=4984
+17	.	.	PUNCT	_	_	3	punct	O	start_char=4984|end_char=4985
+18	.	.	PUNCT	_	_	3	punct	O	start_char=4985|end_char=4986
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-49
+# text = e Compression is very subtle at this time..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=4988|end_char=4989
+2	Compression	Compression	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=4990|end_char=5001
+3	is	is	PROPN	_	Number=Sing	2	flat:name	O	start_char=5002|end_char=5004
+4	very	very	PROPN	_	Number=Sing	2	flat:name	O	start_char=5005|end_char=5009
+5	subtle	subtle	PROPN	_	Number=Sing	2	flat:name	O	start_char=5010|end_char=5016
+6	at	at	PROPN	_	Number=Sing	2	flat:name	O	start_char=5017|end_char=5019
+7	this	this	PROPN	_	Number=Sing	2	flat:name	O	start_char=5020|end_char=5024
+8	time.	time.	PROPN	_	Number=Sing	2	flat:name	O	start_char=5025|end_char=5030
+9	.	.	PUNCT	_	_	2	punct	O	start_char=5030|end_char=5031
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-50
+# text = e Salt occupies an area of approximately 545 km”..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=5033|end_char=5034
+2	Salt	Salt	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5035|end_char=5039
+3	occupies	occupies	PROPN	_	Number=Sing	2	flat:name	O	start_char=5040|end_char=5048
+4	an	an	PROPN	_	Number=Sing	2	flat:name	O	start_char=5049|end_char=5051
+5	area	area	PROPN	_	Number=Sing	2	flat:name	O	start_char=5052|end_char=5056
+6	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=5057|end_char=5059
+7	approximately	approximately	PROPN	_	Number=Sing	2	flat:name	O	start_char=5060|end_char=5073
+8	545	545	PROPN	_	Number=Sing	2	flat:name	O	start_char=5074|end_char=5077
+9	km	km	PROPN	_	Number=Sing	2	flat:name	O	start_char=5078|end_char=5080
+10	”	»	PUNCT	_	_	2	flat:name	O	start_char=5080|end_char=5081
+11	..	..	PUNCT	_	_	2	punct	O	start_char=5081|end_char=5083
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-51
+# text = Eli]
+1	Eli	Eli	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5085|end_char=5088
+2	]	]	PUNCT	_	_	1	punct	O	start_char=5088|end_char=5089
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-52
+# text = PETROBRAS  TOP OF ALBIAN
+1	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=5091|end_char=5100
+2	TOP	TOP	PROPN	_	Number=Sing	1	flat:name	O	start_char=5102|end_char=5105
+3	OF	OF	PROPN	_	Number=Sing	1	flat:name	O	start_char=5106|end_char=5108
+4	ALBIAN	Albian	PROPN	_	Number=Sing	1	flat:name	O	start_char=5109|end_char=5115
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-53
+# text = The Albian surface was considered nearly horizontal (0,1 degree) and the base of the salt was rotated by 0.2 degree, counterclockwise..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5117|end_char=5120
+2	Albian	Albian	PROPN	_	Number=Sing	1	flat:name	O	start_char=5121|end_char=5127
+3	surface	surface	PROPN	_	Number=Sing	1	flat:name	O	start_char=5128|end_char=5135
+4	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=5136|end_char=5139
+5	considered	considered	PROPN	_	Number=Sing	1	flat:name	O	start_char=5140|end_char=5150
+6	nearly	nearly	PROPN	_	Number=Sing	1	flat:name	O	start_char=5151|end_char=5157
+7	horizontal	horizontal	PROPN	_	Number=Sing	1	flat:name	O	start_char=5158|end_char=5168
+8	(	(	PUNCT	_	_	9	punct	O	start_char=5169|end_char=5170
+9	0,1	0,1	PROPN	_	Number=Sing	1	flat:name	O	start_char=5170|end_char=5173
+10	degree	degree	PROPN	_	Number=Sing	9	flat:name	O	start_char=5174|end_char=5180
+11	)	)	PUNCT	_	_	9	punct	O	start_char=5180|end_char=5181
+12	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=5182|end_char=5185
+13	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=5186|end_char=5189
+14	base	base	PROPN	_	Number=Sing	1	flat:name	O	start_char=5190|end_char=5194
+15	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=5195|end_char=5197
+16	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=5198|end_char=5201
+17	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=5202|end_char=5206
+18	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=5207|end_char=5210
+19	rotated	rotated	PROPN	_	Number=Sing	1	flat:name	O	start_char=5211|end_char=5218
+20	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=5219|end_char=5221
+21	0.2	0.2	PROPN	_	Number=Sing	1	flat:name	O	start_char=5222|end_char=5225
+22	degree	degree	PROPN	_	Number=Sing	1	flat:name	O	start_char=5226|end_char=5232
+23	,	,	PUNCT	_	_	1	flat:name	O	start_char=5232|end_char=5233
+24	counterclockwise	counterclockwise	PROPN	_	Number=Sing	1	flat:name	O	start_char=5234|end_char=5250
+25	.	.	PUNCT	_	_	1	punct	O	start_char=5250|end_char=5251
+26	.	.	PUNCT	_	_	1	punct	O	start_char=5251|end_char=5252
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-54
+# text = Restoration was done mainly by simple shear..
+1	Restoration	Restoration	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5254|end_char=5265
+2	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=5266|end_char=5269
+3	done	done	PROPN	_	Number=Sing	1	flat:name	O	start_char=5270|end_char=5274
+4	mainly	mainly	PROPN	_	Number=Sing	1	flat:name	O	start_char=5275|end_char=5281
+5	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=5282|end_char=5284
+6	simple	simple	PROPN	_	Number=Sing	1	flat:name	O	start_char=5285|end_char=5291
+7	shear	shear	PROPN	_	Number=Sing	1	flat:name	O	start_char=5292|end_char=5297
+8	.	.	PUNCT	_	_	1	flat:name	O	start_char=5297|end_char=5298
+9	.	.	PUNCT	_	_	1	punct	O	start_char=5298|end_char=5299
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-55
+# text = Main observations (figure 8): e The thickest portions of Albian are concentrated between positions 100km and 180km..
+1	Main	Main	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5301|end_char=5305
+2	observations	observations	PROPN	_	Number=Sing	1	flat:name	O	start_char=5306|end_char=5318
+3	(	(	PUNCT	_	_	4	punct	O	start_char=5319|end_char=5320
+4	figure	figure	X	_	_	1	appos	O	start_char=5320|end_char=5326
+5	8	8	NUM	_	NumType=Card	4	nummod	O	start_char=5327|end_char=5328
+6	)	)	PUNCT	_	_	4	punct	O	start_char=5328|end_char=5329
+7	:	:	PUNCT	_	_	9	punct	O	start_char=5329|end_char=5330
+8	e	e	CCONJ	_	_	9	cc	O	start_char=5331|end_char=5332
+9	The	The	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=5333|end_char=5336
+10	thickest	thickest	PROPN	_	Number=Sing	9	flat:name	O	start_char=5337|end_char=5345
+11	portions	portions	PROPN	_	Number=Sing	9	flat:name	O	start_char=5346|end_char=5354
+12	of	of	PROPN	_	Number=Sing	9	flat:name	O	start_char=5355|end_char=5357
+13	Albian	Albian	PROPN	_	Number=Sing	9	flat:name	O	start_char=5358|end_char=5364
+14	are	are	PROPN	_	Number=Sing	9	flat:name	O	start_char=5365|end_char=5368
+15	concentrated	concentrated	PROPN	_	Number=Sing	9	flat:name	O	start_char=5369|end_char=5381
+16	between	between	PROPN	_	Number=Sing	9	flat:name	O	start_char=5382|end_char=5389
+17	positions	positions	PROPN	_	Number=Sing	9	flat:name	O	start_char=5390|end_char=5399
+18	100	100	PROPN	_	Number=Sing	9	flat:name	O	start_char=5400|end_char=5403
+19	km	km	PROPN	_	Number=Sing	9	flat:name	O	start_char=5403|end_char=5405
+20	and	and	PROPN	_	Number=Sing	9	flat:name	O	start_char=5406|end_char=5409
+21	180	180	PROPN	_	Number=Sing	9	flat:name	O	start_char=5410|end_char=5413
+22	km.	km.	PROPN	_	Number=Sing	9	flat:name	O	start_char=5413|end_char=5416
+23	.	.	PUNCT	_	_	1	punct	O	start_char=5416|end_char=5417
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-56
+# text = e Some gaps formed due to intense shear along the faults through time and also there might have been a salt flow to out of the section and part of the sediments may have been carried along with the salt..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=5419|end_char=5420
+2	Some	Some	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5421|end_char=5425
+3	gaps	gaps	PROPN	_	Number=Sing	2	flat:name	O	start_char=5426|end_char=5430
+4	formed	formed	PROPN	_	Number=Sing	2	flat:name	O	start_char=5431|end_char=5437
+5	due	due	PROPN	_	Number=Sing	2	flat:name	O	start_char=5438|end_char=5441
+6	to	to	PROPN	_	Number=Sing	2	flat:name	O	start_char=5442|end_char=5444
+7	intense	intense	PROPN	_	Number=Sing	2	flat:name	O	start_char=5445|end_char=5452
+8	shear	shear	PROPN	_	Number=Sing	2	flat:name	O	start_char=5453|end_char=5458
+9	along	along	PROPN	_	Number=Sing	2	flat:name	O	start_char=5459|end_char=5464
+10	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=5465|end_char=5468
+11	faults	faults	PROPN	_	Number=Sing	2	flat:name	O	start_char=5469|end_char=5475
+12	through	through	PROPN	_	Number=Sing	2	flat:name	O	start_char=5476|end_char=5483
+13	time	time	PROPN	_	Number=Sing	2	flat:name	O	start_char=5484|end_char=5488
+14	and	and	PROPN	_	Number=Sing	2	flat:name	O	start_char=5489|end_char=5492
+15	also	also	PROPN	_	Number=Sing	2	flat:name	O	start_char=5493|end_char=5497
+16	there	there	PROPN	_	Number=Sing	2	flat:name	O	start_char=5498|end_char=5503
+17	might	might	PROPN	_	Number=Sing	2	flat:name	O	start_char=5504|end_char=5509
+18	have	have	PROPN	_	Number=Sing	2	flat:name	O	start_char=5510|end_char=5514
+19	been	been	PROPN	_	Number=Sing	2	flat:name	O	start_char=5515|end_char=5519
+20	a	a	PROPN	_	Number=Sing	2	flat:name	O	start_char=5520|end_char=5521
+21	salt	salt	PROPN	_	Number=Sing	2	flat:name	O	start_char=5522|end_char=5526
+22	flow	flow	PROPN	_	Number=Sing	2	flat:name	O	start_char=5527|end_char=5531
+23	to	to	PROPN	_	Number=Sing	2	flat:name	O	start_char=5532|end_char=5534
+24	out	out	PROPN	_	Number=Sing	2	flat:name	O	start_char=5535|end_char=5538
+25	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=5539|end_char=5541
+26	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=5542|end_char=5545
+27	section	section	PROPN	_	Number=Sing	2	flat:name	O	start_char=5546|end_char=5553
+28	and	and	PROPN	_	Number=Sing	2	flat:name	O	start_char=5554|end_char=5557
+29	part	part	PROPN	_	Number=Sing	2	flat:name	O	start_char=5558|end_char=5562
+30	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=5563|end_char=5565
+31	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=5566|end_char=5569
+32	sediments	sediments	PROPN	_	Number=Sing	2	flat:name	O	start_char=5570|end_char=5579
+33	may	may	PROPN	_	Number=Sing	2	flat:name	O	start_char=5580|end_char=5583
+34	have	have	PROPN	_	Number=Sing	2	flat:name	O	start_char=5584|end_char=5588
+35	been	been	PROPN	_	Number=Sing	2	flat:name	O	start_char=5589|end_char=5593
+36	carried	carried	PROPN	_	Number=Sing	2	flat:name	O	start_char=5594|end_char=5601
+37	along	along	PROPN	_	Number=Sing	2	flat:name	O	start_char=5602|end_char=5607
+38	with	with	PROPN	_	Number=Sing	2	flat:name	O	start_char=5608|end_char=5612
+39	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=5613|end_char=5616
+40	salt.	salt.	PROPN	_	Number=Sing	2	flat:name	O	start_char=5617|end_char=5622
+41	.	.	PUNCT	_	_	2	punct	O	start_char=5622|end_char=5623
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-57
+# text = e Salt occupies an area of approximately 650 km’..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=5625|end_char=5626
+2	Salt	Salt	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5627|end_char=5631
+3	occupies	occupies	PROPN	_	Number=Sing	2	flat:name	O	start_char=5632|end_char=5640
+4	an	an	PROPN	_	Number=Sing	2	flat:name	O	start_char=5641|end_char=5643
+5	area	area	PROPN	_	Number=Sing	2	flat:name	O	start_char=5644|end_char=5648
+6	of	of	PROPN	_	Number=Sing	2	flat:name	O	start_char=5649|end_char=5651
+7	approximately	approximately	PROPN	_	Number=Sing	2	flat:name	O	start_char=5652|end_char=5665
+8	650	650	PROPN	_	Number=Sing	2	flat:name	O	start_char=5666|end_char=5669
+9	km	km	PROPN	_	Number=Sing	2	flat:name	O	start_char=5670|end_char=5672
+10	’..	’..	PUNCT	_	_	2	punct	O	start_char=5672|end_char=5675
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-58
+# text = SAG Main observations (figure 8):  SAG  Restoration was done mainly by fault shear due to the great amount of erosion..
+1	SAG	SAG	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5677|end_char=5680
+2	Main	Main	PROPN	_	Number=Sing	1	flat:name	O	start_char=5681|end_char=5685
+3	observations	observations	PROPN	_	Number=Sing	1	flat:name	O	start_char=5686|end_char=5698
+4	(	(	PUNCT	_	_	5	punct	O	start_char=5699|end_char=5700
+5	figure	figure	X	_	_	1	flat:name	O	start_char=5700|end_char=5706
+6	8	8	NUM	_	NumType=Card	5	nummod	O	start_char=5707|end_char=5708
+7	)	)	PUNCT	_	_	5	punct	O	start_char=5708|end_char=5709
+8	:	:	PUNCT	_	_	9	punct	O	start_char=5709|end_char=5710
+9	SAG	SAG	PROPN	_	Gender=Fem|Number=Sing	1	appos	O	start_char=5712|end_char=5715
+10	Restoration	Restoration	PROPN	_	Number=Sing	9	flat:name	O	start_char=5717|end_char=5728
+11	was	was	PROPN	_	Number=Sing	9	flat:name	O	start_char=5729|end_char=5732
+12	done	done	PROPN	_	Number=Sing	9	flat:name	O	start_char=5733|end_char=5737
+13	mainly	mainly	PROPN	_	Number=Sing	9	flat:name	O	start_char=5738|end_char=5744
+14	by	by	PROPN	_	Number=Sing	9	flat:name	O	start_char=5745|end_char=5747
+15	fault	fault	PROPN	_	Number=Sing	9	flat:name	O	start_char=5748|end_char=5753
+16	shear	shear	PROPN	_	Number=Sing	9	flat:name	O	start_char=5754|end_char=5759
+17	due	due	PROPN	_	Number=Sing	9	flat:name	O	start_char=5760|end_char=5763
+18	to	to	PROPN	_	Number=Sing	9	flat:name	O	start_char=5764|end_char=5766
+19	the	the	PROPN	_	Number=Sing	9	flat:name	O	start_char=5767|end_char=5770
+20	great	great	PROPN	_	Number=Sing	9	flat:name	O	start_char=5771|end_char=5776
+21	amount	amount	PROPN	_	Number=Sing	9	flat:name	O	start_char=5777|end_char=5783
+22	of	of	PROPN	_	Number=Sing	9	flat:name	O	start_char=5784|end_char=5786
+23	erosion.	erosion.	PROPN	_	Number=Sing	9	flat:name	O	start_char=5787|end_char=5795
+24	.	.	PUNCT	_	_	1	punct	O	start_char=5795|end_char=5796
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-59
+# text = Main observations (figure 9):  e A structural high was defined between positions 150km and 190km, separating two ‘mini basins’..
+1	Main	Main	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5798|end_char=5802
+2	observations	observations	X	_	_	1	flat:name	O	start_char=5803|end_char=5815
+3	(	(	PUNCT	_	_	4	punct	O	start_char=5816|end_char=5817
+4	figure	figure	X	_	_	1	nmod:appos	O	start_char=5817|end_char=5823
+5	9	9	NUM	_	NumType=Card	4	nummod	O	start_char=5824|end_char=5825
+6	)	)	PUNCT	_	_	4	punct	O	start_char=5825|end_char=5826
+7	:	:	PUNCT	_	_	10	punct	O	start_char=5826|end_char=5827
+8	e	e	CCONJ	_	_	10	cc	O	start_char=5829|end_char=5830
+9	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	O	start_char=5831|end_char=5832
+10	structural	structural	X	_	_	1	appos	O	start_char=5833|end_char=5843
+11	high	high	X	_	_	10	flat:foreign	O	start_char=5844|end_char=5848
+12	was	was	X	_	_	10	flat:foreign	O	start_char=5849|end_char=5852
+13	defined	defined	X	_	_	10	flat:foreign	O	start_char=5853|end_char=5860
+14	between	between	X	_	_	10	flat:foreign	O	start_char=5861|end_char=5868
+15	positions	positions	X	_	_	10	flat:foreign	O	start_char=5869|end_char=5878
+16	150	150	PROPN	_	Number=Sing	10	flat:foreign	O	start_char=5879|end_char=5882
+17	km	km	X	_	_	10	flat:foreign	O	start_char=5882|end_char=5884
+18	and	and	X	_	_	10	flat:foreign	O	start_char=5885|end_char=5888
+19	190	190	PROPN	_	Number=Sing	10	flat:foreign	O	start_char=5889|end_char=5892
+20	km	km	NOUN	_	Gender=Masc|Number=Plur	10	flat:foreign	O	start_char=5892|end_char=5894
+21	,	,	PUNCT	_	_	22	punct	O	start_char=5894|end_char=5895
+22	separating	separating	X	_	_	10	flat:foreign	O	start_char=5896|end_char=5906
+23	two	two	X	_	_	22	flat:foreign	O	start_char=5907|end_char=5910
+24	‘mini	‘mini	X	_	_	22	flat:foreign	O	start_char=5911|end_char=5916
+25	basins	basins	X	_	_	22	flat:foreign	O	start_char=5917|end_char=5923
+26	’	'	PUNCT	_	_	22	flat:foreign	O	start_char=5923|end_char=5924
+27	.	.	PUNCT	_	_	1	punct	O	start_char=5924|end_char=5925
+28	.	.	PUNCT	_	_	1	punct	O	start_char=5925|end_char=5926
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-60
+# text = Ei PETROBRAS  TOP OF RIFT
+1	Ei	Ei	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5928|end_char=5930
+2	PETROBRAS	Petrorras	PROPN	_	Number=Sing	1	flat:name	O	start_char=5931|end_char=5940
+3	TOP	TOP	PROPN	_	Number=Sing	1	flat:name	O	start_char=5942|end_char=5945
+4	OF	OF	PROPN	_	Number=Sing	1	flat:name	O	start_char=5946|end_char=5948
+5	RIFT	RIFT	PROPN	_	Number=Sing	1	flat:name	O	start_char=5949|end_char=5953
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-61
+# text = Restoration was done by simple shear..
+1	Restoration	Restoration	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5955|end_char=5966
+2	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=5967|end_char=5970
+3	done	done	PROPN	_	Number=Sing	1	flat:name	O	start_char=5971|end_char=5975
+4	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=5976|end_char=5978
+5	simple	simple	PROPN	_	Number=Sing	1	flat:name	O	start_char=5979|end_char=5985
+6	shear	shear	PROPN	_	Number=Sing	1	flat:name	O	start_char=5986|end_char=5991
+7	.	.	PUNCT	_	_	1	flat:name	O	start_char=5991|end_char=5992
+8	.	.	PUNCT	_	_	1	punct	O	start_char=5992|end_char=5993
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-62
+# text = Main observations (figure 10): e The main depocenter was located between positions 10km and 80 km..
+1	Main	Main	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5995|end_char=5999
+2	observations	observations	X	_	_	1	flat:name	O	start_char=6000|end_char=6012
+3	(	(	PUNCT	_	_	4	punct	O	start_char=6013|end_char=6014
+4	figure	figure	X	_	_	1	nmod:appos	O	start_char=6014|end_char=6020
+5	10	10	NUM	_	NumType=Card	4	nummod	O	start_char=6021|end_char=6023
+6	)	)	PUNCT	_	_	4	punct	O	start_char=6023|end_char=6024
+7	:	:	PUNCT	_	_	9	punct	O	start_char=6024|end_char=6025
+8	e	e	CCONJ	_	_	9	cc	O	start_char=6026|end_char=6027
+9	The	The	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6028|end_char=6031
+10	main	main	PROPN	_	Number=Sing	9	flat:name	O	start_char=6032|end_char=6036
+11	depocenter	depocenter	PROPN	_	Number=Sing	9	flat:name	O	start_char=6037|end_char=6047
+12	was	was	PROPN	_	Number=Sing	9	flat:name	O	start_char=6048|end_char=6051
+13	located	located	PROPN	_	Number=Sing	9	flat:name	O	start_char=6052|end_char=6059
+14	between	between	PROPN	_	Number=Sing	9	flat:name	O	start_char=6060|end_char=6067
+15	positions	positions	PROPN	_	Number=Sing	9	flat:name	O	start_char=6068|end_char=6077
+16	10	10	PROPN	_	Number=Sing	9	flat:name	O	start_char=6078|end_char=6080
+17	km	km	PROPN	_	Number=Sing	9	flat:name	O	start_char=6080|end_char=6082
+18	and	and	PROPN	_	Number=Sing	9	flat:name	O	start_char=6083|end_char=6086
+19	80	80	PROPN	_	Number=Sing	9	flat:name	O	start_char=6087|end_char=6089
+20	km	km	PROPN	_	Number=Sing	9	flat:name	O	start_char=6090|end_char=6092
+21	.	.	PUNCT	_	_	9	punct	O	start_char=6092|end_char=6093
+22	.	.	PUNCT	_	_	1	punct	O	start_char=6093|end_char=6094
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-63
+# text = ° Structural highs were observed around 120km, 170km and 260km..
+1	°	°	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6096|end_char=6097
+2	Structural	Structural	PROPN	_	Number=Sing	1	flat:name	O	start_char=6098|end_char=6108
+3	highs	highs	PROPN	_	Number=Sing	1	flat:name	O	start_char=6109|end_char=6114
+4	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=6115|end_char=6119
+5	observed	observed	PROPN	_	Number=Sing	1	flat:name	O	start_char=6120|end_char=6128
+6	around	around	PROPN	_	Number=Sing	1	flat:name	O	start_char=6129|end_char=6135
+7	120	120	PROPN	_	Number=Sing	1	flat:name	O	start_char=6136|end_char=6139
+8	km	km	PROPN	_	Number=Sing	1	flat:name	O	start_char=6139|end_char=6141
+9	,	,	PUNCT	_	_	11	punct	O	start_char=6141|end_char=6142
+10	170	170	NUM	_	NumType=Card	11	nummod	O	start_char=6143|end_char=6146
+11	km	km	NOUN	_	Gender=Masc|Number=Plur	1	conj	O	start_char=6146|end_char=6148
+12	and	and	X	_	_	11	flat:foreign	O	start_char=6149|end_char=6152
+13	260	260	NUM	_	NumType=Card	14	nummod	O	start_char=6153|end_char=6156
+14	km.	km.	NOUN	_	Gender=Masc|Number=Plur	11	nmod	O	start_char=6156|end_char=6159
+15	.	.	PUNCT	_	_	1	punct	O	start_char=6159|end_char=6160
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-64
+# text = e There was an adjustment problem along faults F9 e F11 where a large gap was created..
+1	e	e	CCONJ	_	_	2	cc	O	start_char=6162|end_char=6163
+2	There	There	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6164|end_char=6169
+3	was	was	PROPN	_	Number=Sing	2	flat:name	O	start_char=6170|end_char=6173
+4	an	an	PROPN	_	Number=Sing	2	flat:name	O	start_char=6174|end_char=6176
+5	adjustment	adjustment	PROPN	_	Number=Sing	2	flat:name	O	start_char=6177|end_char=6187
+6	problem	problem	PROPN	_	Number=Sing	2	flat:name	O	start_char=6188|end_char=6195
+7	along	along	PROPN	_	Number=Sing	2	flat:name	O	start_char=6196|end_char=6201
+8	faults	faults	PROPN	_	Number=Sing	2	flat:name	O	start_char=6202|end_char=6208
+9	F9	F9	PROPN	_	Number=Sing	2	flat:name	O	start_char=6209|end_char=6211
+10	e	e	CCONJ	_	_	2	flat:name	O	start_char=6212|end_char=6213
+11	F11	F11	PROPN	_	Number=Sing	2	flat:name	O	start_char=6214|end_char=6217
+12	where	where	PROPN	_	Number=Sing	2	flat:name	O	start_char=6218|end_char=6223
+13	a	a	PROPN	_	Number=Sing	2	flat:name	O	start_char=6224|end_char=6225
+14	large	large	PROPN	_	Number=Sing	2	flat:name	O	start_char=6226|end_char=6231
+15	gap	gap	PROPN	_	Number=Sing	2	flat:name	O	start_char=6232|end_char=6235
+16	was	was	PROPN	_	Number=Sing	2	flat:name	O	start_char=6236|end_char=6239
+17	created.	created.	PROPN	_	Number=Sing	2	flat:name	O	start_char=6240|end_char=6248
+18	.	.	PUNCT	_	_	2	punct	O	start_char=6248|end_char=6249
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-65
+# text = CONCLUSIONS
+1	CONCLUSIONS	Conclusions	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6251|end_char=6262
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-66
+# text = Two structural domains were identified in the geologic section: an extensional domain and a compressional domain..
+1	Two	Two	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6264|end_char=6267
+2	structural	structural	X	_	_	1	flat:name	O	start_char=6268|end_char=6278
+3	domains	domains	PROPN	_	Number=Sing	1	flat:name	O	start_char=6279|end_char=6286
+4	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=6287|end_char=6291
+5	identified	identified	PROPN	_	Number=Sing	1	flat:name	O	start_char=6292|end_char=6302
+6	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=6303|end_char=6305
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6306|end_char=6309
+8	geologic	geologic	PROPN	_	Number=Sing	1	flat:name	O	start_char=6310|end_char=6318
+9	section	section	PROPN	_	Number=Sing	1	flat:name	O	start_char=6319|end_char=6326
+10	:	:	PUNCT	_	_	11	punct	O	start_char=6326|end_char=6327
+11	an	an	PROPN	_	Number=Sing	1	appos	O	start_char=6328|end_char=6330
+12	extensional	extensional	PROPN	_	Number=Sing	11	flat:name	O	start_char=6331|end_char=6342
+13	domain	domain	PROPN	_	Number=Sing	11	flat:name	O	start_char=6343|end_char=6349
+14	and	and	PROPN	_	Number=Sing	11	flat:name	O	start_char=6350|end_char=6353
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	flat:name	O	start_char=6354|end_char=6355
+16	compressional	compressional	PROPN	_	Number=Sing	11	flat:name	O	start_char=6356|end_char=6369
+17	domain.	domain.	PROPN	_	Number=Sing	11	flat:name	O	start_char=6370|end_char=6377
+18	.	.	PUNCT	_	_	1	punct	O	start_char=6377|end_char=6378
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-67
+# text = BM-S-8 is located on the compressional domain; The main active faults at each period of time were identified..
+1	BM-S-8	BM-S-8	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6380|end_char=6386
+2	is	is	X	_	_	1	flat:name	O	start_char=6387|end_char=6389
+3	located	located	X	_	_	1	flat:name	O	start_char=6390|end_char=6397
+4	on	on	PROPN	_	Number=Sing	1	flat:name	O	start_char=6398|end_char=6400
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6401|end_char=6404
+6	compressional	compressional	PROPN	_	Number=Sing	1	flat:name	O	start_char=6405|end_char=6418
+7	domain	domain	PROPN	_	Number=Sing	1	flat:name	O	start_char=6419|end_char=6425
+8	;	;	PUNCT	_	_	1	punct	O	start_char=6425|end_char=6426
+9	The	The	PROPN	_	Number=Sing	1	flat:name	O	start_char=6427|end_char=6430
+10	main	main	PROPN	_	Number=Sing	1	flat:name	O	start_char=6431|end_char=6435
+11	active	active	PROPN	_	Number=Sing	9	flat:name	O	start_char=6436|end_char=6442
+12	faults	faults	PROPN	_	Number=Sing	9	flat:name	O	start_char=6443|end_char=6449
+13	at	at	PROPN	_	Number=Sing	9	flat:name	O	start_char=6450|end_char=6452
+14	each	each	PROPN	_	Number=Sing	9	flat:name	O	start_char=6453|end_char=6457
+15	period	period	PROPN	_	Number=Sing	9	flat:name	O	start_char=6458|end_char=6464
+16	of	of	PROPN	_	Number=Sing	9	flat:name	O	start_char=6465|end_char=6467
+17	time	time	PROPN	_	Number=Sing	1	flat:name	O	start_char=6468|end_char=6472
+18	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=6473|end_char=6477
+19	identified.	identified.	PROPN	_	Number=Sing	1	flat:name	O	start_char=6478|end_char=6489
+20	.	.	PUNCT	_	_	1	punct	O	start_char=6489|end_char=6490
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-68
+# text = Fl was active from the Top of Albian to the end of the Campanian, being the major controller of the depocenters..
+1	Fl	Fl	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6492|end_char=6494
+2	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=6495|end_char=6498
+3	active	active	PROPN	_	Number=Sing	1	flat:name	O	start_char=6499|end_char=6505
+4	from	from	PROPN	_	Number=Sing	1	flat:name	O	start_char=6506|end_char=6510
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6511|end_char=6514
+6	Top	Top	PROPN	_	Number=Sing	1	flat:name	O	start_char=6515|end_char=6518
+7	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=6519|end_char=6521
+8	Albian	Albian	PROPN	_	Number=Sing	1	flat:name	O	start_char=6522|end_char=6528
+9	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=6529|end_char=6531
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6532|end_char=6535
+11	end	end	PROPN	_	Number=Sing	1	flat:name	O	start_char=6536|end_char=6539
+12	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=6540|end_char=6542
+13	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6543|end_char=6546
+14	Campanian	Campanian	PROPN	_	Number=Sing	1	flat:name	O	start_char=6547|end_char=6556
+15	,	,	PUNCT	_	_	1	flat:name	O	start_char=6556|end_char=6557
+16	being	being	PROPN	_	Number=Sing	1	flat:name	O	start_char=6558|end_char=6563
+17	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6564|end_char=6567
+18	major	major	PROPN	_	Number=Sing	1	flat:name	O	start_char=6568|end_char=6573
+19	controller	controller	PROPN	_	Number=Sing	1	flat:name	O	start_char=6574|end_char=6584
+20	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=6585|end_char=6587
+21	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6588|end_char=6591
+22	depocenters	depocenters	PROPN	_	Number=Sing	1	flat:name	O	start_char=6592|end_char=6603
+23	.	.	PUNCT	_	_	1	punct	O	start_char=6603|end_char=6604
+24	.	.	PUNCT	_	_	1	punct	O	start_char=6604|end_char=6605
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-69
+# text = From that time on, until the end of the Maastrichtian, F2, F3 and F4 were the most active and important faults..
+1	From	From	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6607|end_char=6611
+2	that	that	PROPN	_	Number=Sing	1	flat:name	O	start_char=6612|end_char=6616
+3	time	time	X	_	_	1	flat:name	O	start_char=6617|end_char=6621
+4	on	on	PROPN	_	Number=Sing	1	flat:name	O	start_char=6622|end_char=6624
+5	,	,	PUNCT	_	_	1	flat:name	O	start_char=6624|end_char=6625
+6	until	until	PROPN	_	Number=Sing	1	flat:name	O	start_char=6626|end_char=6631
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6632|end_char=6635
+8	end	end	PROPN	_	Number=Sing	1	flat:name	O	start_char=6636|end_char=6639
+9	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=6640|end_char=6642
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6643|end_char=6646
+11	Maastrichtian	Maastrichtian	PROPN	_	Number=Sing	1	flat:name	B=UNIDADE_CRONO	start_char=6647|end_char=6660
+12	,	,	PUNCT	_	_	1	flat:name	O	start_char=6660|end_char=6661
+13	F2	F2	PROPN	_	Number=Sing	1	flat:name	O	start_char=6662|end_char=6664
+14	,	,	PUNCT	_	_	1	flat:name	O	start_char=6664|end_char=6665
+15	F3	F3	PROPN	_	Number=Sing	1	flat:name	O	start_char=6666|end_char=6668
+16	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=6669|end_char=6672
+17	F4	F4	PROPN	_	Number=Sing	1	flat:name	O	start_char=6673|end_char=6675
+18	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=6676|end_char=6680
+19	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6681|end_char=6684
+20	most	most	PROPN	_	Number=Sing	1	flat:name	O	start_char=6685|end_char=6689
+21	active	active	PROPN	_	Number=Sing	1	flat:name	O	start_char=6690|end_char=6696
+22	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=6697|end_char=6700
+23	important	important	PROPN	_	Number=Sing	1	flat:name	O	start_char=6701|end_char=6710
+24	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=6711|end_char=6717
+25	.	.	PUNCT	_	_	1	punct	O	start_char=6717|end_char=6718
+26	.	.	PUNCT	_	_	1	punct	O	start_char=6718|end_char=6719
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-70
+# text = [ld PETROBRAS  In the BM-S-8 area (to the east of the 160km position) there was a structural high in the pre-salt sequence..
+1	[ld	[ld	PUNCT	_	_	2	punct	O	start_char=6721|end_char=6724
+2	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=6725|end_char=6734
+3	In	In	PROPN	_	Number=Sing	2	flat:name	O	start_char=6736|end_char=6738
+4	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=6739|end_char=6742
+5	BM-S-8	BM-S-8	PROPN	_	Number=Sing	2	flat:name	O	start_char=6743|end_char=6749
+6	area	area	PROPN	_	Number=Sing	2	flat:name	O	start_char=6750|end_char=6754
+7	(	(	PUNCT	_	_	8	punct	O	start_char=6755|end_char=6756
+8	to	to	PROPN	_	Number=Sing	2	flat:name	O	start_char=6756|end_char=6758
+9	the	the	PROPN	_	Number=Sing	8	flat:name	O	start_char=6759|end_char=6762
+10	east	east	PROPN	_	Number=Sing	8	flat:name	O	start_char=6763|end_char=6767
+11	of	of	PROPN	_	Number=Sing	8	flat:name	O	start_char=6768|end_char=6770
+12	the	the	PROPN	_	Number=Sing	8	flat:name	O	start_char=6771|end_char=6774
+13	160	160	PROPN	_	Number=Sing	8	flat:name	O	start_char=6775|end_char=6778
+14	km	km	PROPN	_	Number=Sing	8	flat:name	O	start_char=6778|end_char=6780
+15	position	position	PROPN	_	Number=Sing	8	flat:name	O	start_char=6781|end_char=6789
+16	)	)	PUNCT	_	_	8	punct	O	start_char=6789|end_char=6790
+17	there	there	PROPN	_	Number=Sing	2	flat:name	O	start_char=6791|end_char=6796
+18	was	was	PROPN	_	Number=Sing	2	flat:name	O	start_char=6797|end_char=6800
+19	a	a	PROPN	_	Number=Sing	2	flat:name	O	start_char=6801|end_char=6802
+20	structural	structural	PROPN	_	Number=Sing	2	flat:name	O	start_char=6803|end_char=6813
+21	high	high	PROPN	_	Number=Sing	2	flat:name	O	start_char=6814|end_char=6818
+22	in	in	PROPN	_	Number=Sing	2	flat:name	O	start_char=6819|end_char=6821
+23	the	the	PROPN	_	Number=Sing	2	flat:name	O	start_char=6822|end_char=6825
+24	pre-salt	pre-salt	PROPN	_	Number=Sing	2	flat:name	O	start_char=6826|end_char=6834
+25	sequence.	sequence.	PROPN	_	Number=Sing	2	flat:name	O	start_char=6835|end_char=6844
+26	.	.	PUNCT	_	_	2	punct	O	start_char=6844|end_char=6845
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-71
+# text = Extension was dominant until the end of the Turonian, when the depocenters were controlled by normal faults..
+1	Extension	Extension	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6847|end_char=6856
+2	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=6857|end_char=6860
+3	dominant	dominant	PROPN	_	Number=Sing	1	flat:name	O	start_char=6861|end_char=6869
+4	until	until	PROPN	_	Number=Sing	1	flat:name	O	start_char=6870|end_char=6875
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6876|end_char=6879
+6	end	end	PROPN	_	Number=Sing	1	flat:name	O	start_char=6880|end_char=6883
+7	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=6884|end_char=6886
+8	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6887|end_char=6890
+9	Turonian	Turonian	PROPN	_	Number=Sing	1	flat:name	O	start_char=6891|end_char=6899
+10	,	,	PUNCT	_	_	1	flat:name	O	start_char=6899|end_char=6900
+11	when	when	PROPN	_	Number=Sing	1	flat:name	O	start_char=6901|end_char=6905
+12	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6906|end_char=6909
+13	depocenters	depocenters	PROPN	_	Number=Sing	1	flat:name	O	start_char=6910|end_char=6921
+14	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=6922|end_char=6926
+15	controlled	controlled	PROPN	_	Number=Sing	1	flat:name	O	start_char=6927|end_char=6937
+16	by	by	PROPN	_	Number=Sing	1	flat:name	O	start_char=6938|end_char=6940
+17	normal	normal	PROPN	_	Number=Sing	1	flat:name	O	start_char=6941|end_char=6947
+18	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=6948|end_char=6954
+19	.	.	PUNCT	_	_	1	punct	O	start_char=6954|end_char=6955
+20	.	.	PUNCT	_	_	1	punct	O	start_char=6955|end_char=6956
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-72
+# text = From the Campanian on compression started to dominate and depocenters were concentrated in the vicinities of salt domes
+1	From	From	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6958|end_char=6962
+2	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=6963|end_char=6966
+3	Campanian	Campanian	PROPN	_	Number=Sing	1	flat:name	O	start_char=6967|end_char=6976
+4	on	on	PROPN	_	Number=Sing	1	flat:name	O	start_char=6977|end_char=6979
+5	compression	compression	PROPN	_	Number=Sing	1	flat:name	O	start_char=6980|end_char=6991
+6	started	started	PROPN	_	Number=Sing	1	flat:name	O	start_char=6992|end_char=6999
+7	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=7000|end_char=7002
+8	dominate	dominate	PROPN	_	Number=Sing	1	flat:name	O	start_char=7003|end_char=7011
+9	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=7012|end_char=7015
+10	depocenters	depocenters	PROPN	_	Number=Sing	1	flat:name	O	start_char=7016|end_char=7027
+11	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=7028|end_char=7032
+12	concentrated	concentrated	PROPN	_	Number=Sing	1	flat:name	O	start_char=7033|end_char=7045
+13	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=7046|end_char=7048
+14	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7049|end_char=7052
+15	vicinities	vicinities	PROPN	_	Number=Sing	1	flat:name	O	start_char=7053|end_char=7063
+16	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7064|end_char=7066
+17	salt	salt	PROPN	_	Number=Sing	1	flat:name	O	start_char=7067|end_char=7071
+18	domes	domes	PROPN	_	Number=Sing	1	flat:name	O	start_char=7072|end_char=7077
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-73
+# text = Its advisable to check the interpretation of some horizons in some parts of the section, especially in the places where normal faults were converted to reverse faults after restoration in order to verify if an inversion could have occurred..
+1	Its	Its	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=7079|end_char=7082
+2	advisable	advisable	PROPN	_	Number=Sing	1	flat:name	O	start_char=7083|end_char=7092
+3	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=7093|end_char=7095
+4	check	check	PROPN	_	Number=Sing	1	flat:name	O	start_char=7096|end_char=7101
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7102|end_char=7105
+6	interpretation	interpretation	PROPN	_	Number=Sing	1	flat:name	O	start_char=7106|end_char=7120
+7	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7121|end_char=7123
+8	some	sumir	PROPN	_	Number=Sing	1	flat:name	O	start_char=7124|end_char=7128
+9	horizons	horizons	PROPN	_	Number=Sing	1	flat:name	O	start_char=7129|end_char=7137
+10	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=7138|end_char=7140
+11	some	sumir	PROPN	_	Number=Sing	1	flat:name	O	start_char=7141|end_char=7145
+12	parts	parts	PROPN	_	Number=Sing	1	flat:name	O	start_char=7146|end_char=7151
+13	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7152|end_char=7154
+14	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7155|end_char=7158
+15	section	section	PROPN	_	Number=Sing	1	flat:name	O	start_char=7159|end_char=7166
+16	,	,	PUNCT	_	_	1	flat:name	O	start_char=7166|end_char=7167
+17	especially	especially	PROPN	_	Number=Sing	1	flat:name	O	start_char=7168|end_char=7178
+18	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=7179|end_char=7181
+19	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7182|end_char=7185
+20	places	places	PROPN	_	Number=Sing	1	flat:name	O	start_char=7186|end_char=7192
+21	where	where	PROPN	_	Number=Sing	1	flat:name	O	start_char=7193|end_char=7198
+22	normal	normal	PROPN	_	Number=Sing	1	flat:name	O	start_char=7199|end_char=7205
+23	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=7206|end_char=7212
+24	were	were	PROPN	_	Number=Sing	1	flat:name	O	start_char=7213|end_char=7217
+25	converted	converted	PROPN	_	Number=Sing	1	flat:name	O	start_char=7218|end_char=7227
+26	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=7228|end_char=7230
+27	reverse	reverse	PROPN	_	Number=Sing	1	flat:name	O	start_char=7231|end_char=7238
+28	faults	faults	PROPN	_	Number=Sing	1	flat:name	O	start_char=7239|end_char=7245
+29	after	after	PROPN	_	Number=Sing	1	flat:name	O	start_char=7246|end_char=7251
+30	restoration	restoration	PROPN	_	Number=Sing	1	flat:name	O	start_char=7252|end_char=7263
+31	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=7264|end_char=7266
+32	order	order	PROPN	_	Number=Sing	1	flat:name	O	start_char=7267|end_char=7272
+33	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=7273|end_char=7275
+34	verify	verify	PROPN	_	Number=Sing	1	flat:name	O	start_char=7276|end_char=7282
+35	if	if	PROPN	_	Number=Sing	1	flat:name	O	start_char=7283|end_char=7285
+36	an	an	PROPN	_	Number=Sing	1	flat:name	O	start_char=7286|end_char=7288
+37	inversion	inversion	PROPN	_	Number=Sing	1	flat:name	O	start_char=7289|end_char=7298
+38	could	could	PROPN	_	Number=Sing	1	flat:name	O	start_char=7299|end_char=7304
+39	have	have	PROPN	_	Number=Sing	1	flat:name	O	start_char=7305|end_char=7309
+40	occurred.	occurred.	PROPN	_	Number=Sing	1	flat:name	O	start_char=7310|end_char=7319
+41	.	.	PUNCT	_	_	1	punct	O	start_char=7319|end_char=7320
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-74
+# text = Also, where gaps were big the trace of the horizons should be confirmed, especially on the pre-salt sequence..
+1	Also	Also	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=7322|end_char=7326
+2	,	,	PUNCT	_	_	3	punct	O	start_char=7326|end_char=7327
+3	where	where	X	_	_	1	appos	O	start_char=7328|end_char=7333
+4	gaps	gaps	PROPN	_	Number=Sing	3	flat:name	O	start_char=7334|end_char=7338
+5	were	were	PROPN	_	Number=Sing	3	flat:name	O	start_char=7339|end_char=7343
+6	big	big	PROPN	_	Number=Sing	3	flat:name	O	start_char=7344|end_char=7347
+7	the	the	PROPN	_	Number=Sing	3	flat:name	O	start_char=7348|end_char=7351
+8	trace	trace	PROPN	_	Number=Sing	3	flat:name	O	start_char=7352|end_char=7357
+9	of	of	PROPN	_	Number=Sing	3	flat:name	O	start_char=7358|end_char=7360
+10	the	the	PROPN	_	Number=Sing	3	flat:name	O	start_char=7361|end_char=7364
+11	horizons	horizons	PROPN	_	Number=Sing	3	flat:name	O	start_char=7365|end_char=7373
+12	should	should	PROPN	_	Number=Sing	3	flat:name	O	start_char=7374|end_char=7380
+13	be	be	PROPN	_	Number=Sing	3	flat:name	O	start_char=7381|end_char=7383
+14	confirmed	confirmed	PROPN	_	Number=Sing	3	flat:name	O	start_char=7384|end_char=7393
+15	,	,	PUNCT	_	_	1	flat:name	O	start_char=7393|end_char=7394
+16	especially	especially	PROPN	_	Number=Sing	1	conj	O	start_char=7395|end_char=7405
+17	on	on	PROPN	_	Number=Sing	3	flat:name	O	start_char=7406|end_char=7408
+18	the	the	PROPN	_	Number=Sing	3	flat:name	O	start_char=7409|end_char=7412
+19	pre-salt	pre-salt	PROPN	_	Number=Sing	3	flat:name	O	start_char=7413|end_char=7421
+20	sequence.	sequence.	PROPN	_	Number=Sing	3	flat:name	O	start_char=7422|end_char=7431
+21	.	.	PUNCT	_	_	1	punct	O	start_char=7431|end_char=7432
+
+# sent_id = 2AF52BC9F55643A5E05354EB1D0A3EBE-75
+# text = The loss of mass of the Turonian and the Albian layers around the 200km position after the restoration of the Base of Campanian and of the Top of Turonian suggest that a check over these horizons should be performed..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=7434|end_char=7437
+2	loss	loss	PROPN	_	Number=Sing	1	flat:name	O	start_char=7438|end_char=7442
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7443|end_char=7445
+4	mass	mass	PROPN	_	Number=Sing	1	flat:name	O	start_char=7446|end_char=7450
+5	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7451|end_char=7453
+6	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7454|end_char=7457
+7	Turonian	Turonian	PROPN	_	Number=Sing	1	flat:name	O	start_char=7458|end_char=7466
+8	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=7467|end_char=7470
+9	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7471|end_char=7474
+10	Albian	Albian	PROPN	_	Number=Sing	1	flat:name	O	start_char=7475|end_char=7481
+11	layers	layers	PROPN	_	Number=Sing	1	flat:name	O	start_char=7482|end_char=7488
+12	around	around	PROPN	_	Number=Sing	1	flat:name	O	start_char=7489|end_char=7495
+13	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7496|end_char=7499
+14	200	200	PROPN	_	Number=Sing	1	flat:name	O	start_char=7500|end_char=7503
+15	km	km	PROPN	_	Number=Sing	1	flat:name	O	start_char=7503|end_char=7505
+16	position	position	PROPN	_	Number=Sing	1	flat:name	O	start_char=7506|end_char=7514
+17	after	after	PROPN	_	Number=Sing	1	flat:name	O	start_char=7515|end_char=7520
+18	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7521|end_char=7524
+19	restoration	restoration	PROPN	_	Number=Sing	1	flat:name	O	start_char=7525|end_char=7536
+20	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7537|end_char=7539
+21	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7540|end_char=7543
+22	Base	Base	PROPN	_	Number=Sing	1	flat:name	O	start_char=7544|end_char=7548
+23	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7549|end_char=7551
+24	Campanian	Campanian	PROPN	_	Number=Sing	1	flat:name	O	start_char=7552|end_char=7561
+25	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=7562|end_char=7565
+26	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7566|end_char=7568
+27	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=7569|end_char=7572
+28	Top	Top	PROPN	_	Number=Sing	1	flat:name	O	start_char=7573|end_char=7576
+29	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=7577|end_char=7579
+30	Turonian	Turonian	PROPN	_	Number=Sing	1	flat:name	O	start_char=7580|end_char=7588
+31	suggest	suggest	PROPN	_	Number=Sing	1	flat:name	O	start_char=7589|end_char=7596
+32	that	that	PROPN	_	Number=Sing	1	flat:name	O	start_char=7597|end_char=7601
+33	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=7602|end_char=7603
+34	check	check	PROPN	_	Number=Sing	1	flat:name	O	start_char=7604|end_char=7609
+35	over	over	PROPN	_	Number=Sing	1	flat:name	O	start_char=7610|end_char=7614
+36	these	these	PROPN	_	Number=Sing	1	flat:name	O	start_char=7615|end_char=7620
+37	horizons	horizons	PROPN	_	Number=Sing	1	flat:name	O	start_char=7621|end_char=7629
+38	should	should	PROPN	_	Number=Sing	1	flat:name	O	start_char=7630|end_char=7636
+39	be	be	PROPN	_	Number=Sing	1	flat:name	O	start_char=7637|end_char=7639
+40	performed.	performed.	PROPN	_	Number=Sing	1	flat:name	O	start_char=7640|end_char=7650
+41	.	.	PUNCT	_	_	1	punct	O	start_char=7650|end_char=7651

@@ -1,0 +1,143 @@
+# sent_id = 271708E8F16506FDE05351EB1D0AB2BF-1
+# text = Classificação: RESERVADA
+1	Classificação	classificação	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=0|end_char=13
+2	:	:	PUNCT	_	_	3	punct	O	start_char=13|end_char=14
+3	RESERVADA	reservar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	parataxis	O	start_char=15|end_char=24
+
+# sent_id = 271708E8F16506FDE05351EB1D0AB2BF-2
+# text = Os dados representam uma parte do negócio da companhia e não devem circular internamente sem restrição..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=26|end_char=28
+2	dados	dado	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	O	start_char=29|end_char=34
+3	representam	representar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=35|end_char=46
+4	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	O	start_char=47|end_char=50
+5	parte	parte	NOUN	_	Gender=Fem|Number=Sing	3	obj	O	start_char=51|end_char=56
+6-7	do	_	_	_	_	_	_	O	start_char=57|end_char=59
+6	de	de	ADP	_	_	8	case	O	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	_
+8	negócio	negócio	NOUN	_	Gender=Masc|Number=Sing	5	nmod	O	start_char=60|end_char=67
+9-10	da	_	_	_	_	_	_	O	start_char=68|end_char=70
+9	de	de	ADP	_	_	11	case	O	_
+10	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	O	_
+11	companhia	companhia	NOUN	_	Gender=Fem|Number=Sing	8	nmod	O	start_char=71|end_char=80
+12	e	e	CCONJ	_	_	14	cc	O	start_char=81|end_char=82
+13	não	não	ADV	_	Polarity=Neg	14	advmod	O	start_char=83|end_char=86
+14	devem	dever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	O	start_char=87|end_char=92
+15	circular	circular	VERB	_	VerbForm=Inf	14	xcomp	O	start_char=93|end_char=101
+16	internamente	internamente	ADV	_	_	15	advmod	O	start_char=102|end_char=114
+17	sem	sem	ADP	_	_	18	case	O	start_char=115|end_char=118
+18	restrição	restrição	NOUN	_	Gender=Fem|Number=Sing	15	obl	O	start_char=119|end_char=128
+19	.	.	PUNCT	_	_	3	punct	O	start_char=128|end_char=129
+20	.	.	PUNCT	_	_	3	punct	O	start_char=129|end_char=130
+
+# sent_id = 271708E8F16506FDE05351EB1D0AB2BF-3
+# text = Liberação para os setores que demandaram ou realizaram o trabalho, a saber: O emitente desta mensagem é responsável por seu conteúdo e endereçamento..
+1	Liberação	liberação	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=132|end_char=141
+2	para	para	ADP	_	_	4	case	O	start_char=142|end_char=146
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	O	start_char=147|end_char=149
+4	setores	setor	NOUN	_	Gender=Masc|Number=Plur	1	nmod	O	start_char=150|end_char=157
+5	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	6	nsubj	O	start_char=158|end_char=161
+6	demandaram	demandar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	4	acl:relcl	O	start_char=162|end_char=172
+7	ou	ou	CCONJ	_	_	8	cc	O	start_char=173|end_char=175
+8	realizaram	realizar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	6	conj	O	start_char=176|end_char=186
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	O	start_char=187|end_char=188
+10	trabalho	trabalho	NOUN	_	Gender=Masc|Number=Sing	8	obj	O	start_char=189|end_char=197
+11	,	,	PUNCT	_	_	13	punct	O	start_char=197|end_char=198
+12	a	a	SCONJ	_	_	13	mark	O	start_char=199|end_char=200
+13	saber	saber	VERB	_	VerbForm=Inf	1	advcl	O	start_char=201|end_char=206
+14	:	:	PUNCT	_	_	21	punct	O	start_char=206|end_char=207
+15	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	O	start_char=208|end_char=209
+16	emitente	emitente	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	O	start_char=210|end_char=218
+17-18	desta	_	_	_	_	_	_	O	start_char=219|end_char=224
+17	de	de	ADP	_	_	19	case	O	_
+18	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	19	det	O	_
+19	mensagem	mensagem	NOUN	_	Gender=Fem|Number=Sing	16	nmod	O	start_char=225|end_char=233
+20	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	O	start_char=234|end_char=235
+21	responsável	responsável	ADJ	_	Gender=Fem|Number=Sing	13	ccomp	O	start_char=236|end_char=247
+22	por	por	ADP	_	_	24	case	O	start_char=248|end_char=251
+23	seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	24	det	O	start_char=252|end_char=255
+24	conteúdo	conteúdo	NOUN	_	Gender=Masc|Number=Sing	21	obl	O	start_char=256|end_char=264
+25	e	e	CCONJ	_	_	26	cc	O	start_char=265|end_char=266
+26	endereçamento	endereçamento	NOUN	_	Gender=Masc|Number=Sing	24	conj	O	start_char=267|end_char=280
+27	.	.	PUNCT	_	_	21	punct	O	start_char=280|end_char=281
+28	.	.	PUNCT	_	_	1	punct	O	start_char=281|end_char=282
+
+# sent_id = 271708E8F16506FDE05351EB1D0AB2BF-4
+# text = Cabe ao destinatário cuidar quanto ao tratamento adequado..
+1	Cabe	caber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=284|end_char=288
+2-3	ao	_	_	_	_	_	_	O	start_char=289|end_char=291
+2	a	a	ADP	_	_	4	case	O	_
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	O	_
+4	destinatário	destinatário	NOUN	_	Gender=Masc|Number=Sing	1	obl:arg	O	start_char=292|end_char=304
+5	cuidar	cuidar	VERB	_	VerbForm=Inf	1	xcomp	O	start_char=305|end_char=311
+6	quanto	quanto	ADV	_	_	9	case	O	start_char=312|end_char=318
+7-8	ao	_	_	_	_	_	_	O	start_char=319|end_char=321
+7	a	a	ADP	_	_	6	fixed	O	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	_
+9	tratamento	tratamento	NOUN	_	Gender=Masc|Number=Sing	5	obl	O	start_char=322|end_char=332
+10	adequado	adequado	ADJ	_	Gender=Masc|Number=Sing	9	amod	O	start_char=333|end_char=341
+11	.	.	PUNCT	_	_	1	punct	O	start_char=341|end_char=342
+12	.	.	PUNCT	_	_	1	punct	O	start_char=342|end_char=343
+
+# sent_id = 271708E8F16506FDE05351EB1D0AB2BF-5
+# text = Sem a devida autorização, a divulgação, a reprodução, a distribuição ou qualquer outra ação em desconformidade com as normas internas do Sistema Petrobras são proibidas e passíveis de sanção disciplinar, cível e criminal..
+1	Sem	sem	ADP	_	_	4	case	O	start_char=345|end_char=348
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	start_char=349|end_char=350
+3	devida	devido	ADJ	_	Gender=Fem|Number=Sing	4	amod	O	start_char=351|end_char=357
+4	autorização	autorização	NOUN	_	Gender=Fem|Number=Sing	29	obl	O	start_char=358|end_char=369
+5	,	,	PUNCT	_	_	4	punct	O	start_char=369|end_char=370
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	O	start_char=371|end_char=372
+7	divulgação	divulgação	NOUN	_	Gender=Fem|Number=Sing	29	nsubj:pass	O	start_char=373|end_char=383
+8	,	,	PUNCT	_	_	10	punct	O	start_char=383|end_char=384
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	O	start_char=385|end_char=386
+10	reprodução	reprodução	NOUN	_	Gender=Fem|Number=Sing	7	conj	O	start_char=387|end_char=397
+11	,	,	PUNCT	_	_	13	punct	O	start_char=397|end_char=398
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	O	start_char=399|end_char=400
+13	distribuição	distribuição	NOUN	_	Gender=Fem|Number=Sing	7	conj	O	start_char=401|end_char=413
+14	ou	ou	CCONJ	_	_	17	cc	O	start_char=414|end_char=416
+15	qualquer	qualquer	DET	_	Gender=Fem|Number=Sing|PronType=Ind	17	det	O	start_char=417|end_char=425
+16	outra	outro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	17	det	O	start_char=426|end_char=431
+17	ação	ação	NOUN	_	Gender=Fem|Number=Sing	7	conj	O	start_char=432|end_char=436
+18	em	em	ADP	_	_	19	case	O	start_char=437|end_char=439
+19	desconformidade	desconformidade	NOUN	_	Gender=Fem|Number=Sing	17	nmod	O	start_char=440|end_char=455
+20	com	com	ADP	_	_	22	case	O	start_char=456|end_char=459
+21	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	O	start_char=460|end_char=462
+22	normas	norma	NOUN	_	Gender=Fem|Number=Plur	17	nmod	O	start_char=463|end_char=469
+23	internas	interno	ADJ	_	Gender=Fem|Number=Plur	22	amod	O	start_char=470|end_char=478
+24-25	do	_	_	_	_	_	_	O	start_char=479|end_char=481
+24	de	de	ADP	_	_	26	case	O	_
+25	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	O	_
+26	Sistema	Sistema	PROPN	_	Gender=Masc|Number=Sing	22	nmod	O	start_char=482|end_char=489
+27	Petrobras	Petrobras	PROPN	_	Number=Sing	26	flat:name	O	start_char=490|end_char=499
+28	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux:pass	O	start_char=500|end_char=503
+29	proibidas	proibir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=504|end_char=513
+30	e	e	CCONJ	_	_	31	cc	O	start_char=514|end_char=515
+31	passíveis	passível	ADJ	_	Gender=Fem|Number=Plur	29	conj	O	start_char=516|end_char=525
+32	de	de	ADP	_	_	33	case	O	start_char=526|end_char=528
+33	sanção	sanção	NOUN	_	Gender=Fem|Number=Sing	31	obl	O	start_char=529|end_char=535
+34	disciplinar	disciplinar	ADJ	_	Gender=Fem|Number=Sing	33	amod	O	start_char=536|end_char=547
+35	,	,	PUNCT	_	_	36	punct	O	start_char=547|end_char=548
+36	cível	cível	NOUN	_	Gender=Masc|Number=Sing	33	conj	O	start_char=549|end_char=554
+37	e	e	CCONJ	_	_	38	cc	O	start_char=555|end_char=556
+38	criminal	criminal	NOUN	_	Gender=Masc|Number=Sing	33	conj	O	start_char=557|end_char=565
+39	.	.	PUNCT	_	_	29	punct	O	start_char=565|end_char=566
+40	.	.	PUNCT	_	_	29	punct	O	start_char=566|end_char=567
+
+# sent_id = 271708E8F16506FDE05351EB1D0AB2BF-6
+# text = Para: Leila Santiago Tavares/E-P/Petrobras @ Petrobras cc: Assunto: CT numero 12 MSP para arquivar
+1	Para	para	ADP	_	_	3	case	O	start_char=569|end_char=573
+2	:	:	PUNCT	_	_	3	punct	O	start_char=573|end_char=574
+3	Leila	Leila	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=575|end_char=580
+4	Santiago	Santiago	PROPN	_	Number=Sing	3	flat:name	O	start_char=581|end_char=589
+5	Tavares	Tavares	PROPN	_	Number=Sing	3	flat:name	O	start_char=590|end_char=597
+6	/E-P/Petrobras	/E-P/Petrobras	PROPN	_	Number=Sing	3	flat:name	O	start_char=597|end_char=611
+7	@	@	PROPN	_	Number=Sing	3	flat:name	O	start_char=612|end_char=613
+8	Petrobras	Petrobras	PROPN	_	Number=Sing	3	flat:name	O	start_char=614|end_char=623
+9	cc:	cc:	PUNCT	_	_	10	punct	O	start_char=624|end_char=627
+10	Assunto	assunto	NOUN	_	Gender=Masc|Number=Sing	3	appos	O	start_char=628|end_char=635
+11	:	:	PUNCT	_	_	12	punct	O	start_char=635|end_char=636
+12	CT	CT	PROPN	_	Gender=Masc|Number=Sing	3	appos	O	start_char=637|end_char=639
+13	numero	numero	NOUN	_	Gender=Masc|Number=Sing	12	flat:foreign	O	start_char=640|end_char=646
+14	12	12	NUM	_	NumType=Card	15	nummod	O	start_char=647|end_char=649
+15	MSP	MSP	PROPN	_	Gender=Masc|Number=Sing	12	nmod	O	start_char=650|end_char=653
+16	para	para	SCONJ	_	_	17	mark	O	start_char=654|end_char=658
+17	arquivar	arquivar	VERB	_	VerbForm=Inf	3	acl	O	start_char=659|end_char=667

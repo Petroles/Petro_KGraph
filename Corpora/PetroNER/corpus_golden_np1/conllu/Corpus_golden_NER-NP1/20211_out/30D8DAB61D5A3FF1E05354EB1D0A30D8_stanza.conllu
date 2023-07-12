@@ -1,0 +1,2167 @@
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-1
+# text = Caracterização litológica de intervalos do poço 1-SES-127 a partir de descrição micropetrográfica de amostras de calha 2655 m - 85 & Flh cnz, 10 + +lh cnz esverd, 5 % marga cnz acast. 2658 m = 100 % Flh cnz, mui pouco calcif, levem síltico, subor cnz acast e cnz esvord..
+1	Caracterização	caracterização	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=0|end_char=14
+2	litológica	litológico	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	start_char=15|end_char=25
+3	de	de	ADP	_	_	4	case	_	start_char=26|end_char=28
+4	intervalos	intervalo	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	start_char=29|end_char=39
+5-6	do	_	_	_	_	_	_	_	start_char=40|end_char=42
+5	de	de	ADP	_	_	7	case	_	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	poço	poço	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	start_char=43|end_char=47
+8	1-SES-127	1-ses-127	NUM	_	NumType=Card	7	nummod	_	start_char=48|end_char=57
+9	a	a	ADP	_	_	12	case	_	start_char=58|end_char=59
+10	partir	partir	NOUN	_	_	9	fixed	_	start_char=60|end_char=66
+11	de	de	ADP	_	_	9	fixed	_	start_char=67|end_char=69
+12	descrição	descrição	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	start_char=70|end_char=79
+13	micropetrográfica	micropetrográfico	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	start_char=80|end_char=97
+14	de	de	ADP	_	_	15	case	_	start_char=98|end_char=100
+15	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	12	nmod	_	start_char=101|end_char=109
+16	de	de	ADP	_	_	17	case	_	start_char=110|end_char=112
+17	calha	calha	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	start_char=113|end_char=118
+18	2655	2655	NUM	_	NumType=Card	19	nummod	_	start_char=119|end_char=123
+19	m	m	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	start_char=124|end_char=125
+20	-	-	PUNCT	_	_	22	punct	_	start_char=126|end_char=127
+21	85	85	NUM	_	NumType=Card	22	nummod	_	start_char=128|end_char=130
+22	&	&	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	start_char=131|end_char=132
+23	Flh	Flh	PROPN	_	Gender=Masc|Number=Sing	22	nmod	_	start_char=133|end_char=136
+24	cnz	cnz	PROPN	_	Number=Sing	23	flat:name	_	start_char=137|end_char=140
+25	,	,	PUNCT	_	_	27	punct	_	start_char=140|end_char=141
+26	10	10	NUM	_	NumType=Card	27	nummod	_	start_char=142|end_char=144
+27	+	+	SYM	_	_	22	conj	_	start_char=145|end_char=146
+28	+lh	+lh	NUM	_	NumType=Card	29	nummod	_	start_char=147|end_char=150
+29	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	start_char=151|end_char=154
+30	esverd	esverd	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	start_char=155|end_char=161
+31	,	,	PUNCT	_	_	33	punct	_	start_char=161|end_char=162
+32	5	5	NUM	_	NumType=Card	33	nummod	_	start_char=163|end_char=164
+33	%	%	SYM	_	_	27	conj	_	start_char=165|end_char=166
+34	marga	marga	NOUN	_	Gender=Fem|Number=Sing	33	nmod	_	start_char=167|end_char=172
+35	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	33	nmod	_	start_char=173|end_char=176
+36	acast.	acast.	ADP	_	_	38	case	_	start_char=177|end_char=183
+37	2658	2658	NUM	_	NumType=Card	38	nummod	_	start_char=184|end_char=188
+38	m	m	NOUN	_	Gender=Masc|Number=Plur	33	nmod	_	start_char=189|end_char=190
+39	=	=	PUNCT	_	_	41	punct	_	start_char=191|end_char=192
+40	100	100	NUM	_	NumType=Card	41	nummod	_	start_char=193|end_char=196
+41	%	%	SYM	_	_	50	conj	_	start_char=197|end_char=198
+42	Flh	flh	ADP	_	_	43	case	_	start_char=199|end_char=202
+43	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	41	nmod	_	start_char=203|end_char=206
+44	,	,	PUNCT	_	_	47	punct	_	start_char=206|end_char=207
+45	mui	mui	ADV	_	_	47	advmod	_	start_char=208|end_char=211
+46	pouco	pouco	ADV	_	_	47	advmod	_	start_char=212|end_char=217
+47	calcif	calcif	ADJ	_	Gender=Masc|Number=Sing	41	amod	_	start_char=218|end_char=224
+48	,	,	PUNCT	_	_	47	punct	_	start_char=224|end_char=225
+49	levem	levar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38	conj	_	start_char=226|end_char=231
+50	síltico	síltico	NOUN	_	Gender=Masc|Number=Sing	49	obj	_	start_char=232|end_char=239
+51	,	,	PUNCT	_	_	52	punct	_	start_char=239|end_char=240
+52	subor	subor	NOUN	_	Gender=Masc|Number=Sing	50	conj	_	start_char=241|end_char=246
+53	cnz	cnz	PUNCT	_	_	54	punct	_	start_char=247|end_char=250
+54	acast	acast	NOUN	_	Gender=Masc|Number=Sing	50	conj	_	start_char=251|end_char=256
+55	e	e	CCONJ	_	_	56	cc	_	start_char=257|end_char=258
+56	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	50	conj	_	start_char=259|end_char=262
+57	esvord	esvord	NOUN	_	Gender=Masc|Number=Sing	56	nmod	_	start_char=263|end_char=269
+58	.	.	PUNCT	_	_	49	punct	_	start_char=269|end_char=270
+59	.	.	PUNCT	_	_	49	punct	_	start_char=270|end_char=271
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-2
+# text = 2661 m — 100 4
+1	2661	2661	NUM	_	NumType=Card	2	nummod	_	start_char=273|end_char=277
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=278|end_char=279
+3	—	—	PUNCT	_	_	5	punct	_	start_char=280|end_char=281
+4	100	100	NUM	_	NumType=Card	5	nummod	_	start_char=282|end_char=285
+5	4	4	NUM	_	NumType=Card	2	appos	_	start_char=286|end_char=287
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-3
+# text = Flh siltico cnz acast..
+1	Flh	Flh	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	start_char=289|end_char=292
+2	siltico	siltico	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	start_char=293|end_char=300
+3	cnz	cnzer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=301|end_char=304
+4	acast.	acast.	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	start_char=305|end_char=311
+5	.	.	PUNCT	_	_	3	punct	_	start_char=311|end_char=312
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-4
+# text = Tr material cnz esc scast, mui calcí, mui fino, recristal; e glauconita..
+1	Tr	Tr	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=314|end_char=316
+2	material	material	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=317|end_char=325
+3	cnz	cnz	PUNCT	_	_	4	punct	_	start_char=326|end_char=329
+4	esc	esc	X	_	_	1	appos	_	start_char=330|end_char=333
+5	scast	scast	ADJ	_	Gender=Masc|Number=Sing	4	compound	_	start_char=334|end_char=339
+6	,	,	PUNCT	_	_	7	punct	_	start_char=339|end_char=340
+7	mui	mui	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=341|end_char=344
+8	calcí	calcí	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=345|end_char=350
+9	,	,	PUNCT	_	_	11	punct	_	start_char=350|end_char=351
+10	mui	mui	ADV	_	_	11	advmod	_	start_char=352|end_char=355
+11	fino	fino	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=356|end_char=360
+12	,	,	PUNCT	_	_	13	punct	_	start_char=360|end_char=361
+13	recristal	recristal	ADJ	_	Gender=Masc|Number=Sing	11	conj	_	start_char=362|end_char=371
+14	;	;	PUNCT	_	_	16	punct	_	start_char=371|end_char=372
+15	e	e	CCONJ	_	_	16	cc	_	start_char=373|end_char=374
+16	glauconita	glauconita	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	start_char=375|end_char=385
+17	.	.	PUNCT	_	_	1	punct	_	start_char=385|end_char=386
+18	.	.	PUNCT	_	_	1	punct	_	start_char=386|end_char=387
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-5
+# text = 2664 m - Amostra semelhante à anterior..
+1	2664	2664	NUM	_	NumType=Card	2	nummod	_	start_char=389|end_char=393
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=394|end_char=395
+3	-	-	PUNCT	_	_	4	punct	_	start_char=396|end_char=397
+4	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	start_char=398|end_char=405
+5	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=406|end_char=416
+6-7	à	_	_	_	_	_	_	_	start_char=417|end_char=418
+6	a	a	ADP	_	_	8	case	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	anterior	anterior	ADJ	_	Gender=Fem|Number=Sing	5	obl	_	start_char=419|end_char=427
+9	.	.	PUNCT	_	_	2	punct	_	start_char=427|end_char=428
+10	.	.	PUNCT	_	_	2	punct	_	start_char=428|end_char=429
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-6
+# text = 2667 m - Amostra semelhante 4 anterior, 100 4% Flh siltico, cnz clr, cnz acast clr, com gqlauconita..
+1	2667	2667	NUM	_	NumType=Card	2	nummod	_	start_char=431|end_char=435
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=436|end_char=437
+3	-	-	PUNCT	_	_	4	punct	_	start_char=438|end_char=439
+4	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	start_char=440|end_char=447
+5	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=448|end_char=458
+6	4	4	NUM	_	NumType=Card	4	nummod	_	start_char=459|end_char=460
+7	anterior	anterior	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=461|end_char=469
+8	,	,	PUNCT	_	_	11	punct	_	start_char=469|end_char=470
+9	100	100	NUM	_	NumType=Card	11	nummod	_	start_char=471|end_char=474
+10	4	4	NUM	_	NumType=Card	11	nummod	_	start_char=475|end_char=476
+11	%	%	SYM	_	_	2	conj	_	start_char=476|end_char=477
+12	Flh	flh	PUNCT	_	_	13	punct	_	start_char=478|end_char=481
+13	siltico	siltico	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=482|end_char=489
+14	,	,	PUNCT	_	_	15	punct	_	start_char=489|end_char=490
+15	cnz	cnz	X	_	_	2	conj	_	start_char=491|end_char=494
+16	clr	clr	NOUN	_	Gender=Masc|Number=Sing	15	flat:foreign	_	start_char=495|end_char=498
+17	,	,	PUNCT	_	_	18	punct	_	start_char=498|end_char=499
+18	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	start_char=500|end_char=503
+19	acast	acast	X	_	_	18	flat:foreign	_	start_char=504|end_char=509
+20	clr	clr	X	_	_	18	flat:foreign	_	start_char=510|end_char=513
+21	,	,	PUNCT	_	_	23	punct	_	start_char=513|end_char=514
+22	com	com	ADP	_	_	23	case	_	start_char=515|end_char=518
+23	gqlauconita	gqlauconita	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=519|end_char=530
+24	.	.	PUNCT	_	_	23	punct	_	start_char=530|end_char=531
+25	.	.	PUNCT	_	_	2	punct	_	start_char=531|end_char=532
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-7
+# text = Lamina 3205 (2655/2667 m) - Fragmentos de folhelho siltico possivelmente sujeito a ilitização dos argilominerais e ilitização, Figura 1..
+1	Lamina	lamina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=534|end_char=540
+2	3205	3205	NUM	_	NumType=Card	1	nummod	_	start_char=541|end_char=545
+3	(	(	PUNCT	_	_	5	punct	_	start_char=546|end_char=547
+4	2655/2667	2655/2667	NUM	_	NumType=Card	5	nummod	_	start_char=547|end_char=556
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=557|end_char=558
+6	)	)	PUNCT	_	_	5	punct	_	start_char=558|end_char=559
+7	-	-	PUNCT	_	_	8	punct	_	start_char=560|end_char=561
+8	Fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	start_char=562|end_char=572
+9	de	de	ADP	_	_	10	case	_	start_char=573|end_char=575
+10	folhelho	folhelho	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	start_char=576|end_char=584
+11	siltico	siltico	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	start_char=585|end_char=592
+12	possivelmente	possivelmente	ADV	_	_	13	advmod	_	start_char=593|end_char=606
+13	sujeito	sujeitar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	start_char=607|end_char=614
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=615|end_char=616
+15	ilitização	ilitização	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	start_char=617|end_char=627
+16-17	dos	_	_	_	_	_	_	_	start_char=628|end_char=631
+16	de	de	ADP	_	_	18	case	_	_
+17	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	start_char=632|end_char=646
+19	e	e	CCONJ	_	_	20	cc	_	start_char=647|end_char=648
+20	ilitização	ilitização	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	start_char=649|end_char=659
+21	,	,	PUNCT	_	_	22	punct	_	start_char=659|end_char=660
+22	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	1	conj	_	start_char=661|end_char=667
+23	1..	1..	PROPN	_	Number=Sing	22	flat:name	_	start_char=668|end_char=671
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-8
+# text = Identifica-se também fragmentos de rocha vulcânica constituída por matriz equigranular de feldspatos (plagioclásio em prismas e possivelmente sanidina anédrica) e anfibólio em prismas..
+1-2	Identifica-se	_	_	_	_	_	_	_	start_char=673|end_char=686
+1	Identifica	identificar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	_	Case=Acc|PronType=Prs	1	expl	_	_
+3	também	também	ADV	_	_	1	advmod	_	start_char=687|end_char=693
+4	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	start_char=694|end_char=704
+5	de	de	ADP	_	_	6	case	_	start_char=705|end_char=707
+6	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=708|end_char=713
+7	vulcânica	vulcânico	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	start_char=714|end_char=723
+8	constituída	constituir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	start_char=724|end_char=735
+9	por	por	ADP	_	_	10	case	_	start_char=736|end_char=739
+10	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	8	obl:agent	_	start_char=740|end_char=746
+11	equigranular	equigranular	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	start_char=747|end_char=759
+12	de	de	ADP	_	_	13	case	_	start_char=760|end_char=762
+13	feldspatos	feldspato	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	start_char=763|end_char=773
+14	(	(	PUNCT	_	_	15	punct	_	start_char=774|end_char=775
+15	plagioclásio	plagioclásio	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	start_char=775|end_char=787
+16	em	em	ADP	_	_	17	case	_	start_char=788|end_char=790
+17	prismas	prisma	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	start_char=791|end_char=798
+18	e	e	CCONJ	_	_	20	cc	_	start_char=799|end_char=800
+19	possivelmente	possivelmente	ADV	_	_	20	advmod	_	start_char=801|end_char=814
+20	sanidina	sanidino	ADJ	_	Gender=Fem|Number=Sing	17	conj	_	start_char=815|end_char=823
+21	anédrica	anédrico	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	start_char=824|end_char=832
+22	)	)	PUNCT	_	_	15	punct	_	start_char=832|end_char=833
+23	e	e	CCONJ	_	_	24	cc	_	start_char=834|end_char=835
+24	anfibólio	anfibólio	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	start_char=836|end_char=845
+25	em	em	ADP	_	_	26	case	_	start_char=846|end_char=848
+26	prismas	prisma	NOUN	_	Gender=Masc|Number=Plur	24	nmod	_	start_char=849|end_char=856
+27	.	.	PUNCT	_	_	1	punct	_	start_char=856|end_char=857
+28	.	.	PUNCT	_	_	1	punct	_	start_char=857|end_char=858
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-9
+# text = Fenocristais de anfibólio estão sujeitos a vitrificação em suas superfícies externas..
+1	Fenocristais	fenocristal	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	start_char=860|end_char=872
+2	de	de	ADP	_	_	3	case	_	start_char=873|end_char=875
+3	anfibólio	anfibólio	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	start_char=876|end_char=885
+4	estão	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=886|end_char=891
+5	sujeitos	sujeito	ADJ	_	Gender=Masc|Number=Plur	0	root	_	start_char=892|end_char=900
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=901|end_char=902
+7	vitrificação	vitrificação	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	start_char=903|end_char=915
+8	em	em	ADP	_	_	10	case	_	start_char=916|end_char=918
+9	suas	seu	DET	_	Gender=Fem|Number=Plur|PronType=Prs	10	det	_	start_char=919|end_char=923
+10	superfícies	superfície	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	start_char=924|end_char=935
+11	externas	externo	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	start_char=936|end_char=944
+12	.	.	PUNCT	_	_	5	punct	_	start_char=944|end_char=945
+13	.	.	PUNCT	_	_	5	punct	_	start_char=945|end_char=946
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-10
+# text = Encontra-se também vidro e opacos dispersos pela matriz..
+1-2	Encontra-se	_	_	_	_	_	_	_	start_char=948|end_char=959
+1	Encontra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+3	também	também	ADV	_	_	1	advmod	_	start_char=960|end_char=966
+4	vidro	vidro	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	start_char=967|end_char=972
+5	e	e	CCONJ	_	_	6	cc	_	start_char=973|end_char=974
+6	opacos	opaco	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	start_char=975|end_char=981
+7	dispersos	dispersar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	6	acl	_	start_char=982|end_char=991
+8-9	pela	_	_	_	_	_	_	_	start_char=992|end_char=996
+8	por	por	ADP	_	_	10	case	_	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	7	obl:agent	_	start_char=997|end_char=1003
+11	.	.	PUNCT	_	_	1	punct	_	start_char=1003|end_char=1004
+12	.	.	PUNCT	_	_	1	punct	_	start_char=1004|end_char=1005
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-11
+# text = Classificada como traquito, Figuras 2, 3a e 3b.
+2) 2795/2805 m - Provável diamictito..
+1	Classificada	classificar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	start_char=1007|end_char=1019
+2	como	como	ADP	_	_	3	case	_	start_char=1020|end_char=1024
+3	traquito	traquito	NOUN	_	Gender=Masc|Number=Sing	1	xcomp	_	start_char=1025|end_char=1033
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1033|end_char=1034
+5	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	3	conj	_	start_char=1035|end_char=1042
+6	2	2	PROPN	_	Number=Sing	5	flat:name	_	start_char=1043|end_char=1044
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1044|end_char=1045
+8	3a	3a	NUM	_	NumType=Card	3	conj	_	start_char=1046|end_char=1048
+9	e	e	CCONJ	_	_	10	cc	_	start_char=1049|end_char=1050
+10	3b.	3b.	NUM	_	NumType=Card	13	nummod	_	start_char=1051|end_char=1054
+11	2)	2)	NUM	_	NumType=Card	13	nummod	_	start_char=1055|end_char=1057
+12	2795/2805	2795/2805	NUM	_	NumType=Card	13	nummod	_	start_char=1058|end_char=1067
+13	m	m	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	start_char=1068|end_char=1069
+14	-	-	PUNCT	_	_	16	punct	_	start_char=1070|end_char=1071
+15	Provável	provável	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	start_char=1072|end_char=1080
+16	diamictito	diamictito	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	start_char=1081|end_char=1091
+17	.	.	PUNCT	_	_	16	punct	_	start_char=1091|end_char=1092
+18	.	.	PUNCT	_	_	1	punct	_	start_char=1092|end_char=1093
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-12
+# text = Totalmente constituído por folhelho cinza a cinza acastanhado..
+1	Totalmente	totalmente	ADV	_	_	2	advmod	_	start_char=1095|end_char=1105
+2	constituído	constituir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=1106|end_char=1117
+3	por	por	ADP	_	_	4	case	_	start_char=1118|end_char=1121
+4	folhelho	folhelho	NOUN	_	Gender=Masc|Number=Sing	2	obl:agent	_	start_char=1122|end_char=1130
+5	cinza	cinza	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=1131|end_char=1136
+6	a	a	ADP	_	_	7	case	_	start_char=1137|end_char=1138
+7	cinza	cinza	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=1139|end_char=1144
+8	acastanhado	acastanhar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	start_char=1145|end_char=1156
+9	.	.	PUNCT	_	_	8	punct	_	start_char=1156|end_char=1157
+10	.	.	PUNCT	_	_	2	punct	_	start_char=1157|end_char=1158
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-13
+# text = 2793 m - 100 4
+1	2793	2793	NUM	_	NumType=Card	2	nummod	_	start_char=1160|end_char=1164
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=1165|end_char=1166
+3	-	-	PUNCT	_	_	5	punct	_	start_char=1167|end_char=1168
+4	100	100	NUM	_	NumType=Card	5	nummod	_	start_char=1169|end_char=1172
+5	4	4	NUM	_	NumType=Card	2	appos	_	start_char=1173|end_char=1174
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-14
+# text = Flh cnz, subord cnz acast clr, fissil, lamin, localm siltico e arenoso, mui aoe as 100 *
+1	Flh	Flh	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1176|end_char=1179
+2	cnz	cnz	PROPN	_	Number=Sing	1	flat:name	_	start_char=1180|end_char=1183
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1183|end_char=1184
+4	subord	subord	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1185|end_char=1191
+5	cnz	cnz	PUNCT	_	_	6	punct	_	start_char=1192|end_char=1195
+6	acast	acast	X	_	_	1	conj	_	start_char=1196|end_char=1201
+7	clr	clr	X	_	_	6	flat:foreign	_	start_char=1202|end_char=1205
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1205|end_char=1206
+9	fissil	fissil	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1207|end_char=1213
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1213|end_char=1214
+11	lamin	lamin	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1215|end_char=1220
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1220|end_char=1221
+13	localm	localm	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1222|end_char=1228
+14	siltico	siltico	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	start_char=1229|end_char=1236
+15	e	e	CCONJ	_	_	16	cc	_	start_char=1237|end_char=1238
+16	arenoso	arenoso	ADJ	_	Gender=Masc|Number=Sing	14	conj	_	start_char=1239|end_char=1246
+17	,	,	PUNCT	_	_	18	punct	_	start_char=1246|end_char=1247
+18	mui	mui	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1248|end_char=1251
+19	aoe	aoe	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	start_char=1252|end_char=1255
+20	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	start_char=1256|end_char=1258
+21	100	100	NUM	_	NumType=Card	1	conj	_	start_char=1259|end_char=1262
+22	*	*	PUNCT	_	_	1	punct	_	start_char=1263|end_char=1264
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-15
+# text = Flh cnz acast a cnz esverd, calcif, c/traços de arn cnz acast fino a mui fino, 2798 m Amostra semelhante à anterior, c/glauconita, aparent tubos de vermes e traços de ooo? a 100 % Flh silt cnz, lev acast clr e Localm arenoso..
+1	Flh	Flh	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	start_char=1266|end_char=1269
+2	cnz	cnz	PROPN	_	Number=Sing	1	flat:name	_	start_char=1270|end_char=1273
+3	acast	acastar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1274|end_char=1279
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=1280|end_char=1281
+5	cnz	cnz	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	start_char=1282|end_char=1285
+6	esverd	esverd	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	start_char=1286|end_char=1292
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1292|end_char=1293
+8	calcif	calcif	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	start_char=1294|end_char=1300
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1300|end_char=1301
+10	c/traços	c/traço	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	start_char=1302|end_char=1310
+11	de	de	ADP	_	_	12	case	_	start_char=1311|end_char=1313
+12	arn	arn	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	start_char=1314|end_char=1317
+13	cnz	cnz	X	_	_	12	flat:foreign	_	start_char=1318|end_char=1321
+14	acast	acast	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	start_char=1322|end_char=1327
+15	fino	fino	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	start_char=1328|end_char=1332
+16	a	a	ADP	_	_	18	case	_	start_char=1333|end_char=1334
+17	mui	mui	ADV	_	_	18	advmod	_	start_char=1335|end_char=1338
+18	fino	fino	ADJ	_	Gender=Masc|Number=Sing	15	obl	_	start_char=1339|end_char=1343
+19	,	,	PUNCT	_	_	21	punct	_	start_char=1343|end_char=1344
+20	2798	2798	NUM	_	NumType=Card	21	nummod	_	start_char=1345|end_char=1349
+21	m	m	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	start_char=1350|end_char=1351
+22	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	start_char=1352|end_char=1359
+23	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	21	amod	_	start_char=1360|end_char=1370
+24-25	à	_	_	_	_	_	_	_	start_char=1371|end_char=1372
+24	a	a	ADP	_	_	26	case	_	_
+25	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	anterior	anterior	ADJ	_	Gender=Fem|Number=Sing	23	obl	_	start_char=1373|end_char=1381
+27	,	,	PUNCT	_	_	28	punct	_	start_char=1381|end_char=1382
+28	c/glauconita	c/glauconito	ADJ	_	Gender=Fem|Number=Sing	26	conj	_	start_char=1383|end_char=1395
+29	,	,	PUNCT	_	_	30	punct	_	start_char=1395|end_char=1396
+30	aparent	aparentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=1397|end_char=1404
+31	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	30	obj	_	start_char=1405|end_char=1410
+32	de	de	ADP	_	_	33	case	_	start_char=1411|end_char=1413
+33	vermes	verme	NOUN	_	Gender=Masc|Number=Plur	31	nmod	_	start_char=1414|end_char=1420
+34	e	e	CCONJ	_	_	35	cc	_	start_char=1421|end_char=1422
+35	traços	traço	NOUN	_	Gender=Masc|Number=Plur	33	conj	_	start_char=1423|end_char=1429
+36	de	de	ADP	_	_	37	case	_	start_char=1430|end_char=1432
+37	ooo	ooo	NOUN	_	Gender=Masc|Number=Sing	35	nmod	_	start_char=1433|end_char=1436
+38	?	?	PUNCT	_	_	41	punct	_	start_char=1436|end_char=1437
+39	a	a	ADP	_	_	41	case	_	start_char=1438|end_char=1439
+40	100	100	NUM	_	NumType=Card	41	nummod	_	start_char=1440|end_char=1443
+41	%	%	SYM	_	_	30	obl	_	start_char=1444|end_char=1445
+42	Flh	flh	ADP	_	_	43	case	_	start_char=1446|end_char=1449
+43	silt	silt	NOUN	_	Gender=Masc|Number=Sing	41	nmod	_	start_char=1450|end_char=1454
+44	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	43	nmod	_	start_char=1455|end_char=1458
+45	,	,	PUNCT	_	_	46	punct	_	start_char=1458|end_char=1459
+46	lev	lev	X	_	_	43	conj	_	start_char=1460|end_char=1463
+47	acast	acast	X	_	_	46	flat:foreign	_	start_char=1464|end_char=1469
+48	clr	clr	X	_	_	46	flat:foreign	_	start_char=1470|end_char=1473
+49	e	e	CCONJ	_	_	50	cc	_	start_char=1474|end_char=1475
+50	Localm	Localm	PROPN	_	Gender=Masc|Number=Sing	43	conj	_	start_char=1476|end_char=1482
+51	arenoso	arenoso	ADJ	_	Gender=Masc|Number=Sing	50	amod	_	start_char=1483|end_char=1490
+52	.	.	PUNCT	_	_	30	punct	_	start_char=1490|end_char=1491
+53	.	.	PUNCT	_	_	3	punct	_	start_char=1491|end_char=1492
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-16
+# text = 2805 m - Amostra semelhante 4 anterior..
+1	2805	2805	NUM	_	NumType=Card	2	nummod	_	start_char=1494|end_char=1498
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=1499|end_char=1500
+3	-	-	PUNCT	_	_	4	punct	_	start_char=1501|end_char=1502
+4	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	start_char=1503|end_char=1510
+5	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=1511|end_char=1521
+6	4	4	NUM	_	NumType=Card	4	nummod	_	start_char=1522|end_char=1523
+7	anterior	anterior	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=1524|end_char=1532
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1532|end_char=1533
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1533|end_char=1534
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-17
+# text = Lâmina 3206 (2796/2808 m) - Arenito argiloso (wacke) com grãos de até 0.35 mm (correspondente a areia média) de quartzo com extinção reta e ondulante, quartzito, plagioclásio, microclinio e subordinadamente quartzo com inclusões de silimanita, turmalina e moscovita..
+1	Lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=1536|end_char=1542
+2	3206	3206	NUM	_	NumType=Card	1	nummod	_	start_char=1543|end_char=1547
+3	(	(	PUNCT	_	_	5	punct	_	start_char=1548|end_char=1549
+4	2796/2808	2796/2808	NUM	_	NumType=Card	5	nummod	_	start_char=1549|end_char=1558
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=1559|end_char=1560
+6	)	)	PUNCT	_	_	5	punct	_	start_char=1560|end_char=1561
+7	-	-	PUNCT	_	_	8	punct	_	start_char=1562|end_char=1563
+8	Arenito	arenito	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1564|end_char=1571
+9	argiloso	argiloso	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	start_char=1572|end_char=1580
+10	(	(	PUNCT	_	_	11	punct	_	start_char=1581|end_char=1582
+11	wacke	wacke	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	start_char=1582|end_char=1587
+12	)	)	PUNCT	_	_	11	punct	_	start_char=1587|end_char=1588
+13	com	com	ADP	_	_	14	case	_	start_char=1589|end_char=1592
+14	grãos	grão	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	start_char=1593|end_char=1598
+15	de	de	ADP	_	_	18	case	_	start_char=1599|end_char=1601
+16	até	até	ADP	_	_	18	case	_	start_char=1602|end_char=1605
+17	0.35	0.35	NUM	_	NumType=Card	18	nummod	_	start_char=1606|end_char=1610
+18	mm	mm	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	start_char=1611|end_char=1613
+19	(	(	PUNCT	_	_	20	punct	_	start_char=1614|end_char=1615
+20	correspondente	correspondente	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	start_char=1615|end_char=1629
+21	a	a	ADP	_	_	22	case	_	start_char=1630|end_char=1631
+22	areia	areia	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	start_char=1632|end_char=1637
+23	média	médio	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	start_char=1638|end_char=1643
+24	)	)	PUNCT	_	_	20	punct	_	start_char=1643|end_char=1644
+25	de	de	ADP	_	_	26	case	_	start_char=1645|end_char=1647
+26	quartzo	quartzo	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=1648|end_char=1655
+27	com	com	ADP	_	_	28	case	_	start_char=1656|end_char=1659
+28	extinção	extinção	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	start_char=1660|end_char=1668
+29	reta	reta	ADJ	_	Gender=Fem|Number=Sing	28	amod	_	start_char=1669|end_char=1673
+30	e	e	CCONJ	_	_	31	cc	_	start_char=1674|end_char=1675
+31	ondulante	ondulante	ADJ	_	Gender=Fem|Number=Sing	29	conj	_	start_char=1676|end_char=1685
+32	,	,	PUNCT	_	_	33	punct	_	start_char=1685|end_char=1686
+33	quartzito	quartzito	NOUN	_	Gender=Masc|Number=Sing	28	conj	_	start_char=1687|end_char=1696
+34	,	,	PUNCT	_	_	35	punct	_	start_char=1696|end_char=1697
+35	plagioclásio	plagioclásio	NOUN	_	Gender=Masc|Number=Sing	28	conj	_	start_char=1698|end_char=1710
+36	,	,	PUNCT	_	_	37	punct	_	start_char=1710|end_char=1711
+37	microclinio	microclinio	NOUN	_	Gender=Masc|Number=Sing	28	conj	_	start_char=1712|end_char=1723
+38	e	e	CCONJ	_	_	40	cc	_	start_char=1724|end_char=1725
+39	subordinadamente	subordinadamente	ADV	_	_	40	advmod	_	start_char=1726|end_char=1742
+40	quartzo	quartzo	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=1743|end_char=1750
+41	com	com	ADP	_	_	42	case	_	start_char=1751|end_char=1754
+42	inclusões	inclusão	NOUN	_	Gender=Fem|Number=Plur	40	nmod	_	start_char=1755|end_char=1764
+43	de	de	ADP	_	_	44	case	_	start_char=1765|end_char=1767
+44	silimanita	silimanita	NOUN	_	Gender=Fem|Number=Sing	42	nmod	_	start_char=1768|end_char=1778
+45	,	,	PUNCT	_	_	46	punct	_	start_char=1778|end_char=1779
+46	turmalina	turmalina	NOUN	_	Gender=Fem|Number=Sing	44	conj	_	start_char=1780|end_char=1789
+47	e	e	CCONJ	_	_	48	cc	_	start_char=1790|end_char=1791
+48	moscovita	moscovito	ADJ	_	Gender=Fem|Number=Sing	44	conj	_	start_char=1792|end_char=1801
+49	.	.	PUNCT	_	_	48	punct	_	start_char=1801|end_char=1802
+50	.	.	PUNCT	_	_	1	punct	_	start_char=1802|end_char=1803
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-18
+# text = À matriz argilosa apresenta coloração castanha e deve tratra-se de esmectita..
+1	À	à	DET	_	Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=1805|end_char=1806
+2	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	start_char=1807|end_char=1813
+3	argilosa	argiloso	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	start_char=1814|end_char=1822
+4	apresenta	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1823|end_char=1832
+5	coloração	coloração	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	start_char=1833|end_char=1842
+6	castanha	castanha	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	start_char=1843|end_char=1851
+7	e	e	CCONJ	_	_	8	cc	_	start_char=1852|end_char=1853
+8	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=1854|end_char=1858
+9-10	tratra-se	_	_	_	_	_	_	_	start_char=1859|end_char=1868
+9	tratra	tratrar	VERB	_	VerbForm=Inf	8	xcomp	_	_
+10	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+11	de	de	ADP	_	_	12	case	_	start_char=1869|end_char=1871
+12	esmectita	esmectita	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	start_char=1872|end_char=1881
+13	.	.	PUNCT	_	_	9	punct	_	start_char=1881|end_char=1882
+14	.	.	PUNCT	_	_	4	punct	_	start_char=1882|end_char=1883
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-19
+# text = Pode ocorrer cimentação calcitica em fragmentos menos argilosos, Figura 4..
+1	Pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1885|end_char=1889
+2	ocorrer	ocorrer	VERB	_	VerbForm=Inf	1	xcomp	_	start_char=1890|end_char=1897
+3	cimentação	cimentação	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	start_char=1898|end_char=1908
+4	calcitica	calcitico	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	start_char=1909|end_char=1918
+5	em	em	ADP	_	_	6	case	_	start_char=1919|end_char=1921
+6	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	start_char=1922|end_char=1932
+7	menos	menos	ADV	_	_	8	advmod	_	start_char=1933|end_char=1938
+8	argilosos	argiloso	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	start_char=1939|end_char=1948
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1948|end_char=1949
+10	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	6	appos	_	start_char=1950|end_char=1956
+11	4..	4..	PROPN	_	Number=Sing	10	flat:name	_	start_char=1957|end_char=1960
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-20
+# text = É observada a ocorrência de “sideritito”, ou seja, carbonato formado por cristais de siderita que podem chegar até 0.02 mm, contendo grãos tamanho silte a areia média de clásticos e formainiferos plantônicos, Figura 5..
+1	É	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	start_char=1962|end_char=1963
+2	observada	observar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=1964|end_char=1973
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=1974|end_char=1975
+4	ocorrência	ocorrência	NOUN	_	Gender=Fem|Number=Sing	2	nsubj:pass	_	start_char=1976|end_char=1986
+5	de	de	ADP	_	_	7	case	_	start_char=1987|end_char=1989
+6	“	»	PUNCT	_	_	7	punct	_	start_char=1990|end_char=1991
+7	sideritito	sideritito	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	start_char=1991|end_char=2001
+8	”	»	PUNCT	_	_	7	punct	_	start_char=2001|end_char=2002
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2002|end_char=2003
+10	ou	ou	CCONJ	_	_	13	cc	_	start_char=2004|end_char=2006
+11	seja	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	fixed	_	start_char=2007|end_char=2011
+12	,	,	PUNCT	_	_	10	punct	_	start_char=2011|end_char=2012
+13	carbonato	carbonato	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	start_char=2013|end_char=2022
+14	formado	formar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	13	acl	_	start_char=2023|end_char=2030
+15	por	por	ADP	_	_	16	case	_	start_char=2031|end_char=2034
+16	cristais	cristal	NOUN	_	Gender=Masc|Number=Plur	14	obl:agent	_	start_char=2035|end_char=2043
+17	de	de	ADP	_	_	18	case	_	start_char=2044|end_char=2046
+18	siderita	siderita	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	start_char=2047|end_char=2055
+19	que	que	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	20	nsubj	_	start_char=2056|end_char=2059
+20	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	start_char=2060|end_char=2065
+21	chegar	chegar	VERB	_	VerbForm=Inf	20	xcomp	_	start_char=2066|end_char=2072
+22	até	até	ADP	_	_	24	case	_	start_char=2073|end_char=2076
+23	0.02	0.02	NUM	_	NumType=Card	24	nummod	_	start_char=2077|end_char=2081
+24	mm	mm	NOUN	_	Gender=Masc|Number=Plur	21	obl	_	start_char=2082|end_char=2084
+25	,	,	PUNCT	_	_	26	punct	_	start_char=2084|end_char=2085
+26	contendo	conter	VERB	_	VerbForm=Ger	21	advcl	_	start_char=2086|end_char=2094
+27	grãos	grão	NOUN	_	Gender=Masc|Number=Plur	26	obj	_	start_char=2095|end_char=2100
+28	tamanho	tamanho	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	start_char=2101|end_char=2108
+29	silte	silte	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	start_char=2109|end_char=2114
+30	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	start_char=2115|end_char=2116
+31	areia	areia	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	start_char=2117|end_char=2122
+32	média	médio	ADJ	_	Gender=Fem|Number=Sing	31	amod	_	start_char=2123|end_char=2128
+33	de	de	ADP	_	_	34	case	_	start_char=2129|end_char=2131
+34	clásticos	clástico	NOUN	_	Gender=Masc|Number=Plur	31	nmod	_	start_char=2132|end_char=2141
+35	e	e	CCONJ	_	_	36	cc	_	start_char=2142|end_char=2143
+36	formainiferos	formainifero	NOUN	_	Gender=Masc|Number=Plur	34	conj	_	start_char=2144|end_char=2157
+37	plantônicos	plantônico	ADJ	_	Gender=Masc|Number=Plur	36	amod	_	start_char=2158|end_char=2169
+38	,	,	PUNCT	_	_	39	punct	_	start_char=2169|end_char=2170
+39	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	36	appos	_	start_char=2171|end_char=2177
+40	5..	5..	PROPN	_	Number=Sing	39	flat:name	_	start_char=2178|end_char=2181
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-21
+# text = Este material também é encontrado sob a forma de fragmentos constituindo intraclástitos (diamictitos ?) associado a grãos de quartzo e fragmentos argilosos em matriz silto/argilosa, Figura 6..
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=2183|end_char=2187
+2	material	material	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=2188|end_char=2196
+3	também	também	ADV	_	_	5	advmod	_	start_char=2197|end_char=2203
+4	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=2204|end_char=2205
+5	encontrado	encontrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=2206|end_char=2216
+6	sob	sob	ADP	_	_	8	case	_	start_char=2217|end_char=2220
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	start_char=2221|end_char=2222
+8	forma	forma	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	start_char=2223|end_char=2228
+9	de	de	ADP	_	_	10	case	_	start_char=2229|end_char=2231
+10	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	start_char=2232|end_char=2242
+11	constituindo	constituir	VERB	_	VerbForm=Ger	5	advcl	_	start_char=2243|end_char=2255
+12	intraclástitos	intraclástito	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	start_char=2256|end_char=2270
+13	(	(	PUNCT	_	_	14	punct	_	start_char=2271|end_char=2272
+14	diamictitos	diamictito	NOUN	_	Gender=Masc|Number=Plur	12	appos	_	start_char=2272|end_char=2283
+15	?	?	PUNCT	_	_	14	punct	_	start_char=2284|end_char=2285
+16	)	)	PUNCT	_	_	14	punct	_	start_char=2285|end_char=2286
+17	associado	associar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	acl	_	start_char=2287|end_char=2296
+18	a	a	ADP	_	_	19	case	_	start_char=2297|end_char=2298
+19	grãos	grão	NOUN	_	Gender=Masc|Number=Plur	17	obl:arg	_	start_char=2299|end_char=2304
+20	de	de	ADP	_	_	21	case	_	start_char=2305|end_char=2307
+21	quartzo	quartzo	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	start_char=2308|end_char=2315
+22	e	e	CCONJ	_	_	23	cc	_	start_char=2316|end_char=2317
+23	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	21	conj	_	start_char=2318|end_char=2328
+24	argilosos	argiloso	ADJ	_	Gender=Masc|Number=Plur	23	amod	_	start_char=2329|end_char=2338
+25	em	em	ADP	_	_	26	case	_	start_char=2339|end_char=2341
+26	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	start_char=2342|end_char=2348
+27	silto	silto	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	start_char=2349|end_char=2354
+28	/	/	PUNCT	_	_	29	punct	_	start_char=2354|end_char=2355
+29	argilosa	argilosa	NOUN	_	Gender=Fem|Number=Sing	26	conj	_	start_char=2355|end_char=2363
+30	,	,	PUNCT	_	_	31	punct	_	start_char=2363|end_char=2364
+31	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	26	conj	_	start_char=2365|end_char=2371
+32	6.	6.	PROPN	_	Number=Sing	31	flat:name	_	start_char=2372|end_char=2374
+33	.	.	PUNCT	_	_	5	punct	_	start_char=2374|end_char=2375
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-22
+# text = Nesta lâmina também são identificados dois outros tipos de fragmentos..
+1-2	Nesta	_	_	_	_	_	_	_	start_char=2377|end_char=2382
+1	Em	em	ADP	_	_	3	case	_	_
+2	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	start_char=2383|end_char=2389
+4	também	também	ADV	_	_	6	advmod	_	start_char=2390|end_char=2396
+5	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=2397|end_char=2400
+6	identificados	identificar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=2401|end_char=2414
+7	dois	dois	NUM	_	NumType=Card	9	nummod	_	start_char=2415|end_char=2419
+8	outros	outro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	start_char=2420|end_char=2426
+9	tipos	tipo	NOUN	_	Gender=Masc|Number=Plur	6	nsubj:pass	_	start_char=2427|end_char=2432
+10	de	de	ADP	_	_	11	case	_	start_char=2433|end_char=2435
+11	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	start_char=2436|end_char=2446
+12	.	.	PUNCT	_	_	6	punct	_	start_char=2446|end_char=2447
+13	.	.	PUNCT	_	_	6	punct	_	start_char=2447|end_char=2448
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-23
+# text = Primeiro, um material aparentemente concrecionário e alterado, em geral, arredondado, sugerindo talvez uma origem vulcânica (vidro ?)..
+1	Primeiro	primeiro	ADV	_	_	13	advmod	_	start_char=2450|end_char=2458
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2458|end_char=2459
+3	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=2460|end_char=2462
+4	material	material	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	start_char=2463|end_char=2471
+5	aparentemente	aparentemente	ADV	_	_	6	advmod	_	start_char=2472|end_char=2485
+6	concrecionário	concrecionário	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=2486|end_char=2500
+7	e	e	CCONJ	_	_	8	cc	_	start_char=2501|end_char=2502
+8	alterado	alterar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	conj	_	start_char=2503|end_char=2511
+9	,	,	PUNCT	_	_	11	punct	_	start_char=2511|end_char=2512
+10	em	em	ADP	_	_	11	case	_	start_char=2513|end_char=2515
+11	geral	geral	ADJ	_	Gender=Masc|Number=Sing	13	obl	_	start_char=2516|end_char=2521
+12	,	,	PUNCT	_	_	11	punct	_	start_char=2521|end_char=2522
+13	arredondado	arredondar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	start_char=2523|end_char=2534
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2534|end_char=2535
+15	sugerindo	sugerir	VERB	_	VerbForm=Ger	13	advcl	_	start_char=2536|end_char=2545
+16	talvez	talvez	ADV	_	_	15	advmod	_	start_char=2546|end_char=2552
+17	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	start_char=2553|end_char=2556
+18	origem	origem	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	start_char=2557|end_char=2563
+19	vulcânica	vulcânico	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	start_char=2564|end_char=2573
+20	(	(	PUNCT	_	_	21	punct	_	start_char=2574|end_char=2575
+21	vidro	vidro	NOUN	_	Gender=Masc|Number=Sing	18	appos	_	start_char=2575|end_char=2580
+22	?	?	PUNCT	_	_	21	punct	_	start_char=2581|end_char=2582
+23	)	)	PUNCT	_	_	21	punct	_	start_char=2582|end_char=2583
+24	.	.	PUNCT	_	_	15	punct	_	start_char=2583|end_char=2584
+25	.	.	PUNCT	_	_	13	punct	_	start_char=2584|end_char=2585
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-24
+# text = Material cristalino muito carbonatizado contendo significativa quantidade de opacos e cristais de anfibólio, Figuras 7a e 7b..
+1	Material	Material	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2587|end_char=2595
+2	cristalino	cristalino	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=2596|end_char=2606
+3	muito	muito	ADV	_	_	4	advmod	_	start_char=2607|end_char=2612
+4	carbonatizado	carbonatizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	start_char=2613|end_char=2626
+5	contendo	conter	VERB	_	VerbForm=Ger	1	advcl	_	start_char=2627|end_char=2635
+6	significativa	significativo	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	start_char=2636|end_char=2649
+7	quantidade	quantidade	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	start_char=2650|end_char=2660
+8	de	de	ADP	_	_	9	case	_	start_char=2661|end_char=2663
+9	opacos	opaco	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	start_char=2664|end_char=2670
+10	e	e	CCONJ	_	_	11	cc	_	start_char=2671|end_char=2672
+11	cristais	cristal	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	start_char=2673|end_char=2681
+12	de	de	ADP	_	_	13	case	_	start_char=2682|end_char=2684
+13	anfibólio	anfibólio	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	start_char=2685|end_char=2694
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2694|end_char=2695
+15	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	9	conj	_	start_char=2696|end_char=2703
+16	7a	7am	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	15	amod	_	start_char=2704|end_char=2706
+17	e	e	CCONJ	_	_	19	cc	_	start_char=2707|end_char=2708
+18	7	7	NUM	_	NumType=Card	19	nummod	_	start_char=2709|end_char=2710
+19	b.	b.	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	start_char=2710|end_char=2712
+20	.	.	PUNCT	_	_	1	punct	_	start_char=2712|end_char=2713
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-25
+# text = 2994 m - 100 4
+1	2994	2994	NUM	_	NumType=Card	2	nummod	_	start_char=2715|end_char=2719
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=2720|end_char=2721
+3	-	-	PUNCT	_	_	5	punct	_	start_char=2722|end_char=2723
+4	100	100	NUM	_	NumType=Card	5	nummod	_	start_char=2724|end_char=2727
+5	4	4	NUM	_	NumType=Card	2	appos	_	start_char=2728|end_char=2729
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-26
+# text = Flh cnz, subord silt, cnz acast, c/traços de arn mui friável, branco, fino a mui fino, quartzasa..
+1	Flh	Flh	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=2731|end_char=2734
+2	cnz	cnz	PROPN	_	Number=Sing	1	flat:name	_	start_char=2735|end_char=2738
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2738|end_char=2739
+4	subord	subord	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=2740|end_char=2746
+5	silt	silt	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	start_char=2747|end_char=2751
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2751|end_char=2752
+7	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=2753|end_char=2756
+8	acast	acast	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=2757|end_char=2762
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2762|end_char=2763
+10	c/traços	c/traço	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	start_char=2764|end_char=2772
+11	de	de	ADP	_	_	12	case	_	start_char=2773|end_char=2775
+12	arn	arn	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	start_char=2776|end_char=2779
+13	mui	mui	ADV	_	_	14	advmod	_	start_char=2780|end_char=2783
+14	friável	friável	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	start_char=2784|end_char=2791
+15	,	,	PUNCT	_	_	16	punct	_	start_char=2791|end_char=2792
+16	branco	branco	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	start_char=2793|end_char=2799
+17	,	,	PUNCT	_	_	18	punct	_	start_char=2799|end_char=2800
+18	fino	fino	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	start_char=2801|end_char=2805
+19	a	a	ADP	_	_	21	case	_	start_char=2806|end_char=2807
+20	mui	mui	ADV	_	_	21	advmod	_	start_char=2808|end_char=2811
+21	fino	fino	ADJ	_	Gender=Masc|Number=Sing	18	obl	_	start_char=2812|end_char=2816
+22	,	,	PUNCT	_	_	23	punct	_	start_char=2816|end_char=2817
+23	quartzasa	quartzaso	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	start_char=2818|end_char=2827
+24	.	.	PUNCT	_	_	1	punct	_	start_char=2827|end_char=2828
+25	.	.	PUNCT	_	_	1	punct	_	start_char=2828|end_char=2829
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-27
+# text = 2997 m - 100% Flh cnz, silt..
+1	2997	2997	NUM	_	NumType=Card	2	nummod	_	start_char=2831|end_char=2835
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=2836|end_char=2837
+3	-	-	PUNCT	_	_	5	punct	_	start_char=2838|end_char=2839
+4	100	100	NUM	_	NumType=Card	5	nummod	_	start_char=2840|end_char=2843
+5	%	%	SYM	_	_	2	appos	_	start_char=2843|end_char=2844
+6	Flh	flh	ADP	_	_	7	case	_	start_char=2845|end_char=2848
+7	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	start_char=2849|end_char=2852
+8	,	,	PUNCT	_	_	9	punct	_	start_char=2852|end_char=2853
+9	silt.	silt.	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	start_char=2854|end_char=2859
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2859|end_char=2860
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-28
+# text = Traços de arm mui fino, mui friável, calcif é tubos dé vormes (7)..
+1	Traços	traço	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	start_char=2862|end_char=2868
+2	de	de	ADP	_	_	3	case	_	start_char=2869|end_char=2871
+3	arm	arm	X	_	_	1	nmod	_	start_char=2872|end_char=2875
+4	mui	mui	ADV	_	_	5	advmod	_	start_char=2876|end_char=2879
+5	fino	fino	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	start_char=2880|end_char=2884
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2884|end_char=2885
+7	mui	mui	ADV	_	_	8	advmod	_	start_char=2886|end_char=2889
+8	friável	friável	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	start_char=2890|end_char=2897
+9	,	,	PUNCT	_	_	8	punct	_	start_char=2897|end_char=2898
+10	calcif	calcif	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	start_char=2899|end_char=2905
+11	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=2906|end_char=2907
+12	tubos	tubo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=2908|end_char=2913
+13	dé	dé	ADP	_	_	14	case	_	start_char=2914|end_char=2916
+14	vormes	vorme	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	start_char=2917|end_char=2923
+15	(	(	PUNCT	_	_	16	punct	_	start_char=2924|end_char=2925
+16	7	7	NUM	_	NumType=Card	14	nmod:appos	_	start_char=2925|end_char=2926
+17	)	)	PUNCT	_	_	16	punct	_	start_char=2926|end_char=2927
+18	.	.	PUNCT	_	_	12	punct	_	start_char=2927|end_char=2928
+19	.	.	PUNCT	_	_	12	punct	_	start_char=2928|end_char=2929
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-29
+# text = 3000 m - Amostra semelhante 4 anterior, 3002 m - Amostra semelhante à anterior..
+1	3000	3000	NUM	_	NumType=Card	2	nummod	_	start_char=2931|end_char=2935
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=2936|end_char=2937
+3	-	-	PUNCT	_	_	4	punct	_	start_char=2938|end_char=2939
+4	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	start_char=2940|end_char=2947
+5	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=2948|end_char=2958
+6	4	4	NUM	_	NumType=Card	4	nummod	_	start_char=2959|end_char=2960
+7	anterior	anterior	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=2961|end_char=2969
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2969|end_char=2970
+9	3002	3002	NUM	_	NumType=Card	10	nummod	_	start_char=2971|end_char=2975
+10	m	m	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	start_char=2976|end_char=2977
+11	-	-	PUNCT	_	_	12	punct	_	start_char=2978|end_char=2979
+12	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	start_char=2980|end_char=2987
+13	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	start_char=2988|end_char=2998
+14-15	à	_	_	_	_	_	_	_	start_char=2999|end_char=3000
+14	a	a	ADP	_	_	16	case	_	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	anterior	anterior	ADJ	_	Gender=Fem|Number=Sing	13	obl	_	start_char=3001|end_char=3009
+17	.	.	PUNCT	_	_	2	punct	_	start_char=3009|end_char=3010
+18	.	.	PUNCT	_	_	2	punct	_	start_char=3010|end_char=3011
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-30
+# text = Lâmina 3207 (2994/3003 m) - Inúmeros fragmentos de arenito quartzoso subarcoseano (plagioclásio e microclinio subordinados), bem a aml selecionado, com grãos angulosos a subarredondados na fração granulométrica correspondente a areia fina..
+1	Lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=3013|end_char=3019
+2	3207	3207	NUM	_	NumType=Card	1	nummod	_	start_char=3020|end_char=3024
+3	(	(	PUNCT	_	_	5	punct	_	start_char=3025|end_char=3026
+4	2994/3003	2994/3003	NUM	_	NumType=Card	5	nummod	_	start_char=3026|end_char=3035
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=3036|end_char=3037
+6	)	)	PUNCT	_	_	5	punct	_	start_char=3037|end_char=3038
+7	-	-	PUNCT	_	_	9	punct	_	start_char=3039|end_char=3040
+8	Inúmeros	inúmeros	DET	_	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	start_char=3041|end_char=3049
+9	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=3050|end_char=3060
+10	de	de	ADP	_	_	11	case	_	start_char=3061|end_char=3063
+11	arenito	arenito	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	start_char=3064|end_char=3071
+12	quartzoso	quartzoso	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=3072|end_char=3081
+13	subarcoseano	subarcoseano	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=3082|end_char=3094
+14	(	(	PUNCT	_	_	15	punct	_	start_char=3095|end_char=3096
+15	plagioclásio	plagioclásio	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	start_char=3096|end_char=3108
+16	e	e	CCONJ	_	_	17	cc	_	start_char=3109|end_char=3110
+17	microclinio	microclinio	NOUN	_	Gender=Masc|Number=Sing	15	conj	_	start_char=3111|end_char=3122
+18	subordinados	subordinar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	17	acl	_	start_char=3123|end_char=3135
+19	)	)	PUNCT	_	_	15	punct	_	start_char=3135|end_char=3136
+20	,	,	PUNCT	_	_	23	punct	_	start_char=3136|end_char=3137
+21	bem	bem	ADV	_	_	23	advmod	_	start_char=3138|end_char=3141
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	start_char=3142|end_char=3143
+23	aml	aml	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	start_char=3144|end_char=3147
+24	selecionado	selecionar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	23	acl	_	start_char=3148|end_char=3159
+25	,	,	PUNCT	_	_	24	punct	_	start_char=3159|end_char=3160
+26	com	com	ADP	_	_	27	case	_	start_char=3161|end_char=3164
+27	grãos	grão	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	start_char=3165|end_char=3170
+28	angulosos	anguloso	ADJ	_	Gender=Masc|Number=Plur	27	amod	_	start_char=3171|end_char=3180
+29	a	a	ADP	_	_	30	case	_	start_char=3181|end_char=3182
+30	subarredondados	subarredondar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	28	conj	_	start_char=3183|end_char=3198
+31-32	na	_	_	_	_	_	_	_	start_char=3199|end_char=3201
+31	em	em	ADP	_	_	33	case	_	_
+32	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
+33	fração	fração	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	start_char=3202|end_char=3208
+34	granulométrica	granulométrico	ADJ	_	Gender=Fem|Number=Sing	33	amod	_	start_char=3209|end_char=3223
+35	correspondente	correspondente	ADJ	_	Gender=Fem|Number=Sing	33	amod	_	start_char=3224|end_char=3238
+36	a	a	ADP	_	_	37	case	_	start_char=3239|end_char=3240
+37	areia	areia	NOUN	_	Gender=Fem|Number=Sing	35	obl	_	start_char=3241|end_char=3246
+38	fina	fino	ADJ	_	Gender=Fem|Number=Sing	37	amod	_	start_char=3247|end_char=3251
+39	.	.	PUNCT	_	_	23	punct	_	start_char=3251|end_char=3252
+40	.	.	PUNCT	_	_	1	punct	_	start_char=3252|end_char=3253
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-31
+# text = Observa-se a ocorrência de matriz argilosa castanha, provavelmente esmectita, e alguns processos diagenéticos: caulinização, silicificação (chertificação) e cimentação calcitica..
+1-2	Observa-se	_	_	_	_	_	_	_	start_char=3255|end_char=3265
+1	Observa	observar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	_	Case=Acc|PronType=Prs	1	expl:impers	_	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	start_char=3266|end_char=3267
+4	ocorrência	ocorrência	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	start_char=3268|end_char=3278
+5	de	de	ADP	_	_	6	case	_	start_char=3279|end_char=3281
+6	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=3282|end_char=3288
+7	argilosa	argiloso	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	start_char=3289|end_char=3297
+8	castanha	castanha	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	start_char=3298|end_char=3306
+9	,	,	PUNCT	_	_	11	punct	_	start_char=3306|end_char=3307
+10	provavelmente	provavelmente	ADV	_	_	11	advmod	_	start_char=3308|end_char=3321
+11	esmectita	esmectito	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	start_char=3322|end_char=3331
+12	,	,	PUNCT	_	_	15	punct	_	start_char=3331|end_char=3332
+13	e	e	CCONJ	_	_	15	cc	_	start_char=3333|end_char=3334
+14	alguns	algum	DET	_	Gender=Masc|Number=Plur|PronType=Ind	15	det	_	start_char=3335|end_char=3341
+15	processos	processo	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	start_char=3342|end_char=3351
+16	diagenéticos	diagenético	ADJ	_	Gender=Masc|Number=Plur	15	amod	_	start_char=3352|end_char=3364
+17	:	:	PUNCT	_	_	18	punct	_	start_char=3364|end_char=3365
+18	caulinização	caulinização	NOUN	_	Gender=Fem|Number=Sing	15	appos	_	start_char=3366|end_char=3378
+19	,	,	PUNCT	_	_	20	punct	_	start_char=3378|end_char=3379
+20	silicificação	silicificação	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	start_char=3380|end_char=3393
+21	(	(	PUNCT	_	_	22	punct	_	start_char=3394|end_char=3395
+22	chertificação	chertificação	NOUN	_	Gender=Fem|Number=Sing	18	appos	_	start_char=3395|end_char=3408
+23	)	)	PUNCT	_	_	22	punct	_	start_char=3408|end_char=3409
+24	e	e	CCONJ	_	_	25	cc	_	start_char=3410|end_char=3411
+25	cimentação	cimentação	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	start_char=3412|end_char=3422
+26	calcitica	calcitico	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	start_char=3423|end_char=3432
+27	.	.	PUNCT	_	_	1	punct	_	start_char=3432|end_char=3433
+28	.	.	PUNCT	_	_	1	punct	_	start_char=3433|end_char=3434
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-32
+# text = No intervalo também ocorrem fragmentos de sideritito, suspeitando-se que parte dos fragmentos correspondam a bioclastos recristalizados..
+1-2	No	_	_	_	_	_	_	_	start_char=3436|end_char=3438
+1	Em	em	ADP	_	_	3	case	_	_
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	start_char=3439|end_char=3448
+4	também	também	ADV	_	_	5	advmod	_	start_char=3449|end_char=3455
+5	ocorrem	ocorrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3456|end_char=3463
+6	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	start_char=3464|end_char=3474
+7	de	de	ADP	_	_	8	case	_	start_char=3475|end_char=3477
+8	sideritito	sideritito	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=3478|end_char=3488
+9	,	,	PUNCT	_	_	10	punct	_	start_char=3488|end_char=3489
+10-11	suspeitando-se	_	_	_	_	_	_	_	start_char=3490|end_char=3504
+10	suspeitando	suspeitar	VERB	_	VerbForm=Ger	5	advcl	_	_
+11	se	se	PRON	_	Case=Acc|PronType=Prs	10	expl	_	_
+12	que	que	SCONJ	_	_	17	mark	_	start_char=3505|end_char=3508
+13	parte	parte	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	start_char=3509|end_char=3514
+14-15	dos	_	_	_	_	_	_	_	start_char=3515|end_char=3518
+14	de	de	ADP	_	_	16	case	_	_
+15	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	start_char=3519|end_char=3529
+17	correspondam	corresponder	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=3530|end_char=3542
+18	a	a	ADP	_	_	19	case	_	start_char=3543|end_char=3544
+19	bioclastos	bioclasto	NOUN	_	Gender=Masc|Number=Plur	17	obl:arg	_	start_char=3545|end_char=3555
+20	recristalizados	recristalizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	acl	_	start_char=3556|end_char=3571
+21	.	.	PUNCT	_	_	5	punct	_	start_char=3571|end_char=3572
+22	.	.	PUNCT	_	_	5	punct	_	start_char=3572|end_char=3573
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-33
+# text = O folhelho observado no intervalo aparentemente é síltico, estando sujeito localmente a sideritização incipiente..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=3575|end_char=3576
+2	folhelho	folhelho	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	start_char=3577|end_char=3585
+3	observado	observar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	start_char=3586|end_char=3595
+4-5	no	_	_	_	_	_	_	_	start_char=3596|end_char=3598
+4	em	em	ADP	_	_	6	case	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=3599|end_char=3608
+7	aparentemente	aparentemente	ADV	_	_	9	advmod	_	start_char=3609|end_char=3622
+8	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=3623|end_char=3624
+9	síltico	síltico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	start_char=3625|end_char=3632
+10	,	,	PUNCT	_	_	12	punct	_	start_char=3632|end_char=3633
+11	estando	estar	AUX	_	VerbForm=Ger	12	aux	_	start_char=3634|end_char=3641
+12	sujeito	sujeitar	VERB	_	VerbForm=Part	9	advcl	_	start_char=3642|end_char=3649
+13	localmente	localmente	ADV	_	_	12	advmod	_	start_char=3650|end_char=3660
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=3661|end_char=3662
+15	sideritização	sideritização	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	start_char=3663|end_char=3676
+16	incipiente	incipiente	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	start_char=3677|end_char=3687
+17	.	.	PUNCT	_	_	12	punct	_	start_char=3687|end_char=3688
+18	.	.	PUNCT	_	_	9	punct	_	start_char=3688|end_char=3689
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-34
+# text = Embora não seja evidente, pode-se supor que parte dos arenitos cimentados ou não por calcita correpondam a fragmentos intrabacinais remobilizados, desde que associados a outros materiais (diamictito)..
+1	Embora	embora	SCONJ	_	_	4	mark	_	start_char=3691|end_char=3697
+2	não	não	ADV	_	Polarity=Neg	4	advmod	_	start_char=3698|end_char=3701
+3	seja	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3702|end_char=3706
+4	evidente	evidente	ADJ	_	Gender=Masc|Number=Sing	6	advcl	_	start_char=3707|end_char=3715
+5	,	,	PUNCT	_	_	4	punct	_	start_char=3715|end_char=3716
+6-7	pode-se	_	_	_	_	_	_	_	start_char=3717|end_char=3724
+6	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	se	se	PRON	_	Case=Acc|PronType=Prs	6	expl	_	_
+8	supor	supor	VERB	_	VerbForm=Inf	6	xcomp	_	start_char=3725|end_char=3730
+9	que	que	SCONJ	_	_	19	mark	_	start_char=3731|end_char=3734
+10	parte	parte	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	start_char=3735|end_char=3740
+11-12	dos	_	_	_	_	_	_	_	start_char=3741|end_char=3744
+11	de	de	ADP	_	_	13	case	_	_
+12	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	arenitos	arenito	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	start_char=3745|end_char=3753
+14	cimentados	cimentar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	13	acl	_	start_char=3754|end_char=3764
+15	ou	ou	CCONJ	_	_	18	cc	_	start_char=3765|end_char=3767
+16	não	não	ADV	_	Polarity=Neg	18	advmod	_	start_char=3768|end_char=3771
+17	por	por	ADP	_	_	18	case	_	start_char=3772|end_char=3775
+18	calcita	calcita	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	start_char=3776|end_char=3783
+19	correpondam	correponder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=3784|end_char=3795
+20	a	a	ADP	_	_	21	case	_	start_char=3796|end_char=3797
+21	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	19	obl:arg	_	start_char=3798|end_char=3808
+22	intrabacinais	intrabacinal	ADJ	_	Gender=Masc|Number=Plur	21	amod	_	start_char=3809|end_char=3822
+23	remobilizados	remobilizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	21	acl	_	start_char=3823|end_char=3836
+24	,	,	PUNCT	_	_	23	punct	_	start_char=3836|end_char=3837
+25	desde	desde	SCONJ	_	_	27	mark	_	start_char=3838|end_char=3843
+26	que	que	SCONJ	_	_	27	mark	_	start_char=3844|end_char=3847
+27	associados	associar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	advcl	_	start_char=3848|end_char=3858
+28	a	a	ADP	_	_	30	case	_	start_char=3859|end_char=3860
+29	outros	outro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	30	det	_	start_char=3861|end_char=3867
+30	materiais	material	NOUN	_	Gender=Masc|Number=Plur	27	obl:arg	_	start_char=3868|end_char=3877
+31	(	(	PUNCT	_	_	32	punct	_	start_char=3878|end_char=3879
+32	diamictito	diamictito	NOUN	_	Gender=Masc|Number=Sing	30	appos	_	start_char=3879|end_char=3889
+33	)	)	PUNCT	_	_	32	punct	_	start_char=3889|end_char=3890
+34	.	.	PUNCT	_	_	6	punct	_	start_char=3890|end_char=3891
+35	.	.	PUNCT	_	_	6	punct	_	start_char=3891|end_char=3892
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-35
+# text = Como na lâmina anterior (intervalo entre 2795 e 2805 m), são observados fragmentos esféricos muito desgastados pelo polimento da lâmina, o que impede a caracterização dos mesmos (glauconita, vidro vulcânico 2)..
+1	Como	como	ADP	_	_	4	case	_	start_char=3894|end_char=3898
+2-3	na	_	_	_	_	_	_	_	start_char=3899|end_char=3901
+2	em	em	ADP	_	_	4	case	_	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	start_char=3902|end_char=3908
+5	anterior	anterior	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=3909|end_char=3917
+6	(	(	PUNCT	_	_	7	punct	_	start_char=3918|end_char=3919
+7	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	start_char=3919|end_char=3928
+8	entre	entre	ADP	_	_	12	case	_	start_char=3929|end_char=3934
+9	2795	2795	NUM	_	NumType=Card	12	nummod	_	start_char=3935|end_char=3939
+10	e	e	CCONJ	_	_	11	cc	_	start_char=3940|end_char=3941
+11	2805	2805	NUM	_	NumType=Card	9	conj	_	start_char=3942|end_char=3946
+12	m	m	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	start_char=3947|end_char=3948
+13	)	)	PUNCT	_	_	7	punct	_	start_char=3948|end_char=3949
+14	,	,	PUNCT	_	_	7	punct	_	start_char=3949|end_char=3950
+15	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	start_char=3951|end_char=3954
+16	observados	observar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=3955|end_char=3965
+17	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	16	nsubj:pass	_	start_char=3966|end_char=3976
+18	esféricos	esférico	ADJ	_	Gender=Masc|Number=Plur	17	amod	_	start_char=3977|end_char=3986
+19	muito	muito	ADV	_	_	20	advmod	_	start_char=3987|end_char=3992
+20	desgastados	desgastar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	17	acl	_	start_char=3993|end_char=4004
+21-22	pelo	_	_	_	_	_	_	_	start_char=4005|end_char=4009
+21	por	por	ADP	_	_	23	case	_	_
+22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	polimento	polimento	NOUN	_	Gender=Masc|Number=Sing	20	obl:agent	_	start_char=4010|end_char=4019
+24-25	da	_	_	_	_	_	_	_	start_char=4020|end_char=4022
+24	de	de	ADP	_	_	26	case	_	_
+25	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	start_char=4023|end_char=4029
+27	,	,	PUNCT	_	_	20	punct	_	start_char=4029|end_char=4030
+28	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	16	appos	_	start_char=4031|end_char=4032
+29	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	30	nsubj	_	start_char=4033|end_char=4036
+30	impede	impedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	start_char=4037|end_char=4043
+31	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	start_char=4044|end_char=4045
+32	caracterização	caracterização	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	start_char=4046|end_char=4060
+33-34	dos	_	_	_	_	_	_	_	start_char=4061|end_char=4064
+33	de	de	ADP	_	_	35	case	_	_
+34	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	35	det	_	_
+35	mesmos	mesmo	ADJ	_	Gender=Masc|Number=Plur	32	nmod	_	start_char=4065|end_char=4071
+36	(	(	PUNCT	_	_	37	punct	_	start_char=4072|end_char=4073
+37	glauconita	glauconita	NOUN	_	Gender=Masc|Number=Sing	32	appos	_	start_char=4073|end_char=4083
+38	,	,	PUNCT	_	_	39	punct	_	start_char=4083|end_char=4084
+39	vidro	vidro	NOUN	_	Gender=Masc|Number=Sing	37	conj	_	start_char=4085|end_char=4090
+40	vulcânico	vulcânico	ADJ	_	Gender=Masc|Number=Sing	39	amod	_	start_char=4091|end_char=4100
+41	2	2	NUM	_	NumType=Card	39	nummod	_	start_char=4101|end_char=4102
+42	)	)	PUNCT	_	_	37	punct	_	start_char=4102|end_char=4103
+43	.	.	PUNCT	_	_	16	punct	_	start_char=4103|end_char=4104
+44	.	.	PUNCT	_	_	16	punct	_	start_char=4104|end_char=4105
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-36
+# text = Alguns contém traços de siderita..
+1	Alguns	algum	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	start_char=4107|end_char=4113
+2	contém	conter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4114|end_char=4120
+3	traços	traço	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	start_char=4121|end_char=4127
+4	de	de	ADP	_	_	5	case	_	start_char=4128|end_char=4130
+5	siderita	siderita	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	start_char=4131|end_char=4139
+6	.	.	PUNCT	_	_	2	punct	_	start_char=4139|end_char=4140
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4140|end_char=4141
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-37
+# text = Lamina 3208 (3111/3120 m) - Arenitos quartzosos, subordinadamente feldspaticos, com matriz argilosa levemente acastanhada..
+1	Lamina	lamina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=4143|end_char=4149
+2	3208	3208	NUM	_	NumType=Card	1	nummod	_	start_char=4150|end_char=4154
+3	(	(	PUNCT	_	_	5	punct	_	start_char=4155|end_char=4156
+4	3111/3120	3111/3120	NUM	_	NumType=Card	5	nummod	_	start_char=4156|end_char=4165
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=4166|end_char=4167
+6	)	)	PUNCT	_	_	5	punct	_	start_char=4167|end_char=4168
+7	-	-	PUNCT	_	_	8	punct	_	start_char=4169|end_char=4170
+8	Arenitos	Arenitos	PROPN	_	Gender=Masc|Number=Plur	1	conj	_	start_char=4171|end_char=4179
+9	quartzosos	quartzosos	PROPN	_	Number=Sing	8	flat:name	_	start_char=4180|end_char=4190
+10	,	,	PUNCT	_	_	12	punct	_	start_char=4190|end_char=4191
+11	subordinadamente	subordinadamente	ADV	_	_	12	advmod	_	start_char=4192|end_char=4208
+12	feldspaticos	feldspatico	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	start_char=4209|end_char=4221
+13	,	,	PUNCT	_	_	12	punct	_	start_char=4221|end_char=4222
+14	com	com	ADP	_	_	15	case	_	start_char=4223|end_char=4226
+15	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	start_char=4227|end_char=4233
+16	argilosa	argiloso	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	start_char=4234|end_char=4242
+17	levemente	levemente	ADV	_	_	18	advmod	_	start_char=4243|end_char=4252
+18	acastanhada	acastanhar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	15	acl	_	start_char=4253|end_char=4264
+19	.	.	PUNCT	_	_	18	punct	_	start_char=4264|end_char=4265
+20	.	.	PUNCT	_	_	1	punct	_	start_char=4265|end_char=4266
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-38
+# text = Como acessórios tem-se a moscovita e turmalina..
+1	Como	como	ADP	_	_	2	case	_	start_char=4268|end_char=4272
+2	acessórios	acessório	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	start_char=4273|end_char=4283
+3-4	tem-se	_	_	_	_	_	_	_	start_char=4284|end_char=4290
+3	tem	ter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:impers	_	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=4291|end_char=4292
+6	moscovita	moscovita	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	start_char=4293|end_char=4302
+7	e	e	CCONJ	_	_	8	cc	_	start_char=4303|end_char=4304
+8	turmalina	turmalino	ADJ	_	Gender=Fem|Number=Sing	6	conj	_	start_char=4305|end_char=4314
+9	.	.	PUNCT	_	_	3	punct	_	start_char=4314|end_char=4315
+10	.	.	PUNCT	_	_	3	punct	_	start_char=4315|end_char=4316
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-39
+# text = A matriz argilosa parece estar sofrendo transfomações como chertificação (silicificação) e caulinização e/ou zeolitização, Figuras 8a e 8b..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4318|end_char=4319
+2	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	start_char=4320|end_char=4326
+3	argilosa	argiloso	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	start_char=4327|end_char=4335
+4	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4336|end_char=4342
+5	estar	estar	AUX	_	VerbForm=Inf	6	aux	_	start_char=4343|end_char=4348
+6	sofrendo	sofrer	VERB	_	VerbForm=Ger	4	xcomp	_	start_char=4349|end_char=4357
+7	transfomações	transfomação	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	start_char=4358|end_char=4371
+8	como	como	ADP	_	_	9	case	_	start_char=4372|end_char=4376
+9	chertificação	chertificação	NOUN	_	Gender=Fem|Number=Sing	6	xcomp	_	start_char=4377|end_char=4390
+10	(	(	PUNCT	_	_	11	punct	_	start_char=4391|end_char=4392
+11	silicificação	silicificação	NOUN	_	Gender=Fem|Number=Sing	9	appos	_	start_char=4392|end_char=4405
+12	)	)	PUNCT	_	_	11	punct	_	start_char=4405|end_char=4406
+13	e	e	CCONJ	_	_	14	cc	_	start_char=4407|end_char=4408
+14	caulinização	caulinização	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	start_char=4409|end_char=4421
+15	e/ou	e/ou	CCONJ	_	_	16	cc	_	start_char=4422|end_char=4426
+16	zeolitização	zeolitização	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	start_char=4427|end_char=4439
+17	,	,	PUNCT	_	_	18	punct	_	start_char=4439|end_char=4440
+18	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	9	conj	_	start_char=4441|end_char=4448
+19	8a	8a	PROPN	_	Number=Sing	18	flat:name	_	start_char=4449|end_char=4451
+20	e	e	CCONJ	_	_	22	cc	_	start_char=4452|end_char=4453
+21	8	8	NUM	_	NumType=Card	22	nummod	_	start_char=4454|end_char=4455
+22	b	b	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	start_char=4455|end_char=4456
+23	.	.	PUNCT	_	_	4	punct	_	start_char=4456|end_char=4457
+24	.	.	PUNCT	_	_	4	punct	_	start_char=4457|end_char=4458
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-40
+# text = Não é possivel definir o processo..
+1	Não	não	ADV	_	Polarity=Neg	3	advmod	_	start_char=4460|end_char=4463
+2	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4464|end_char=4465
+3	possivel	possivel	ADJ	_	Gender=Masc|Number=Sing	0	root	_	start_char=4466|end_char=4474
+4	definir	definir	VERB	_	VerbForm=Inf	3	csubj	_	start_char=4475|end_char=4482
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=4483|end_char=4484
+6	processo	processo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	start_char=4485|end_char=4493
+7	.	.	PUNCT	_	_	3	punct	_	start_char=4493|end_char=4494
+8	.	.	PUNCT	_	_	3	punct	_	start_char=4494|end_char=4495
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-41
+# text = Nos fragmentos arenosos mais livres de argilas foi constatada a ocorrência de crescimentos sintaxiais de quartzo e albita, Figuras 9a, 9b e 10..
+1-2	Nos	_	_	_	_	_	_	_	start_char=4497|end_char=4500
+1	Em	em	ADP	_	_	3	case	_	_
+2	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	start_char=4501|end_char=4511
+4	arenosos	arenoso	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	start_char=4512|end_char=4520
+5	mais	mais	ADV	_	_	6	advmod	_	start_char=4521|end_char=4525
+6	livres	livre	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	start_char=4526|end_char=4532
+7	de	de	ADP	_	_	8	case	_	start_char=4533|end_char=4535
+8	argilas	argila	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	start_char=4536|end_char=4543
+9	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	start_char=4544|end_char=4547
+10	constatada	constatar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=4548|end_char=4558
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	start_char=4559|end_char=4560
+12	ocorrência	ocorrência	NOUN	_	Gender=Fem|Number=Sing	10	nsubj:pass	_	start_char=4561|end_char=4571
+13	de	de	ADP	_	_	14	case	_	start_char=4572|end_char=4574
+14	crescimentos	crescimento	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	start_char=4575|end_char=4587
+15	sintaxiais	sintaxial	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	start_char=4588|end_char=4598
+16	de	de	ADP	_	_	17	case	_	start_char=4599|end_char=4601
+17	quartzo	quartzo	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=4602|end_char=4609
+18	e	e	CCONJ	_	_	19	cc	_	start_char=4610|end_char=4611
+19	albita	albita	NOUN	_	Gender=Fem|Number=Sing	17	conj	_	start_char=4612|end_char=4618
+20	,	,	PUNCT	_	_	21	punct	_	start_char=4618|end_char=4619
+21	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	17	conj	_	start_char=4620|end_char=4627
+22	9a	9a	PROPN	_	Number=Sing	21	flat:name	_	start_char=4628|end_char=4630
+23	,	,	PUNCT	_	_	24	punct	_	start_char=4630|end_char=4631
+24	9b	9b	NUM	_	NumType=Card	21	conj	_	start_char=4632|end_char=4634
+25	e	e	CCONJ	_	_	26	cc	_	start_char=4635|end_char=4636
+26	10	10	NUM	_	NumType=Card	17	conj	_	start_char=4637|end_char=4639
+27	.	.	PUNCT	_	_	10	punct	_	start_char=4639|end_char=4640
+28	.	.	PUNCT	_	_	10	punct	_	start_char=4640|end_char=4641
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-42
+# text = Alguns fragmentos muito argiloso representativos dos folhelhos mostram-se sílticos, ce em alguns deles o argilomineral esta também sendo submetido a transformação..
+1	Alguns	algum	DET	_	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	start_char=4643|end_char=4649
+2	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	start_char=4650|end_char=4660
+3	muito	muito	ADV	_	_	4	advmod	_	start_char=4661|end_char=4666
+4	argiloso	argiloso	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	start_char=4667|end_char=4675
+5	representativos	representativo	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	start_char=4676|end_char=4691
+6-7	dos	_	_	_	_	_	_	_	start_char=4692|end_char=4695
+6	de	de	ADP	_	_	8	case	_	_
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	folhelhos	folhelho	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=4696|end_char=4705
+9-10	mostram-se	_	_	_	_	_	_	_	start_char=4706|end_char=4716
+9	mostram	mostrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
+11	sílticos	síltico	ADJ	_	Gender=Masc|Number=Plur	9	xcomp	_	start_char=4717|end_char=4725
+12	,	,	PUNCT	_	_	13	punct	_	start_char=4725|end_char=4726
+13	ce	ce	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	start_char=4727|end_char=4729
+14	em	em	ADP	_	_	15	case	_	start_char=4730|end_char=4732
+15	alguns	algum	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	13	nmod	_	start_char=4733|end_char=4739
+16-17	deles	_	_	_	_	_	_	_	start_char=4740|end_char=4745
+16	de	de	ADP	_	_	17	case	_	_
+17	eles	eles	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nmod	_	_
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	start_char=4746|end_char=4747
+19	argilomineral	argilomineral	NOUN	_	Gender=Masc|Number=Sing	23	nsubj:pass	_	start_char=4748|end_char=4761
+20	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	23	nsubj:pass	_	start_char=4762|end_char=4766
+21	também	também	ADV	_	_	23	advmod	_	start_char=4767|end_char=4773
+22	sendo	ser	AUX	_	VerbForm=Ger	23	aux:pass	_	start_char=4774|end_char=4779
+23	submetido	submeter	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	advcl	_	start_char=4780|end_char=4789
+24	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	start_char=4790|end_char=4791
+25	transformação	transformação	NOUN	_	Gender=Fem|Number=Sing	23	nsubj:pass	_	start_char=4792|end_char=4805
+26	.	.	PUNCT	_	_	23	punct	_	start_char=4805|end_char=4806
+27	.	.	PUNCT	_	_	9	punct	_	start_char=4806|end_char=4807
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-43
+# text = A presença de porções carbonáticas impuras (clastos margosos ?) junto a variações muito bruscas de granulometria dos arenitos parecem representar retrabalhamento intrabacinal (diamictito) no intervalo estudado..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4809|end_char=4810
+2	presença	presença	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	start_char=4811|end_char=4819
+3	de	de	ADP	_	_	4	case	_	start_char=4820|end_char=4822
+4	porções	porção	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	start_char=4823|end_char=4830
+5	carbonáticas	carbonático	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	start_char=4831|end_char=4843
+6	impuras	impuro	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	start_char=4844|end_char=4851
+7	(	(	PUNCT	_	_	8	punct	_	start_char=4852|end_char=4853
+8	clastos	clasto	NOUN	_	Gender=Masc|Number=Plur	4	appos	_	start_char=4853|end_char=4860
+9	margosos	margoso	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	start_char=4861|end_char=4869
+10	?	?	PUNCT	_	_	8	punct	_	start_char=4870|end_char=4871
+11	)	)	PUNCT	_	_	8	punct	_	start_char=4871|end_char=4872
+12	junto	junto	ADV	_	_	2	advmod	_	start_char=4873|end_char=4878
+13	a	a	ADP	_	_	14	case	_	start_char=4879|end_char=4880
+14	variações	variação	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	start_char=4881|end_char=4890
+15	muito	muito	ADV	_	_	16	advmod	_	start_char=4891|end_char=4896
+16	bruscas	brusco	ADJ	_	Gender=Fem|Number=Plur	14	amod	_	start_char=4897|end_char=4904
+17	de	de	ADP	_	_	18	case	_	start_char=4905|end_char=4907
+18	granulometria	granulometria	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	start_char=4908|end_char=4921
+19-20	dos	_	_	_	_	_	_	_	start_char=4922|end_char=4925
+19	de	de	ADP	_	_	21	case	_	_
+20	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	arenitos	arenito	NOUN	_	Gender=Masc|Number=Plur	18	nmod	_	start_char=4926|end_char=4934
+22	parecem	parecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4935|end_char=4942
+23	representar	representar	VERB	_	VerbForm=Inf	22	xcomp	_	start_char=4943|end_char=4954
+24	retrabalhamento	retrabalhamento	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	start_char=4955|end_char=4970
+25	intrabacinal	intrabacinal	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	start_char=4971|end_char=4983
+26	(	(	PUNCT	_	_	27	punct	_	start_char=4984|end_char=4985
+27	diamictito	diamictito	NOUN	_	Gender=Masc|Number=Sing	24	appos	_	start_char=4985|end_char=4995
+28	)	)	PUNCT	_	_	27	punct	_	start_char=4995|end_char=4996
+29-30	no	_	_	_	_	_	_	_	start_char=4997|end_char=4999
+29	em	em	ADP	_	_	31	case	_	_
+30	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	start_char=5000|end_char=5009
+32	estudado	estudar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	31	acl	_	start_char=5010|end_char=5018
+33	.	.	PUNCT	_	_	22	punct	_	start_char=5018|end_char=5019
+34	.	.	PUNCT	_	_	22	punct	_	start_char=5019|end_char=5020
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-44
+# text = Fragmentos arenosos, neste caso teriam sido retransportados logo após o início da litificação, Figura 11..
+1	Fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	9	nsubj:pass	_	start_char=5022|end_char=5032
+2	arenosos	arenoso	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	start_char=5033|end_char=5041
+3	,	,	PUNCT	_	_	6	punct	_	start_char=5041|end_char=5042
+4-5	neste	_	_	_	_	_	_	_	start_char=5043|end_char=5048
+4	em	em	ADP	_	_	6	case	_	_
+5	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	caso	caso	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	start_char=5049|end_char=5053
+7	teriam	ter	AUX	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	9	aux	_	start_char=5054|end_char=5060
+8	sido	ser	AUX	_	VerbForm=Part	9	aux:pass	_	start_char=5061|end_char=5065
+9	retransportados	retransportar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=5066|end_char=5081
+10	logo	logo	ADV	_	_	9	advmod	_	start_char=5082|end_char=5086
+11	após	após	ADP	_	_	13	case	_	start_char=5087|end_char=5091
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=5092|end_char=5093
+13	início	início	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	start_char=5094|end_char=5100
+14-15	da	_	_	_	_	_	_	_	start_char=5101|end_char=5103
+14	de	de	ADP	_	_	16	case	_	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	litificação	litificação	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	start_char=5104|end_char=5115
+17	,	,	PUNCT	_	_	18	punct	_	start_char=5115|end_char=5116
+18	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	16	appos	_	start_char=5117|end_char=5123
+19	11	11	NUM	_	NumType=Card	18	flat:name	_	start_char=5124|end_char=5126
+20	.	.	PUNCT	_	_	9	punct	_	start_char=5126|end_char=5127
+21	.	.	PUNCT	_	_	9	punct	_	start_char=5127|end_char=5128
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-45
+# text = Lamina 3209 (3123/3132 m) - Fragmentos semelhantes aqueles descritos na lâmina anterior..
+1	Lamina	lamina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=5130|end_char=5136
+2	3209	3209	NUM	_	NumType=Card	1	nummod	_	start_char=5137|end_char=5141
+3	(	(	PUNCT	_	_	5	punct	_	start_char=5142|end_char=5143
+4	3123/3132	3123/3132	NUM	_	NumType=Card	5	nummod	_	start_char=5143|end_char=5152
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=5153|end_char=5154
+6	)	)	PUNCT	_	_	5	punct	_	start_char=5154|end_char=5155
+7	-	-	PUNCT	_	_	8	punct	_	start_char=5156|end_char=5157
+8	Fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	start_char=5158|end_char=5168
+9	semelhantes	semelhante	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	start_char=5169|end_char=5180
+10	aqueles	aquele	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	8	nmod	_	start_char=5181|end_char=5188
+11	descritos	descrever	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	10	acl	_	start_char=5189|end_char=5198
+12-13	na	_	_	_	_	_	_	_	start_char=5199|end_char=5201
+12	em	em	ADP	_	_	14	case	_	_
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	start_char=5202|end_char=5208
+15	anterior	anterior	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	start_char=5209|end_char=5217
+16	.	.	PUNCT	_	_	11	punct	_	start_char=5217|end_char=5218
+17	.	.	PUNCT	_	_	1	punct	_	start_char=5218|end_char=5219
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-46
+# text = Arenito quartzoso subarcoseano, argiloso, com matriz castanha clara aparentando estar sendo caulinizada, Figuras 12a e 12 b..
+1	Arenito	arenito	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=5221|end_char=5228
+2	quartzoso	quartzoso	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=5229|end_char=5238
+3	subarcoseano	subarcoseano	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=5239|end_char=5251
+4	,	,	PUNCT	_	_	5	punct	_	start_char=5251|end_char=5252
+5	argiloso	argiloso	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	start_char=5253|end_char=5261
+6	,	,	PUNCT	_	_	5	punct	_	start_char=5261|end_char=5262
+7	com	com	ADP	_	_	8	case	_	start_char=5263|end_char=5266
+8	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	start_char=5267|end_char=5273
+9	castanha	castanha	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	start_char=5274|end_char=5282
+10	clara	claro	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	start_char=5283|end_char=5288
+11	aparentando	aparentar	VERB	_	VerbForm=Ger	1	advcl	_	start_char=5289|end_char=5300
+12	estar	estar	AUX	_	VerbForm=Inf	14	aux	_	start_char=5301|end_char=5306
+13	sendo	ser	AUX	_	VerbForm=Ger	14	aux:pass	_	start_char=5307|end_char=5312
+14	caulinizada	caulinizar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	11	xcomp	_	start_char=5313|end_char=5324
+15	,	,	PUNCT	_	_	16	punct	_	start_char=5324|end_char=5325
+16	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	14	obl	_	start_char=5326|end_char=5333
+17	12a	12a	NUM	_	NumType=Card	16	flat:name	_	start_char=5334|end_char=5337
+18	e	e	CCONJ	_	_	20	cc	_	start_char=5338|end_char=5339
+19	12	12	NUM	_	NumType=Card	20	nummod	_	start_char=5340|end_char=5342
+20	b..	b..	NOUN	_	Gender=Masc|Number=Plur	16	conj	_	start_char=5343|end_char=5346
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-47
+# text = Quando livre de argila torna-se propício à silicificação, Figuras 13a e 13b..
+1	Quando	quando	ADV	_	_	2	advmod	_	start_char=5348|end_char=5354
+2	livre	livre	ADJ	_	Gender=Masc|Number=Sing	5	advcl	_	start_char=5355|end_char=5360
+3	de	de	ADP	_	_	4	case	_	start_char=5361|end_char=5363
+4	argila	argila	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	start_char=5364|end_char=5370
+5-6	torna-se	_	_	_	_	_	_	_	start_char=5371|end_char=5379
+5	torna	tornar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+7	propício	propício	ADJ	_	Gender=Masc|Number=Sing	5	xcomp	_	start_char=5380|end_char=5388
+8-9	à	_	_	_	_	_	_	_	start_char=5389|end_char=5390
+8	a	a	ADP	_	_	10	case	_	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	silicificação	silicificação	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	start_char=5391|end_char=5404
+11	,	,	PUNCT	_	_	12	punct	_	start_char=5404|end_char=5405
+12	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	10	conj	_	start_char=5406|end_char=5413
+13	13a	13a	PROPN	_	Number=Sing	12	flat:name	_	start_char=5414|end_char=5417
+14	e	e	CCONJ	_	_	16	cc	_	start_char=5418|end_char=5419
+15	13	13	NUM	_	NumType=Card	16	nummod	_	start_char=5420|end_char=5422
+16	b.	b.	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	start_char=5422|end_char=5424
+17	.	.	PUNCT	_	_	5	punct	_	start_char=5424|end_char=5425
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-48
+# text = Fags, 134 e 13b - fragmento arenoso relativamente livre de matriz argilosa, parcialmente silicificado..
+1	Fags	Fags	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=5427|end_char=5431
+2	,	,	PUNCT	_	_	3	punct	_	start_char=5431|end_char=5432
+3	134	134	NUM	_	NumType=Card	1	nmod:appos	_	start_char=5433|end_char=5436
+4	e	e	CCONJ	_	_	5	cc	_	start_char=5437|end_char=5438
+5	13b	13b	NUM	_	NumType=Card	1	conj	_	start_char=5439|end_char=5442
+6	-	-	PUNCT	_	_	7	punct	_	start_char=5443|end_char=5444
+7	fragmento	fragmento	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=5445|end_char=5454
+8	arenoso	arenoso	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	start_char=5455|end_char=5462
+9	relativamente	relativamente	ADV	_	_	10	advmod	_	start_char=5463|end_char=5476
+10	livre	livre	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	start_char=5477|end_char=5482
+11	de	de	ADP	_	_	12	case	_	start_char=5483|end_char=5485
+12	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	start_char=5486|end_char=5492
+13	argilosa	argiloso	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	start_char=5493|end_char=5501
+14	,	,	PUNCT	_	_	16	punct	_	start_char=5501|end_char=5502
+15	parcialmente	parcialmente	ADV	_	_	16	advmod	_	start_char=5503|end_char=5515
+16	silicificado	silicificar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	start_char=5516|end_char=5528
+17	.	.	PUNCT	_	_	16	punct	_	start_char=5528|end_char=5529
+18	.	.	PUNCT	_	_	1	punct	_	start_char=5529|end_char=5530
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-49
+# text = Base des fotos: 0.8 mm, N//e NX.
+5) 3192/3195 m - Provável diamictito..
+1	Base	base	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=5532|end_char=5536
+2	des	des	ADP	_	_	3	case	_	start_char=5537|end_char=5540
+3	fotos	foto	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	start_char=5541|end_char=5546
+4	:	:	PUNCT	_	_	6	punct	_	start_char=5546|end_char=5547
+5	0.8	0.8	NUM	_	NumType=Card	6	nummod	_	start_char=5548|end_char=5551
+6	mm	mm	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=5552|end_char=5554
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5554|end_char=5555
+8	N//e	N//e	PROPN	_	Gender=Masc|Number=Sing	6	conj	_	start_char=5556|end_char=5560
+9	NX.	NX.	PROPN	_	Number=Sing	8	flat:name	_	start_char=5561|end_char=5564
+10	5)	5)	PROPN	_	Number=Sing	8	flat:name	_	start_char=5565|end_char=5567
+11	3192/3195	3192/3195	NUM	_	NumType=Card	12	nummod	_	start_char=5568|end_char=5577
+12	m	m	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	start_char=5578|end_char=5579
+13	-	-	PUNCT	_	_	15	punct	_	start_char=5580|end_char=5581
+14	Provável	provável	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	start_char=5582|end_char=5590
+15	diamictito	diamictito	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	start_char=5591|end_char=5601
+16	.	.	PUNCT	_	_	15	punct	_	start_char=5601|end_char=5602
+17	.	.	PUNCT	_	_	1	punct	_	start_char=5602|end_char=5603
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-50
+# text = 3152 m - 95 % Flh cena, lamin, macio, 5 % arn esbranq, bem a moder selec, branco esverd a cnz esverd mui cir. 3195 & - 100 % Flh crz lamin, traços de arn..
+1	3152	3152	NUM	_	NumType=Card	2	nummod	_	start_char=5605|end_char=5609
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=5610|end_char=5611
+3	-	-	PUNCT	_	_	5	punct	_	start_char=5612|end_char=5613
+4	95	95	NUM	_	NumType=Card	5	nummod	_	start_char=5614|end_char=5616
+5	%	%	SYM	_	_	2	appos	_	start_char=5617|end_char=5618
+6	Flh	flh	ADP	_	_	7	case	_	start_char=5619|end_char=5622
+7	cena	cena	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	start_char=5623|end_char=5627
+8	,	,	PUNCT	_	_	9	punct	_	start_char=5627|end_char=5628
+9	lamin	lamin	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	start_char=5629|end_char=5634
+10	,	,	PUNCT	_	_	11	punct	_	start_char=5634|end_char=5635
+11	macio	macio	ADJ	_	Gender=Masc|Number=Sing	7	conj	_	start_char=5636|end_char=5641
+12	,	,	PUNCT	_	_	14	punct	_	start_char=5641|end_char=5642
+13	5	5	NUM	_	NumType=Card	14	nummod	_	start_char=5643|end_char=5644
+14	%	%	SYM	_	_	2	conj	_	start_char=5645|end_char=5646
+15	arn	arn	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=5647|end_char=5650
+16	esbranq	esbranq	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	start_char=5651|end_char=5658
+17	,	,	PUNCT	_	_	20	punct	_	start_char=5658|end_char=5659
+18	bem	bem	ADV	_	_	20	advmod	_	start_char=5660|end_char=5663
+19	a	a	ADP	_	_	20	case	_	start_char=5664|end_char=5665
+20	moder	moder	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=5666|end_char=5671
+21	selec	selec	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	start_char=5672|end_char=5677
+22	,	,	PUNCT	_	_	23	punct	_	start_char=5677|end_char=5678
+23	branco	branco	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	start_char=5679|end_char=5685
+24	esverd	esverd	ADP	_	_	26	case	_	start_char=5686|end_char=5692
+25	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	start_char=5693|end_char=5694
+26	cnz	cnz	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	start_char=5695|end_char=5698
+27	esverd	esverd	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	start_char=5699|end_char=5705
+28	mui	mui	ADP	_	_	29	case	_	start_char=5706|end_char=5709
+29	cir.	cir.	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	start_char=5710|end_char=5714
+30	3195	3195	NUM	_	NumType=Card	31	nummod	_	start_char=5715|end_char=5719
+31	&	&	NOUN	_	Gender=Masc|Number=Plur	29	nmod	_	start_char=5720|end_char=5721
+32	-	-	PUNCT	_	_	34	punct	_	start_char=5722|end_char=5723
+33	100	100	NUM	_	NumType=Card	34	nummod	_	start_char=5724|end_char=5727
+34	%	%	SYM	_	_	29	conj	_	start_char=5728|end_char=5729
+35	Flh	flh	ADP	_	_	36	case	_	start_char=5730|end_char=5733
+36	crz	crz	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	start_char=5734|end_char=5737
+37	lamin	lamin	ADJ	_	Gender=Masc|Number=Sing	36	amod	_	start_char=5738|end_char=5743
+38	,	,	PUNCT	_	_	39	punct	_	start_char=5743|end_char=5744
+39	traços	traço	NOUN	_	Gender=Masc|Number=Plur	31	conj	_	start_char=5745|end_char=5751
+40	de	de	ADP	_	_	41	case	_	start_char=5752|end_char=5754
+41	arn.	arn.	NOUN	_	Gender=Fem|Number=Sing	39	nmod	_	start_char=5755|end_char=5759
+42	.	.	PUNCT	_	_	2	punct	_	start_char=5759|end_char=5760
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-51
+# text = Lâmina 3210 (3192/3195 m) - Amostragem uniforme retratando intervalo arenoso fino a muito fino, siltico grosseiro, quartzoso a subarcoseano, com teores moderados de argila (os grãos sustentam, em geral, o arcabouço), Figuras 14a e 14b..
+1	Lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=5762|end_char=5768
+2	3210	3210	NUM	_	NumType=Card	1	nummod	_	start_char=5769|end_char=5773
+3	(	(	PUNCT	_	_	5	punct	_	start_char=5774|end_char=5775
+4	3192/3195	3192/3195	NUM	_	NumType=Card	5	nummod	_	start_char=5775|end_char=5784
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=5785|end_char=5786
+6	)	)	PUNCT	_	_	5	punct	_	start_char=5786|end_char=5787
+7	-	-	PUNCT	_	_	8	punct	_	start_char=5788|end_char=5789
+8	Amostragem	amostragem	NOUN	_	Gender=Fem|Number=Sing	1	appos	_	start_char=5790|end_char=5800
+9	uniforme	uniforme	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	start_char=5801|end_char=5809
+10	retratando	retratar	VERB	_	VerbForm=Ger	8	acl	_	start_char=5810|end_char=5820
+11	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	start_char=5821|end_char=5830
+12	arenoso	arenoso	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=5831|end_char=5838
+13	fino	fino	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=5839|end_char=5843
+14	a	a	ADP	_	_	16	case	_	start_char=5844|end_char=5845
+15	muito	muito	ADV	_	_	16	advmod	_	start_char=5846|end_char=5851
+16	fino	fino	ADJ	_	Gender=Masc|Number=Sing	13	obl	_	start_char=5852|end_char=5856
+17	,	,	PUNCT	_	_	18	punct	_	start_char=5856|end_char=5857
+18	siltico	siltico	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=5858|end_char=5865
+19	grosseiro	grosseiro	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	start_char=5866|end_char=5875
+20	,	,	PUNCT	_	_	18	punct	_	start_char=5875|end_char=5876
+21	quartzoso	quartzoso	ADP	_	_	23	case	_	start_char=5877|end_char=5886
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	start_char=5887|end_char=5888
+23	subarcoseano	subarcoseano	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	start_char=5889|end_char=5901
+24	,	,	PUNCT	_	_	26	punct	_	start_char=5901|end_char=5902
+25	com	com	ADP	_	_	26	case	_	start_char=5903|end_char=5906
+26	teores	teore	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	start_char=5907|end_char=5913
+27	moderados	moderar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	26	acl	_	start_char=5914|end_char=5923
+28	de	de	ADP	_	_	29	case	_	start_char=5924|end_char=5926
+29	argila	argila	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	start_char=5927|end_char=5933
+30	(	(	PUNCT	_	_	33	punct	_	start_char=5934|end_char=5935
+31	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	start_char=5935|end_char=5937
+32	grãos	grão	NOUN	_	Gender=Masc|Number=Plur	33	nsubj	_	start_char=5938|end_char=5943
+33	sustentam	sustentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	start_char=5944|end_char=5953
+34	,	,	PUNCT	_	_	33	punct	_	start_char=5953|end_char=5954
+35	em	em	ADP	_	_	36	case	_	start_char=5955|end_char=5957
+36	geral	geral	ADJ	_	Gender=Masc|Number=Sing	33	obl	_	start_char=5958|end_char=5963
+37	,	,	PUNCT	_	_	39	punct	_	start_char=5963|end_char=5964
+38	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	start_char=5965|end_char=5966
+39	arcabouço	arcabouço	NOUN	_	Gender=Masc|Number=Sing	33	obj	_	start_char=5967|end_char=5976
+40	)	)	PUNCT	_	_	33	punct	_	start_char=5976|end_char=5977
+41	,	,	PUNCT	_	_	42	punct	_	start_char=5977|end_char=5978
+42	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	33	conj	_	start_char=5979|end_char=5986
+43	14a	14a	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	42	amod	_	start_char=5987|end_char=5990
+44	e	e	CCONJ	_	_	46	cc	_	start_char=5991|end_char=5992
+45	14	14	NUM	_	NumType=Card	46	nummod	_	start_char=5993|end_char=5995
+46	b.	b.	NOUN	_	Gender=Masc|Number=Plur	39	conj	_	start_char=5995|end_char=5997
+47	.	.	PUNCT	_	_	1	punct	_	start_char=5997|end_char=5998
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-52
+# text = Quando o teor em argila é menor ocorre a silicificação através de crescimentos sintaxiais, a precipitação de calcita e a caulinização da argila existente..
+1	Quando	quando	ADV	_	_	7	advmod	_	start_char=6000|end_char=6006
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=6007|end_char=6008
+3	teor	teor	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	start_char=6009|end_char=6013
+4	em	em	ADP	_	_	5	case	_	start_char=6014|end_char=6016
+5	argila	argila	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	start_char=6017|end_char=6023
+6	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=6024|end_char=6025
+7	menor	pequeno	ADJ	_	Gender=Masc|Number=Sing	8	advcl	_	start_char=6026|end_char=6031
+8	ocorre	ocorrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6032|end_char=6038
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=6039|end_char=6040
+10	silicificação	silicificação	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	start_char=6041|end_char=6054
+11	através	através	ADV	_	_	13	case	_	start_char=6055|end_char=6062
+12	de	de	ADP	_	_	11	fixed	_	start_char=6063|end_char=6065
+13	crescimentos	crescimento	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	start_char=6066|end_char=6078
+14	sintaxiais	sintaxial	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	start_char=6079|end_char=6089
+15	,	,	PUNCT	_	_	17	punct	_	start_char=6089|end_char=6090
+16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	start_char=6091|end_char=6092
+17	precipitação	precipitação	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	start_char=6093|end_char=6105
+18	de	de	ADP	_	_	19	case	_	start_char=6106|end_char=6108
+19	calcita	calcita	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	start_char=6109|end_char=6116
+20	e	e	CCONJ	_	_	22	cc	_	start_char=6117|end_char=6118
+21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	start_char=6119|end_char=6120
+22	caulinização	caulinização	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	start_char=6121|end_char=6133
+23-24	da	_	_	_	_	_	_	_	start_char=6134|end_char=6136
+23	de	de	ADP	_	_	25	case	_	_
+24	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	argila	argila	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	start_char=6137|end_char=6143
+26	existente	existente	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	start_char=6144|end_char=6153
+27	.	.	PUNCT	_	_	8	punct	_	start_char=6153|end_char=6154
+28	.	.	PUNCT	_	_	8	punct	_	start_char=6154|end_char=6155
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-53
+# text = Clastos carbonáticos estão presentes e podem ser confundidos com o cimento carbonático intragranular..
+1	Clastos	clasto	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	start_char=6157|end_char=6164
+2	carbonáticos	carbonático	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	start_char=6165|end_char=6177
+3	estão	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=6178|end_char=6183
+4	presentes	presente	ADJ	_	Gender=Masc|Number=Plur	0	root	_	start_char=6184|end_char=6193
+5	e	e	CCONJ	_	_	6	cc	_	start_char=6194|end_char=6195
+6	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=6196|end_char=6201
+7	ser	ser	AUX	_	VerbForm=Inf	8	aux:pass	_	start_char=6202|end_char=6205
+8	confundidos	confundir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	6	xcomp	_	start_char=6206|end_char=6217
+9	com	com	ADP	_	_	11	case	_	start_char=6218|end_char=6221
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	start_char=6222|end_char=6223
+11	cimento	cimento	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	start_char=6224|end_char=6231
+12	carbonático	carbonático	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=6232|end_char=6243
+13	intragranular	intragranular	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=6244|end_char=6257
+14	.	.	PUNCT	_	_	4	punct	_	start_char=6257|end_char=6258
+15	.	.	PUNCT	_	_	4	punct	_	start_char=6258|end_char=6259
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-54
+# text = Não se observa retrabalhamento do material, e apenas um fragmento denota uma mistura mais pronunciada de areia a constituintes intrabacinais,
+6) 3222/3228 m - Intervalo provavelmente arenoso..
+1	Não	não	ADV	_	Polarity=Neg	3	advmod	_	start_char=6261|end_char=6264
+2	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs	3	expl	_	start_char=6265|end_char=6267
+3	observa	observar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6268|end_char=6275
+4	retrabalhamento	retrabalhamento	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	start_char=6276|end_char=6291
+5-6	do	_	_	_	_	_	_	_	start_char=6292|end_char=6294
+5	de	de	ADP	_	_	7	case	_	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	material	material	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	start_char=6295|end_char=6303
+8	,	,	PUNCT	_	_	13	punct	_	start_char=6303|end_char=6304
+9	e	e	CCONJ	_	_	13	cc	_	start_char=6305|end_char=6306
+10	apenas	apenas	ADV	_	_	13	advmod	_	start_char=6307|end_char=6313
+11	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	start_char=6314|end_char=6316
+12	fragmento	fragmento	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	start_char=6317|end_char=6326
+13	denota	denotar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=6327|end_char=6333
+14	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=6334|end_char=6337
+15	mistura	mistura	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	start_char=6338|end_char=6345
+16	mais	mais	ADV	_	_	17	advmod	_	start_char=6346|end_char=6350
+17	pronunciada	pronunciar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	15	acl	_	start_char=6351|end_char=6362
+18	de	de	ADP	_	_	19	case	_	start_char=6363|end_char=6365
+19	areia	areia	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	start_char=6366|end_char=6371
+20	a	a	ADP	_	_	21	case	_	start_char=6372|end_char=6373
+21	constituintes	constituinte	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	start_char=6374|end_char=6387
+22	intrabacinais	intrabacinal	ADJ	_	Gender=Masc|Number=Plur	21	amod	_	start_char=6388|end_char=6401
+23	,	,	PUNCT	_	_	26	punct	_	start_char=6401|end_char=6402
+24	6)	6)	NUM	_	NumType=Card	26	nummod	_	start_char=6403|end_char=6405
+25	3222/3228	3222/3228	NUM	_	NumType=Card	26	nummod	_	start_char=6406|end_char=6415
+26	m	m	NOUN	_	Gender=Masc|Number=Plur	21	conj	_	start_char=6416|end_char=6417
+27	-	-	PUNCT	_	_	28	punct	_	start_char=6418|end_char=6419
+28	Intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	26	conj	_	start_char=6420|end_char=6429
+29	provavelmente	provavelmente	ADV	_	_	30	advmod	_	start_char=6430|end_char=6443
+30	arenoso	arenoso	ADJ	_	Gender=Masc|Number=Sing	28	amod	_	start_char=6444|end_char=6451
+31	.	.	PUNCT	_	_	3	punct	_	start_char=6451|end_char=6452
+32	.	.	PUNCT	_	_	3	punct	_	start_char=6452|end_char=6453
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-55
+# text = 3222 m - 85 % Flh cnz, lamin, fissil, macio, 15 % arn esbranq, macio, hem selec, fino, mui fino, não calcif, 3225 m - 85 à Flh semelhanto ao anterior, 15 t arn cnz esbrang a cnz esverd mui cir..
+1	3222	3222	NUM	_	NumType=Card	2	nummod	_	start_char=6455|end_char=6459
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	31	nsubj	_	start_char=6460|end_char=6461
+3	-	-	PUNCT	_	_	5	punct	_	start_char=6462|end_char=6463
+4	85	85	NUM	_	NumType=Card	5	nummod	_	start_char=6464|end_char=6466
+5	%	%	SYM	_	_	2	appos	_	start_char=6467|end_char=6468
+6	Flh	flh	PUNCT	_	_	7	punct	_	start_char=6469|end_char=6472
+7	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	start_char=6473|end_char=6476
+8	,	,	PUNCT	_	_	9	punct	_	start_char=6476|end_char=6477
+9	lamin	lamin	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	start_char=6478|end_char=6483
+10	,	,	PUNCT	_	_	11	punct	_	start_char=6483|end_char=6484
+11	fissil	fissil	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	start_char=6485|end_char=6491
+12	,	,	PUNCT	_	_	13	punct	_	start_char=6491|end_char=6492
+13	macio	macio	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	start_char=6493|end_char=6498
+14	,	,	PUNCT	_	_	16	punct	_	start_char=6498|end_char=6499
+15	15	15	NUM	_	NumType=Card	16	nummod	_	start_char=6500|end_char=6502
+16	%	%	SYM	_	_	2	conj	_	start_char=6503|end_char=6504
+17	arn	arn	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	start_char=6505|end_char=6508
+18	esbranq	esbranq	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	start_char=6509|end_char=6516
+19	,	,	PUNCT	_	_	20	punct	_	start_char=6516|end_char=6517
+20	macio	macio	ADJ	_	Gender=Masc|Number=Sing	18	conj	_	start_char=6518|end_char=6523
+21	,	,	PUNCT	_	_	22	punct	_	start_char=6523|end_char=6524
+22	hem	hem	X	_	_	5	conj	_	start_char=6525|end_char=6528
+23	selec	selec	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	start_char=6529|end_char=6534
+24	,	,	PUNCT	_	_	25	punct	_	start_char=6534|end_char=6535
+25	fino	fino	ADJ	_	Gender=Masc|Number=Sing	18	conj	_	start_char=6536|end_char=6540
+26	,	,	PUNCT	_	_	28	punct	_	start_char=6540|end_char=6541
+27	mui	mui	ADV	_	_	28	advmod	_	start_char=6542|end_char=6545
+28	fino	fino	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	start_char=6546|end_char=6550
+29	,	,	PUNCT	_	_	28	punct	_	start_char=6550|end_char=6551
+30	não	não	ADV	_	Polarity=Neg	31	advmod	_	start_char=6552|end_char=6555
+31	calcif	calcir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6556|end_char=6562
+32	,	,	PUNCT	_	_	34	punct	_	start_char=6562|end_char=6563
+33	3225	3225	NUM	_	NumType=Card	34	nummod	_	start_char=6564|end_char=6568
+34	m	m	NOUN	_	Gender=Masc|Number=Plur	31	obj	_	start_char=6569|end_char=6570
+35	-	-	PUNCT	_	_	36	punct	_	start_char=6571|end_char=6572
+36	85	85	NUM	_	NumType=Card	34	nummod	_	start_char=6573|end_char=6575
+37-38	à	_	_	_	_	_	_	_	start_char=6576|end_char=6577
+37	a	a	ADP	_	_	39	case	_	_
+38	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
+39	Flh	Flh	PROPN	_	Gender=Fem|Number=Sing	36	nmod	_	start_char=6578|end_char=6581
+40	semelhanto	semelhanto	ADJ	_	Gender=Masc|Number=Sing	39	amod	_	start_char=6582|end_char=6592
+41-42	ao	_	_	_	_	_	_	_	start_char=6593|end_char=6595
+41	a	a	ADP	_	_	43	case	_	_
+42	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
+43	anterior	anterior	NOUN	_	Gender=Masc|Number=Sing	39	nmod	_	start_char=6596|end_char=6604
+44	,	,	PUNCT	_	_	46	punct	_	start_char=6604|end_char=6605
+45	15	15	NUM	_	NumType=Card	46	nummod	_	start_char=6606|end_char=6608
+46	t	t	NOUN	_	Gender=Masc|Number=Sing	39	appos	_	start_char=6609|end_char=6610
+47	arn	arn	X	_	_	46	nmod	_	start_char=6611|end_char=6614
+48	cnz	cnz	PUNCT	_	_	49	punct	_	start_char=6615|end_char=6618
+49	esbrang	esbranar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	conj	_	start_char=6619|end_char=6626
+50	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	51	det	_	start_char=6627|end_char=6628
+51	cnz	cnz	NOUN	_	Gender=Fem|Number=Sing	49	obj	_	start_char=6629|end_char=6632
+52	esverd	esverd	NOUN	_	Gender=Fem|Number=Sing	51	nmod	_	start_char=6633|end_char=6639
+53	mui	mui	NOUN	_	Gender=Masc|Number=Sing	51	nmod	_	start_char=6640|end_char=6643
+54	cir	cir	X	_	_	53	flat:foreign	_	start_char=6644|end_char=6647
+55	.	.	PUNCT	_	_	49	punct	_	start_char=6647|end_char=6648
+56	.	.	PUNCT	_	_	31	punct	_	start_char=6648|end_char=6649
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-56
+# text = 39998 m - Amostra cbpmalhanta 4 antoriaro Lâmina 3211 (3222/3228 m) - Arenito fino, moderadamente a mal selecionado, com grãos angulosos a subarredondados, quartzoso, subordinadamente subarcoseano, Como acessórios ocorrem moscovita, zircão, turmalina e titanita (isto ressalta a maturidade mineralógica do sedimento)..
+1	39998	39998	NUM	_	NumType=Card	2	nummod	_	start_char=6651|end_char=6656
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=6657|end_char=6658
+3	-	-	PUNCT	_	_	4	punct	_	start_char=6659|end_char=6660
+4	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	start_char=6661|end_char=6668
+5	cbpmalhanta	cbpmalhanta	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=6669|end_char=6680
+6	4	4	NUM	_	NumType=Card	7	nummod	_	start_char=6681|end_char=6682
+7	antoriaro	antoriaro	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	start_char=6683|end_char=6692
+8	Lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	start_char=6693|end_char=6699
+9	3211	3211	NUM	_	NumType=Card	8	nummod	_	start_char=6700|end_char=6704
+10	(	(	PUNCT	_	_	12	punct	_	start_char=6705|end_char=6706
+11	3222/3228	3222/3228	NUM	_	NumType=Card	12	nummod	_	start_char=6706|end_char=6715
+12	m	m	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	start_char=6716|end_char=6717
+13	)	)	PUNCT	_	_	12	punct	_	start_char=6717|end_char=6718
+14	-	-	PUNCT	_	_	15	punct	_	start_char=6719|end_char=6720
+15	Arenito	arenito	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	start_char=6721|end_char=6728
+16	fino	fino	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	start_char=6729|end_char=6733
+17	,	,	PUNCT	_	_	18	punct	_	start_char=6733|end_char=6734
+18	moderadamente	moderadamente	ADV	_	_	15	advmod	_	start_char=6735|end_char=6748
+19	a	a	ADP	_	_	21	case	_	start_char=6749|end_char=6750
+20	mal	mal	ADV	_	_	21	advmod	_	start_char=6751|end_char=6754
+21	selecionado	selecionar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	18	conj	_	start_char=6755|end_char=6766
+22	,	,	PUNCT	_	_	18	punct	_	start_char=6766|end_char=6767
+23	com	com	ADP	_	_	24	case	_	start_char=6768|end_char=6771
+24	grãos	grão	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=6772|end_char=6777
+25	angulosos	anguloso	ADJ	_	Gender=Masc|Number=Plur	24	amod	_	start_char=6778|end_char=6787
+26	a	a	ADP	_	_	27	case	_	start_char=6788|end_char=6789
+27	subarredondados	subarredondar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	25	conj	_	start_char=6790|end_char=6805
+28	,	,	PUNCT	_	_	29	punct	_	start_char=6805|end_char=6806
+29	quartzoso	quartzoso	ADV	_	_	32	advmod	_	start_char=6807|end_char=6816
+30	,	,	PUNCT	_	_	29	punct	_	start_char=6816|end_char=6817
+31	subordinadamente	subordinadamente	ADV	_	_	32	advmod	_	start_char=6818|end_char=6834
+32	subarcoseano	subarcoseano	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	start_char=6835|end_char=6847
+33	,	,	PUNCT	_	_	32	punct	_	start_char=6847|end_char=6848
+34	Como	como	ADP	_	_	35	case	_	start_char=6849|end_char=6853
+35	acessórios	acessório	NOUN	_	Gender=Masc|Number=Plur	36	obl	_	start_char=6854|end_char=6864
+36	ocorrem	ocorrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	advcl	_	start_char=6865|end_char=6872
+37	moscovita	moscovito	ADJ	_	Gender=Masc|Number=Sing	36	xcomp	_	start_char=6873|end_char=6882
+38	,	,	PUNCT	_	_	39	punct	_	start_char=6882|end_char=6883
+39	zircão	zircão	ADJ	_	Gender=Masc|Number=Sing	37	conj	_	start_char=6884|end_char=6890
+40	,	,	PUNCT	_	_	41	punct	_	start_char=6890|end_char=6891
+41	turmalina	turmalina	NOUN	_	Gender=Fem|Number=Sing	37	conj	_	start_char=6892|end_char=6901
+42	e	e	CCONJ	_	_	43	cc	_	start_char=6902|end_char=6903
+43	titanita	titanita	NOUN	_	Gender=Fem|Number=Sing	37	conj	_	start_char=6904|end_char=6912
+44	(	(	PUNCT	_	_	46	punct	_	start_char=6913|end_char=6914
+45	isto	isto	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	46	nsubj	_	start_char=6914|end_char=6918
+46	ressalta	ressaltar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	advcl	_	start_char=6919|end_char=6927
+47	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	start_char=6928|end_char=6929
+48	maturidade	maturidade	NOUN	_	Gender=Fem|Number=Sing	46	obj	_	start_char=6930|end_char=6940
+49	mineralógica	mineralógico	ADJ	_	Gender=Fem|Number=Sing	48	amod	_	start_char=6941|end_char=6953
+50-51	do	_	_	_	_	_	_	_	start_char=6954|end_char=6956
+50	de	de	ADP	_	_	52	case	_	_
+51	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	52	det	_	_
+52	sedimento	sedimento	NOUN	_	Gender=Masc|Number=Sing	48	nmod	_	start_char=6957|end_char=6966
+53	)	)	PUNCT	_	_	46	punct	_	start_char=6966|end_char=6967
+54	.	.	PUNCT	_	_	36	punct	_	start_char=6967|end_char=6968
+55	.	.	PUNCT	_	_	2	punct	_	start_char=6968|end_char=6969
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-57
+# text = A matriz argilosa está sujeita a caulinização e silicificação, Figura 15..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=6971|end_char=6972
+2	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	start_char=6973|end_char=6979
+3	argilosa	argiloso	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	start_char=6980|end_char=6988
+4	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=6989|end_char=6993
+5	sujeita	sujeito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	start_char=6994|end_char=7001
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=7002|end_char=7003
+7	caulinização	caulinização	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	start_char=7004|end_char=7016
+8	e	e	CCONJ	_	_	9	cc	_	start_char=7017|end_char=7018
+9	silicificação	silicificação	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	start_char=7019|end_char=7032
+10	,	,	PUNCT	_	_	11	punct	_	start_char=7032|end_char=7033
+11	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	7	conj	_	start_char=7034|end_char=7040
+12	15	15	NUM	_	NumType=Card	11	flat:name	_	start_char=7041|end_char=7043
+13	.	.	PUNCT	_	_	5	punct	_	start_char=7043|end_char=7044
+14	.	.	PUNCT	_	_	5	punct	_	start_char=7044|end_char=7045
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-58
+# text = Observa-se que a matriz dos intervalos arenosos é diferente da argila dos folhelhos, sendo esta provavelmente esmectítica e enriquecida em matéria orgânica..
+1-2	Observa-se	_	_	_	_	_	_	_	start_char=7047|end_char=7057
+1	Observa	observar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	_	Case=Acc|PronType=Prs	1	expl	_	_
+3	que	que	SCONJ	_	_	11	mark	_	start_char=7058|end_char=7061
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=7062|end_char=7063
+5	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	start_char=7064|end_char=7070
+6-7	dos	_	_	_	_	_	_	_	start_char=7071|end_char=7074
+6	de	de	ADP	_	_	8	case	_	_
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	intervalos	intervalo	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	start_char=7075|end_char=7085
+9	arenosos	arenoso	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	start_char=7086|end_char=7094
+10	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=7095|end_char=7096
+11	diferente	diferente	ADJ	_	Gender=Fem|Number=Sing	1	ccomp	_	start_char=7097|end_char=7106
+12-13	da	_	_	_	_	_	_	_	start_char=7107|end_char=7109
+12	de	de	ADP	_	_	14	case	_	_
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	argila	argila	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	start_char=7110|end_char=7116
+15-16	dos	_	_	_	_	_	_	_	start_char=7117|end_char=7120
+15	de	de	ADP	_	_	17	case	_	_
+16	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	folhelhos	folhelho	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	start_char=7121|end_char=7130
+18	,	,	PUNCT	_	_	22	punct	_	start_char=7130|end_char=7131
+19	sendo	ser	AUX	_	VerbForm=Ger	22	cop	_	start_char=7132|end_char=7137
+20	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	22	nsubj	_	start_char=7138|end_char=7142
+21	provavelmente	provavelmente	ADV	_	_	22	advmod	_	start_char=7143|end_char=7156
+22	esmectítica	esmectítico	ADJ	_	Gender=Fem|Number=Sing	11	advcl	_	start_char=7157|end_char=7168
+23	e	e	CCONJ	_	_	24	cc	_	start_char=7169|end_char=7170
+24	enriquecida	enriquecer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	22	conj	_	start_char=7171|end_char=7182
+25	em	em	ADP	_	_	26	case	_	start_char=7183|end_char=7185
+26	matéria	matéria	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	start_char=7186|end_char=7193
+27	orgânica	orgânico	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	start_char=7194|end_char=7202
+28	.	.	PUNCT	_	_	1	punct	_	start_char=7202|end_char=7203
+29	.	.	PUNCT	_	_	1	punct	_	start_char=7203|end_char=7204
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-59
+# text = Neste intervalo, sugere-se retrabalhamento pós-deposicional das areias (diamictito), observando-se que a argila presente entre os clastos deste material é semelhante àquela presente nos níveis arenosos, Figuras 16a e 16b..
+1-2	Neste	_	_	_	_	_	_	_	start_char=7206|end_char=7211
+1	Em	em	ADP	_	_	3	case	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	start_char=7212|end_char=7221
+4	,	,	PUNCT	_	_	3	punct	_	start_char=7221|end_char=7222
+5-6	sugere-se	_	_	_	_	_	_	_	start_char=7223|end_char=7232
+5	sugere	sugerir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:impers	_	_
+7	retrabalhamento	retrabalhamento	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	start_char=7233|end_char=7248
+8	pós-deposicional	pós-deposicional	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	start_char=7249|end_char=7265
+9-10	das	_	_	_	_	_	_	_	start_char=7266|end_char=7269
+9	de	de	ADP	_	_	11	case	_	_
+10	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	areias	areia	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	start_char=7270|end_char=7276
+12	(	(	PUNCT	_	_	13	punct	_	start_char=7277|end_char=7278
+13	diamictito	diamictito	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	start_char=7278|end_char=7288
+14	)	)	PUNCT	_	_	13	punct	_	start_char=7288|end_char=7289
+15	,	,	PUNCT	_	_	16	punct	_	start_char=7289|end_char=7290
+16-17	observando-se	_	_	_	_	_	_	_	start_char=7291|end_char=7304
+16	observando	observar	VERB	_	VerbForm=Ger	5	advcl	_	_
+17	se	se	PRON	_	Case=Acc|PronType=Prs	16	expl	_	_
+18	que	que	SCONJ	_	_	29	mark	_	start_char=7305|end_char=7308
+19	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	start_char=7309|end_char=7310
+20	argila	argila	NOUN	_	Gender=Fem|Number=Sing	29	nsubj	_	start_char=7311|end_char=7317
+21	presente	presente	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	start_char=7318|end_char=7326
+22	entre	entre	ADP	_	_	24	case	_	start_char=7327|end_char=7332
+23	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	start_char=7333|end_char=7335
+24	clastos	clasto	NOUN	_	Gender=Masc|Number=Plur	21	obl	_	start_char=7336|end_char=7343
+25-26	deste	_	_	_	_	_	_	_	start_char=7344|end_char=7349
+25	de	de	ADP	_	_	27	case	_	_
+26	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	27	det	_	_
+27	material	material	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	start_char=7350|end_char=7358
+28	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	start_char=7359|end_char=7360
+29	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	16	ccomp	_	start_char=7361|end_char=7371
+30-31	àquela	_	_	_	_	_	_	_	start_char=7372|end_char=7378
+30	a	a	ADP	_	_	32	case	_	_
+31	aquela	aquele	DET	_	Gender=Fem|Number=Sing|PronType=Dem	32	det	_	_
+32	presente	presente	NOUN	_	Gender=Fem|Number=Sing	29	obl	_	start_char=7379|end_char=7387
+33-34	nos	_	_	_	_	_	_	_	start_char=7388|end_char=7391
+33	em	em	ADP	_	_	35	case	_	_
+34	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	35	det	_	_
+35	níveis	nível	NOUN	_	Gender=Masc|Number=Plur	29	obl	_	start_char=7392|end_char=7398
+36	arenosos	arenoso	ADJ	_	Gender=Masc|Number=Plur	35	amod	_	start_char=7399|end_char=7407
+37	,	,	PUNCT	_	_	38	punct	_	start_char=7407|end_char=7408
+38	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	35	conj	_	start_char=7409|end_char=7416
+39	16a	16a	NUM	_	NumType=Card	38	flat:name	_	start_char=7417|end_char=7420
+40	e	e	CCONJ	_	_	42	cc	_	start_char=7421|end_char=7422
+41	16	16	NUM	_	NumType=Card	42	nummod	_	start_char=7423|end_char=7425
+42	b.	b.	NOUN	_	Gender=Masc|Number=Plur	35	conj	_	start_char=7425|end_char=7427
+43	.	.	PUNCT	_	_	5	punct	_	start_char=7427|end_char=7428
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-60
+# text = 3922 m - 90 4%
+1	3922	3922	NUM	_	NumType=Card	2	nummod	_	start_char=7430|end_char=7434
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=7435|end_char=7436
+3	-	-	PUNCT	_	_	6	punct	_	start_char=7437|end_char=7438
+4	90	90	NUM	_	NumType=Card	6	nummod	_	start_char=7439|end_char=7441
+5	4	4	NUM	_	NumType=Card	6	nummod	_	start_char=7442|end_char=7443
+6	%	%	SYM	_	_	2	appos	_	start_char=7443|end_char=7444
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-61
+# text = Flh cnz, cnz clr, 10 * arn mui friável, esbranq, cnz clr esbranq, fino a mui fino, subord hialino a cnz acast mui clar, sub a arred, mui duro (amostrado)..
+1	Flh	Flh	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=7446|end_char=7449
+2	cnz	cnz	PROPN	_	Number=Sing	1	flat:name	_	start_char=7450|end_char=7453
+3	,	,	PUNCT	_	_	4	punct	_	start_char=7453|end_char=7454
+4	cnz	cnz	X	_	_	1	conj	_	start_char=7455|end_char=7458
+5	clr	clr	X	_	_	4	flat:foreign	_	start_char=7459|end_char=7462
+6	,	,	PUNCT	_	_	7	punct	_	start_char=7462|end_char=7463
+7	10	10	NUM	_	NumType=Card	1	conj	_	start_char=7464|end_char=7466
+8	*	*	PUNCT	_	_	9	punct	_	start_char=7467|end_char=7468
+9	arn	arn	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=7469|end_char=7472
+10	mui	mui	ADV	_	_	11	advmod	_	start_char=7473|end_char=7476
+11	friável	friável	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	start_char=7477|end_char=7484
+12	,	,	PUNCT	_	_	13	punct	_	start_char=7484|end_char=7485
+13	esbranq	esbranq	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	start_char=7486|end_char=7493
+14	,	,	PUNCT	_	_	15	punct	_	start_char=7493|end_char=7494
+15	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=7495|end_char=7498
+16	clr	clr	X	_	_	15	flat:foreign	_	start_char=7499|end_char=7502
+17	esbranq	esbranq	X	_	_	15	flat:foreign	_	start_char=7503|end_char=7510
+18	,	,	PUNCT	_	_	19	punct	_	start_char=7510|end_char=7511
+19	fino	fino	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=7512|end_char=7516
+20	a	a	ADP	_	_	22	case	_	start_char=7517|end_char=7518
+21	mui	mui	ADV	_	_	22	advmod	_	start_char=7519|end_char=7522
+22	fino	fino	ADJ	_	Gender=Masc|Number=Sing	19	obl	_	start_char=7523|end_char=7527
+23	,	,	PUNCT	_	_	24	punct	_	start_char=7527|end_char=7528
+24	subord	subord	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=7529|end_char=7535
+25	hialino	hialino	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	start_char=7536|end_char=7543
+26	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	start_char=7544|end_char=7545
+27	cnz	cnz	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	start_char=7546|end_char=7549
+28	acast	acast	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	start_char=7550|end_char=7555
+29	mui	mui	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	start_char=7556|end_char=7559
+30	clar	clar	X	_	_	29	flat:foreign	_	start_char=7560|end_char=7564
+31	,	,	PUNCT	_	_	32	punct	_	start_char=7564|end_char=7565
+32	sub	sub	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=7566|end_char=7569
+33	a	a	ADP	_	_	34	case	_	start_char=7570|end_char=7571
+34	arred	arred	NOUN	_	Gender=Fem|Number=Sing	32	nmod	_	start_char=7572|end_char=7577
+35	,	,	PUNCT	_	_	37	punct	_	start_char=7577|end_char=7578
+36	mui	mui	ADV	_	_	37	advmod	_	start_char=7579|end_char=7582
+37	duro	duro	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	start_char=7583|end_char=7587
+38	(	(	PUNCT	_	_	39	punct	_	start_char=7588|end_char=7589
+39	amostrado	amostrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	37	appos	_	start_char=7589|end_char=7598
+40	)	)	PUNCT	_	_	39	punct	_	start_char=7598|end_char=7599
+41	.	.	PUNCT	_	_	39	punct	_	start_char=7599|end_char=7600
+42	.	.	PUNCT	_	_	1	punct	_	start_char=7600|end_char=7601
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-62
+# text = 3525 m - Ausente..
+1	3525	3525	NUM	_	NumType=Card	2	nummod	_	start_char=7603|end_char=7607
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=7608|end_char=7609
+3	-	-	PUNCT	_	_	4	punct	_	start_char=7610|end_char=7611
+4	Ausente	ausente	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	start_char=7612|end_char=7619
+5	.	.	PUNCT	_	_	2	punct	_	start_char=7619|end_char=7620
+6	.	.	PUNCT	_	_	2	punct	_	start_char=7620|end_char=7621
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-63
+# text = 3528 m - 50 à flh semelhante ao anterior, 50 + sto esbranq a rosado clr, fino e mui macio, 3531 m - 90 $ Arn avermelh semelhante ao anterior, LO % flh semelhante ao anterior..
+1	3528	3528	NUM	_	NumType=Card	2	nummod	_	start_char=7623|end_char=7627
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=7628|end_char=7629
+3	-	-	PUNCT	_	_	4	punct	_	start_char=7630|end_char=7631
+4	50	50	NUM	_	NumType=Card	2	appos	_	start_char=7632|end_char=7634
+5-6	à	_	_	_	_	_	_	_	start_char=7635|end_char=7636
+5	a	a	ADP	_	_	7	case	_	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	flh	flh	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=7637|end_char=7640
+8	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	start_char=7641|end_char=7651
+9-10	ao	_	_	_	_	_	_	_	start_char=7652|end_char=7654
+9	a	a	ADP	_	_	11	case	_	_
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	anterior	anterior	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	start_char=7655|end_char=7663
+12	,	,	PUNCT	_	_	14	punct	_	start_char=7663|end_char=7664
+13	50	50	NUM	_	NumType=Card	14	nummod	_	start_char=7665|end_char=7667
+14	+	+	SYM	_	_	2	conj	_	start_char=7668|end_char=7669
+15	sto	sto	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=7670|end_char=7673
+16	esbranq	esbranq	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=7674|end_char=7681
+17	a	a	ADP	_	_	19	case	_	start_char=7682|end_char=7683
+18	rosado	rosar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	19	acl	_	start_char=7684|end_char=7690
+19	clr	clr	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=7691|end_char=7694
+20	,	,	PUNCT	_	_	21	punct	_	start_char=7694|end_char=7695
+21	fino	fino	ADJ	_	Gender=Masc|Number=Sing	19	conj	_	start_char=7696|end_char=7700
+22	e	e	CCONJ	_	_	24	cc	_	start_char=7701|end_char=7702
+23	mui	mui	ADV	_	_	24	advmod	_	start_char=7703|end_char=7706
+24	macio	macio	ADJ	_	Gender=Masc|Number=Sing	19	conj	_	start_char=7707|end_char=7712
+25	,	,	PUNCT	_	_	27	punct	_	start_char=7712|end_char=7713
+26	3531	3531	NUM	_	NumType=Card	27	nummod	_	start_char=7714|end_char=7718
+27	m	m	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	start_char=7719|end_char=7720
+28	-	-	PUNCT	_	_	30	punct	_	start_char=7721|end_char=7722
+29	90	90	NUM	_	NumType=Card	30	nummod	_	start_char=7723|end_char=7725
+30	$	$	NOUN	_	Gender=Masc|Number=Plur	27	conj	_	start_char=7726|end_char=7727
+31	Arn	Arn	PROPN	_	Gender=Masc|Number=Sing	30	nmod	_	start_char=7728|end_char=7731
+32	avermelh	avermel	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=7732|end_char=7740
+33	semelhante	semelhante	ADJ	_	Gender=Masc|Number=Sing	32	xcomp	_	start_char=7741|end_char=7751
+34-35	ao	_	_	_	_	_	_	_	start_char=7752|end_char=7754
+34	a	a	ADP	_	_	36	case	_	_
+35	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	anterior	anterior	NOUN	_	Gender=Masc|Number=Sing	33	obl	_	start_char=7755|end_char=7763
+37	,	,	PUNCT	_	_	32	punct	_	start_char=7763|end_char=7764
+38	LO	lo	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obj	_	start_char=7765|end_char=7767
+39	%	%	SYM	_	_	32	obj	_	start_char=7768|end_char=7769
+40	flh	flh	ADV	_	_	41	advmod	_	start_char=7770|end_char=7773
+41	semelhante	semelhante	ADJ	_	Gender=Masc|Number=Sing	39	amod	_	start_char=7774|end_char=7784
+42-43	ao	_	_	_	_	_	_	_	start_char=7785|end_char=7787
+42	a	a	ADP	_	_	44	case	_	_
+43	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
+44	anterior	anterior	NOUN	_	Gender=Masc|Number=Sing	41	obl	_	start_char=7788|end_char=7796
+45	.	.	PUNCT	_	_	32	punct	_	start_char=7796|end_char=7797
+46	.	.	PUNCT	_	_	32	punct	_	start_char=7797|end_char=7798
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-64
+# text = 3534 m - Amostra semelhante à anterior, c/arn mui [riavel, impossibilitando e coleta..
+1	3534	3534	NUM	_	NumType=Card	2	nummod	_	start_char=7800|end_char=7804
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	start_char=7805|end_char=7806
+3	-	-	PUNCT	_	_	4	punct	_	start_char=7807|end_char=7808
+4	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	start_char=7809|end_char=7816
+5	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=7817|end_char=7827
+6-7	à	_	_	_	_	_	_	_	start_char=7828|end_char=7829
+6	a	a	ADP	_	_	8	case	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	anterior	anterior	ADJ	_	Gender=Fem|Number=Sing	5	obl	_	start_char=7830|end_char=7838
+9	,	,	PUNCT	_	_	5	punct	_	start_char=7838|end_char=7839
+10	c/arn	c/arn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7840|end_char=7845
+11	mui	mui	ADV	_	_	10	advmod	_	start_char=7846|end_char=7849
+12	[riavel	[riavel	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	start_char=7850|end_char=7857
+13	,	,	PUNCT	_	_	14	punct	_	start_char=7857|end_char=7858
+14	impossibilitando	impossibilitar	VERB	_	VerbForm=Ger	10	advcl	_	start_char=7859|end_char=7875
+15	e	e	CCONJ	_	_	16	cc	_	start_char=7876|end_char=7877
+16	coleta	coleta	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	start_char=7878|end_char=7884
+17	.	.	PUNCT	_	_	14	punct	_	start_char=7884|end_char=7885
+18	.	.	PUNCT	_	_	10	punct	_	start_char=7885|end_char=7886
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-65
+# text = 3537 m - Amostra semelhante à anterior, muito friável..
+1	3537	3537	NUM	_	NumType=Card	2	nummod	_	start_char=7888|end_char=7892
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=7893|end_char=7894
+3	-	-	PUNCT	_	_	4	punct	_	start_char=7895|end_char=7896
+4	Amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	start_char=7897|end_char=7904
+5	semelhante	semelhante	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=7905|end_char=7915
+6-7	à	_	_	_	_	_	_	_	start_char=7916|end_char=7917
+6	a	a	ADP	_	_	8	case	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	anterior	anterior	ADJ	_	Gender=Fem|Number=Sing	5	obl	_	start_char=7918|end_char=7926
+9	,	,	PUNCT	_	_	11	punct	_	start_char=7926|end_char=7927
+10	muito	muito	ADV	_	_	11	advmod	_	start_char=7928|end_char=7933
+11	friável	friável	ADJ	_	Gender=Fem|Number=Sing	8	conj	_	start_char=7934|end_char=7941
+12	.	.	PUNCT	_	_	11	punct	_	start_char=7941|end_char=7942
+13	.	.	PUNCT	_	_	2	punct	_	start_char=7942|end_char=7943
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-66
+# text = 3540 m - Ausente, 3543 m - 100 © Flh cnz, lamin, macio..
+1	3540	3540	NUM	_	NumType=Card	2	nummod	_	start_char=7945|end_char=7949
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=7950|end_char=7951
+3	-	-	PUNCT	_	_	4	punct	_	start_char=7952|end_char=7953
+4	Ausente	ausente	ADJ	_	Gender=Masc|Number=Sing	2	appos	_	start_char=7954|end_char=7961
+5	,	,	PUNCT	_	_	7	punct	_	start_char=7961|end_char=7962
+6	3543	3543	NUM	_	NumType=Card	7	nummod	_	start_char=7963|end_char=7967
+7	m	m	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	start_char=7968|end_char=7969
+8	-	-	PUNCT	_	_	10	punct	_	start_char=7970|end_char=7971
+9	100	100	NUM	_	NumType=Card	10	nummod	_	start_char=7972|end_char=7975
+10	©	©	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	start_char=7976|end_char=7977
+11	Flh	Flh	PROPN	_	Gender=Masc|Number=Sing	10	nmod	_	start_char=7978|end_char=7981
+12	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	10	flat:foreign	_	start_char=7982|end_char=7985
+13	,	,	PUNCT	_	_	14	punct	_	start_char=7985|end_char=7986
+14	lamin	lamin	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	start_char=7987|end_char=7992
+15	,	,	PUNCT	_	_	16	punct	_	start_char=7992|end_char=7993
+16	macio	macio	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	start_char=7994|end_char=7999
+17	.	.	PUNCT	_	_	2	punct	_	start_char=7999|end_char=8000
+18	.	.	PUNCT	_	_	2	punct	_	start_char=8000|end_char=8001
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-67
+# text = Lâmina 3212 (3522 m) - Quartzoarenito a subarcóseo, fino a médio, moderadamente selecionado, localmente silicificado ou totalmente cimentado por calcita, Figuras 17 e 18..
+1	Lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=8003|end_char=8009
+2	3212	3212	NUM	_	NumType=Card	1	nummod	_	start_char=8010|end_char=8014
+3	(	(	PUNCT	_	_	5	punct	_	start_char=8015|end_char=8016
+4	3522	3522	NUM	_	NumType=Card	5	nummod	_	start_char=8016|end_char=8020
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=8021|end_char=8022
+6	)	)	PUNCT	_	_	5	punct	_	start_char=8022|end_char=8023
+7	-	-	PUNCT	_	_	8	punct	_	start_char=8024|end_char=8025
+8	Quartzoarenito	Quartzoarenito	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	start_char=8026|end_char=8040
+9	a	a	ADP	_	_	10	case	_	start_char=8041|end_char=8042
+10	subarcóseo	subarcóseo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	start_char=8043|end_char=8053
+11	,	,	PUNCT	_	_	12	punct	_	start_char=8053|end_char=8054
+12	fino	fino	ADJ	_	Gender=Masc|Number=Sing	10	conj	_	start_char=8055|end_char=8059
+13	a	a	ADP	_	_	14	case	_	start_char=8060|end_char=8061
+14	médio	médio	ADJ	_	Gender=Masc|Number=Sing	12	obl	_	start_char=8062|end_char=8067
+15	,	,	PUNCT	_	_	17	punct	_	start_char=8067|end_char=8068
+16	moderadamente	moderadamente	ADV	_	_	17	advmod	_	start_char=8069|end_char=8082
+17	selecionado	selecionar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	start_char=8083|end_char=8094
+18	,	,	PUNCT	_	_	20	punct	_	start_char=8094|end_char=8095
+19	localmente	localmente	ADV	_	_	20	advmod	_	start_char=8096|end_char=8106
+20	silicificado	silicificar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	start_char=8107|end_char=8119
+21	ou	ou	CCONJ	_	_	23	cc	_	start_char=8120|end_char=8122
+22	totalmente	totalmente	ADV	_	_	23	advmod	_	start_char=8123|end_char=8133
+23	cimentado	cimentar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	20	conj	_	start_char=8134|end_char=8143
+24	por	por	ADP	_	_	25	case	_	start_char=8144|end_char=8147
+25	calcita	calcita	NOUN	_	Gender=Fem|Number=Sing	23	obl:agent	_	start_char=8148|end_char=8155
+26	,	,	PUNCT	_	_	27	punct	_	start_char=8155|end_char=8156
+27	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	25	conj	_	start_char=8157|end_char=8164
+28	17	17	NUM	_	NumType=Card	27	flat:name	_	start_char=8165|end_char=8167
+29	e	e	CCONJ	_	_	30	cc	_	start_char=8168|end_char=8169
+30	18	18	NUM	_	NumType=Card	27	conj	_	start_char=8170|end_char=8172
+31	.	.	PUNCT	_	_	23	punct	_	start_char=8172|end_char=8173
+32	.	.	PUNCT	_	_	1	punct	_	start_char=8173|end_char=8174
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-68
+# text = Aporte de clásticos relativamente livres de argilas..
+1	Aporte	aporte	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=8176|end_char=8182
+2	de	de	ADP	_	_	3	case	_	start_char=8183|end_char=8185
+3	clásticos	clástico	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	start_char=8186|end_char=8195
+4	relativamente	relativamente	ADV	_	_	5	advmod	_	start_char=8196|end_char=8209
+5	livres	livre	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	start_char=8210|end_char=8216
+6	de	de	ADP	_	_	7	case	_	start_char=8217|end_char=8219
+7	argilas	argila	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	start_char=8220|end_char=8227
+8	.	.	PUNCT	_	_	1	punct	_	start_char=8227|end_char=8228
+9	.	.	PUNCT	_	_	1	punct	_	start_char=8228|end_char=8229
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-69
+# text = No intervalo encontra-se folhelho siltico..
+1-2	No	_	_	_	_	_	_	_	start_char=8231|end_char=8233
+1	Em	em	ADP	_	_	3	case	_	_
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	start_char=8234|end_char=8243
+4-5	encontra-se	_	_	_	_	_	_	_	start_char=8244|end_char=8255
+4	encontra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:impers	_	_
+6	folhelho	folhelho	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	start_char=8256|end_char=8264
+7	siltico	siltico	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	start_char=8265|end_char=8272
+8	.	.	PUNCT	_	_	4	punct	_	start_char=8272|end_char=8273
+9	.	.	PUNCT	_	_	4	punct	_	start_char=8273|end_char=8274
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-70
+# text = Lâmina 3213 (3528/3537 m) - Arenito semelhante ao anterior, localmente mal selecionado e grosseiro, frequentemente cimentado por calcita e com empacotamento aberto e raramente silicificado..
+1	Lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=8276|end_char=8282
+2	3213	3213	NUM	_	NumType=Card	1	nummod	_	start_char=8283|end_char=8287
+3	(	(	PUNCT	_	_	5	punct	_	start_char=8288|end_char=8289
+4	3528/3537	3528/3537	NUM	_	NumType=Card	5	nummod	_	start_char=8289|end_char=8298
+5	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=8299|end_char=8300
+6	)	)	PUNCT	_	_	5	punct	_	start_char=8300|end_char=8301
+7	-	-	PUNCT	_	_	8	punct	_	start_char=8302|end_char=8303
+8	Arenito	Arenito	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=8304|end_char=8311
+9	semelhante	semelhante	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	start_char=8312|end_char=8322
+10-11	ao	_	_	_	_	_	_	_	start_char=8323|end_char=8325
+10	a	a	ADP	_	_	12	case	_	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	anterior	anterior	ADJ	_	Gender=Masc|Number=Sing	9	obl	_	start_char=8326|end_char=8334
+13	,	,	PUNCT	_	_	16	punct	_	start_char=8334|end_char=8335
+14	localmente	localmente	ADV	_	_	16	advmod	_	start_char=8336|end_char=8346
+15	mal	mal	ADV	_	_	16	advmod	_	start_char=8347|end_char=8350
+16	selecionado	selecionar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	start_char=8351|end_char=8362
+17	e	e	CCONJ	_	_	18	cc	_	start_char=8363|end_char=8364
+18	grosseiro	grosseiro	ADJ	_	Gender=Masc|Number=Sing	16	conj	_	start_char=8365|end_char=8374
+19	,	,	PUNCT	_	_	21	punct	_	start_char=8374|end_char=8375
+20	frequentemente	frequentemente	ADV	_	_	21	advmod	_	start_char=8376|end_char=8390
+21	cimentado	cimentar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	acl	_	start_char=8391|end_char=8400
+22	por	por	ADP	_	_	23	case	_	start_char=8401|end_char=8404
+23	calcita	calcita	NOUN	_	Gender=Masc|Number=Sing	21	obl:agent	_	start_char=8405|end_char=8412
+24	e	e	CCONJ	_	_	26	cc	_	start_char=8413|end_char=8414
+25	com	com	ADP	_	_	26	case	_	start_char=8415|end_char=8418
+26	empacotamento	empacotamento	NOUN	_	Gender=Masc|Number=Sing	23	conj	_	start_char=8419|end_char=8432
+27	aberto	abrir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	26	acl	_	start_char=8433|end_char=8439
+28	e	e	CCONJ	_	_	30	cc	_	start_char=8440|end_char=8441
+29	raramente	raramente	ADV	_	_	30	advmod	_	start_char=8442|end_char=8451
+30	silicificado	silicificar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	27	conj	_	start_char=8452|end_char=8464
+31	.	.	PUNCT	_	_	30	punct	_	start_char=8464|end_char=8465
+32	.	.	PUNCT	_	_	1	punct	_	start_char=8465|end_char=8466
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-71
+# text = Quartzoso a subarcoseano..
+1	Quartzoso	quartzer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8468|end_char=8477
+2	a	a	ADP	_	_	3	case	_	start_char=8478|end_char=8479
+3	subarcoseano	subarcoseano	NOUN	_	Gender=Fem|Number=Sing	1	obl:arg	_	start_char=8480|end_char=8492
+4	.	.	PUNCT	_	_	1	punct	_	start_char=8492|end_char=8493
+5	.	.	PUNCT	_	_	1	punct	_	start_char=8493|end_char=8494
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-72
+# text = Grãos angulosos a subangulosos predominam na fração fina, onde a moscovita ocorre como acessório..
+1	Grãos	grão	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	start_char=8496|end_char=8501
+2	angulosos	anguloso	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	start_char=8502|end_char=8511
+3	a	a	ADP	_	_	4	case	_	start_char=8512|end_char=8513
+4	subangulosos	subanguloso	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	start_char=8514|end_char=8526
+5	predominam	predominar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8527|end_char=8537
+6-7	na	_	_	_	_	_	_	_	start_char=8538|end_char=8540
+6	em	em	ADP	_	_	8	case	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	fração	fração	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	start_char=8541|end_char=8547
+9	fina	fino	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	start_char=8548|end_char=8552
+10	,	,	PUNCT	_	_	5	punct	_	start_char=8552|end_char=8553
+11	onde	onde	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	14	obl	_	start_char=8554|end_char=8558
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=8559|end_char=8560
+13	moscovita	moscovita	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	start_char=8561|end_char=8570
+14	ocorre	ocorrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=8571|end_char=8577
+15	como	como	ADP	_	_	16	case	_	start_char=8578|end_char=8582
+16	acessório	acessório	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	start_char=8583|end_char=8592
+17	.	.	PUNCT	_	_	5	punct	_	start_char=8592|end_char=8593
+18	.	.	PUNCT	_	_	5	punct	_	start_char=8593|end_char=8594
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-73
+# text = Grãos subangulos a subarredondados caracterizam a fração de granulação mais grosseira, na qual pode ser encontrado quartzo policristalino, Figura 19..
+1	Grãos	grão	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	start_char=8596|end_char=8601
+2	subangulos	subangulo	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	start_char=8602|end_char=8612
+3	a	a	ADP	_	_	4	case	_	start_char=8613|end_char=8614
+4	subarredondados	subarredondado	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	start_char=8615|end_char=8630
+5	caracterizam	caracterizar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8631|end_char=8643
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=8644|end_char=8645
+7	fração	fração	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	start_char=8646|end_char=8652
+8	de	de	ADP	_	_	9	case	_	start_char=8653|end_char=8655
+9	granulação	granulação	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	start_char=8656|end_char=8666
+10	mais	mais	ADV	_	_	11	advmod	_	start_char=8667|end_char=8671
+11	grosseira	grosseiro	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	start_char=8672|end_char=8681
+12	,	,	PUNCT	_	_	5	punct	_	start_char=8681|end_char=8682
+13-14	na	_	_	_	_	_	_	_	start_char=8683|end_char=8685
+13	em	em	ADP	_	_	15	case	_	_
+14	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	qual	qual	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	16	obl	_	start_char=8686|end_char=8690
+16	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=8691|end_char=8695
+17	ser	ser	AUX	_	VerbForm=Inf	18	aux:pass	_	start_char=8696|end_char=8699
+18	encontrado	encontrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	16	xcomp	_	start_char=8700|end_char=8710
+19	quartzo	quartzo	NOUN	_	Gender=Masc|Number=Sing	18	nsubj:pass	_	start_char=8711|end_char=8718
+20	policristalino	policristalino	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	start_char=8719|end_char=8733
+21	,	,	PUNCT	_	_	22	punct	_	start_char=8733|end_char=8734
+22	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	19	conj	_	start_char=8735|end_char=8741
+23	19	19	NUM	_	NumType=Card	22	flat:name	_	start_char=8742|end_char=8744
+24	.	.	PUNCT	_	_	22	flat:name	_	start_char=8744|end_char=8745
+25	.	.	PUNCT	_	_	5	punct	_	start_char=8745|end_char=8746
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-74
+# text = É raro observar no conjunto amostrado mistura de materiais intra-e extrabacinais, Figuras 20a e 20b. 3582/3588 m - Provavelmente corresponde a intervalo arenoso..
+1	É	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=8748|end_char=8749
+2	raro	raro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	start_char=8750|end_char=8754
+3	observar	observar	VERB	_	VerbForm=Inf	2	csubj	_	start_char=8755|end_char=8763
+4-5	no	_	_	_	_	_	_	_	start_char=8764|end_char=8766
+4	em	em	ADP	_	_	6	case	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	conjunto	conjunto	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	start_char=8767|end_char=8775
+7	amostrado	amostrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	start_char=8776|end_char=8785
+8	mistura	mistura	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	start_char=8786|end_char=8793
+9	de	de	ADP	_	_	10	case	_	start_char=8794|end_char=8796
+10	materiais	material	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	start_char=8797|end_char=8806
+11	intra-e	intra-e	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	start_char=8807|end_char=8814
+12	extrabacinais	extrabacinal	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	start_char=8815|end_char=8828
+13	,	,	PUNCT	_	_	14	punct	_	start_char=8828|end_char=8829
+14	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	10	conj	_	start_char=8830|end_char=8837
+15	20a	20a	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	14	amod	_	start_char=8838|end_char=8841
+16	e	e	CCONJ	_	_	17	cc	_	start_char=8842|end_char=8843
+17	20b.	20b.	SYM	_	_	10	conj	_	start_char=8844|end_char=8848
+18	3582/3588	3582/3588	NUM	_	NumType=Card	19	nummod	_	start_char=8849|end_char=8858
+19	m	m	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	start_char=8859|end_char=8860
+20	-	-	PUNCT	_	_	22	punct	_	start_char=8861|end_char=8862
+21	Provavelmente	provavelmente	ADV	_	_	22	advmod	_	start_char=8863|end_char=8876
+22	corresponde	corresponder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=8877|end_char=8888
+23	a	a	ADP	_	_	24	case	_	start_char=8889|end_char=8890
+24	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	22	obl:arg	_	start_char=8891|end_char=8900
+25	arenoso	arenoso	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	start_char=8901|end_char=8908
+26	.	.	PUNCT	_	_	22	punct	_	start_char=8908|end_char=8909
+27	.	.	PUNCT	_	_	2	punct	_	start_char=8909|end_char=8910
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-75
+# text = 3582 m - 100 % Flh cnz, lamin / blocoso; macio c/traços de arn. 3585 m - 100 à Flh levem siltico semelhante ao anterior, 3588 m - 100 & Flh semelhante ao anterior..
+1	3582	3582	NUM	_	NumType=Card	2	nummod	_	start_char=8912|end_char=8916
+2	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=8917|end_char=8918
+3	-	-	PUNCT	_	_	5	punct	_	start_char=8919|end_char=8920
+4	100	100	NUM	_	NumType=Card	5	nummod	_	start_char=8921|end_char=8924
+5	%	%	SYM	_	_	2	appos	_	start_char=8925|end_char=8926
+6	Flh	flh	ADP	_	_	7	case	_	start_char=8927|end_char=8930
+7	cnz	cnz	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	start_char=8931|end_char=8934
+8	,	,	PUNCT	_	_	9	punct	_	start_char=8934|end_char=8935
+9	lamin	lamin	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	start_char=8936|end_char=8941
+10	/	/	PUNCT	_	_	11	punct	_	start_char=8942|end_char=8943
+11	blocoso	blocoso	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	start_char=8944|end_char=8951
+12	;	;	PUNCT	_	_	14	punct	_	start_char=8951|end_char=8952
+13	macio	macio	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	start_char=8953|end_char=8958
+14	c/traços	c/traço	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	start_char=8959|end_char=8967
+15	de	de	ADP	_	_	16	case	_	start_char=8968|end_char=8970
+16	arn.	arn.	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=8971|end_char=8975
+17	3585	3585	NUM	_	NumType=Card	18	nummod	_	start_char=8976|end_char=8980
+18	m	m	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	start_char=8981|end_char=8982
+19	-	-	PUNCT	_	_	20	punct	_	start_char=8983|end_char=8984
+20	100	100	NUM	_	NumType=Card	14	nummod	_	start_char=8985|end_char=8988
+21-22	à	_	_	_	_	_	_	_	start_char=8989|end_char=8990
+21	a	a	ADP	_	_	23	case	_	_
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	Flh	Flh	PROPN	_	Gender=Fem|Number=Sing	20	nmod	_	start_char=8991|end_char=8994
+24	levem	levar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=8995|end_char=9000
+25	siltico	siltico	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	start_char=9001|end_char=9008
+26	semelhante	semelhante	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	start_char=9009|end_char=9019
+27-28	ao	_	_	_	_	_	_	_	start_char=9020|end_char=9022
+27	a	a	ADP	_	_	29	case	_	_
+28	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	anterior	anterior	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	start_char=9023|end_char=9031
+30	,	,	PUNCT	_	_	32	punct	_	start_char=9031|end_char=9032
+31	3588	3588	NUM	_	NumType=Card	32	nummod	_	start_char=9033|end_char=9037
+32	m	m	NOUN	_	Gender=Masc|Number=Plur	25	conj	_	start_char=9038|end_char=9039
+33	-	-	PUNCT	_	_	35	punct	_	start_char=9040|end_char=9041
+34	100	100	NUM	_	NumType=Card	35	nummod	_	start_char=9042|end_char=9045
+35	&	&	NOUN	_	Gender=Masc|Number=Plur	25	conj	_	start_char=9046|end_char=9047
+36	Flh	Flh	PROPN	_	Number=Sing	35	nmod	_	start_char=9048|end_char=9051
+37	semelhante	semelhante	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	start_char=9052|end_char=9062
+38-39	ao	_	_	_	_	_	_	_	start_char=9063|end_char=9065
+38	a	a	ADP	_	_	40	case	_	_
+39	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
+40	anterior	anterior	NOUN	_	Gender=Masc|Number=Sing	37	obl	_	start_char=9066|end_char=9074
+41	.	.	PUNCT	_	_	24	punct	_	start_char=9074|end_char=9075
+42	.	.	PUNCT	_	_	24	punct	_	start_char=9075|end_char=9076
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-76
+# text = Lamina 3214 (3582/3588 m | - Fragmentos derivados provavelmente de escorregamentos (diamictitos), constituídos por fragmentos de folhelho siltico, carbonato e grãos de quartzo com extinção reta e ondulante, de granulação siltica grosseira até arenosa grosseira..
+1	Lamina	lamina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=9078|end_char=9084
+2	3214	3214	NUM	_	NumType=Card	4	nummod	_	start_char=9085|end_char=9089
+3	(3582/3588	(3582/3588	NUM	_	NumType=Card	4	nummod	_	start_char=9090|end_char=9100
+4	m	m	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=9101|end_char=9102
+5	|	|	PUNCT	_	_	7	punct	_	start_char=9103|end_char=9104
+6	-	-	PUNCT	_	_	7	punct	_	start_char=9105|end_char=9106
+7	Fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=9107|end_char=9117
+8	derivados	derivar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	7	acl	_	start_char=9118|end_char=9127
+9	provavelmente	provavelmente	ADV	_	_	8	advmod	_	start_char=9128|end_char=9141
+10	de	de	ADP	_	_	11	case	_	start_char=9142|end_char=9144
+11	escorregamentos	escorregamento	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	start_char=9145|end_char=9160
+12	(	(	PUNCT	_	_	13	punct	_	start_char=9161|end_char=9162
+13	diamictitos	diamictito	NOUN	_	Gender=Masc|Number=Plur	11	appos	_	start_char=9162|end_char=9173
+14	)	)	PUNCT	_	_	13	punct	_	start_char=9173|end_char=9174
+15	,	,	PUNCT	_	_	16	punct	_	start_char=9174|end_char=9175
+16	constituídos	constituir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	7	acl	_	start_char=9176|end_char=9188
+17	por	por	ADP	_	_	18	case	_	start_char=9189|end_char=9192
+18	fragmentos	fragmento	NOUN	_	Gender=Masc|Number=Plur	16	obl:agent	_	start_char=9193|end_char=9203
+19	de	de	ADP	_	_	20	case	_	start_char=9204|end_char=9206
+20	folhelho	folhelho	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	start_char=9207|end_char=9215
+21	siltico	siltico	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	start_char=9216|end_char=9223
+22	,	,	PUNCT	_	_	23	punct	_	start_char=9223|end_char=9224
+23	carbonato	carbonato	NOUN	_	Gender=Masc|Number=Sing	20	conj	_	start_char=9225|end_char=9234
+24	e	e	CCONJ	_	_	25	cc	_	start_char=9235|end_char=9236
+25	grãos	grão	NOUN	_	Gender=Masc|Number=Plur	20	conj	_	start_char=9237|end_char=9242
+26	de	de	ADP	_	_	27	case	_	start_char=9243|end_char=9245
+27	quartzo	quartzo	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	start_char=9246|end_char=9253
+28	com	com	ADP	_	_	29	case	_	start_char=9254|end_char=9257
+29	extinção	extinção	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	start_char=9258|end_char=9266
+30	reta	reta	ADJ	_	Gender=Fem|Number=Sing	29	amod	_	start_char=9267|end_char=9271
+31	e	e	CCONJ	_	_	32	cc	_	start_char=9272|end_char=9273
+32	ondulante	ondulante	ADJ	_	Gender=Fem|Number=Sing	30	conj	_	start_char=9274|end_char=9283
+33	,	,	PUNCT	_	_	35	punct	_	start_char=9283|end_char=9284
+34	de	de	ADP	_	_	35	case	_	start_char=9285|end_char=9287
+35	granulação	granulação	NOUN	_	Gender=Fem|Number=Sing	29	nmod	_	start_char=9288|end_char=9298
+36	siltica	siltico	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	start_char=9299|end_char=9306
+37	grosseira	grosseiro	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	start_char=9307|end_char=9316
+38	até	até	ADP	_	_	39	case	_	start_char=9317|end_char=9320
+39	arenosa	arenoso	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	start_char=9321|end_char=9328
+40	grosseira	grosseiro	ADJ	_	Gender=Fem|Number=Sing	39	amod	_	start_char=9329|end_char=9338
+41	.	.	PUNCT	_	_	1	punct	_	start_char=9338|end_char=9339
+42	.	.	PUNCT	_	_	1	punct	_	start_char=9339|end_char=9340
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-77
+# text = A matriz argilosa, que difere dos folhelhos, esta sujeita à transformações (caulinizacao e silicificação), Figuras 21a, 21b, 22a, 22b e 23..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=9342|end_char=9343
+2	matriz	matriz	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	start_char=9344|end_char=9350
+3	argilosa	argiloso	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	start_char=9351|end_char=9359
+4	,	,	PUNCT	_	_	2	punct	_	start_char=9359|end_char=9360
+5	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	6	nsubj	_	start_char=9361|end_char=9364
+6	difere	diferir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=9365|end_char=9371
+7-8	dos	_	_	_	_	_	_	_	start_char=9372|end_char=9375
+7	de	de	ADP	_	_	9	case	_	_
+8	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	folhelhos	folhelho	NOUN	_	Gender=Masc|Number=Plur	6	obl:arg	_	start_char=9376|end_char=9385
+10	,	,	PUNCT	_	_	6	punct	_	start_char=9385|end_char=9386
+11	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	start_char=9387|end_char=9391
+12	sujeita	sujeitar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	11	acl	_	start_char=9392|end_char=9399
+13-14	à	_	_	_	_	_	_	_	start_char=9400|end_char=9401
+13	a	a	ADP	_	_	15	case	_	_
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	transformações	transformação	NOUN	_	Gender=Fem|Number=Plur	12	obl:arg	_	start_char=9402|end_char=9416
+16	(	(	PUNCT	_	_	17	punct	_	start_char=9417|end_char=9418
+17	caulinizacao	caulinizacao	NOUN	_	Gender=Fem|Number=Sing	15	appos	_	start_char=9418|end_char=9430
+18	e	e	CCONJ	_	_	19	cc	_	start_char=9431|end_char=9432
+19	silicificação	silicificação	NOUN	_	Gender=Fem|Number=Sing	17	conj	_	start_char=9433|end_char=9446
+20	)	)	PUNCT	_	_	17	punct	_	start_char=9446|end_char=9447
+21	,	,	PUNCT	_	_	22	punct	_	start_char=9447|end_char=9448
+22	Figuras	Figuras	PROPN	_	Gender=Fem|Number=Sing	15	conj	_	start_char=9449|end_char=9456
+23	21a	21a	PROPN	_	Number=Sing	22	flat:name	_	start_char=9457|end_char=9460
+24	,	,	PUNCT	_	_	25	punct	_	start_char=9460|end_char=9461
+25	21b	21b	NUM	_	NumType=Card	22	nmod:appos	_	start_char=9462|end_char=9465
+26	,	,	PUNCT	_	_	27	punct	_	start_char=9465|end_char=9466
+27	22	22	NUM	_	NumType=Card	17	conj	_	start_char=9467|end_char=9469
+28	a	a	ADP	_	_	30	case	_	start_char=9469|end_char=9470
+29	,	,	PUNCT	_	_	30	punct	_	start_char=9470|end_char=9471
+30	22b	22b	NUM	_	NumType=Card	22	conj	_	start_char=9472|end_char=9475
+31	e	e	CCONJ	_	_	32	cc	_	start_char=9476|end_char=9477
+32	23	23	NUM	_	NumType=Card	22	conj	_	start_char=9478|end_char=9480
+33	.	.	PUNCT	_	_	12	punct	_	start_char=9480|end_char=9481
+34	.	.	PUNCT	_	_	11	punct	_	start_char=9481|end_char=9482
+
+# sent_id = 30D8DAB61D5A3FF1E05354EB1D0A30D8-78
+# text = Fig. 23 - Folhelho siltico deformado (representaria fluxo pós deposicionsl 7). Base da foto: 1.6 mm, NX..
+1	Fig.	Fig.	PROPN	_	Gender=Masc|Number=Sing	0	root	_	start_char=9484|end_char=9488
+2	23	23	NUM	_	NumType=Card	1	nummod	_	start_char=9489|end_char=9491
+3	-	-	PUNCT	_	_	4	punct	_	start_char=9492|end_char=9493
+4	Folhelho	folhelho	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	start_char=9494|end_char=9502
+5	siltico	siltico	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	start_char=9503|end_char=9510
+6	deformado	deformar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	start_char=9511|end_char=9520
+7	(	(	PUNCT	_	_	8	punct	_	start_char=9521|end_char=9522
+8	representaria	representar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	acl	_	start_char=9522|end_char=9535
+9	fluxo	fluxo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	start_char=9536|end_char=9541
+10	pós	pós	PART	_	_	11	punct	_	start_char=9542|end_char=9545
+11	deposicionsl	deposicionsl	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	start_char=9546|end_char=9558
+12	7	7	NUM	_	NumType=Card	11	nummod	_	start_char=9559|end_char=9560
+13	)	)	PUNCT	_	_	8	punct	_	start_char=9560|end_char=9561
+14	.	.	PUNCT	_	_	15	punct	_	start_char=9561|end_char=9562
+15	Base	base	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	start_char=9563|end_char=9567
+16-17	da	_	_	_	_	_	_	_	start_char=9568|end_char=9570
+16	de	de	ADP	_	_	18	case	_	_
+17	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	foto	foto	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	start_char=9571|end_char=9575
+19	:	:	PUNCT	_	_	21	punct	_	start_char=9575|end_char=9576
+20	1.6	1.6	NUM	_	NumType=Card	21	nummod	_	start_char=9577|end_char=9580
+21	mm	mm	NOUN	_	Gender=Masc|Number=Plur	15	appos	_	start_char=9581|end_char=9583
+22	,	,	PUNCT	_	_	23	punct	_	start_char=9583|end_char=9584
+23	NX	NX	PROPN	_	Gender=Masc|Number=Sing	21	conj	_	start_char=9585|end_char=9587
+24	.	.	PUNCT	_	_	21	punct	_	start_char=9587|end_char=9588
+25	.	.	PUNCT	_	_	1	punct	_	start_char=9588|end_char=9589

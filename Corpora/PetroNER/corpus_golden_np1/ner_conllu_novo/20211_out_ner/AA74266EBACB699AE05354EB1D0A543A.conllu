@@ -1,0 +1,430 @@
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-1
+# text = Using sonic log to estimate porosity and permeability in carbonates
+1	Using	using	X	_	Number=Sing	0	root	O	start_char=0|end_char=5
+2	sonic	sonic	X	_	_	1	flat:name	O	start_char=6|end_char=11
+3	log	log	X	_	_	1	flat:name	O	start_char=12|end_char=15
+4	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=16|end_char=18
+5	estimate	estimate	PROPN	_	Number=Sing	1	flat:name	O	start_char=19|end_char=27
+6	porosity	porosity	PROPN	_	Number=Sing	1	flat:name	O	start_char=28|end_char=36
+7	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=37|end_char=40
+8	permeability	permeability	PROPN	_	Number=Sing	1	flat:name	O	start_char=41|end_char=53
+9	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=54|end_char=56
+10	carbonates	carbonates	PROPN	_	Number=Sing	1	flat:name	O	start_char=57|end_char=67
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-2
+# text = The sonic log is a measurement of the mechanical wave slowness (the inverse of the velocity) throughout the formation, produced by a source located inside a tool immersed in a fluid filled borehole..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=69|end_char=72
+2	sonic	sonic	PROPN	_	Number=Sing	1	flat:name	O	start_char=73|end_char=78
+3	log	log	PROPN	_	Number=Sing	1	flat:name	O	start_char=79|end_char=82
+4	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=83|end_char=85
+5	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=86|end_char=87
+6	measurement	measurement	PROPN	_	Number=Sing	1	flat:name	O	start_char=88|end_char=99
+7	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=100|end_char=102
+8	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=103|end_char=106
+9	mechanical	mechanical	PROPN	_	Number=Sing	1	flat:name	O	start_char=107|end_char=117
+10	wave	wave	PROPN	_	Number=Sing	1	flat:name	O	start_char=118|end_char=122
+11	slowness	slowness	PROPN	_	Number=Sing	1	flat:name	O	start_char=123|end_char=131
+12	(	(	PUNCT	_	_	13	punct	O	start_char=132|end_char=133
+13	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=133|end_char=136
+14	inverse	inverse	PROPN	_	Number=Sing	13	flat:name	O	start_char=137|end_char=144
+15	of	of	PROPN	_	Number=Sing	13	flat:name	O	start_char=145|end_char=147
+16	the	the	PROPN	_	Number=Sing	13	flat:name	O	start_char=148|end_char=151
+17	velocity	velocity	PROPN	_	Number=Sing	13	flat:name	O	start_char=152|end_char=160
+18	)	)	PUNCT	_	_	13	punct	O	start_char=160|end_char=161
+19	throughout	throughout	PROPN	_	Number=Sing	1	flat:name	O	start_char=162|end_char=172
+20	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=173|end_char=176
+21	formation	formation	PROPN	_	Number=Sing	1	flat:name	O	start_char=177|end_char=186
+22	,	,	PUNCT	_	_	1	flat:name	O	start_char=186|end_char=187
+23	produced	produced	PROPN	_	Number=Sing	1	flat:name	O	start_char=188|end_char=196
+24	by	by	PROPN	_	Number=Sing	23	flat:name	O	start_char=197|end_char=199
+25	a	a	PROPN	_	Number=Sing	23	flat:name	O	start_char=200|end_char=201
+26	source	source	PROPN	_	Number=Sing	23	flat:name	O	start_char=202|end_char=208
+27	located	located	PROPN	_	Number=Sing	23	flat:name	O	start_char=209|end_char=216
+28	inside	inside	PROPN	_	Number=Sing	23	flat:name	O	start_char=217|end_char=223
+29	a	a	PROPN	_	Number=Sing	23	flat:name	O	start_char=224|end_char=225
+30	tool	tool	PROPN	_	Number=Sing	23	flat:name	O	start_char=226|end_char=230
+31	immersed	immersed	PROPN	_	Number=Sing	23	flat:name	O	start_char=231|end_char=239
+32	in	in	PROPN	_	Number=Sing	23	flat:name	O	start_char=240|end_char=242
+33	a	a	PROPN	_	Number=Sing	23	flat:name	O	start_char=243|end_char=244
+34	fluid	fluid	PROPN	_	Number=Sing	23	flat:name	O	start_char=245|end_char=250
+35	filled	filled	PROPN	_	Number=Sing	23	flat:name	O	start_char=251|end_char=257
+36	borehole.	borehole.	PROPN	_	Number=Sing	23	flat:name	O	start_char=258|end_char=267
+37	.	.	PUNCT	_	_	1	punct	O	start_char=267|end_char=268
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-3
+# text = The wave velocity in a formation will depend on the matrix and fluid composition, the porosity, the pore geometry and the rock stress..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=270|end_char=273
+2	wave	wave	PROPN	_	Number=Sing	1	flat:name	O	start_char=274|end_char=278
+3	velocity	velocity	PROPN	_	Number=Sing	1	flat:name	O	start_char=279|end_char=287
+4	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=288|end_char=290
+5	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=291|end_char=292
+6	formation	formation	PROPN	_	Number=Sing	1	flat:name	O	start_char=293|end_char=302
+7	will	will	PROPN	_	Number=Sing	1	flat:name	O	start_char=303|end_char=307
+8	depend	depend	PROPN	_	Number=Sing	1	flat:name	O	start_char=308|end_char=314
+9	on	on	PROPN	_	Number=Sing	1	flat:name	O	start_char=315|end_char=317
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=318|end_char=321
+11	matrix	matrix	PROPN	_	Number=Sing	1	flat:name	O	start_char=322|end_char=328
+12	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=329|end_char=332
+13	fluid	fluid	PROPN	_	Number=Sing	1	flat:name	O	start_char=333|end_char=338
+14	composition	composition	PROPN	_	Number=Sing	1	flat:name	O	start_char=339|end_char=350
+15	,	,	PUNCT	_	_	1	flat:name	O	start_char=350|end_char=351
+16	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=352|end_char=355
+17	porosity	porosity	PROPN	_	Number=Sing	1	flat:name	O	start_char=356|end_char=364
+18	,	,	PUNCT	_	_	1	flat:name	O	start_char=364|end_char=365
+19	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=366|end_char=369
+20	pore	pore	PROPN	_	Number=Sing	1	flat:name	O	start_char=370|end_char=374
+21	geometry	geometry	PROPN	_	Number=Sing	1	flat:name	O	start_char=375|end_char=383
+22	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=384|end_char=387
+23	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=388|end_char=391
+24	rock	rock	PROPN	_	Number=Sing	19	flat:name	O	start_char=392|end_char=396
+25	stress.	stress.	PROPN	_	Number=Sing	19	flat:name	O	start_char=397|end_char=404
+26	.	.	PUNCT	_	_	1	punct	O	start_char=404|end_char=405
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-4
+# text = The initial motivation for this work was to adapt for carbonates a methodology to obtain a porosity curve from shear slowness (S-wave slowness), measured by sonic logging tool..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	11	nsubj	O	start_char=407|end_char=410
+2	initial	initial	PROPN	_	Number=Sing	1	flat:name	O	start_char=411|end_char=418
+3	motivation	motivation	PROPN	_	Number=Sing	1	flat:name	O	start_char=419|end_char=429
+4	for	for	PROPN	_	Number=Sing	1	flat:name	O	start_char=430|end_char=433
+5	this	this	PROPN	_	Number=Sing	1	flat:name	O	start_char=434|end_char=438
+6	work	work	PROPN	_	Number=Sing	1	flat:name	O	start_char=439|end_char=443
+7	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=444|end_char=447
+8	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=448|end_char=450
+9	adapt	adapt	PROPN	_	Number=Sing	1	flat:name	O	start_char=451|end_char=456
+10	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	cop	O	start_char=457|end_char=460
+11	carbonates	carbonates	PROPN	_	Number=Sing	0	root	O	start_char=461|end_char=471
+12	a	a	ADP	_	_	11	flat:name	O	start_char=472|end_char=473
+13	methodology	methodology	PROPN	_	Number=Sing	11	flat:name	O	start_char=474|end_char=485
+14	to	to	PROPN	_	Number=Sing	11	flat:name	O	start_char=486|end_char=488
+15	obtain	obtain	PROPN	_	Number=Sing	11	flat:name	O	start_char=489|end_char=495
+16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	flat:name	O	start_char=496|end_char=497
+17	porosity	porosity	PROPN	_	Number=Sing	11	flat:name	O	start_char=498|end_char=506
+18	curve	curve	PROPN	_	Number=Sing	11	flat:name	O	start_char=507|end_char=512
+19	from	from	PROPN	_	Number=Sing	11	flat:name	O	start_char=513|end_char=517
+20	shear	shear	PROPN	_	Number=Sing	11	flat:name	O	start_char=518|end_char=523
+21	slowness	slowness	PROPN	_	Number=Sing	11	flat:name	O	start_char=524|end_char=532
+22	(	(	PUNCT	_	_	23	punct	O	start_char=533|end_char=534
+23	S-wave	S-wave	PROPN	_	Gender=Masc|Number=Sing	11	appos	O	start_char=534|end_char=540
+24	slowness	slowness	PROPN	_	Number=Sing	23	flat:name	O	start_char=541|end_char=549
+25	)	)	PUNCT	_	_	23	punct	O	start_char=549|end_char=550
+26	,	,	PUNCT	_	_	27	punct	O	start_char=550|end_char=551
+27	measured	measured	X	_	_	11	conj	O	start_char=552|end_char=560
+28	by	by	X	_	_	27	flat:foreign	O	start_char=561|end_char=563
+29	sonic	sonic	X	_	_	27	flat:foreign	O	start_char=564|end_char=569
+30	logging	logging	X	_	_	27	flat:foreign	O	start_char=570|end_char=577
+31	tool	tool	X	_	_	27	flat:foreign	O	start_char=578|end_char=582
+32	.	.	PUNCT	_	_	11	punct	O	start_char=582|end_char=583
+33	.	.	PUNCT	_	_	11	punct	O	start_char=583|end_char=584
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-5
+# text = Since the S-wave is practically insensitive to fluid effect, there must be no influence of the invaded zone on this S-wave porosity..
+1	Since	Since	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=586|end_char=591
+2	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=592|end_char=595
+3	S-wave	S-wave	PROPN	_	Number=Sing	1	flat:name	O	start_char=596|end_char=602
+4	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=603|end_char=605
+5	practically	practically	PROPN	_	Number=Sing	1	flat:name	O	start_char=606|end_char=617
+6	insensitive	insensitive	PROPN	_	Number=Sing	1	flat:name	O	start_char=618|end_char=629
+7	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=630|end_char=632
+8	fluid	fluid	PROPN	_	Number=Sing	1	flat:name	O	start_char=633|end_char=638
+9	effect	effect	PROPN	_	Number=Sing	1	flat:name	O	start_char=639|end_char=645
+10	,	,	PUNCT	_	_	1	flat:name	O	start_char=645|end_char=646
+11	there	there	PROPN	_	Number=Sing	1	flat:name	O	start_char=647|end_char=652
+12	must	must	PROPN	_	Number=Sing	1	flat:name	O	start_char=653|end_char=657
+13	be	be	PROPN	_	Number=Sing	1	flat:name	O	start_char=658|end_char=660
+14-15	no	_	_	_	_	_	_	O	start_char=661|end_char=663
+14	em	em	ADP	_	_	1	flat:name	O	_
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat:name	O	_
+16	influence	influence	PROPN	_	Number=Sing	1	flat:name	O	start_char=664|end_char=673
+17	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=674|end_char=676
+18	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=677|end_char=680
+19	invaded	invaded	PROPN	_	Number=Sing	1	flat:name	O	start_char=681|end_char=688
+20	zone	zone	PROPN	_	Number=Sing	1	flat:name	O	start_char=689|end_char=693
+21	on	on	PROPN	_	Number=Sing	1	flat:name	O	start_char=694|end_char=696
+22	this	this	PROPN	_	Number=Sing	1	flat:name	O	start_char=697|end_char=701
+23	S-wave	S-wave	PROPN	_	Number=Sing	1	flat:name	O	start_char=702|end_char=708
+24	porosity	porosity	PROPN	_	Number=Sing	1	flat:name	O	start_char=709|end_char=717
+25	.	.	PUNCT	_	_	1	punct	O	start_char=717|end_char=718
+26	.	.	PUNCT	_	_	1	punct	O	start_char=718|end_char=719
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-6
+# text = And it wouldn’t be necessary to know the fluid parameters, only the matrix (rock frame) parameters..
+1	And	And	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=721|end_char=724
+2	it	it	PROPN	_	Number=Sing	1	flat:name	O	start_char=725|end_char=727
+3	wouldn’t	wouldn’t	PROPN	_	Number=Sing	1	flat:name	O	start_char=728|end_char=736
+4	be	be	PROPN	_	Number=Sing	1	flat:name	O	start_char=737|end_char=739
+5	necessary	necessary	PROPN	_	Number=Sing	1	flat:name	O	start_char=740|end_char=749
+6	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=750|end_char=752
+7	know	know	PROPN	_	Number=Sing	1	flat:name	O	start_char=753|end_char=757
+8	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=758|end_char=761
+9	fluid	fluid	PROPN	_	Number=Sing	1	flat:name	O	start_char=762|end_char=767
+10	parameters	parameters	PROPN	_	Number=Sing	1	flat:name	O	start_char=768|end_char=778
+11	,	,	PUNCT	_	_	1	flat:name	O	start_char=778|end_char=779
+12	only	only	PROPN	_	Number=Sing	1	flat:name	O	start_char=780|end_char=784
+13	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=785|end_char=788
+14	matrix	matrix	PROPN	_	Number=Sing	1	flat:name	O	start_char=789|end_char=795
+15	(	(	PUNCT	_	_	16	punct	O	start_char=796|end_char=797
+16	rock	rock	X	_	_	1	appos	O	start_char=797|end_char=801
+17	frame	frame	PROPN	_	Number=Sing	16	flat:foreign	O	start_char=802|end_char=807
+18	)	)	PUNCT	_	_	16	punct	O	start_char=807|end_char=808
+19	parameters	parameters	X	_	_	16	flat:foreign	O	start_char=809|end_char=819
+20	.	.	PUNCT	_	_	1	punct	O	start_char=819|end_char=820
+21	.	.	PUNCT	_	_	1	punct	O	start_char=820|end_char=821
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-7
+# text = The adopted physical rock model (Brie et al. (1995)) was satisfactory tested in sandstone reservoirs with different fluids and degrees of compaction, and the result indicates that a good estimate of the matrix composition is always necessary..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=823|end_char=826
+2	adopted	adopted	X	_	_	1	flat:name	O	start_char=827|end_char=834
+3	physical	physical	X	_	_	1	flat:name	O	start_char=835|end_char=843
+4	rock	rock	PROPN	_	Number=Sing	1	flat:name	O	start_char=844|end_char=848
+5	model	model	PROPN	_	Number=Sing	1	flat:name	O	start_char=849|end_char=854
+6	(	(	PUNCT	_	_	7	punct	O	start_char=855|end_char=856
+7	Brie	Brie	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=856|end_char=860
+8	et	et	PROPN	_	Number=Sing	7	flat:name	O	start_char=861|end_char=863
+9	al.	al.	PROPN	_	Number=Sing	7	flat:name	O	start_char=864|end_char=867
+10	(	(	PUNCT	_	_	7	flat:name	O	start_char=868|end_char=869
+11	1995	1995	NUM	_	NumType=Card	7	flat:name	O	start_char=869|end_char=873
+12	)	)	PUNCT	_	_	7	punct	O	start_char=873|end_char=874
+13	)	)	PUNCT	_	_	7	punct	O	start_char=874|end_char=875
+14	was	was	X	_	_	1	flat:name	O	start_char=876|end_char=879
+15	satisfactory	satisfactory	X	_	_	14	flat:foreign	O	start_char=880|end_char=892
+16	tested	tested	X	_	_	14	flat:foreign	O	start_char=893|end_char=899
+17	in	in	PROPN	_	Number=Sing	14	flat:name	O	start_char=900|end_char=902
+18	sandstone	sandstone	X	_	_	14	flat:foreign	O	start_char=903|end_char=912
+19	reservoirs	reservoirs	PROPN	_	Number=Sing	14	flat:name	O	start_char=913|end_char=923
+20	with	with	PROPN	_	Number=Sing	14	flat:name	O	start_char=924|end_char=928
+21	different	different	PROPN	_	Number=Sing	14	flat:name	O	start_char=929|end_char=938
+22	fluids	fluids	PROPN	_	Number=Sing	14	flat:name	O	start_char=939|end_char=945
+23	and	and	PROPN	_	Number=Sing	14	flat:name	O	start_char=946|end_char=949
+24	degrees	degrees	PROPN	_	Number=Sing	14	flat:name	O	start_char=950|end_char=957
+25	of	of	PROPN	_	Number=Sing	14	flat:name	O	start_char=958|end_char=960
+26	compaction	compaction	PROPN	_	Number=Sing	14	flat:name	O	start_char=961|end_char=971
+27	,	,	PUNCT	_	_	14	punct	O	start_char=971|end_char=972
+28	and	and	PROPN	_	Number=Sing	14	flat:name	O	start_char=973|end_char=976
+29	the	the	PROPN	_	Number=Sing	14	flat:name	O	start_char=977|end_char=980
+30	result	result	PROPN	_	Number=Sing	14	flat:name	O	start_char=981|end_char=987
+31	indicates	indicates	PROPN	_	Number=Sing	14	flat:name	O	start_char=988|end_char=997
+32	that	that	PROPN	_	Number=Sing	14	flat:name	O	start_char=998|end_char=1002
+33	a	a	PROPN	_	Number=Sing	28	flat:name	O	start_char=1003|end_char=1004
+34	good	good	PROPN	_	Number=Sing	14	flat:name	O	start_char=1005|end_char=1009
+35	estimate	estimate	PROPN	_	Number=Sing	14	flat:name	O	start_char=1010|end_char=1018
+36	of	of	PROPN	_	Number=Sing	14	flat:name	O	start_char=1019|end_char=1021
+37	the	the	PROPN	_	Number=Sing	14	flat:name	O	start_char=1022|end_char=1025
+38	matrix	matrix	PROPN	_	Number=Sing	14	flat:name	O	start_char=1026|end_char=1032
+39	composition	composition	PROPN	_	Number=Sing	14	flat:name	O	start_char=1033|end_char=1044
+40	is	is	PROPN	_	Number=Sing	14	flat:name	O	start_char=1045|end_char=1047
+41	always	always	PROPN	_	Number=Sing	14	flat:name	O	start_char=1048|end_char=1054
+42	necessary.	necessary.	PROPN	_	Number=Sing	14	flat:name	O	start_char=1055|end_char=1065
+43	.	.	PUNCT	_	_	1	punct	O	start_char=1065|end_char=1066
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-8
+# text = Log and lab petrophysical data from an Albian oolitic carbonate reservoir was analysed and results are in good agreement with lab and well log data..
+1	Log	Log	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1068|end_char=1071
+2	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1072|end_char=1075
+3	lab	lab	PROPN	_	Number=Sing	1	flat:name	O	start_char=1076|end_char=1079
+4	petrophysical	petrophysical	PROPN	_	Number=Sing	1	flat:name	O	start_char=1080|end_char=1093
+5	data	data	PROPN	_	Number=Sing	1	flat:name	O	start_char=1094|end_char=1098
+6	from	from	PROPN	_	Number=Sing	1	flat:name	O	start_char=1099|end_char=1103
+7	an	an	PROPN	_	Number=Sing	1	flat:name	O	start_char=1104|end_char=1106
+8	Albian	Albian	PROPN	_	Number=Sing	1	flat:name	O	start_char=1107|end_char=1113
+9	oolitic	oolitic	PROPN	_	Number=Sing	1	flat:name	O	start_char=1114|end_char=1121
+10	carbonate	carbonate	PROPN	_	Number=Sing	1	flat:name	O	start_char=1122|end_char=1131
+11	reservoir	reservoir	PROPN	_	Number=Sing	1	flat:name	O	start_char=1132|end_char=1141
+12-13	was	_	_	_	_	_	_	O	start_char=1142|end_char=1145
+12	wm	wm	PROPN	_	Number=Sing	1	flat:name	O	_
+13	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	flat:name	O	_
+14	analysed	analysed	PROPN	_	Number=Sing	1	flat:name	O	start_char=1146|end_char=1154
+15	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1155|end_char=1158
+16	results	results	PROPN	_	Number=Sing	1	flat:name	O	start_char=1159|end_char=1166
+17	are	are	PROPN	_	Number=Sing	1	flat:name	O	start_char=1167|end_char=1170
+18	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=1171|end_char=1173
+19	good	good	PROPN	_	Number=Sing	1	flat:name	O	start_char=1174|end_char=1178
+20	agreement	agreement	PROPN	_	Number=Sing	1	flat:name	O	start_char=1179|end_char=1188
+21	with	with	PROPN	_	Number=Sing	1	flat:name	O	start_char=1189|end_char=1193
+22	lab	lab	PROPN	_	Number=Sing	1	flat:name	O	start_char=1194|end_char=1197
+23	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1198|end_char=1201
+24	well	well	PROPN	_	Number=Sing	1	flat:name	O	start_char=1202|end_char=1206
+25	log	log	PROPN	_	Number=Sing	1	flat:name	O	start_char=1207|end_char=1210
+26	data	data	PROPN	_	Number=Sing	1	flat:name	O	start_char=1211|end_char=1215
+27	.	.	PUNCT	_	_	1	punct	O	start_char=1215|end_char=1216
+28	.	.	PUNCT	_	_	1	punct	O	start_char=1216|end_char=1217
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-9
+# text = The deviation log is known as way to identify porosity type in carbonates (Anselmetti and Eberli.1999)..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1219|end_char=1222
+2	deviation	deviation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1223|end_char=1232
+3	log	log	PROPN	_	Number=Sing	1	flat:name	O	start_char=1233|end_char=1236
+4	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=1237|end_char=1239
+5	known	known	PROPN	_	Number=Sing	1	flat:name	O	start_char=1240|end_char=1245
+6	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	flat:name	O	start_char=1246|end_char=1248
+7	way	way	PROPN	_	Number=Sing	1	flat:name	O	start_char=1249|end_char=1252
+8	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=1253|end_char=1255
+9	identify	identify	PROPN	_	Number=Sing	1	flat:name	O	start_char=1256|end_char=1264
+10	porosity	porosity	PROPN	_	Number=Sing	1	flat:name	O	start_char=1265|end_char=1273
+11	type	type	PROPN	_	Number=Sing	1	flat:name	O	start_char=1274|end_char=1278
+12	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=1279|end_char=1281
+13	carbonates	carbonates	PROPN	_	Number=Sing	1	flat:name	O	start_char=1282|end_char=1292
+14	(	(	PUNCT	_	_	15	punct	O	start_char=1293|end_char=1294
+15	Anselmetti	Anselmetti	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=1294|end_char=1304
+16	and	and	PROPN	_	Number=Sing	15	flat:name	O	start_char=1305|end_char=1308
+17	Eberli.1999	Eberli.1999	PROPN	_	Number=Sing	15	flat:name	O	start_char=1309|end_char=1320
+18	)	)	PUNCT	_	_	15	punct	O	start_char=1320|end_char=1321
+19	.	.	PUNCT	_	_	15	punct	O	start_char=1321|end_char=1322
+20	.	.	PUNCT	_	_	1	punct	O	start_char=1322|end_char=1323
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-10
+# text = It is calculated from the difference between the measured
+1	It	It	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1325|end_char=1327
+2	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=1328|end_char=1330
+3	calculated	calculated	PROPN	_	Number=Sing	1	flat:name	O	start_char=1331|end_char=1341
+4	from	from	PROPN	_	Number=Sing	1	flat:name	O	start_char=1342|end_char=1346
+5	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1347|end_char=1350
+6	difference	difference	PROPN	_	Number=Sing	1	flat:name	O	start_char=1351|end_char=1361
+7	between	between	PROPN	_	Number=Sing	1	flat:name	O	start_char=1362|end_char=1369
+8	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1370|end_char=1373
+9	measured	measured	PROPN	_	Number=Sing	1	flat:name	O	start_char=1374|end_char=1382
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-11
+# text = P-velocity and the velocity estimated from the Wyllie equation..
+1	P-velocity	P-velocity	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1384|end_char=1394
+2	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1395|end_char=1398
+3	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1399|end_char=1402
+4	velocity	velocity	PROPN	_	Number=Sing	1	flat:name	O	start_char=1403|end_char=1411
+5	estimated	estimated	PROPN	_	Number=Sing	1	flat:name	O	start_char=1412|end_char=1421
+6	from	from	PROPN	_	Number=Sing	1	flat:name	O	start_char=1422|end_char=1426
+7	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1427|end_char=1430
+8	Wyllie	Wyllie	PROPN	_	Number=Sing	1	flat:name	O	start_char=1431|end_char=1437
+9	equation.	equation.	PROPN	_	Number=Sing	1	flat:name	O	start_char=1438|end_char=1447
+10	.	.	PUNCT	_	_	1	punct	O	start_char=1447|end_char=1448
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-12
+# text = Great values indicates vuggy or moldic porosity type..
+1	Great	Great	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1450|end_char=1455
+2	values	values	X	_	_	1	flat:name	O	start_char=1456|end_char=1462
+3	indicates	indicates	X	_	_	1	flat:name	O	start_char=1463|end_char=1472
+4	vuggy	vuggy	PROPN	_	Number=Sing	1	flat:name	O	start_char=1473|end_char=1478
+5	or	or	PROPN	_	Number=Sing	1	flat:name	O	start_char=1479|end_char=1481
+6	moldic	moldic	PROPN	_	Number=Sing	1	flat:name	O	start_char=1482|end_char=1488
+7	porosity	porosity	PROPN	_	Number=Sing	1	flat:name	O	start_char=1489|end_char=1497
+8	type.	type.	PROPN	_	Number=Sing	1	flat:name	O	start_char=1498|end_char=1503
+9	.	.	PUNCT	_	_	1	punct	O	start_char=1503|end_char=1504
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-13
+# text = The work proposes a new way to calculate the deviation log..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1506|end_char=1509
+2	work	work	PROPN	_	Number=Sing	1	flat:name	O	start_char=1510|end_char=1514
+3	proposes	proposes	PROPN	_	Number=Sing	1	flat:name	O	start_char=1515|end_char=1523
+4	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=1524|end_char=1525
+5	new	new	PROPN	_	Number=Sing	1	flat:name	O	start_char=1526|end_char=1529
+6	way	way	PROPN	_	Number=Sing	1	flat:name	O	start_char=1530|end_char=1533
+7	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=1534|end_char=1536
+8	calculate	calculate	PROPN	_	Number=Sing	1	flat:name	O	start_char=1537|end_char=1546
+9	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1547|end_char=1550
+10	deviation	deviation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1551|end_char=1560
+11	log.	log.	PROPN	_	Number=Sing	1	flat:name	O	start_char=1561|end_char=1565
+12	.	.	PUNCT	_	_	1	punct	O	start_char=1565|end_char=1566
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-14
+# text = In the method the difference is between
+1	In	In	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1568|end_char=1570
+2	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1571|end_char=1574
+3	method	method	PROPN	_	Number=Sing	1	flat:name	O	start_char=1575|end_char=1581
+4	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1582|end_char=1585
+5	difference	difference	PROPN	_	Number=Sing	1	flat:name	O	start_char=1586|end_char=1596
+6	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=1597|end_char=1599
+7	between	between	PROPN	_	Number=Sing	1	flat:name	O	start_char=1600|end_char=1607
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-15
+# text = S-wave porosity and P-wave porosity (the traditional Wyllie equation)..
+1	S-wave	S-wave	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1609|end_char=1615
+2	porosity	porosity	PROPN	_	Number=Sing	1	flat:name	O	start_char=1616|end_char=1624
+3	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1625|end_char=1628
+4	P-wave	P-wave	PROPN	_	Number=Sing	1	flat:name	O	start_char=1629|end_char=1635
+5	porosity	porosity	PROPN	_	Number=Sing	1	flat:name	O	start_char=1636|end_char=1644
+6	(	(	PUNCT	_	_	7	punct	O	start_char=1645|end_char=1646
+7	the	the	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=1646|end_char=1649
+8	traditional	traditional	PROPN	_	Number=Sing	7	flat:name	O	start_char=1650|end_char=1661
+9	Wyllie	Wyllie	PROPN	_	Number=Sing	7	flat:name	O	start_char=1662|end_char=1668
+10	equation	equation	PROPN	_	Number=Sing	7	flat:name	O	start_char=1669|end_char=1677
+11	)	)	PUNCT	_	_	7	punct	O	start_char=1677|end_char=1678
+12	.	.	PUNCT	_	_	1	punct	O	start_char=1678|end_char=1679
+13	.	.	PUNCT	_	_	1	punct	O	start_char=1679|end_char=1680
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-16
+# text = A great compatibility was observed between deviation values, porosity types and flow units..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=1682|end_char=1683
+2	great	great	X	_	_	0	root	O	start_char=1684|end_char=1689
+3	compatibility	compatibility	X	_	_	2	flat:foreign	O	start_char=1690|end_char=1703
+4	was	was	X	_	_	2	flat:foreign	O	start_char=1704|end_char=1707
+5	observed	observed	X	_	_	2	flat:foreign	O	start_char=1708|end_char=1716
+6	between	between	X	_	_	2	flat:foreign	O	start_char=1717|end_char=1724
+7	deviation	deviation	X	_	_	2	flat:foreign	O	start_char=1725|end_char=1734
+8	values	values	X	_	_	2	flat:foreign	O	start_char=1735|end_char=1741
+9	,	,	PUNCT	_	_	10	punct	O	start_char=1741|end_char=1742
+10	porosity	porosity	X	_	_	2	flat:foreign	O	start_char=1743|end_char=1751
+11	types	types	X	_	_	10	flat:foreign	O	start_char=1752|end_char=1757
+12	and	and	X	_	_	10	flat:foreign	O	start_char=1758|end_char=1761
+13	flow	flow	X	_	_	10	flat:foreign	O	start_char=1762|end_char=1766
+14	units	units	X	_	_	10	flat:foreign	O	start_char=1767|end_char=1772
+15	.	.	PUNCT	_	_	2	punct	O	start_char=1772|end_char=1773
+16	.	.	PUNCT	_	_	2	punct	O	start_char=1773|end_char=1774
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-17
+# text = Besides, there was a significant linear correlation between the deviation curve and the lab permeability, about two times the correlation value if compared to correlation value when the traditional deviation log is used..
+1	Besides	Besides	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1776|end_char=1783
+2	,	,	PUNCT	_	_	1	flat:name	O	start_char=1783|end_char=1784
+3	there	there	PROPN	_	Number=Sing	1	flat:name	O	start_char=1785|end_char=1790
+4	was	was	PROPN	_	Number=Sing	1	flat:name	O	start_char=1791|end_char=1794
+5	a	a	PROPN	_	Number=Sing	1	flat:name	O	start_char=1795|end_char=1796
+6	significant	significant	PROPN	_	Number=Sing	1	flat:name	O	start_char=1797|end_char=1808
+7	linear	linear	PROPN	_	Number=Sing	1	flat:name	O	start_char=1809|end_char=1815
+8	correlation	correlation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1816|end_char=1827
+9	between	between	PROPN	_	Number=Sing	1	flat:name	O	start_char=1828|end_char=1835
+10	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1836|end_char=1839
+11	deviation	deviation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1840|end_char=1849
+12	curve	curve	PROPN	_	Number=Sing	1	flat:name	O	start_char=1850|end_char=1855
+13	and	and	PROPN	_	Number=Sing	1	flat:name	O	start_char=1856|end_char=1859
+14	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1860|end_char=1863
+15	lab	lab	PROPN	_	Number=Sing	1	flat:name	O	start_char=1864|end_char=1867
+16	permeability	permeability	PROPN	_	Number=Sing	1	flat:name	O	start_char=1868|end_char=1880
+17	,	,	PUNCT	_	_	1	flat:name	O	start_char=1880|end_char=1881
+18	about	about	PROPN	_	Number=Sing	1	flat:name	O	start_char=1882|end_char=1887
+19	two	two	PROPN	_	Number=Sing	1	flat:name	O	start_char=1888|end_char=1891
+20	times	time	PROPN	_	Number=Sing	1	flat:name	O	start_char=1892|end_char=1897
+21	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1898|end_char=1901
+22	correlation	correlation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1902|end_char=1913
+23	value	value	PROPN	_	Number=Sing	1	flat:name	O	start_char=1914|end_char=1919
+24	if	if	PROPN	_	Number=Sing	1	flat:name	O	start_char=1920|end_char=1922
+25	compared	compared	PROPN	_	Number=Sing	1	flat:name	O	start_char=1923|end_char=1931
+26	to	to	PROPN	_	Number=Sing	1	flat:name	O	start_char=1932|end_char=1934
+27	correlation	correlation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1935|end_char=1946
+28	value	value	PROPN	_	Number=Sing	1	flat:name	O	start_char=1947|end_char=1952
+29	when	when	PROPN	_	Number=Sing	1	flat:name	O	start_char=1953|end_char=1957
+30	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=1958|end_char=1961
+31	traditional	traditional	PROPN	_	Number=Sing	1	flat:name	O	start_char=1962|end_char=1973
+32	deviation	deviation	PROPN	_	Number=Sing	1	flat:name	O	start_char=1974|end_char=1983
+33	log	log	PROPN	_	Number=Sing	1	flat:name	O	start_char=1984|end_char=1987
+34	is	is	PROPN	_	Number=Sing	1	flat:name	O	start_char=1988|end_char=1990
+35	used.	used.	PROPN	_	Number=Sing	1	flat:name	O	start_char=1991|end_char=1996
+36	.	.	PUNCT	_	_	1	punct	O	start_char=1996|end_char=1997
+
+# sent_id = AA74266EBACB699AE05354EB1D0A543A-18
+# text = Permeability values were calculated over the entire reservoir lenght. Values are in good agreement with NMR permeability values..
+1	Permeability	Permeability	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=1999|end_char=2011
+2	values	values	X	_	_	1	flat:name	O	start_char=2012|end_char=2018
+3	were	were	X	_	_	1	flat:name	O	start_char=2019|end_char=2023
+4	calculated	calculated	PROPN	_	Number=Sing	1	flat:name	O	start_char=2024|end_char=2034
+5	over	over	PROPN	_	Number=Sing	1	flat:name	O	start_char=2035|end_char=2039
+6	the	the	PROPN	_	Number=Sing	1	flat:name	O	start_char=2040|end_char=2043
+7	entire	entire	PROPN	_	Number=Sing	1	flat:name	O	start_char=2044|end_char=2050
+8	reservoir	reservoir	PROPN	_	Number=Sing	1	flat:name	O	start_char=2051|end_char=2060
+9	lenght	lenght	PROPN	_	Number=Sing	1	flat:name	O	start_char=2061|end_char=2067
+10	.	.	PUNCT	_	_	1	flat:name	O	start_char=2067|end_char=2068
+11	Values	Values	PROPN	_	Number=Sing	1	flat:name	O	start_char=2069|end_char=2075
+12	are	are	PROPN	_	Number=Sing	1	flat:name	O	start_char=2076|end_char=2079
+13	in	in	PROPN	_	Number=Sing	1	flat:name	O	start_char=2080|end_char=2082
+14	good	good	PROPN	_	Number=Sing	1	flat:name	O	start_char=2083|end_char=2087
+15	agreement	agreement	PROPN	_	Number=Sing	1	flat:name	O	start_char=2088|end_char=2097
+16	with	with	PROPN	_	Number=Sing	1	flat:name	O	start_char=2098|end_char=2102
+17	NMR	NMR	PROPN	_	Number=Sing	1	flat:name	O	start_char=2103|end_char=2106
+18	permeability	permeability	PROPN	_	Number=Sing	1	flat:name	O	start_char=2107|end_char=2119
+19	values..	values..	PROPN	_	Number=Sing	1	flat:name	O	start_char=2120|end_char=2128

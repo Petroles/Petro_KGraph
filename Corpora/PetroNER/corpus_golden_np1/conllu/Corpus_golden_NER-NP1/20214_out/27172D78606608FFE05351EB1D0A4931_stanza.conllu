@@ -1,0 +1,11 @@
+# sent_id = 27172D78606608FFE05351EB1D0A4931-1
+# text =  depositor: Anna Eliza Svartman Dias/BR/Petrobras chave: CXL
+1	depositor	depositor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1|end_char=10
+2	:	:	PUNCT	_	_	3	punct	_	start_char=10|end_char=11
+3	Anna	Anna	PROPN	_	Gender=Fem|Number=Sing	1	appos	_	start_char=12|end_char=16
+4	Eliza	Eliza	PROPN	_	Number=Sing	3	flat:name	_	start_char=17|end_char=22
+5	Svartman	Svartman	PROPN	_	Number=Sing	3	flat:name	_	start_char=23|end_char=31
+6	Dias/BR/Petrobras	Dias/BR/Petrobras	PROPN	_	Number=Sing	3	flat:name	_	start_char=32|end_char=49
+7	chave	chave	NOUN	_	Gender=Fem|Number=Sing	3	flat:name	_	start_char=50|end_char=55
+8	:	:	PUNCT	_	_	9	punct	_	start_char=55|end_char=56
+9	CXL	CXL	PROPN	_	Gender=Masc|Number=Sing	3	appos	_	start_char=57|end_char=60

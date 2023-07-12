@@ -1,0 +1,1706 @@
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-1
+# text = CENTRO DE PESQUISAS E DESENVOLVIMENTO LEOPOLDO A. MIGUEZ DE MELLO P&D EM EXPLORAÇÃO E PRODUÇÃO Gerência de Integração Rocha Perfil Sísmica JC-3A46-14-212-F CT IRPS 087/17 Relatores Camila Passos Silva Gonzales Camila Wense Dias dos Anjos Alberto Carlos da Paz Cláudia Figueiredo Silva (CENPES/PDEP/IRPS) SUMÁRIO 1. - INTRODUÇÃO ........................................................................................
+1	CENTRO	CENTRO	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=0|end_char=6
+2	DE	de	ADP	_	_	1	flat:name	O	start_char=7|end_char=9
+3	PESQUISAS	Pesquisas	PROPN	_	Number=Sing	1	flat:name	O	start_char=10|end_char=19
+4	E	e	CCONJ	_	_	5	cc	O	start_char=20|end_char=21
+5	DESENVOLVIMENTO	DESENVOLVIMENTO	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=22|end_char=37
+6	LEOPOLDO	LEOPOLDO	PROPN	_	Gender=Masc|Number=Sing	5	flat:name	O	start_char=38|end_char=46
+7	A.	A.	PROPN	_	Number=Sing	5	flat:name	O	start_char=47|end_char=49
+8	MIGUEZ	MIGUEZ	PROPN	_	Number=Sing	5	flat:name	O	start_char=50|end_char=56
+9	DE	de	ADP	_	_	5	flat:name	O	start_char=57|end_char=59
+10	MELLO	Mello	PROPN	_	Gender=Masc|Number=Sing	1	nmod	O	start_char=60|end_char=65
+11	P&D	P&D	PROPN	_	Number=Sing	10	flat:name	O	start_char=66|end_char=69
+12	EM	em	ADP	_	_	13	case	O	start_char=70|end_char=72
+13	EXPLORAÇÃO	EXPLORAÇÃO	PROPN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=73|end_char=83
+14	E	e	CCONJ	_	_	15	cc	O	start_char=84|end_char=85
+15	PRODUÇÃO	PRODUÇÃO	PROPN	_	Gender=Fem|Number=Sing	13	flat:name	O	start_char=86|end_char=94
+16	Gerência	Gerência	PROPN	_	Number=Sing	15	flat:name	O	start_char=95|end_char=103
+17	de	de	ADP	_	_	15	flat:name	O	start_char=104|end_char=106
+18	Integração	Integração	PROPN	_	Number=Sing	15	flat:name	O	start_char=107|end_char=117
+19	Rocha	Rocha	PROPN	_	Number=Sing	15	flat:name	O	start_char=118|end_char=123
+20	Perfil	Perfil	PROPN	_	Number=Sing	15	flat:name	O	start_char=124|end_char=130
+21	Sísmica	Sísmica	PROPN	_	Number=Sing	15	flat:name	O	start_char=131|end_char=138
+22	JC-3A46-14-212-F	JC-3A46-14-212-F	PROPN	_	Number=Sing	15	flat:name	O	start_char=139|end_char=155
+23	CT	CT	PROPN	_	Number=Sing	15	flat:name	O	start_char=156|end_char=158
+24	IRPS	IRPS	PROPN	_	Number=Sing	15	flat:name	O	start_char=159|end_char=163
+25	087/17	087/17	NUM	_	NumType=Card	26	flat:name	O	start_char=164|end_char=170
+26	Relatores	Relatores	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=171|end_char=180
+27	Camila	Camila	PROPN	_	Gender=Fem|Number=Sing	26	flat:name	O	start_char=181|end_char=187
+28	Passos	Passos	PROPN	_	Number=Sing	26	flat:name	O	start_char=188|end_char=194
+29	Silva	Silva	PROPN	_	Number=Sing	26	flat:name	O	start_char=195|end_char=200
+30	Gonzales	Gonzales	PROPN	_	Number=Sing	26	flat:name	O	start_char=201|end_char=209
+31	Camila	Camila	PROPN	_	Number=Sing	26	flat:name	O	start_char=210|end_char=216
+32	Wense	Wense	PROPN	_	Number=Sing	26	flat:name	O	start_char=217|end_char=222
+33	Dias	Dias	PROPN	_	Number=Sing	26	flat:name	O	start_char=223|end_char=227
+34-35	dos	_	_	_	_	_	_	O	start_char=228|end_char=231
+34	de	de	ADP	_	_	26	flat:name	O	_
+35	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	flat:name	O	_
+36	Anjos	Anjos	PROPN	_	Number=Sing	26	flat:name	O	start_char=232|end_char=237
+37	Alberto	Alberto	PROPN	_	Number=Sing	26	flat:name	O	start_char=238|end_char=245
+38	Carlos	Carlos	PROPN	_	Number=Sing	26	flat:name	O	start_char=246|end_char=252
+39-40	da	_	_	_	_	_	_	O	start_char=253|end_char=255
+39	de	de	ADP	_	_	26	flat:name	O	_
+40	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	flat:name	O	_
+41	Paz	Paz	PROPN	_	Number=Sing	26	flat:name	O	start_char=256|end_char=259
+42	Cláudia	Cláudia	PROPN	_	Number=Sing	26	flat:name	O	start_char=260|end_char=267
+43	Figueiredo	Figueiredo	PROPN	_	Number=Sing	26	flat:name	O	start_char=268|end_char=278
+44	Silva	Silva	PROPN	_	Number=Sing	26	flat:name	O	start_char=279|end_char=284
+45	(	(	PUNCT	_	_	46	punct	O	start_char=285|end_char=286
+46	CENPES	CENPES	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=286|end_char=292
+47	/PDEP/IRPS	/PDEP/IRPS	PROPN	_	Number=Sing	46	flat:name	O	start_char=292|end_char=302
+48	)	)	PUNCT	_	_	46	punct	O	start_char=302|end_char=303
+49	SUMÁRIO	SUMÁRIO	PROPN	_	Number=Sing	46	flat:name	O	start_char=304|end_char=311
+50	1.	1.	PROPN	_	Number=Sing	46	flat:name	O	start_char=312|end_char=314
+51	-	-	PUNCT	_	_	52	punct	O	start_char=315|end_char=316
+52	INTRODUÇÃO	INTRODUÇÃO	PROPN	_	Gender=Fem|Number=Sing	46	conj	O	start_char=317|end_char=327
+53	........................................................................................	........................................................................................	PROPN	_	Number=Sing	52	flat:name	O	start_char=328|end_char=416
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-2
+# text = 1 2..
+1	1	1	NUM	_	NumType=Card	2	nummod	O	start_char=418|end_char=419
+2	2.	2.	NUM	_	NumType=Card	0	root	O	start_char=420|end_char=422
+3	.	.	PUNCT	_	_	2	punct	O	start_char=422|end_char=423
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-3
+# text = MÉTODOS ............................................................................................
+1	MÉTODOS	método	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=425|end_char=432
+2	............................................................................................	............................................................................................	NUM	_	NumType=Card	1	nummod	O	start_char=433|end_char=525
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-4
+# text = 1
+1	1	1	NUM	_	NumType=Card	0	root	O	start_char=527|end_char=528
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-5
+# text = 3..
+1	3..	3..	NUM	_	NumType=Card	0	root	O	start_char=530|end_char=533
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-6
+# text = RESULTADOS ........................................................................................
+1	RESULTADOS	resultado	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=535|end_char=545
+2	........................................................................................	........................................................................................	ADJ	_	Gender=Masc|NumType=Ord|Number=Plur	1	nummod	O	start_char=546|end_char=634
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-7
+# text = 3
+1	3	3	NUM	_	NumType=Card	0	root	O	start_char=636|end_char=637
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-8
+# text = REFERÊNCIAS ..............................................
+1	REFERÊNCIAS	refermnia	NOUN	_	Gender=Fem|Number=Plur	0	root	O	start_char=639|end_char=650
+2	..............................................	..............................................	PROPN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=651|end_char=697
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-9
+# text = 1. - INTRODUÇÃO
+1	1	1	NUM	_	NumType=Card	4	nummod	O	start_char=699|end_char=700
+2	.	.	PUNCT	_	_	1	punct	O	start_char=700|end_char=701
+3	-	-	PUNCT	_	_	4	punct	O	start_char=702|end_char=703
+4	INTRODUÇÃO	introdução	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=704|end_char=714
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-10
+# text = Esta comunicação técnica apresenta os resultados mineralógicos por difração de raios-X (DRX) de 19 amostras dos furos geológicos DGL-1635 e DGL-1635A, Campo de Libra..
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	O	start_char=716|end_char=720
+2	comunicação	comunicação	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	O	start_char=721|end_char=732
+3	técnica	técnico	ADJ	_	Gender=Fem|Number=Sing	2	amod	O	start_char=733|end_char=740
+4	apresenta	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=741|end_char=750
+5	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	O	start_char=751|end_char=753
+6	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	4	obj	O	start_char=754|end_char=764
+7	mineralógicos	mineralógico	ADJ	_	Gender=Masc|Number=Plur	6	amod	O	start_char=765|end_char=778
+8	por	por	ADP	_	_	9	case	O	start_char=779|end_char=782
+9	difração	difração	NOUN	_	Gender=Fem|Number=Sing	4	obl	O	start_char=783|end_char=791
+10	de	de	ADP	_	_	11	case	O	start_char=792|end_char=794
+11	raios-X	raio	NOUN	_	Gender=Masc|Number=Plur	9	nmod	O	start_char=795|end_char=802
+12	(	(	PUNCT	_	_	13	punct	O	start_char=803|end_char=804
+13	DRX	DRX	PROPN	_	Gender=Masc|Number=Sing	9	appos	O	start_char=804|end_char=807
+14	)	)	PUNCT	_	_	13	punct	O	start_char=807|end_char=808
+15	de	de	ADP	_	_	17	case	O	start_char=809|end_char=811
+16	19	19	NUM	_	NumType=Card	17	nummod	O	start_char=812|end_char=814
+17	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	9	nmod	O	start_char=815|end_char=823
+18-19	dos	_	_	_	_	_	_	O	start_char=824|end_char=827
+18	de	de	ADP	_	_	20	case	O	_
+19	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	O	_
+20	furos	furo	NOUN	_	Gender=Masc|Number=Plur	17	nmod	O	start_char=828|end_char=833
+21	geológicos	geológico	ADJ	_	Gender=Masc|Number=Plur	20	amod	O	start_char=834|end_char=844
+22	DGL-1635	DGL-1635	PROPN	_	Gender=Masc|Number=Sing	20	nmod	O	start_char=845|end_char=853
+23	e	e	CCONJ	_	_	24	cc	O	start_char=854|end_char=855
+24	DGL-1635A	DGL-1635A	PROPN	_	Gender=Masc|Number=Sing	22	conj	O	start_char=856|end_char=865
+25	,	,	PUNCT	_	_	26	punct	O	start_char=865|end_char=866
+26	Campo	Campo	PROPN	_	Gender=Masc|Number=Sing	22	conj	B=CAMPO	start_char=867|end_char=872
+27	de	de	ADP	_	_	26	flat:name	I=CAMPO	start_char=873|end_char=875
+28	Libra.	Libra.	PROPN	_	Number=Sing	26	flat:name	I=CAMPO	start_char=876|end_char=882
+29	.	.	PUNCT	_	_	4	punct	O	start_char=882|end_char=883
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-11
+# text = As 19 amostras foram analisadas por DRX para estudo da mineralogia total e de argilominerais..
+1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	O	start_char=885|end_char=887
+2	19	19	NUM	_	NumType=Card	3	nummod	O	start_char=888|end_char=890
+3	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	5	nsubj:pass	O	start_char=891|end_char=899
+4	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	5	aux:pass	O	start_char=900|end_char=905
+5	analisadas	analisar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=906|end_char=916
+6	por	por	ADP	_	_	7	case	O	start_char=917|end_char=920
+7	DRX	DRX	PROPN	_	Gender=Masc|Number=Sing	5	obl:agent	O	start_char=921|end_char=924
+8	para	para	ADP	_	_	9	case	O	start_char=925|end_char=929
+9	estudo	estudo	NOUN	_	Gender=Masc|Number=Sing	5	obl	O	start_char=930|end_char=936
+10-11	da	_	_	_	_	_	_	O	start_char=937|end_char=939
+10	de	de	ADP	_	_	12	case	O	_
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	O	_
+12	mineralogia	mineralogia	NOUN	_	Gender=Fem|Number=Sing	9	nmod	O	start_char=940|end_char=951
+13	total	total	ADJ	_	Gender=Fem|Number=Sing	12	amod	O	start_char=952|end_char=957
+14	e	e	CCONJ	_	_	16	cc	O	start_char=958|end_char=959
+15	de	de	ADP	_	_	16	case	O	start_char=960|end_char=962
+16	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	12	conj	O	start_char=963|end_char=977
+17	.	.	PUNCT	_	_	5	punct	O	start_char=977|end_char=978
+18	.	.	PUNCT	_	_	5	punct	O	start_char=978|end_char=979
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-12
+# text = O objetivo dessas análises mineralógicas é investigar a ocorrência de argilominerais expansivos, que podem tornar-se reativos durante a perfuração de poços neste campo..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	O	start_char=981|end_char=982
+2	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	O	start_char=983|end_char=991
+3-4	dessas	_	_	_	_	_	_	O	start_char=992|end_char=998
+3	de	de	ADP	_	_	5	case	O	_
+4	essas	esse	DET	_	Gender=Fem|Number=Plur|PronType=Dem	5	det	O	_
+5	análises	análise	NOUN	_	Gender=Fem|Number=Plur	2	nmod	O	start_char=999|end_char=1007
+6	mineralógicas	mineralógico	ADJ	_	Gender=Fem|Number=Plur	5	amod	O	start_char=1008|end_char=1021
+7	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	O	start_char=1022|end_char=1023
+8	investigar	investigar	VERB	_	VerbForm=Inf	0	root	O	start_char=1024|end_char=1034
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	O	start_char=1035|end_char=1036
+10	ocorrência	ocorrência	NOUN	_	Gender=Fem|Number=Sing	8	obj	O	start_char=1037|end_char=1047
+11	de	de	ADP	_	_	12	case	O	start_char=1048|end_char=1050
+12	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	10	nmod	O	start_char=1051|end_char=1065
+13	expansivos	expansivo	ADJ	_	Gender=Masc|Number=Plur	12	amod	O	start_char=1066|end_char=1076
+14	,	,	PUNCT	_	_	8	punct	O	start_char=1076|end_char=1077
+15	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	16	nsubj	O	start_char=1078|end_char=1081
+16	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	O	start_char=1082|end_char=1087
+17-18	tornar-se	_	_	_	_	_	_	O	start_char=1088|end_char=1097
+17	tornar	tornar	VERB	_	VerbForm=Inf	16	xcomp	O	_
+18	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	expl	O	_
+19	reativos	reativo	ADJ	_	Gender=Masc|Number=Plur	17	xcomp	O	start_char=1098|end_char=1106
+20	durante	durante	ADP	_	_	22	case	O	start_char=1107|end_char=1114
+21	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	O	start_char=1115|end_char=1116
+22	perfuração	perfuração	NOUN	_	Gender=Fem|Number=Sing	17	obl	O	start_char=1117|end_char=1127
+23	de	de	ADP	_	_	24	case	O	start_char=1128|end_char=1130
+24	poços	poço	NOUN	_	Gender=Masc|Number=Plur	22	nmod	B=POÇO	start_char=1131|end_char=1136
+25-26	neste	_	_	_	_	_	_	O	start_char=1137|end_char=1142
+25	em	em	ADP	_	_	27	case	O	_
+26	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	27	det	O	_
+27	campo	campo	NOUN	_	Gender=Masc|Number=Sing	17	obl	B=CAMPO	start_char=1143|end_char=1148
+28	.	.	PUNCT	_	_	8	punct	O	start_char=1148|end_char=1149
+29	.	.	PUNCT	_	_	8	punct	O	start_char=1149|end_char=1150
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-13
+# text = 2. - MÉTODOS
+1	2	2	NUM	_	NumType=Card	4	nummod	O	start_char=1152|end_char=1153
+2	.	.	PUNCT	_	_	1	punct	O	start_char=1153|end_char=1154
+3	-	-	PUNCT	_	_	4	punct	O	start_char=1155|end_char=1156
+4	MÉTODOS	método	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=1157|end_char=1164
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-14
+# text = Para a caracterização da mineralogia total, a amostra foi primeiramente pulverizada em um moinho de ágata e em seguida micronizada no micronizador McCRONE (O'Connor e Chang, 1986)..
+1	Para	para	ADP	_	_	3	case	O	start_char=1166|end_char=1170
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=1171|end_char=1172
+3	caracterização	caracterização	NOUN	_	Gender=Fem|Number=Sing	13	obl	O	start_char=1173|end_char=1187
+4-5	da	_	_	_	_	_	_	O	start_char=1188|end_char=1190
+4	de	de	ADP	_	_	6	case	O	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	O	_
+6	mineralogia	mineralogia	NOUN	_	Gender=Fem|Number=Sing	3	nmod	O	start_char=1191|end_char=1202
+7	total	total	ADJ	_	Gender=Fem|Number=Sing	6	amod	O	start_char=1203|end_char=1208
+8	,	,	PUNCT	_	_	3	punct	O	start_char=1208|end_char=1209
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	O	start_char=1210|end_char=1211
+10	amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	13	nsubj:pass	O	start_char=1212|end_char=1219
+11	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	O	start_char=1220|end_char=1223
+12	primeiramente	primeiramente	ADV	_	_	13	advmod	O	start_char=1224|end_char=1237
+13	pulverizada	pulverizado	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1238|end_char=1249
+14	em	em	ADP	_	_	16	case	O	start_char=1250|end_char=1252
+15	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	O	start_char=1253|end_char=1255
+16	moinho	moinho	NOUN	_	Gender=Masc|Number=Sing	13	obl	O	start_char=1256|end_char=1262
+17	de	de	ADP	_	_	18	case	O	start_char=1263|end_char=1265
+18	ágata	ágata	NOUN	_	Gender=Fem|Number=Sing	16	nmod	O	start_char=1266|end_char=1271
+19	e	e	CCONJ	_	_	21	cc	O	start_char=1272|end_char=1273
+20	em	em	ADP	_	_	21	case	O	start_char=1274|end_char=1276
+21	seguida	seguida	NOUN	_	Gender=Fem|Number=Sing	16	conj	O	start_char=1277|end_char=1284
+22	micronizada	micronizar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	21	acl	O	start_char=1285|end_char=1296
+23-24	no	_	_	_	_	_	_	O	start_char=1297|end_char=1299
+23	em	em	ADP	_	_	25	case	O	_
+24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	O	_
+25	micronizador	micronizador	NOUN	_	Gender=Masc|Number=Sing	22	obl	O	start_char=1300|end_char=1312
+26	McCRONE	McCRONE	PROPN	_	Gender=Masc|Number=Sing	25	nmod	O	start_char=1313|end_char=1320
+27	(	(	PUNCT	_	_	28	punct	O	start_char=1321|end_char=1322
+28	O'Connor	O'Connor	PROPN	_	Gender=Masc|Number=Sing	13	parataxis	O	start_char=1322|end_char=1330
+29	e	e	CCONJ	_	_	28	flat:name	O	start_char=1331|end_char=1332
+30	Chang	Chang	PROPN	_	Gender=Masc|Number=Sing	28	flat:name	O	start_char=1333|end_char=1338
+31	,	,	PUNCT	_	_	28	flat:name	O	start_char=1338|end_char=1339
+32	1986	1986	NUM	_	NumType=Card	28	flat:name	O	start_char=1340|end_char=1344
+33	)	)	PUNCT	_	_	28	punct	O	start_char=1344|end_char=1345
+34	.	.	PUNCT	_	_	13	punct	O	start_char=1345|end_char=1346
+35	.	.	PUNCT	_	_	13	punct	O	start_char=1346|end_char=1347
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-15
+# text = A amostra micronizada foi prensada em um suporte específico, mantendo as partículas randomicamente orientadas, e em seguida foi analisada por difração de raios-X..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=1349|end_char=1350
+2	amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	O	start_char=1351|end_char=1358
+3	micronizada	micronizar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	O	start_char=1359|end_char=1370
+4	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	O	start_char=1371|end_char=1374
+5	prensada	prensar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1375|end_char=1383
+6	em	em	ADP	_	_	8	case	O	start_char=1384|end_char=1386
+7	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	O	start_char=1387|end_char=1389
+8	suporte	suporte	NOUN	_	Gender=Masc|Number=Sing	5	obl	O	start_char=1390|end_char=1397
+9	específico	específico	ADJ	_	Gender=Masc|Number=Sing	8	amod	O	start_char=1398|end_char=1408
+10	,	,	PUNCT	_	_	11	punct	O	start_char=1408|end_char=1409
+11	mantendo	manter	VERB	_	VerbForm=Ger	5	advcl	O	start_char=1410|end_char=1418
+12	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	O	start_char=1419|end_char=1421
+13	partículas	partícula	NOUN	_	Gender=Fem|Number=Plur	11	obj	O	start_char=1422|end_char=1432
+14	randomicamente	randomicamente	ADV	_	_	15	advmod	O	start_char=1433|end_char=1447
+15	orientadas	orientar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	13	acl	O	start_char=1448|end_char=1458
+16	,	,	PUNCT	_	_	21	punct	O	start_char=1458|end_char=1459
+17	e	e	CCONJ	_	_	21	cc	O	start_char=1460|end_char=1461
+18	em	em	ADP	_	_	19	case	O	start_char=1462|end_char=1464
+19	seguida	seguida	NOUN	_	Gender=Fem|Number=Sing	21	obl	O	start_char=1465|end_char=1472
+20	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux:pass	O	start_char=1473|end_char=1476
+21	analisada	analisar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	5	conj	O	start_char=1477|end_char=1486
+22	por	por	ADP	_	_	23	case	O	start_char=1487|end_char=1490
+23	difração	difração	NOUN	_	Gender=Fem|Number=Sing	21	obl:agent	O	start_char=1491|end_char=1499
+24	de	de	ADP	_	_	25	case	O	start_char=1500|end_char=1502
+25	raios-X.	raio	NOUN	_	Gender=Masc|Number=Plur	23	nmod	O	start_char=1503|end_char=1511
+26	.	.	PUNCT	_	_	5	punct	O	start_char=1511|end_char=1512
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-16
+# text = Para a análise dos argilominerais, a amostra fragmentada foi imersa em água destilada e desagregada por ultrassom de ponta (Branson cell disruptor - modelo 350) por cerca de 3 minutos..
+1	Para	para	ADP	_	_	3	case	O	start_char=1514|end_char=1518
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=1519|end_char=1520
+3	análise	análise	NOUN	_	Gender=Fem|Number=Sing	12	obl	O	start_char=1521|end_char=1528
+4-5	dos	_	_	_	_	_	_	O	start_char=1529|end_char=1532
+4	de	de	ADP	_	_	6	case	O	_
+5	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	O	_
+6	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	3	nmod	O	start_char=1533|end_char=1547
+7	,	,	PUNCT	_	_	3	punct	O	start_char=1547|end_char=1548
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	O	start_char=1549|end_char=1550
+9	amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	12	nsubj:pass	O	start_char=1551|end_char=1558
+10	fragmentada	fragmentar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	9	acl	O	start_char=1559|end_char=1570
+11	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	O	start_char=1571|end_char=1574
+12	imersa	imersar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1575|end_char=1581
+13	em	em	ADP	_	_	14	case	O	start_char=1582|end_char=1584
+14	água	água	NOUN	_	Gender=Fem|Number=Sing	12	obl	O	start_char=1585|end_char=1589
+15	destilada	destilar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	14	acl	O	start_char=1590|end_char=1599
+16	e	e	CCONJ	_	_	17	cc	O	start_char=1600|end_char=1601
+17	desagregada	desagregar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	12	conj	O	start_char=1602|end_char=1613
+18	por	por	ADP	_	_	19	case	O	start_char=1614|end_char=1617
+19	ultrassom	ultrassom	NOUN	_	Gender=Masc|Number=Sing	17	obl:agent	O	start_char=1618|end_char=1627
+20	de	de	ADP	_	_	21	case	O	start_char=1628|end_char=1630
+21	ponta	ponta	NOUN	_	Gender=Fem|Number=Sing	19	nmod	O	start_char=1631|end_char=1636
+22	(	(	PUNCT	_	_	23	punct	O	start_char=1637|end_char=1638
+23	Branson	Branson	PROPN	_	Gender=Masc|Number=Sing	19	appos	O	start_char=1638|end_char=1645
+24	cell	cell	X	_	_	23	flat:foreign	O	start_char=1646|end_char=1650
+25	disruptor	disruptor	PROPN	_	Number=Sing	23	flat:name	O	start_char=1651|end_char=1660
+26	-	-	PUNCT	_	_	27	punct	O	start_char=1661|end_char=1662
+27	modelo	modelo	NOUN	_	Gender=Masc|Number=Sing	23	conj	O	start_char=1663|end_char=1669
+28	350	350	NUM	_	NumType=Card	27	nummod	O	start_char=1670|end_char=1673
+29	)	)	PUNCT	_	_	23	punct	O	start_char=1673|end_char=1674
+30	por	por	ADP	_	_	34	case	O	start_char=1675|end_char=1678
+31	cerca	cerca	ADV	_	_	34	advmod	O	start_char=1679|end_char=1684
+32	de	de	ADP	_	_	31	fixed	O	start_char=1685|end_char=1687
+33	3	3	NUM	_	NumType=Card	34	nummod	O	start_char=1688|end_char=1689
+34	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	17	obl	O	start_char=1690|end_char=1697
+35	.	.	PUNCT	_	_	12	punct	O	start_char=1697|end_char=1698
+36	.	.	PUNCT	_	_	12	punct	O	start_char=1698|end_char=1699
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-17
+# text = Em seguida, separou-se por centrifugação (700 rpm por 6 minutos, centrífuga IEC CENTRA-8) o material contido na fração granulométrica inferior a 2 µm da suspensão estável obtida..
+1	Em	em	ADP	_	_	2	case	O	start_char=1701|end_char=1703
+2	seguida	seguida	NOUN	_	Gender=Fem|Number=Sing	4	obl	O	start_char=1704|end_char=1711
+3	,	,	PUNCT	_	_	2	punct	O	start_char=1711|end_char=1712
+4-5	separou-se	_	_	_	_	_	_	O	start_char=1713|end_char=1723
+4	separou	separar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	_
+5	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	O	_
+6	por	por	ADP	_	_	7	case	O	start_char=1724|end_char=1727
+7	centrifugação	centrifugação	NOUN	_	Gender=Fem|Number=Sing	4	obl	O	start_char=1728|end_char=1741
+8	(	(	PUNCT	_	_	10	punct	O	start_char=1742|end_char=1743
+9	700	700	NUM	_	NumType=Card	10	nummod	O	start_char=1743|end_char=1746
+10	rpm	rpm	NOUN	_	Gender=Masc|Number=Plur	7	appos	O	start_char=1747|end_char=1750
+11	por	por	ADP	_	_	13	case	O	start_char=1751|end_char=1754
+12	6	6	NUM	_	NumType=Card	13	nummod	O	start_char=1755|end_char=1756
+13	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	10	nmod	O	start_char=1757|end_char=1764
+14	,	,	PUNCT	_	_	15	punct	O	start_char=1764|end_char=1765
+15	centrífuga	centrífuga	NOUN	_	Gender=Fem|Number=Sing	10	conj	O	start_char=1766|end_char=1776
+16	IEC	IEC	PROPN	_	Gender=Fem|Number=Sing	15	nmod	O	start_char=1777|end_char=1780
+17	CENTRA-8	CENTRA-8	PROPN	_	Number=Sing	16	flat:name	O	start_char=1781|end_char=1789
+18	)	)	PUNCT	_	_	10	punct	O	start_char=1789|end_char=1790
+19	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	O	start_char=1791|end_char=1792
+20	material	material	NOUN	_	Gender=Masc|Number=Sing	4	obj	O	start_char=1793|end_char=1801
+21	contido	conter	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	O	start_char=1802|end_char=1809
+22-23	na	_	_	_	_	_	_	O	start_char=1810|end_char=1812
+22	em	em	ADP	_	_	24	case	O	_
+23	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	O	_
+24	fração	fração	NOUN	_	Gender=Fem|Number=Sing	21	obl	O	start_char=1813|end_char=1819
+25	granulométrica	granulométrico	ADJ	_	Gender=Fem|Number=Sing	24	amod	O	start_char=1820|end_char=1834
+26	inferior	inferior	ADJ	_	Gender=Fem|Number=Sing	24	amod	O	start_char=1835|end_char=1843
+27	a	a	ADP	_	_	29	case	O	start_char=1844|end_char=1845
+28	2	2	NUM	_	NumType=Card	29	nummod	O	start_char=1846|end_char=1847
+29	µm	µm	NOUN	_	Gender=Masc|Number=Plur	21	obl	O	start_char=1848|end_char=1850
+30-31	da	_	_	_	_	_	_	O	start_char=1851|end_char=1853
+30	de	de	ADP	_	_	32	case	O	_
+31	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	O	_
+32	suspensão	suspensão	NOUN	_	Gender=Fem|Number=Sing	29	nmod	O	start_char=1854|end_char=1863
+33	estável	estável	ADJ	_	Gender=Fem|Number=Sing	32	amod	O	start_char=1864|end_char=1871
+34	obtida	obter	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	32	acl	O	start_char=1872|end_char=1878
+35	.	.	PUNCT	_	_	4	punct	O	start_char=1878|end_char=1879
+36	.	.	PUNCT	_	_	4	punct	O	start_char=1879|end_char=1880
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-18
+# text = Este material foi concentrado por centrifugação e da pasta resultante preparou-se uma lâmina orientada pelo método do esfregaço (Thiry, 1974)..
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	O	start_char=1882|end_char=1886
+2	material	material	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	O	start_char=1887|end_char=1895
+3	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	O	start_char=1896|end_char=1899
+4	concentrado	concentrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=1900|end_char=1911
+5	por	por	ADP	_	_	6	case	O	start_char=1912|end_char=1915
+6	centrifugação	centrifugação	NOUN	_	Gender=Fem|Number=Sing	4	obl:agent	O	start_char=1916|end_char=1929
+7	e	e	CCONJ	_	_	10	cc	O	start_char=1930|end_char=1931
+8-9	da	_	_	_	_	_	_	O	start_char=1932|end_char=1934
+8	de	de	ADP	_	_	10	case	O	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	O	_
+10	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	6	conj	O	start_char=1935|end_char=1940
+11	resultante	resultante	ADJ	_	Gender=Fem|Number=Sing	10	amod	O	start_char=1941|end_char=1951
+12-13	preparou-se	_	_	_	_	_	_	O	start_char=1952|end_char=1963
+12	preparou	preparar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	O	_
+13	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	expl	O	_
+14	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	O	start_char=1964|end_char=1967
+15	lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	12	obj	O	start_char=1968|end_char=1974
+16	orientada	orientar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	15	acl	O	start_char=1975|end_char=1984
+17-18	pelo	_	_	_	_	_	_	O	start_char=1985|end_char=1989
+17	por	por	ADP	_	_	19	case	O	_
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	O	_
+19	método	método	NOUN	_	Gender=Masc|Number=Sing	16	obl:agent	O	start_char=1990|end_char=1996
+20-21	do	_	_	_	_	_	_	O	start_char=1997|end_char=1999
+20	de	de	ADP	_	_	22	case	O	_
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	O	_
+22	esfregaço	esfregaço	NOUN	_	Gender=Masc|Number=Sing	19	nmod	O	start_char=2000|end_char=2009
+23	(	(	PUNCT	_	_	24	punct	O	start_char=2010|end_char=2011
+24	Thiry	Thiry	PROPN	_	Gender=Masc|Number=Sing	4	parataxis	O	start_char=2011|end_char=2016
+25	,	,	PUNCT	_	_	24	flat:name	O	start_char=2016|end_char=2017
+26	1974	1974	NUM	_	NumType=Card	24	flat:name	O	start_char=2018|end_char=2022
+27	)	)	PUNCT	_	_	24	punct	O	start_char=2022|end_char=2023
+28	.	.	PUNCT	_	_	12	punct	O	start_char=2023|end_char=2024
+29	.	.	PUNCT	_	_	4	punct	O	start_char=2024|end_char=2025
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-19
+# text = Esta lâmina foi solvatada com etilenoglicol e posteriormente aquecida a 490°C, a fim de se identificar os argilominerais (Alves, 1987)..
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	O	start_char=2027|end_char=2031
+2	lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	O	start_char=2032|end_char=2038
+3	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	O	start_char=2039|end_char=2042
+4	solvatada	solvatar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=2043|end_char=2052
+5	com	com	ADP	_	_	6	case	O	start_char=2053|end_char=2056
+6	etilenoglicol	etilenoglicol	NOUN	_	Gender=Masc|Number=Sing	4	obl	O	start_char=2057|end_char=2070
+7	e	e	CCONJ	_	_	9	cc	O	start_char=2071|end_char=2072
+8	posteriormente	posteriormente	ADV	_	_	9	advmod	O	start_char=2073|end_char=2087
+9	aquecida	aquecer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	4	conj	O	start_char=2088|end_char=2096
+10	a	a	ADP	_	_	11	case	O	start_char=2097|end_char=2098
+11	490°C	490°C	NUM	_	NumType=Card	9	obl	O	start_char=2099|end_char=2104
+12	,	,	PUNCT	_	_	9	punct	O	start_char=2104|end_char=2105
+13	a	a	ADP	_	_	17	mark	O	start_char=2106|end_char=2107
+14	fim	fim	NOUN	_	Gender=Masc|Number=Sing	13	fixed	O	start_char=2108|end_char=2111
+15	de	de	SCONJ	_	_	13	fixed	O	start_char=2112|end_char=2114
+16	se	se	PRON	_	Case=Acc|PronType=Prs	17	expl	O	start_char=2115|end_char=2117
+17	identificar	identificar	VERB	_	VerbForm=Inf	4	advcl	O	start_char=2118|end_char=2129
+18	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	O	start_char=2130|end_char=2132
+19	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	17	obj	O	start_char=2133|end_char=2147
+20	(	(	PUNCT	_	_	21	punct	O	start_char=2148|end_char=2149
+21	Alves	Alves	PROPN	_	Gender=Masc|Number=Sing	4	parataxis	O	start_char=2149|end_char=2154
+22	,	,	PUNCT	_	_	21	flat:name	O	start_char=2154|end_char=2155
+23	1987	1987	NUM	_	NumType=Card	21	flat:name	O	start_char=2156|end_char=2160
+24	)	)	PUNCT	_	_	21	punct	O	start_char=2160|end_char=2161
+25	.	.	PUNCT	_	_	4	punct	O	start_char=2161|end_char=2162
+26	.	.	PUNCT	_	_	4	punct	O	start_char=2162|end_char=2163
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-20
+# text = Eventualmente, a lâmina da fração menor que 2 µm pode ser também solvatada com glicerol, para a distinção de alguns grupos de argilominerais..
+1	Eventualmente	eventualmente	ADV	_	_	15	advmod	O	start_char=2165|end_char=2178
+2	,	,	PUNCT	_	_	1	punct	O	start_char=2178|end_char=2179
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	start_char=2180|end_char=2181
+4	lâmina	lâmina	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=2182|end_char=2188
+5-6	da	_	_	_	_	_	_	O	start_char=2189|end_char=2191
+5	de	de	ADP	_	_	7	case	O	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	O	_
+7	fração	fração	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=2192|end_char=2198
+8	menor	pequeno	ADJ	_	Gender=Fem|Number=Sing	7	amod	O	start_char=2199|end_char=2204
+9	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	12	obj	O	start_char=2205|end_char=2208
+10	2	2	NUM	_	NumType=Card	11	nummod	O	start_char=2209|end_char=2210
+11	µm	µm	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	O	start_char=2211|end_char=2213
+12	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	O	start_char=2214|end_char=2218
+13	ser	ser	AUX	_	VerbForm=Inf	15	aux:pass	O	start_char=2219|end_char=2222
+14	também	também	ADV	_	_	15	advmod	O	start_char=2223|end_char=2229
+15	solvatada	solvatar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	12	xcomp	O	start_char=2230|end_char=2239
+16	com	com	ADP	_	_	17	case	O	start_char=2240|end_char=2243
+17	glicerol	glicerol	NOUN	_	Gender=Masc|Number=Sing	15	obl	O	start_char=2244|end_char=2252
+18	,	,	PUNCT	_	_	15	punct	O	start_char=2252|end_char=2253
+19	para	para	ADP	_	_	21	case	O	start_char=2254|end_char=2258
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	O	start_char=2259|end_char=2260
+21	distinção	distinção	NOUN	_	Gender=Fem|Number=Sing	15	obl	O	start_char=2261|end_char=2270
+22	de	de	ADP	_	_	24	case	O	start_char=2271|end_char=2273
+23	alguns	algum	DET	_	Gender=Masc|Number=Plur|PronType=Ind	24	det	O	start_char=2274|end_char=2280
+24	grupos	grupo	NOUN	_	Gender=Masc|Number=Plur	21	nmod	O	start_char=2281|end_char=2287
+25	de	de	ADP	_	_	26	case	O	start_char=2288|end_char=2290
+26	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	24	nmod	O	start_char=2291|end_char=2305
+27	.	.	PUNCT	_	_	15	punct	O	start_char=2305|end_char=2306
+28	.	.	PUNCT	_	_	15	punct	O	start_char=2306|end_char=2307
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-21
+# text = Os difratogramas das análises de mineralogia total e de argilominerais foram obtidos nos difratômetros: RIGAKU D/MAX - 2200/PC e Bruker D8..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=2309|end_char=2311
+2	difratogramas	difratograma	NOUN	_	Gender=Masc|Number=Plur	13	nsubj:pass	O	start_char=2312|end_char=2325
+3-4	das	_	_	_	_	_	_	O	start_char=2326|end_char=2329
+3	de	de	ADP	_	_	5	case	O	_
+4	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	O	_
+5	análises	análise	NOUN	_	Gender=Fem|Number=Plur	2	nmod	O	start_char=2330|end_char=2338
+6	de	de	ADP	_	_	7	case	O	start_char=2339|end_char=2341
+7	mineralogia	mineralogia	NOUN	_	Gender=Fem|Number=Sing	5	nmod	O	start_char=2342|end_char=2353
+8	total	total	ADJ	_	Gender=Fem|Number=Sing	7	amod	O	start_char=2354|end_char=2359
+9	e	e	CCONJ	_	_	11	cc	O	start_char=2360|end_char=2361
+10	de	de	ADP	_	_	11	case	O	start_char=2362|end_char=2364
+11	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	7	conj	O	start_char=2365|end_char=2379
+12	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	13	aux:pass	O	start_char=2380|end_char=2385
+13	obtidos	obter	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=2386|end_char=2393
+14-15	nos	_	_	_	_	_	_	O	start_char=2394|end_char=2397
+14	em	em	ADP	_	_	16	case	O	_
+15	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	O	_
+16	difratômetros	difratômetro	NOUN	_	Gender=Masc|Number=Plur	13	obl	O	start_char=2398|end_char=2411
+17	:	:	PUNCT	_	_	18	punct	O	start_char=2411|end_char=2412
+18	RIGAKU	Rigaru	PROPN	_	Gender=Masc|Number=Sing	16	appos	O	start_char=2413|end_char=2419
+19	D/MAX	D/MAX	PROPN	_	Number=Sing	18	flat:name	O	start_char=2420|end_char=2425
+20	-	-	PUNCT	_	_	21	punct	O	start_char=2426|end_char=2427
+21	2200/PC	2200/PC	NUM	_	NumType=Card	18	flat:name	O	start_char=2428|end_char=2435
+22	e	e	CCONJ	_	_	23	cc	O	start_char=2436|end_char=2437
+23	Bruker	Bruker	PROPN	_	Gender=Masc|Number=Sing	18	conj	O	start_char=2438|end_char=2444
+24	D8.	D8.	PROPN	_	Number=Sing	23	flat:name	O	start_char=2445|end_char=2448
+25	.	.	PUNCT	_	_	13	punct	O	start_char=2448|end_char=2449
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-22
+# text = As configurações utilizadas no difratômetro Rigaku foram: 40kV e 34mA de corrente de filamento, fendas de 2mm; 2mm; 0,3mm e 0,6mm, monocromador e detector de cintilação..
+1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	O	start_char=2451|end_char=2453
+2	configurações	configuração	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	O	start_char=2454|end_char=2467
+3	utilizadas	utilizar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	2	acl	O	start_char=2468|end_char=2478
+4-5	no	_	_	_	_	_	_	O	start_char=2479|end_char=2481
+4	em	em	ADP	_	_	6	case	O	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	O	_
+6	difratômetro	difratômetro	NOUN	_	Gender=Masc|Number=Sing	3	obl	O	start_char=2482|end_char=2494
+7	Rigaku	Rigaku	PROPN	_	Gender=Masc|Number=Sing	6	nmod	O	start_char=2495|end_char=2501
+8	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	10	cop	O	start_char=2502|end_char=2507
+9	:	:	PUNCT	_	_	10	punct	O	start_char=2507|end_char=2508
+10	40kV	40kv	NUM	_	NumType=Card	0	root	O	start_char=2509|end_char=2513
+11	e	e	CCONJ	_	_	12	cc	O	start_char=2514|end_char=2515
+12	34mA	34ma	NUM	_	NumType=Card	10	conj	O	start_char=2516|end_char=2520
+13	de	de	ADP	_	_	14	case	O	start_char=2521|end_char=2523
+14	corrente	corrente	NOUN	_	Gender=Fem|Number=Sing	10	nmod	O	start_char=2524|end_char=2532
+15	de	de	ADP	_	_	16	case	O	start_char=2533|end_char=2535
+16	filamento	filamento	NOUN	_	Gender=Masc|Number=Sing	14	nmod	O	start_char=2536|end_char=2545
+17	,	,	PUNCT	_	_	18	punct	O	start_char=2545|end_char=2546
+18	fendas	fenda	NOUN	_	Gender=Fem|Number=Plur	10	conj	O	start_char=2547|end_char=2553
+19	de	de	ADP	_	_	20	case	O	start_char=2554|end_char=2556
+20	2mm	2mm	NOUN	_	Gender=Masc|Number=Sing	18	nmod	O	start_char=2557|end_char=2560
+21	;	;	PUNCT	_	_	22	punct	O	start_char=2560|end_char=2561
+22	2mm	2mm	NOUN	_	Gender=Masc|Number=Sing	10	conj	O	start_char=2562|end_char=2565
+23	;	;	PUNCT	_	_	25	punct	O	start_char=2565|end_char=2566
+24	0,3	0,3	NUM	_	NumType=Card	25	nummod	O	start_char=2567|end_char=2570
+25	mm	mm	NOUN	_	Gender=Masc|Number=Plur	10	conj	O	start_char=2570|end_char=2572
+26	e	e	CCONJ	_	_	28	cc	O	start_char=2573|end_char=2574
+27	0,6	0,6	NUM	_	NumType=Card	28	nummod	O	start_char=2575|end_char=2578
+28	mm	mm	NOUN	_	Gender=Masc|Number=Plur	10	conj	O	start_char=2578|end_char=2580
+29	,	,	PUNCT	_	_	30	punct	O	start_char=2580|end_char=2581
+30	monocromador	monocromador	NOUN	_	Gender=Masc|Number=Sing	10	conj	O	start_char=2582|end_char=2594
+31	e	e	CCONJ	_	_	32	cc	O	start_char=2595|end_char=2596
+32	detector	detector	NOUN	_	Gender=Masc|Number=Sing	10	conj	O	start_char=2597|end_char=2605
+33	de	de	ADP	_	_	34	case	O	start_char=2606|end_char=2608
+34	cintilação	cintilação	NOUN	_	Gender=Fem|Number=Sing	32	nmod	O	start_char=2609|end_char=2619
+35	.	.	PUNCT	_	_	10	punct	O	start_char=2619|end_char=2620
+36	.	.	PUNCT	_	_	10	punct	O	start_char=2620|end_char=2621
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-23
+# text = A velocidade de varredura do goniômetro foi de 1º/min para o estudo dos argilominerais e de 2,33º/min para a identificação da mineralogia-total..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=2623|end_char=2624
+2	velocidade	velocidade	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	O	start_char=2625|end_char=2635
+3	de	de	ADP	_	_	4	case	O	start_char=2636|end_char=2638
+4	varredura	varredura	NOUN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=2639|end_char=2648
+5-6	do	_	_	_	_	_	_	O	start_char=2649|end_char=2651
+5	de	de	ADP	_	_	7	case	O	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	O	_
+7	goniômetro	goniômetro	NOUN	_	Gender=Masc|Number=Sing	4	nmod	O	start_char=2652|end_char=2662
+8	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	O	start_char=2663|end_char=2666
+9	de	de	ADP	_	_	11	case	O	start_char=2667|end_char=2669
+10	1º/	1º/	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	11	amod	O	start_char=2670|end_char=2673
+11	min	min	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=2673|end_char=2676
+12	para	para	ADP	_	_	14	case	O	start_char=2677|end_char=2681
+13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	O	start_char=2682|end_char=2683
+14	estudo	estudo	NOUN	_	Gender=Masc|Number=Sing	11	nmod	O	start_char=2684|end_char=2690
+15-16	dos	_	_	_	_	_	_	O	start_char=2691|end_char=2694
+15	de	de	ADP	_	_	17	case	O	_
+16	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	O	_
+17	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	14	nmod	O	start_char=2695|end_char=2709
+18	e	e	CCONJ	_	_	21	cc	O	start_char=2710|end_char=2711
+19	de	de	ADP	_	_	21	case	O	start_char=2712|end_char=2714
+20	2,33º/	2,33º/	NUM	_	NumType=Card	21	nummod	O	start_char=2715|end_char=2721
+21	min	min	NOUN	_	Gender=Masc|Number=Plur	14	conj	O	start_char=2721|end_char=2724
+22	para	para	ADP	_	_	24	case	O	start_char=2725|end_char=2729
+23	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	O	start_char=2730|end_char=2731
+24	identificação	identificação	NOUN	_	Gender=Fem|Number=Sing	11	nmod	O	start_char=2732|end_char=2745
+25-26	da	_	_	_	_	_	_	O	start_char=2746|end_char=2748
+25	de	de	ADP	_	_	27	case	O	_
+26	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	O	_
+27	mineralogia-total	mineralogia-total	NOUN	_	Gender=Fem|Number=Sing	24	nmod	O	start_char=2749|end_char=2766
+28	.	.	PUNCT	_	_	11	punct	O	start_char=2766|end_char=2767
+29	.	.	PUNCT	_	_	11	punct	O	start_char=2767|end_char=2768
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-24
+# text = No difratômetro Bruker, as condições de análise foram: 40kV e 40mA de corrente de filamento, fenda soller de 2,5°, fenda primária de 0,6mm, fenda secundária de 5 mm, detector linear LINXEYE® com abertura de 189 canais, filtro de níquel de 0,02 mm, step size de 0,02º e velocidade de 0,85º/min para o estudo dos argilominerais e de 1,10º/min para interpretação da mineralogia total..
+1-2	No	_	_	_	_	_	_	O	start_char=2770|end_char=2772
+1	Em	em	ADP	_	_	3	case	O	_
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	O	_
+3	difratômetro	difratômetro	NOUN	_	Gender=Masc|Number=Sing	12	nmod	O	start_char=2773|end_char=2785
+4	Bruker	Bruker	PROPN	_	Gender=Masc|Number=Sing	3	nmod	O	start_char=2786|end_char=2792
+5	,	,	PUNCT	_	_	3	punct	O	start_char=2792|end_char=2793
+6	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	O	start_char=2794|end_char=2796
+7	condições	condição	NOUN	_	Gender=Fem|Number=Plur	12	nsubj	O	start_char=2797|end_char=2806
+8	de	de	ADP	_	_	9	case	O	start_char=2807|end_char=2809
+9	análise	análise	NOUN	_	Gender=Fem|Number=Sing	7	nmod	O	start_char=2810|end_char=2817
+10	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	12	cop	O	start_char=2818|end_char=2823
+11	:	:	PUNCT	_	_	12	punct	O	start_char=2823|end_char=2824
+12	40kV	40kv	NUM	_	NumType=Card	0	root	O	start_char=2825|end_char=2829
+13	e	e	CCONJ	_	_	14	cc	O	start_char=2830|end_char=2831
+14	40mA	40mo	NUM	_	NumType=Card	12	conj	O	start_char=2832|end_char=2836
+15	de	de	ADP	_	_	16	case	O	start_char=2837|end_char=2839
+16	corrente	corrente	NOUN	_	Gender=Fem|Number=Sing	12	nmod	O	start_char=2840|end_char=2848
+17	de	de	ADP	_	_	18	case	O	start_char=2849|end_char=2851
+18	filamento	filamento	NOUN	_	Gender=Masc|Number=Sing	16	nmod	O	start_char=2852|end_char=2861
+19	,	,	PUNCT	_	_	20	punct	O	start_char=2861|end_char=2862
+20	fenda	fenda	NOUN	_	Gender=Fem|Number=Sing	12	conj	O	start_char=2863|end_char=2868
+21	soller	soller	NOUN	_	Gender=Fem|Number=Sing	20	nmod	O	start_char=2869|end_char=2875
+22	de	de	ADP	_	_	24	case	O	start_char=2876|end_char=2878
+23	2,5	2,5	NUM	_	NumType=Card	24	nummod	O	start_char=2879|end_char=2882
+24	°	°	NOUN	_	Gender=Masc|Number=Plur	20	nmod	O	start_char=2882|end_char=2883
+25	,	,	PUNCT	_	_	26	punct	O	start_char=2883|end_char=2884
+26	fenda	fenda	NOUN	_	Gender=Fem|Number=Sing	12	conj	O	start_char=2885|end_char=2890
+27	primária	primária	ADJ	_	Gender=Fem|Number=Sing	26	amod	O	start_char=2891|end_char=2899
+28	de	de	ADP	_	_	30	case	O	start_char=2900|end_char=2902
+29	0,6	0,6	NUM	_	NumType=Card	30	nummod	O	start_char=2903|end_char=2906
+30	mm	mm	NOUN	_	Gender=Masc|Number=Plur	26	nmod	O	start_char=2906|end_char=2908
+31	,	,	PUNCT	_	_	32	punct	O	start_char=2908|end_char=2909
+32	fenda	fenda	NOUN	_	Gender=Fem|Number=Sing	12	conj	O	start_char=2910|end_char=2915
+33	secundária	secundário	ADJ	_	Gender=Fem|Number=Sing	32	amod	O	start_char=2916|end_char=2926
+34	de	de	ADP	_	_	36	case	O	start_char=2927|end_char=2929
+35	5	5	NUM	_	NumType=Card	36	nummod	O	start_char=2930|end_char=2931
+36	mm	mm	NOUN	_	Gender=Masc|Number=Plur	32	nmod	O	start_char=2932|end_char=2934
+37	,	,	PUNCT	_	_	38	punct	O	start_char=2934|end_char=2935
+38	detector	detector	NOUN	_	Gender=Masc|Number=Sing	12	conj	O	start_char=2936|end_char=2944
+39	linear	linear	ADJ	_	Gender=Masc|Number=Sing	38	amod	O	start_char=2945|end_char=2951
+40	LINXEYE	LINXEYE	PROPN	_	Gender=Masc|Number=Sing	38	nmod	O	start_char=2952|end_char=2959
+41	®	®	PUNCT	_	_	43	punct	O	start_char=2959|end_char=2960
+42	com	com	ADP	_	_	43	case	O	start_char=2961|end_char=2964
+43	abertura	abertura	NOUN	_	Gender=Fem|Number=Sing	12	nmod	O	start_char=2965|end_char=2973
+44	de	de	ADP	_	_	46	case	O	start_char=2974|end_char=2976
+45	189	189	NUM	_	NumType=Card	46	nummod	O	start_char=2977|end_char=2980
+46	canais	canal	NOUN	_	Gender=Masc|Number=Plur	43	nmod	O	start_char=2981|end_char=2987
+47	,	,	PUNCT	_	_	48	punct	O	start_char=2987|end_char=2988
+48	filtro	filtro	NOUN	_	Gender=Masc|Number=Sing	12	conj	O	start_char=2989|end_char=2995
+49	de	de	ADP	_	_	50	case	O	start_char=2996|end_char=2998
+50	níquel	níquel	NOUN	_	Gender=Masc|Number=Sing	48	nmod	O	start_char=2999|end_char=3005
+51	de	de	ADP	_	_	53	case	O	start_char=3006|end_char=3008
+52	0,02	0,02	NUM	_	NumType=Card	53	nummod	O	start_char=3009|end_char=3013
+53	mm	mm	NOUN	_	Gender=Masc|Number=Plur	50	nmod	O	start_char=3014|end_char=3016
+54	,	,	PUNCT	_	_	55	punct	O	start_char=3016|end_char=3017
+55	step	step	X	_	_	46	conj	O	start_char=3018|end_char=3022
+56	size	size	X	_	_	55	flat:foreign	O	start_char=3023|end_char=3027
+57	de	de	ADP	_	_	58	case	O	start_char=3028|end_char=3030
+58	0,02º	0,02º	NUM	_	NumType=Card	55	nummod	O	start_char=3031|end_char=3036
+59	e	e	CCONJ	_	_	60	cc	O	start_char=3037|end_char=3038
+60	velocidade	velocidade	NOUN	_	Gender=Fem|Number=Sing	12	conj	O	start_char=3039|end_char=3049
+61	de	de	ADP	_	_	63	case	O	start_char=3050|end_char=3052
+62	0,85º/	0,85º/	NUM	_	NumType=Card	63	nummod	O	start_char=3053|end_char=3059
+63	min	min	NOUN	_	Gender=Masc|Number=Plur	60	nmod	O	start_char=3059|end_char=3062
+64	para	para	ADP	_	_	66	case	O	start_char=3063|end_char=3067
+65	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	66	det	O	start_char=3068|end_char=3069
+66	estudo	estudo	NOUN	_	Gender=Masc|Number=Sing	60	nmod	O	start_char=3070|end_char=3076
+67-68	dos	_	_	_	_	_	_	O	start_char=3077|end_char=3080
+67	de	de	ADP	_	_	69	case	O	_
+68	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	69	det	O	_
+69	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	66	nmod	O	start_char=3081|end_char=3095
+70	e	e	CCONJ	_	_	73	cc	O	start_char=3096|end_char=3097
+71	de	de	ADP	_	_	73	case	O	start_char=3098|end_char=3100
+72	1,10º/	1,10º/	NUM	_	NumType=Card	73	nummod	O	start_char=3101|end_char=3107
+73	min	min	NOUN	_	Gender=Masc|Number=Plur	66	conj	O	start_char=3107|end_char=3110
+74	para	para	ADP	_	_	75	case	O	start_char=3111|end_char=3115
+75	interpretação	interpretação	NOUN	_	Gender=Fem|Number=Sing	73	nmod	O	start_char=3116|end_char=3129
+76-77	da	_	_	_	_	_	_	O	start_char=3130|end_char=3132
+76	de	de	ADP	_	_	78	case	O	_
+77	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	78	det	O	_
+78	mineralogia	mineralogia	NOUN	_	Gender=Fem|Number=Sing	75	nmod	O	start_char=3133|end_char=3144
+79	total	total	ADJ	_	Gender=Fem|Number=Sing	78	amod	O	start_char=3145|end_char=3150
+80	.	.	PUNCT	_	_	73	punct	O	start_char=3150|end_char=3151
+81	.	.	PUNCT	_	_	12	punct	O	start_char=3151|end_char=3152
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-25
+# text = A análise qualitativa de mineralogia total foi obtida com o auxílio do software Jade 9 (MDI), do software EVA (BRUKER AXS GMBH) e do banco de dados de minerais PDF-2 (ICDD)..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	O	start_char=3154|end_char=3155
+2	análise	análise	NOUN	_	Gender=Fem|Number=Sing	8	nsubj:pass	O	start_char=3156|end_char=3163
+3	qualitativa	qualitativo	ADJ	_	Gender=Fem|Number=Sing	2	amod	O	start_char=3164|end_char=3175
+4	de	de	ADP	_	_	5	case	O	start_char=3176|end_char=3178
+5	mineralogia	mineralogia	NOUN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=3179|end_char=3190
+6	total	total	ADJ	_	Gender=Fem|Number=Sing	5	amod	O	start_char=3191|end_char=3196
+7	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	O	start_char=3197|end_char=3200
+8	obtida	obter	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	O	start_char=3201|end_char=3207
+9	com	com	ADP	_	_	11	case	O	start_char=3208|end_char=3211
+10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	O	start_char=3212|end_char=3213
+11	auxílio	auxílio	NOUN	_	Gender=Masc|Number=Sing	8	obl	O	start_char=3214|end_char=3221
+12-13	do	_	_	_	_	_	_	O	start_char=3222|end_char=3224
+12	de	de	ADP	_	_	14	case	O	_
+13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	O	_
+14	software	software	NOUN	_	Gender=Masc|Number=Sing	11	nmod	O	start_char=3225|end_char=3233
+15	Jade	Jade	PROPN	_	Gender=Masc|Number=Sing	14	nmod	O	start_char=3234|end_char=3238
+16	9	9	PROPN	_	Number=Sing	15	flat:name	O	start_char=3239|end_char=3240
+17	(	(	PUNCT	_	_	18	punct	O	start_char=3241|end_char=3242
+18	MDI	MDI	PROPN	_	Gender=Masc|Number=Sing	14	appos	O	start_char=3242|end_char=3245
+19	)	)	PUNCT	_	_	18	punct	O	start_char=3245|end_char=3246
+20	,	,	PUNCT	_	_	23	punct	O	start_char=3246|end_char=3247
+21-22	do	_	_	_	_	_	_	O	start_char=3248|end_char=3250
+21	de	de	ADP	_	_	23	case	O	_
+22	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	O	_
+23	software	software	NOUN	_	Gender=Masc|Number=Sing	14	conj	O	start_char=3251|end_char=3259
+24	EVA	EVA	PROPN	_	Gender=Fem|Number=Sing	23	nmod	O	start_char=3260|end_char=3263
+25	(	(	PUNCT	_	_	26	punct	O	start_char=3264|end_char=3265
+26	BRUKER	BRUKER	PROPN	_	Gender=Masc|Number=Sing	23	appos	O	start_char=3265|end_char=3271
+27	AXS	AXS	PROPN	_	Number=Sing	26	flat:name	O	start_char=3272|end_char=3275
+28	GMBH	GMBH	PROPN	_	Number=Sing	26	flat:name	O	start_char=3276|end_char=3280
+29	)	)	PUNCT	_	_	26	punct	O	start_char=3280|end_char=3281
+30	e	e	CCONJ	_	_	33	cc	O	start_char=3282|end_char=3283
+31-32	do	_	_	_	_	_	_	O	start_char=3284|end_char=3286
+31	de	de	ADP	_	_	33	case	O	_
+32	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	O	_
+33	banco	banco	NOUN	_	Gender=Masc|Number=Sing	11	conj	O	start_char=3287|end_char=3292
+34	de	de	ADP	_	_	35	case	O	start_char=3293|end_char=3295
+35	dados	dado	NOUN	_	Gender=Masc|Number=Plur	33	nmod	O	start_char=3296|end_char=3301
+36	de	de	ADP	_	_	37	case	O	start_char=3302|end_char=3304
+37	minerais	mineral	NOUN	_	Gender=Masc|Number=Plur	35	nmod	O	start_char=3305|end_char=3313
+38	PDF-2	PDF-2	PROPN	_	Gender=Masc|Number=Sing	37	nmod	O	start_char=3314|end_char=3319
+39	(	(	PUNCT	_	_	40	punct	O	start_char=3320|end_char=3321
+40	ICDD	ICDD	PROPN	_	Gender=Masc|Number=Sing	37	appos	O	start_char=3321|end_char=3325
+41	)	)	PUNCT	_	_	40	punct	O	start_char=3325|end_char=3326
+42	.	.	PUNCT	_	_	8	punct	O	start_char=3326|end_char=3327
+43	.	.	PUNCT	_	_	8	punct	O	start_char=3327|end_char=3328
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-26
+# text = As análises quantitativas foram realizadas pelo Método de Rietveld (Young, 1995) através do software FullProf (Rodrigues-Carvajal & Roisnel, 1998; Santos et al., 2009), e do software TOPAS (BRUKER AXS GMBH)..
+1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	O	start_char=3330|end_char=3332
+2	análises	análise	NOUN	_	Gender=Fem|Number=Plur	5	nsubj:pass	O	start_char=3333|end_char=3341
+3	quantitativas	quantitativo	ADJ	_	Gender=Fem|Number=Plur	2	amod	O	start_char=3342|end_char=3355
+4	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	5	aux:pass	O	start_char=3356|end_char=3361
+5	realizadas	realizar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=3362|end_char=3372
+6-7	pelo	_	_	_	_	_	_	O	start_char=3373|end_char=3377
+6	por	por	ADP	_	_	8	case	O	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	O	_
+8	Método	método	PROPN	_	Gender=Masc|Number=Sing	5	obl:agent	O	start_char=3378|end_char=3384
+9	de	de	ADP	_	_	8	flat:name	O	start_char=3385|end_char=3387
+10	Rietveld	Rietveld	PROPN	_	Number=Sing	8	flat:name	O	start_char=3388|end_char=3396
+11	(	(	PUNCT	_	_	12	punct	O	start_char=3397|end_char=3398
+12	Young	Young	PROPN	_	Gender=Masc|Number=Sing	5	parataxis	O	start_char=3398|end_char=3403
+13	,	,	PUNCT	_	_	12	flat:name	O	start_char=3403|end_char=3404
+14	1995	1995	NUM	_	NumType=Card	12	flat:name	O	start_char=3405|end_char=3409
+15	)	)	PUNCT	_	_	12	punct	O	start_char=3409|end_char=3410
+16	através	através	ADV	_	_	19	case	O	start_char=3411|end_char=3418
+17-18	do	_	_	_	_	_	_	O	start_char=3419|end_char=3421
+17	de	de	ADP	_	_	16	fixed	O	_
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	O	_
+19	software	software	NOUN	_	Gender=Masc|Number=Sing	5	obl	O	start_char=3422|end_char=3430
+20	FullProf	FullProf	PROPN	_	Gender=Masc|Number=Sing	19	nmod	O	start_char=3431|end_char=3439
+21	(	(	PUNCT	_	_	22	punct	O	start_char=3440|end_char=3441
+22	Rodrigues-Carvajal	Rodrigues-Carvajal	PROPN	_	Gender=Masc|Number=Sing	5	parataxis	O	start_char=3441|end_char=3459
+23	&	&	PROPN	_	Number=Sing	22	flat:name	O	start_char=3460|end_char=3461
+24	Roisnel	Roisnel	PROPN	_	Number=Sing	22	flat:name	O	start_char=3462|end_char=3469
+25	,	,	PUNCT	_	_	22	flat:name	O	start_char=3469|end_char=3470
+26	1998	1998	NUM	_	NumType=Card	22	flat:name	O	start_char=3471|end_char=3475
+27	;	;	PUNCT	_	_	28	punct	O	start_char=3475|end_char=3476
+28	Santos	Santos	PROPN	_	Gender=Masc|Number=Sing	22	conj	O	start_char=3477|end_char=3483
+29	et	et	PROPN	_	Number=Sing	28	flat:name	O	start_char=3484|end_char=3486
+30	al.	al.	PROPN	_	Number=Sing	28	flat:name	O	start_char=3487|end_char=3490
+31	,	,	PUNCT	_	_	28	flat:name	O	start_char=3490|end_char=3491
+32	2009	2009	NOUN	_	Gender=Masc|Number=Plur	28	flat:name	O	start_char=3492|end_char=3496
+33	)	)	PUNCT	_	_	22	punct	O	start_char=3496|end_char=3497
+34	,	,	PUNCT	_	_	38	punct	O	start_char=3497|end_char=3498
+35	e	e	CCONJ	_	_	38	cc	O	start_char=3499|end_char=3500
+36-37	do	_	_	_	_	_	_	O	start_char=3501|end_char=3503
+36	de	de	ADP	_	_	38	case	O	_
+37	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	O	_
+38	software	software	NOUN	_	Gender=Masc|Number=Sing	19	conj	O	start_char=3504|end_char=3512
+39	TOPAS	TOPAS	PROPN	_	Gender=Masc|Number=Sing	38	nmod	O	start_char=3513|end_char=3518
+40	(	(	PUNCT	_	_	41	punct	O	start_char=3519|end_char=3520
+41	BRUKER	BRUKER	PROPN	_	Gender=Masc|Number=Sing	38	appos	O	start_char=3520|end_char=3526
+42	AXS	AXS	PROPN	_	Number=Sing	41	flat:name	O	start_char=3527|end_char=3530
+43	GMBH	GMBH	PROPN	_	Number=Sing	41	flat:name	O	start_char=3531|end_char=3535
+44	)	)	PUNCT	_	_	41	punct	O	start_char=3535|end_char=3536
+45	.	.	PUNCT	_	_	41	punct	O	start_char=3536|end_char=3537
+46	.	.	PUNCT	_	_	5	punct	O	start_char=3537|end_char=3538
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-27
+# text = Eventualmente, os resultados podem ser obtidos pelo método RIR (Razão de Intensidade de Referência) através do software EVA..
+1	Eventualmente	eventualmente	ADV	_	_	5	advmod	O	start_char=3540|end_char=3553
+2	,	,	PUNCT	_	_	1	punct	O	start_char=3553|end_char=3554
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	O	start_char=3555|end_char=3557
+4	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	O	start_char=3558|end_char=3568
+5	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=3569|end_char=3574
+6	ser	ser	AUX	_	VerbForm=Inf	7	aux:pass	O	start_char=3575|end_char=3578
+7	obtidos	obter	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	5	xcomp	O	start_char=3579|end_char=3586
+8-9	pelo	_	_	_	_	_	_	O	start_char=3587|end_char=3591
+8	por	por	ADP	_	_	10	case	O	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	O	_
+10	método	método	NOUN	_	Gender=Masc|Number=Sing	7	obl:agent	O	start_char=3592|end_char=3598
+11	RIR	RIR	PROPN	_	Gender=Masc|Number=Sing	10	nmod	O	start_char=3599|end_char=3602
+12	(	(	PUNCT	_	_	13	punct	O	start_char=3603|end_char=3604
+13	Razão	razão	PROPN	_	Gender=Fem|Number=Sing	10	appos	O	start_char=3604|end_char=3609
+14	de	de	ADP	_	_	13	flat:name	O	start_char=3610|end_char=3612
+15	Intensidade	Intensidade	PROPN	_	Number=Sing	13	flat:name	O	start_char=3613|end_char=3624
+16	de	de	ADP	_	_	13	flat:name	O	start_char=3625|end_char=3627
+17	Referência	referência	PROPN	_	Number=Sing	13	flat:name	O	start_char=3628|end_char=3638
+18	)	)	PUNCT	_	_	13	punct	O	start_char=3638|end_char=3639
+19	através	através	ADV	_	_	22	case	O	start_char=3640|end_char=3647
+20-21	do	_	_	_	_	_	_	O	start_char=3648|end_char=3650
+20	de	de	ADP	_	_	19	fixed	O	_
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	O	_
+22	software	software	NOUN	_	Gender=Masc|Number=Sing	7	obl	O	start_char=3651|end_char=3659
+23	EVA	EVA	PROPN	_	Gender=Fem|Number=Sing	22	nmod	O	start_char=3660|end_char=3663
+24	.	.	PUNCT	_	_	5	punct	O	start_char=3663|end_char=3664
+25	.	.	PUNCT	_	_	5	punct	O	start_char=3664|end_char=3665
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-28
+# text = Para a interpretação dos argilominerais, foram utilizados os padrões disponíveis na literatura científica (Brown e Brindley, 1980 entre outros)..
+1	Para	para	ADP	_	_	3	case	O	start_char=3667|end_char=3671
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	O	start_char=3672|end_char=3673
+3	interpretação	interpretação	NOUN	_	Gender=Fem|Number=Sing	9	obl	O	start_char=3674|end_char=3687
+4-5	dos	_	_	_	_	_	_	O	start_char=3688|end_char=3691
+4	de	de	ADP	_	_	6	case	O	_
+5	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	O	_
+6	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	3	nmod	O	start_char=3692|end_char=3706
+7	,	,	PUNCT	_	_	3	punct	O	start_char=3706|end_char=3707
+8	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	9	aux:pass	O	start_char=3708|end_char=3713
+9	utilizados	utilizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	O	start_char=3714|end_char=3724
+10	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	O	start_char=3725|end_char=3727
+11	padrões	padrão	NOUN	_	Gender=Masc|Number=Plur	9	nsubj:pass	O	start_char=3728|end_char=3735
+12	disponíveis	disponível	ADJ	_	Gender=Masc|Number=Plur	11	amod	O	start_char=3736|end_char=3747
+13-14	na	_	_	_	_	_	_	O	start_char=3748|end_char=3750
+13	em	em	ADP	_	_	15	case	O	_
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	O	_
+15	literatura	literatura	NOUN	_	Gender=Fem|Number=Sing	9	obl	O	start_char=3751|end_char=3761
+16	científica	científico	ADJ	_	Gender=Fem|Number=Sing	15	amod	O	start_char=3762|end_char=3772
+17	(	(	PUNCT	_	_	18	punct	O	start_char=3773|end_char=3774
+18	Brown	Brown	PROPN	_	Gender=Masc|Number=Sing	9	parataxis	O	start_char=3774|end_char=3779
+19	e	e	CCONJ	_	_	18	flat:name	O	start_char=3780|end_char=3781
+20	Brindley	Brindley	PROPN	_	Gender=Masc|Number=Sing	18	flat:name	O	start_char=3782|end_char=3790
+21	,	,	PUNCT	_	_	18	flat:name	O	start_char=3790|end_char=3791
+22	1980	1980	NUM	_	NumType=Card	18	flat:name	O	start_char=3792|end_char=3796
+23	entre	entre	ADP	_	_	24	case	O	start_char=3797|end_char=3802
+24	outros	outro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	18	nmod	O	start_char=3803|end_char=3809
+25	)	)	PUNCT	_	_	18	punct	O	start_char=3809|end_char=3810
+26	.	.	PUNCT	_	_	9	punct	O	start_char=3810|end_char=3811
+27	.	.	PUNCT	_	_	9	punct	O	start_char=3811|end_char=3812
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-29
+# text = Estimaram-se os valores semiquantitativos dos argilominerais presentes a partir da deconvolução das reflexões principais, com o auxílio do software JADE 9 (MDI)..
+1-2	Estimaram-se	_	_	_	_	_	_	O	start_char=3814|end_char=3826
+1	Estimaram	estimar	VERB	_	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	O	_
+2	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	expl:impers	O	_
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	O	start_char=3827|end_char=3829
+4	valores	valor	NOUN	_	Gender=Masc|Number=Plur	1	obj	O	start_char=3830|end_char=3837
+5	semiquantitativos	semiquantitativo	ADJ	_	Gender=Masc|Number=Plur	4	amod	O	start_char=3838|end_char=3855
+6-7	dos	_	_	_	_	_	_	O	start_char=3856|end_char=3859
+6	de	de	ADP	_	_	8	case	O	_
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	O	_
+8	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	4	nmod	O	start_char=3860|end_char=3874
+9	presentes	presente	ADJ	_	Gender=Masc|Number=Plur	8	amod	O	start_char=3875|end_char=3884
+10	a	a	ADP	_	_	14	case	O	start_char=3885|end_char=3886
+11	partir	partir	NOUN	_	_	10	fixed	O	start_char=3887|end_char=3893
+12-13	da	_	_	_	_	_	_	O	start_char=3894|end_char=3896
+12	de	de	ADP	_	_	10	fixed	O	_
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	O	_
+14	deconvolução	deconvolução	NOUN	_	Gender=Fem|Number=Sing	1	obl	O	start_char=3897|end_char=3909
+15-16	das	_	_	_	_	_	_	O	start_char=3910|end_char=3913
+15	de	de	ADP	_	_	17	case	O	_
+16	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	O	_
+17	reflexões	reflexão	NOUN	_	Gender=Fem|Number=Plur	14	nmod	O	start_char=3914|end_char=3923
+18	principais	principal	ADJ	_	Gender=Fem|Number=Plur	17	amod	O	start_char=3924|end_char=3934
+19	,	,	PUNCT	_	_	1	punct	O	start_char=3934|end_char=3935
+20	com	com	ADP	_	_	22	case	O	start_char=3936|end_char=3939
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	O	start_char=3940|end_char=3941
+22	auxílio	auxílio	NOUN	_	Gender=Masc|Number=Sing	1	obl	O	start_char=3942|end_char=3949
+23-24	do	_	_	_	_	_	_	O	start_char=3950|end_char=3952
+23	de	de	ADP	_	_	25	case	O	_
+24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	O	_
+25	software	software	NOUN	_	Gender=Masc|Number=Sing	22	nmod	O	start_char=3953|end_char=3961
+26	JADE	JADE	PROPN	_	Gender=Masc|Number=Sing	25	nmod	O	start_char=3962|end_char=3966
+27	9	9	PROPN	_	Number=Sing	26	flat:name	O	start_char=3967|end_char=3968
+28	(	(	PUNCT	_	_	29	punct	O	start_char=3969|end_char=3970
+29	MDI	MDI	PROPN	_	Gender=Masc|Number=Sing	25	appos	O	start_char=3970|end_char=3973
+30	)	)	PUNCT	_	_	29	punct	O	start_char=3973|end_char=3974
+31	.	.	PUNCT	_	_	1	punct	O	start_char=3974|end_char=3975
+32	.	.	PUNCT	_	_	1	punct	O	start_char=3975|end_char=3976
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-30
+# text = 3. - RESULTADOS E COMENTÁRIOS FINAIS
+1	3	3	NUM	_	NumType=Card	4	nummod	O	start_char=3978|end_char=3979
+2	.	.	PUNCT	_	_	1	punct	O	start_char=3979|end_char=3980
+3	-	-	PUNCT	_	_	4	punct	O	start_char=3981|end_char=3982
+4	RESULTADOS	resultado	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=3983|end_char=3993
+5	E	e	CCONJ	_	_	6	cc	O	start_char=3994|end_char=3995
+6	COMENTÁRIOS	COMENTÁRIOS	PROPN	_	Gender=Masc|Number=Sing	4	conj	O	start_char=3996|end_char=4007
+7	FINAIS	Final	PROPN	_	Number=Sing	6	flat:name	O	start_char=4008|end_char=4014
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-31
+# text = Os resultados de mineralogia total estão apresentados nas tabelas 1 (Furo DGL 1635) e 2 (Furo DGL 1635A), e os resultados de argilominerais encontram-se nas tabelas 3 (Furo DGL 1635) e 4 (Furo DGL 1635A)..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	O	start_char=4016|end_char=4018
+2	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	O	start_char=4019|end_char=4029
+3	de	de	ADP	_	_	4	case	O	start_char=4030|end_char=4032
+4	mineralogia	mineralogia	NOUN	_	Gender=Fem|Number=Sing	2	nmod	O	start_char=4033|end_char=4044
+5	total	total	ADJ	_	Gender=Fem|Number=Sing	4	amod	O	start_char=4045|end_char=4050
+6	estão	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	O	start_char=4051|end_char=4056
+7	apresentados	apresentar	ADJ	_	Gender=Masc|Number=Plur	0	root	O	start_char=4057|end_char=4069
+8-9	nas	_	_	_	_	_	_	O	start_char=4070|end_char=4073
+8	em	em	ADP	_	_	10	case	O	_
+9	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	O	_
+10	tabelas	tabela	NOUN	_	Gender=Fem|Number=Plur	7	obl	O	start_char=4074|end_char=4081
+11	1	1	NUM	_	NumType=Card	10	nummod	O	start_char=4082|end_char=4083
+12	(	(	PUNCT	_	_	13	punct	O	start_char=4084|end_char=4085
+13	Furo	Furo	PROPN	_	Gender=Masc|Number=Sing	10	appos	O	start_char=4085|end_char=4089
+14	DGL	DGL	PROPN	_	Number=Sing	13	flat:name	O	start_char=4090|end_char=4093
+15	1635	1635	NUM	_	NumType=Card	13	flat:name	O	start_char=4094|end_char=4098
+16	)	)	PUNCT	_	_	13	punct	O	start_char=4098|end_char=4099
+17	e	e	CCONJ	_	_	18	cc	O	start_char=4100|end_char=4101
+18	2	2	NUM	_	NumType=Card	11	conj	O	start_char=4102|end_char=4103
+19	(	(	PUNCT	_	_	20	punct	O	start_char=4104|end_char=4105
+20	Furo	Furo	PROPN	_	Gender=Masc|Number=Sing	18	appos	O	start_char=4105|end_char=4109
+21	DGL	DGL	PROPN	_	Number=Sing	20	flat:name	O	start_char=4110|end_char=4113
+22	1635A	1635A	NUM	_	NumType=Card	20	flat:name	O	start_char=4114|end_char=4119
+23	)	)	PUNCT	_	_	20	punct	O	start_char=4119|end_char=4120
+24	,	,	PUNCT	_	_	30	punct	O	start_char=4120|end_char=4121
+25	e	e	CCONJ	_	_	30	cc	O	start_char=4122|end_char=4123
+26	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	O	start_char=4124|end_char=4126
+27	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	30	nsubj	O	start_char=4127|end_char=4137
+28	de	de	ADP	_	_	29	case	O	start_char=4138|end_char=4140
+29	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	27	nmod	O	start_char=4141|end_char=4155
+30-31	encontram-se	_	_	_	_	_	_	O	start_char=4156|end_char=4168
+30	encontram	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	O	_
+31	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	30	expl	O	_
+32-33	nas	_	_	_	_	_	_	O	start_char=4169|end_char=4172
+32	em	em	ADP	_	_	34	case	O	_
+33	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	O	_
+34	tabelas	tabela	NOUN	_	Gender=Fem|Number=Plur	30	obl	O	start_char=4173|end_char=4180
+35	3	3	NUM	_	NumType=Card	34	nummod	O	start_char=4181|end_char=4182
+36	(	(	PUNCT	_	_	37	punct	O	start_char=4183|end_char=4184
+37	Furo	Furo	PROPN	_	Gender=Masc|Number=Sing	34	appos	O	start_char=4184|end_char=4188
+38	DGL	DGL	PROPN	_	Gender=Masc|Number=Sing	37	flat:name	O	start_char=4189|end_char=4192
+39	1635	1635	NUM	_	NumType=Card	37	flat:name	O	start_char=4193|end_char=4197
+40	)	)	PUNCT	_	_	37	punct	O	start_char=4197|end_char=4198
+41	e	e	CCONJ	_	_	42	cc	O	start_char=4199|end_char=4200
+42	4	4	NUM	_	NumType=Card	35	conj	O	start_char=4201|end_char=4202
+43	(	(	PUNCT	_	_	44	punct	O	start_char=4203|end_char=4204
+44	Furo	Furo	PROPN	_	Gender=Masc|Number=Sing	42	appos	O	start_char=4204|end_char=4208
+45	DGL	DGL	PROPN	_	Gender=Masc|Number=Sing	44	flat:name	O	start_char=4209|end_char=4212
+46	1635A	1635A	NUM	_	NumType=Card	44	flat:name	O	start_char=4213|end_char=4218
+47	)	)	PUNCT	_	_	44	punct	O	start_char=4218|end_char=4219
+48	.	.	PUNCT	_	_	44	punct	O	start_char=4219|end_char=4220
+49	.	.	PUNCT	_	_	7	punct	O	start_char=4220|end_char=4221
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-32
+# text = De acordo com o resultado dessas análises, verifica-se que as amostras são formadas principalmente por argilominerais, plagioclásio, K-feldspato, micas, quartzo e calcita, com pequenas quantidades de zeólita..
+1	De	de	ADP	_	_	5	case	O	start_char=4223|end_char=4225
+2	acordo	acordo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	O	start_char=4226|end_char=4232
+3	com	com	ADP	_	_	1	fixed	O	start_char=4233|end_char=4236
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	O	start_char=4237|end_char=4238
+5	resultado	resultado	NOUN	_	Gender=Masc|Number=Sing	10	obl	O	start_char=4239|end_char=4248
+6-7	dessas	_	_	_	_	_	_	O	start_char=4249|end_char=4255
+6	de	de	ADP	_	_	8	case	O	_
+7	essas	esse	DET	_	Gender=Fem|Number=Plur|PronType=Dem	8	det	O	_
+8	análises	análise	NOUN	_	Gender=Fem|Number=Plur	5	nmod	O	start_char=4256|end_char=4264
+9	,	,	PUNCT	_	_	5	punct	O	start_char=4264|end_char=4265
+10-11	verifica-se	_	_	_	_	_	_	O	start_char=4266|end_char=4277
+10	verifica	verificar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	_
+11	se	se	PRON	_	Case=Acc|PronType=Prs	10	expl	O	_
+12	que	que	SCONJ	_	_	16	mark	O	start_char=4278|end_char=4281
+13	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	O	start_char=4282|end_char=4284
+14	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	16	nsubj:pass	O	start_char=4285|end_char=4293
+15	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	O	start_char=4294|end_char=4297
+16	formadas	formar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	10	ccomp	O	start_char=4298|end_char=4306
+17	principalmente	principalmente	ADV	_	_	16	advmod	O	start_char=4307|end_char=4321
+18	por	por	ADP	_	_	19	case	O	start_char=4322|end_char=4325
+19	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	16	obl:agent	O	start_char=4326|end_char=4340
+20	,	,	PUNCT	_	_	21	punct	O	start_char=4340|end_char=4341
+21	plagioclásio	plagioclásio	NOUN	_	Gender=Masc|Number=Sing	19	conj	O	start_char=4342|end_char=4354
+22	,	,	PUNCT	_	_	23	punct	O	start_char=4354|end_char=4355
+23	K-feldspato	K-feldspato	PROPN	_	Gender=Masc|Number=Sing	19	conj	O	start_char=4356|end_char=4367
+24	,	,	PUNCT	_	_	25	punct	O	start_char=4367|end_char=4368
+25	micas	mica	NOUN	_	Gender=Fem|Number=Plur	19	conj	O	start_char=4369|end_char=4374
+26	,	,	PUNCT	_	_	27	punct	O	start_char=4374|end_char=4375
+27	quartzo	quartzo	NOUN	_	Gender=Masc|Number=Sing	19	conj	O	start_char=4376|end_char=4383
+28	e	e	CCONJ	_	_	29	cc	O	start_char=4384|end_char=4385
+29	calcita	calcita	NOUN	_	Gender=Fem|Number=Sing	19	conj	O	start_char=4386|end_char=4393
+30	,	,	PUNCT	_	_	16	punct	O	start_char=4393|end_char=4394
+31	com	com	ADP	_	_	33	case	O	start_char=4395|end_char=4398
+32	pequenas	pequeno	ADJ	_	Gender=Fem|Number=Plur	33	amod	O	start_char=4399|end_char=4407
+33	quantidades	quantidade	NOUN	_	Gender=Fem|Number=Plur	16	obl	O	start_char=4408|end_char=4419
+34	de	de	ADP	_	_	35	case	O	start_char=4420|end_char=4422
+35	zeólita	zeólita	NOUN	_	Gender=Fem|Number=Sing	33	nmod	O	start_char=4423|end_char=4430
+36	.	.	PUNCT	_	_	10	punct	O	start_char=4430|end_char=4431
+37	.	.	PUNCT	_	_	10	punct	O	start_char=4431|end_char=4432
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-33
+# text = Pirita, barita, gipsita, magnesita e anfibólio ocorrem como traços, e suspeita-se ainda de traços de tridimita..
+1	Pirita	Pirita	PROPN	_	Gender=Fem|Number=Sing	10	nsubj	O	start_char=4434|end_char=4440
+2	,	,	PUNCT	_	_	3	punct	O	start_char=4440|end_char=4441
+3	barita	barita	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=4442|end_char=4448
+4	,	,	PUNCT	_	_	5	punct	O	start_char=4448|end_char=4449
+5	gipsita	gipsita	NOUN	_	Gender=Fem|Number=Sing	1	conj	B=ROCHA	start_char=4450|end_char=4457
+6	,	,	PUNCT	_	_	7	punct	O	start_char=4457|end_char=4458
+7	magnesita	magnesita	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=4459|end_char=4468
+8	e	e	CCONJ	_	_	9	cc	O	start_char=4469|end_char=4470
+9	anfibólio	anfibólio	NOUN	_	Gender=Masc|Number=Sing	1	conj	B=ROCHA	start_char=4471|end_char=4480
+10	ocorrem	ocorrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=4481|end_char=4488
+11	como	como	ADP	_	_	12	case	O	start_char=4489|end_char=4493
+12	traços	traço	NOUN	_	Gender=Masc|Number=Plur	10	xcomp	O	start_char=4494|end_char=4500
+13	,	,	PUNCT	_	_	15	punct	O	start_char=4500|end_char=4501
+14	e	e	CCONJ	_	_	15	cc	O	start_char=4502|end_char=4503
+15-16	suspeita-se	_	_	_	_	_	_	O	start_char=4504|end_char=4515
+15	suspeita	suspeitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	O	_
+16	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	expl	O	_
+17	ainda	ainda	ADV	_	_	15	advmod	O	start_char=4516|end_char=4521
+18	de	de	ADP	_	_	19	case	O	start_char=4522|end_char=4524
+19	traços	traço	NOUN	_	Gender=Masc|Number=Plur	15	obl:arg	O	start_char=4525|end_char=4531
+20	de	de	ADP	_	_	21	case	O	start_char=4532|end_char=4534
+21	tridimita	tridimita	NOUN	_	Gender=Fem|Number=Sing	19	nmod	O	start_char=4535|end_char=4544
+22	.	.	PUNCT	_	_	10	punct	O	start_char=4544|end_char=4545
+23	.	.	PUNCT	_	_	10	punct	O	start_char=4545|end_char=4546
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-34
+# text = Quanto os argilominerais, que perfazem cerca de 50% da mineralogia total de todas as amostras, a espécie que predomina é expansiva: interestratificado ilita/esmectita irregular (Figura 1)..
+1	Quanto	quanto	ADV	_	_	3	advmod	O	start_char=4548|end_char=4554
+2	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	O	start_char=4555|end_char=4557
+3	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	25	nsubj	O	start_char=4558|end_char=4572
+4	,	,	PUNCT	_	_	3	punct	O	start_char=4572|end_char=4573
+5	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	6	nsubj	O	start_char=4574|end_char=4577
+6	perfazem	perfazer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	O	start_char=4578|end_char=4586
+7	cerca	cerca	ADV	_	_	10	advmod	O	start_char=4587|end_char=4592
+8	de	de	ADP	_	_	7	fixed	O	start_char=4593|end_char=4595
+9	50	50	NUM	_	NumType=Card	10	nummod	O	start_char=4596|end_char=4598
+10	%	%	SYM	_	_	6	obj	O	start_char=4598|end_char=4599
+11-12	da	_	_	_	_	_	_	O	start_char=4600|end_char=4602
+11	de	de	ADP	_	_	13	case	O	_
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	O	_
+13	mineralogia	mineralogia	NOUN	_	Gender=Fem|Number=Sing	10	nmod	O	start_char=4603|end_char=4614
+14	total	total	ADJ	_	Gender=Fem|Number=Sing	13	amod	O	start_char=4615|end_char=4620
+15	de	de	ADP	_	_	18	case	O	start_char=4621|end_char=4623
+16	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	18	det	O	start_char=4624|end_char=4629
+17	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	O	start_char=4630|end_char=4632
+18	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	13	nmod	O	start_char=4633|end_char=4641
+19	,	,	PUNCT	_	_	6	punct	O	start_char=4641|end_char=4642
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	O	start_char=4643|end_char=4644
+21	espécie	espécie	NOUN	_	Gender=Fem|Number=Sing	25	nsubj	O	start_char=4645|end_char=4652
+22	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	O	start_char=4653|end_char=4656
+23	predomina	predominar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	O	start_char=4657|end_char=4666
+24	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	O	start_char=4667|end_char=4668
+25	expansiva	expansivo	ADJ	_	Gender=Fem|Number=Sing	0	root	O	start_char=4669|end_char=4678
+26	:	:	PUNCT	_	_	27	punct	O	start_char=4678|end_char=4679
+27	interestratificado	interestratificar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	25	acl	O	start_char=4680|end_char=4698
+28	ilita/esmectita	ilita/esmectita	NOUN	_	Gender=Fem|Number=Sing	27	obj	O	start_char=4699|end_char=4714
+29	irregular	irregular	ADJ	_	Gender=Fem|Number=Sing	28	amod	O	start_char=4715|end_char=4724
+30	(	(	PUNCT	_	_	31	punct	O	start_char=4725|end_char=4726
+31	Figura	Figura	PROPN	_	Gender=Fem|Number=Sing	28	appos	O	start_char=4726|end_char=4732
+32	1	1	PROPN	_	Number=Sing	31	flat:name	O	start_char=4733|end_char=4734
+33	)	)	PUNCT	_	_	31	punct	O	start_char=4734|end_char=4735
+34	.	.	PUNCT	_	_	31	punct	O	start_char=4735|end_char=4736
+35	.	.	PUNCT	_	_	25	punct	O	start_char=4736|end_char=4737
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-35
+# text = Esse argilomineral é expressivo, variando entre 80 a 95% da quantidade total de argilominerais, no intervalo de 0,53 a 6,44m do furo DGL-1635, e no intervalo 10,53 a 37,47m do furo DGL-1635A..
+1	Esse	esse	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	O	start_char=4739|end_char=4743
+2	argilomineral	argilomineral	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	O	start_char=4744|end_char=4757
+3	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	O	start_char=4758|end_char=4759
+4	expressivo	expressivo	ADJ	_	Gender=Masc|Number=Sing	0	root	O	start_char=4760|end_char=4770
+5	,	,	PUNCT	_	_	6	punct	O	start_char=4770|end_char=4771
+6	variando	variar	VERB	_	VerbForm=Ger	4	advcl	O	start_char=4772|end_char=4780
+7	entre	entre	ADP	_	_	8	case	O	start_char=4781|end_char=4786
+8	80	80	NUM	_	NumType=Card	6	obl	O	start_char=4787|end_char=4789
+9	a	a	ADP	_	_	11	case	O	start_char=4790|end_char=4791
+10	95	95	NUM	_	NumType=Card	11	nummod	O	start_char=4792|end_char=4794
+11	%	%	SYM	_	_	6	obl	O	start_char=4794|end_char=4795
+12-13	da	_	_	_	_	_	_	O	start_char=4796|end_char=4798
+12	de	de	ADP	_	_	14	case	O	_
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	O	_
+14	quantidade	quantidade	NOUN	_	Gender=Fem|Number=Sing	11	nmod	O	start_char=4799|end_char=4809
+15	total	total	ADJ	_	Gender=Fem|Number=Sing	14	amod	O	start_char=4810|end_char=4815
+16	de	de	ADP	_	_	17	case	O	start_char=4816|end_char=4818
+17	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	14	nmod	O	start_char=4819|end_char=4833
+18	,	,	PUNCT	_	_	6	punct	O	start_char=4833|end_char=4834
+19-20	no	_	_	_	_	_	_	O	start_char=4835|end_char=4837
+19	em	em	ADP	_	_	21	case	O	_
+20	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	O	_
+21	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	6	obl	O	start_char=4838|end_char=4847
+22	de	de	ADP	_	_	23	case	O	start_char=4848|end_char=4850
+23	0,53	0,53	NUM	_	NumType=Card	21	nummod	O	start_char=4851|end_char=4855
+24	a	a	ADP	_	_	26	case	O	start_char=4856|end_char=4857
+25	6,44	6,44	NUM	_	NumType=Card	26	nummod	O	start_char=4858|end_char=4862
+26	m	m	NOUN	_	Gender=Masc|Number=Plur	21	nmod	O	start_char=4862|end_char=4863
+27-28	do	_	_	_	_	_	_	O	start_char=4864|end_char=4866
+27	de	de	ADP	_	_	29	case	O	_
+28	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	O	_
+29	furo	furo	NOUN	_	Gender=Masc|Number=Sing	26	nmod	O	start_char=4867|end_char=4871
+30	DGL-1635	DGL-1635	PROPN	_	Gender=Masc|Number=Sing	29	nmod	O	start_char=4872|end_char=4880
+31	,	,	PUNCT	_	_	35	punct	O	start_char=4880|end_char=4881
+32	e	e	CCONJ	_	_	35	cc	O	start_char=4882|end_char=4883
+33-34	no	_	_	_	_	_	_	O	start_char=4884|end_char=4886
+33	em	em	ADP	_	_	35	case	O	_
+34	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	O	_
+35	intervalo	intervalo	NOUN	_	Gender=Masc|Number=Sing	21	conj	O	start_char=4887|end_char=4896
+36	10,53	10,53	NUM	_	NumType=Card	35	nummod	O	start_char=4897|end_char=4902
+37	a	a	ADP	_	_	39	case	O	start_char=4903|end_char=4904
+38	37,47	37,47	NUM	_	NumType=Card	39	nummod	O	start_char=4905|end_char=4910
+39	m	m	NOUN	_	Gender=Masc|Number=Plur	35	nmod	O	start_char=4910|end_char=4911
+40-41	do	_	_	_	_	_	_	O	start_char=4912|end_char=4914
+40	de	de	ADP	_	_	42	case	O	_
+41	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	O	_
+42	furo	furo	NOUN	_	Gender=Masc|Number=Sing	39	nmod	O	start_char=4915|end_char=4919
+43	DGL-1635A	DGL-1635A	PROPN	_	Gender=Masc|Number=Sing	42	nmod	O	start_char=4920|end_char=4929
+44	.	.	PUNCT	_	_	4	punct	O	start_char=4929|end_char=4930
+45	.	.	PUNCT	_	_	4	punct	O	start_char=4930|end_char=4931
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-36
+# text = Além do interestratificado ilita/esmectita irregular, essas amostras também contém argilominerais não-expansivos: ilita, clorita, paligosrquita, e argilominerais com expansão muito pequena: interestratificado ilita/esmectita ordenado..
+1	Além	além	ADV	_	_	5	cc	O	start_char=4933|end_char=4937
+2-3	do	_	_	_	_	_	_	O	start_char=4938|end_char=4940
+2	de	de	ADP	_	_	1	fixed	O	_
+3	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	O	_
+4	interestratificado	interestratificado	ADJ	_	Gender=Masc|Number=Sing	5	amod	O	start_char=4941|end_char=4959
+5	ilita/esmectita	ilita/esmectita	NOUN	_	Gender=Fem|Number=Sing	12	conj	O	start_char=4960|end_char=4975
+6	irregular	irregular	ADJ	_	Gender=Masc|Number=Sing	5	amod	O	start_char=4976|end_char=4985
+7	,	,	PUNCT	_	_	5	punct	O	start_char=4985|end_char=4986
+8	essas	esse	DET	_	Gender=Fem|Number=Plur|PronType=Dem	9	det	O	start_char=4987|end_char=4992
+9	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	O	start_char=4993|end_char=5001
+10	também	também	ADV	_	_	11	advmod	O	start_char=5002|end_char=5008
+11	contém	conter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=5009|end_char=5015
+12	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	11	obj	O	start_char=5016|end_char=5030
+13	não-expansivos	não-expansivo	ADJ	_	Gender=Masc|Number=Plur	12	amod	O	start_char=5031|end_char=5045
+14	:	:	PUNCT	_	_	15	punct	O	start_char=5045|end_char=5046
+15	ilita	ilita	NOUN	_	Gender=Fem|Number=Sing	12	appos	O	start_char=5047|end_char=5052
+16	,	,	PUNCT	_	_	17	punct	O	start_char=5052|end_char=5053
+17	clorita	clorita	NOUN	_	Gender=Fem|Number=Sing	15	conj	O	start_char=5054|end_char=5061
+18	,	,	PUNCT	_	_	19	punct	O	start_char=5061|end_char=5062
+19	paligosrquita	paligosrquita	NOUN	_	Gender=Fem|Number=Sing	15	conj	O	start_char=5063|end_char=5076
+20	,	,	PUNCT	_	_	22	punct	O	start_char=5076|end_char=5077
+21	e	e	CCONJ	_	_	22	cc	O	start_char=5078|end_char=5079
+22	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	15	conj	O	start_char=5080|end_char=5094
+23	com	com	ADP	_	_	24	case	O	start_char=5095|end_char=5098
+24	expansão	expansão	NOUN	_	Gender=Fem|Number=Sing	22	nmod	O	start_char=5099|end_char=5107
+25	muito	muito	ADV	_	_	26	advmod	O	start_char=5108|end_char=5113
+26	pequena	pequeno	ADJ	_	Gender=Fem|Number=Sing	24	amod	O	start_char=5114|end_char=5121
+27	:	:	PUNCT	_	_	28	punct	O	start_char=5121|end_char=5122
+28	interestratificado	interestratificar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	24	acl	O	start_char=5123|end_char=5141
+29	ilita/esmectita	ilita/esmectita	NOUN	_	Gender=Fem|Number=Sing	28	obj	O	start_char=5142|end_char=5157
+30	ordenado	ordenado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	29	acl	O	start_char=5158|end_char=5166
+31	.	.	PUNCT	_	_	28	punct	O	start_char=5166|end_char=5167
+32	.	.	PUNCT	_	_	11	punct	O	start_char=5167|end_char=5168
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-37
+# text = Para um estudo detalhado dos argilominerais não-expansivos, como a paligorsquita, sugere-se um estudo morfológico por MEV/EDS, visto que a reflexão (001) da paligorsquita é próxima da reflexão (001) da ilita e do ISO, o que causa zonas de sobreposição dessas reflexões..
+1	Para	para	ADP	_	_	3	case	O	start_char=5170|end_char=5174
+2	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	O	start_char=5175|end_char=5177
+3	estudo	estudo	NOUN	_	Gender=Masc|Number=Sing	14	obl	O	start_char=5178|end_char=5184
+4	detalhado	detalhar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	O	start_char=5185|end_char=5194
+5-6	dos	_	_	_	_	_	_	O	start_char=5195|end_char=5198
+5	de	de	ADP	_	_	7	case	O	_
+6	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	O	_
+7	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	3	nmod	O	start_char=5199|end_char=5213
+8	não-expansivos	não-expansivo	ADJ	_	Gender=Masc|Number=Plur	7	amod	O	start_char=5214|end_char=5228
+9	,	,	PUNCT	_	_	12	punct	O	start_char=5228|end_char=5229
+10	como	como	ADP	_	_	12	case	O	start_char=5230|end_char=5234
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	O	start_char=5235|end_char=5236
+12	paligorsquita	paligorsquita	NOUN	_	Gender=Fem|Number=Sing	3	nmod:appos	O	start_char=5237|end_char=5250
+13	,	,	PUNCT	_	_	12	punct	O	start_char=5250|end_char=5251
+14-15	sugere-se	_	_	_	_	_	_	O	start_char=5252|end_char=5261
+14	sugere	sugerir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	_
+15	se	se	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	14	expl:impers	O	_
+16	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	O	start_char=5262|end_char=5264
+17	estudo	estudo	NOUN	_	Gender=Masc|Number=Sing	14	obj	O	start_char=5265|end_char=5271
+18	morfológico	morfológico	ADJ	_	Gender=Masc|Number=Sing	17	amod	O	start_char=5272|end_char=5283
+19	por	por	ADP	_	_	20	case	O	start_char=5284|end_char=5287
+20	MEV/EDS	Mevóed	PROPN	_	Gender=Masc|Number=Sing	17	nmod	O	start_char=5288|end_char=5295
+21	,	,	PUNCT	_	_	33	punct	O	start_char=5295|end_char=5296
+22	visto	ver	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	33	mark	O	start_char=5297|end_char=5302
+23	que	que	SCONJ	_	_	22	fixed	O	start_char=5303|end_char=5306
+24	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	O	start_char=5307|end_char=5308
+25	reflexão	reflexão	NOUN	_	Gender=Fem|Number=Sing	33	nsubj	O	start_char=5309|end_char=5317
+26	(	(	PUNCT	_	_	27	punct	O	start_char=5318|end_char=5319
+27	001	001	NUM	_	NumType=Card	25	appos	O	start_char=5319|end_char=5322
+28	)	)	PUNCT	_	_	27	punct	O	start_char=5322|end_char=5323
+29-30	da	_	_	_	_	_	_	O	start_char=5324|end_char=5326
+29	de	de	ADP	_	_	31	case	O	_
+30	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	O	_
+31	paligorsquita	paligorsquita	NOUN	_	Gender=Fem|Number=Sing	25	nmod	O	start_char=5327|end_char=5340
+32	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	O	start_char=5341|end_char=5342
+33	próxima	próximo	ADJ	_	Gender=Fem|Number=Sing	14	advcl	O	start_char=5343|end_char=5350
+34-35	da	_	_	_	_	_	_	O	start_char=5351|end_char=5353
+34	de	de	ADP	_	_	36	case	O	_
+35	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	O	_
+36	reflexão	reflexão	NOUN	_	Gender=Fem|Number=Sing	33	obl	O	start_char=5354|end_char=5362
+37	(	(	PUNCT	_	_	38	punct	O	start_char=5363|end_char=5364
+38	001	001	NUM	_	NumType=Card	36	appos	O	start_char=5364|end_char=5367
+39	)	)	PUNCT	_	_	38	punct	O	start_char=5367|end_char=5368
+40-41	da	_	_	_	_	_	_	O	start_char=5369|end_char=5371
+40	de	de	ADP	_	_	42	case	O	_
+41	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	O	_
+42	ilita	ilita	NOUN	_	Gender=Fem|Number=Sing	36	nmod	O	start_char=5372|end_char=5377
+43	e	e	CCONJ	_	_	46	cc	O	start_char=5378|end_char=5379
+44-45	do	_	_	_	_	_	_	O	start_char=5380|end_char=5382
+44	de	de	ADP	_	_	46	case	O	_
+45	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	O	_
+46	ISO	ISO	PROPN	_	Gender=Masc|Number=Sing	42	conj	O	start_char=5383|end_char=5386
+47	,	,	PUNCT	_	_	33	punct	O	start_char=5386|end_char=5387
+48	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	33	appos	O	start_char=5388|end_char=5389
+49	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	50	nsubj	O	start_char=5390|end_char=5393
+50	causa	causar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	acl:relcl	O	start_char=5394|end_char=5399
+51	zonas	zona	NOUN	_	Gender=Fem|Number=Plur	50	obj	O	start_char=5400|end_char=5405
+52	de	de	ADP	_	_	53	case	O	start_char=5406|end_char=5408
+53	sobreposição	sobreposição	NOUN	_	Gender=Fem|Number=Sing	51	nmod	O	start_char=5409|end_char=5421
+54-55	dessas	_	_	_	_	_	_	O	start_char=5422|end_char=5428
+54	de	de	ADP	_	_	56	case	O	_
+55	essas	esse	DET	_	Gender=Fem|Number=Plur|PronType=Dem	56	det	O	_
+56	reflexões	reflexão	NOUN	_	Gender=Fem|Number=Plur	53	nmod	O	start_char=5429|end_char=5438
+57	.	.	PUNCT	_	_	56	amod	O	start_char=5438|end_char=5439
+58	.	.	PUNCT	_	_	14	punct	O	start_char=5439|end_char=5440
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-38
+# text = BC-2017-08-00599 46,27 m 54 15 10 4 14 TR BC-2017-08-00600 53,03 m 54 16 13 TR 16 1 BC-2017-08-00601 54,81 m 55 15 14 2 14 TR BC-2017-08-00608 17,40 m 49 9 4 3 10 25 BC-2017-08-00609 21,13 m 35 17 8 7 13 20 - BC-2017-08-00610 25,26 m 40 9 6 3 15 27 - Eli PETROBRAS  BC-2017-08-00603 56,68 m 48 28 - 3 21 BC-2017-08-00605 58,50 m 37 38 4 2 19 BC-2017-08-00611 29,59 m 6 92 2 - - BC-2017-08-00612 37,47 m 20 80 - TR - BC-2017-08-00613 41,69 m 28 31 3 2 36 REFERÊNCIAS ALVES, D.B. 1987..
+1	BC-2017-08-00599	BC-2017-08-00599	SYM	_	_	3	nummod	O	start_char=5442|end_char=5458
+2	46,27	46,27	NUM	_	NumType=Card	3	nummod	O	start_char=5459|end_char=5464
+3	m	m	NOUN	_	Gender=Masc|Number=Plur	0	root	O	start_char=5465|end_char=5466
+4	54	54	NUM	_	NumType=Card	3	nummod	O	start_char=5467|end_char=5469
+5	15	15	NUM	_	NumType=Card	9	nummod	O	start_char=5470|end_char=5472
+6	10	10	NUM	_	NumType=Card	9	nummod	O	start_char=5473|end_char=5475
+7	4	4	NUM	_	NumType=Card	9	nummod	O	start_char=5476|end_char=5477
+8	14	14	NUM	_	NumType=Card	9	nummod	O	start_char=5478|end_char=5480
+9	TR	TR	NOUN	_	Gender=Masc|Number=Plur	3	appos	O	start_char=5481|end_char=5483
+10	BC-2017-08-00600	BC-2017-08-00600	SYM	_	_	9	nummod	O	start_char=5484|end_char=5500
+11	53,03	53,03	NUM	_	NumType=Card	12	nummod	O	start_char=5501|end_char=5506
+12	m	m	NOUN	_	Gender=Masc|Number=Plur	9	conj	O	start_char=5507|end_char=5508
+13	54	54	NUM	_	NumType=Card	12	nummod	O	start_char=5509|end_char=5511
+14	16	16	NUM	_	NumType=Card	16	nummod	O	start_char=5512|end_char=5514
+15	13	13	NUM	_	NumType=Card	16	nummod	O	start_char=5515|end_char=5517
+16	TR	TR	NOUN	_	Gender=Masc|Number=Plur	9	conj	O	start_char=5518|end_char=5520
+17	16	16	NUM	_	NumType=Card	16	nummod	O	start_char=5521|end_char=5523
+18	1	1	NUM	_	NumType=Card	21	nummod	O	start_char=5524|end_char=5525
+19	BC-2017-08-00601	BC-2017-08-00601	SYM	_	_	21	nummod	O	start_char=5526|end_char=5542
+20	54,81	54,81	NUM	_	NumType=Card	21	nummod	O	start_char=5543|end_char=5548
+21	m	m	NOUN	_	Gender=Masc|Number=Plur	16	conj	O	start_char=5549|end_char=5550
+22	55	55	NUM	_	NumType=Card	21	nummod	O	start_char=5551|end_char=5553
+23	15	15	NUM	_	NumType=Card	21	nummod	O	start_char=5554|end_char=5556
+24	14	14	NUM	_	NumType=Card	27	nummod	O	start_char=5557|end_char=5559
+25	2	2	NUM	_	NumType=Card	27	nummod	O	start_char=5560|end_char=5561
+26	14	14	NUM	_	NumType=Card	27	nummod	O	start_char=5562|end_char=5564
+27	TR	TR	NOUN	_	Gender=Masc|Number=Plur	21	conj	O	start_char=5565|end_char=5567
+28	BC-2017-08-00608	BC-2017-08-00608	SYM	_	_	27	nummod	O	start_char=5568|end_char=5584
+29	17,40	17,40	NUM	_	NumType=Card	27	nummod	O	start_char=5585|end_char=5590
+30	m	m	SYM	_	_	27	punct	O	start_char=5591|end_char=5592
+31	49	49	NUM	_	NumType=Card	27	nummod	O	start_char=5593|end_char=5595
+32	9	9	NUM	_	NumType=Card	27	nummod	O	start_char=5596|end_char=5597
+33	4	4	NUM	_	NumType=Card	30	nummod	O	start_char=5598|end_char=5599
+34	3	3	NUM	_	NumType=Card	39	nummod	O	start_char=5600|end_char=5601
+35	10	10	NUM	_	NumType=Card	39	nummod	O	start_char=5602|end_char=5604
+36	25	25	NUM	_	NumType=Card	39	nummod	O	start_char=5605|end_char=5607
+37	BC-2017-08-00609	BC-2017-08-00609	SYM	_	_	39	nummod	O	start_char=5608|end_char=5624
+38	21,13	21,13	NUM	_	NumType=Card	39	nummod	O	start_char=5625|end_char=5630
+39	m	m	NOUN	_	Gender=Masc|Number=Plur	30	conj	O	start_char=5631|end_char=5632
+40	35	35	NUM	_	NumType=Card	39	nummod	O	start_char=5633|end_char=5635
+41	17	17	NUM	_	NumType=Card	39	nummod	O	start_char=5636|end_char=5638
+42	8	8	NUM	_	NumType=Card	39	nummod	O	start_char=5639|end_char=5640
+43	7	7	NUM	_	NumType=Card	39	nummod	O	start_char=5641|end_char=5642
+44	13	13	NUM	_	NumType=Card	39	nummod	O	start_char=5643|end_char=5645
+45	20	20	NUM	_	NumType=Card	39	nummod	O	start_char=5646|end_char=5648
+46	-	-	PUNCT	_	_	49	punct	O	start_char=5649|end_char=5650
+47	BC-2017-08-00610	BC-2017-08-00610	SYM	_	_	45	conj	O	start_char=5651|end_char=5667
+48	25,26	25,26	NUM	_	NumType=Card	49	nummod	O	start_char=5668|end_char=5673
+49	m	m	SYM	_	_	47	appos	O	start_char=5674|end_char=5675
+50	40	40	NUM	_	NumType=Card	49	nummod	O	start_char=5676|end_char=5678
+51	9	9	NUM	_	NumType=Card	49	nummod	O	start_char=5679|end_char=5680
+52	6	6	NUM	_	NumType=Card	49	nummod	O	start_char=5681|end_char=5682
+53	3	3	NUM	_	NumType=Card	49	nummod	O	start_char=5683|end_char=5684
+54	15	15	NUM	_	NumType=Card	57	nmod:appos	O	start_char=5685|end_char=5687
+55	27	27	NUM	_	NumType=Card	57	nmod:appos	O	start_char=5688|end_char=5690
+56	-	-	PUNCT	_	_	57	punct	O	start_char=5691|end_char=5692
+57	Eli	Eli	PROPN	_	Gender=Masc|Number=Sing	49	appos	O	start_char=5693|end_char=5696
+58	PETROBRAS	Petrorras	PROPN	_	Number=Sing	57	flat:name	O	start_char=5697|end_char=5706
+59	BC-2017-08-00603	BC-2017-08-00603	PROPN	_	Number=Sing	57	flat:name	O	start_char=5708|end_char=5724
+60	56,68	56,68	NUM	_	NumType=Card	61	nummod	O	start_char=5725|end_char=5730
+61	m	m	SYM	_	_	57	appos	O	start_char=5731|end_char=5732
+62	48	48	NUM	_	NumType=Card	61	nummod	O	start_char=5733|end_char=5735
+63	28	28	NUM	_	NumType=Card	61	nummod	O	start_char=5736|end_char=5738
+64	-	-	SYM	_	_	65	punct	O	start_char=5739|end_char=5740
+65	3	3	NUM	_	NumType=Card	69	nummod	O	start_char=5741|end_char=5742
+66	21	21	NUM	_	NumType=Card	69	nummod	O	start_char=5743|end_char=5745
+67	BC-2017-08-00605	BC-2017-08-00605	SYM	_	_	69	nummod	O	start_char=5746|end_char=5762
+68	58,50	58,50	NUM	_	NumType=Card	69	nummod	O	start_char=5763|end_char=5768
+69	m	m	SYM	_	_	61	conj	O	start_char=5769|end_char=5770
+70	37	37	NUM	_	NumType=Card	69	nummod	O	start_char=5771|end_char=5773
+71	38	38	NUM	_	NumType=Card	69	nummod	O	start_char=5774|end_char=5776
+72	4	4	NUM	_	NumType=Card	69	nummod	O	start_char=5777|end_char=5778
+73	2	2	NUM	_	NumType=Card	77	nummod	O	start_char=5779|end_char=5780
+74	19	19	NUM	_	NumType=Card	77	nummod	O	start_char=5781|end_char=5783
+75	BC-2017-08-00611	BC-2017-08-00611	SYM	_	_	77	nummod	O	start_char=5784|end_char=5800
+76	29,59	29,59	NUM	_	NumType=Card	77	nummod	O	start_char=5801|end_char=5806
+77	m	m	NOUN	_	Gender=Masc|Number=Plur	69	conj	O	start_char=5807|end_char=5808
+78	6	6	NUM	_	NumType=Card	77	nummod	O	start_char=5809|end_char=5810
+79	92	92	NUM	_	NumType=Card	77	nummod	O	start_char=5811|end_char=5813
+80	2	2	NUM	_	NumType=Card	77	nummod	O	start_char=5814|end_char=5815
+81	-	-	PUNCT	_	_	85	punct	O	start_char=5816|end_char=5817
+82	-	-	PUNCT	_	_	85	punct	O	start_char=5818|end_char=5819
+83	BC-2017-08-00612	BC-2017-08-00612	SYM	_	_	85	nummod	O	start_char=5820|end_char=5836
+84	37,47	37,47	NUM	_	NumType=Card	85	nummod	O	start_char=5837|end_char=5842
+85	m	m	NOUN	_	Gender=Masc|Number=Plur	77	conj	O	start_char=5843|end_char=5844
+86	20	20	NUM	_	NumType=Card	85	nummod	O	start_char=5845|end_char=5847
+87	80	80	NUM	_	NumType=Card	85	nummod	O	start_char=5848|end_char=5850
+88	-	-	PUNCT	_	_	89	punct	O	start_char=5851|end_char=5852
+89	TR	TR	PROPN	_	Gender=Masc|Number=Sing	85	appos	O	start_char=5853|end_char=5855
+90	-	-	PUNCT	_	_	93	punct	O	start_char=5856|end_char=5857
+91	BC-2017-08-00613	BC-2017-08-00613	SYM	_	_	93	nummod	O	start_char=5858|end_char=5874
+92	41,69	41,69	NUM	_	NumType=Card	93	nummod	O	start_char=5875|end_char=5880
+93	m	m	NOUN	_	Gender=Masc|Number=Plur	89	appos	O	start_char=5881|end_char=5882
+94	28	28	NUM	_	NumType=Card	93	nummod	O	start_char=5883|end_char=5885
+95	31	31	NUM	_	NumType=Card	93	nummod	O	start_char=5886|end_char=5888
+96	3	3	NUM	_	NumType=Card	99	nummod	O	start_char=5889|end_char=5890
+97	2	2	NUM	_	NumType=Card	99	nummod	O	start_char=5891|end_char=5892
+98	36	36	NUM	_	NumType=Card	99	nummod	O	start_char=5893|end_char=5895
+99	REFERÊNCIAS	refermnia	NOUN	_	Gender=Fem|Number=Plur	89	appos	O	start_char=5896|end_char=5907
+100	ALVES	Alves	PROPN	_	Number=Sing	99	nmod	O	start_char=5908|end_char=5913
+101	,	,	PUNCT	_	_	102	punct	O	start_char=5913|end_char=5914
+102	D.B.	D.B.	PROPN	_	Gender=Masc|Number=Sing	99	appos	O	start_char=5915|end_char=5919
+103	1987	1987	NUM	_	NumType=Card	102	flat:name	O	start_char=5920|end_char=5924
+104	..	..	PUNCT	_	_	85	punct	O	start_char=5924|end_char=5926
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-39
+# text = Desenvolvimento da metodologia de preparação de amostras para análise difratométrica de argilominerais no Centro de Pesquisas da PETROBRAS..
+1	Desenvolvimento	desenvolvimento	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=5928|end_char=5943
+2-3	da	_	_	_	_	_	_	O	start_char=5944|end_char=5946
+2	de	de	ADP	_	_	4	case	O	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	_
+4	metodologia	metodologia	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=5947|end_char=5958
+5	de	de	ADP	_	_	6	case	O	start_char=5959|end_char=5961
+6	preparação	preparação	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=5962|end_char=5972
+7	de	de	ADP	_	_	8	case	O	start_char=5973|end_char=5975
+8	amostras	amostra	NOUN	_	Gender=Fem|Number=Plur	6	nmod	O	start_char=5976|end_char=5984
+9	para	para	ADP	_	_	10	case	O	start_char=5985|end_char=5989
+10	análise	análise	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=5990|end_char=5997
+11	difratométrica	difratométrico	ADJ	_	Gender=Fem|Number=Sing	10	amod	O	start_char=5998|end_char=6012
+12	de	de	ADP	_	_	13	case	O	start_char=6013|end_char=6015
+13	argilominerais	argilomineral	NOUN	_	Gender=Masc|Number=Plur	10	nmod	O	start_char=6016|end_char=6030
+14-15	no	_	_	_	_	_	_	O	start_char=6031|end_char=6033
+14	em	em	ADP	_	_	16	case	O	_
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	O	_
+16	Centro	Centro	PROPN	_	Gender=Masc|Number=Sing	10	nmod	O	start_char=6034|end_char=6040
+17	de	de	ADP	_	_	16	flat:name	O	start_char=6041|end_char=6043
+18	Pesquisas	Pesquisas	PROPN	_	Number=Sing	16	flat:name	O	start_char=6044|end_char=6053
+19-20	da	_	_	_	_	_	_	O	start_char=6054|end_char=6056
+19	de	de	ADP	_	_	16	flat:name	O	_
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	flat:name	O	_
+21	PETROBRAS	Petrorras	PROPN	_	Number=Sing	16	flat:name	O	start_char=6057|end_char=6066
+22	.	.	PUNCT	_	_	1	punct	O	start_char=6066|end_char=6067
+23	.	.	PUNCT	_	_	1	punct	O	start_char=6067|end_char=6068
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-40
+# text = Boletim de Geociências da PETROBRAS, 1(2):157-175..
+1	Boletim	boletim	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6070|end_char=6077
+2	de	de	ADP	_	_	1	flat:name	O	start_char=6078|end_char=6080
+3	Geociências	Geociências	PROPN	_	Number=Sing	1	flat:name	O	start_char=6081|end_char=6092
+4-5	da	_	_	_	_	_	_	O	start_char=6093|end_char=6095
+4	de	de	ADP	_	_	6	case	O	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	O	_
+6	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=6096|end_char=6105
+7	,	,	PUNCT	_	_	1	flat:name	O	start_char=6105|end_char=6106
+8	1(2):157-175	1(2):157-175	NUM	_	NumType=Card	6	flat:name	O	start_char=6107|end_char=6119
+9	.	.	PUNCT	_	_	1	punct	O	start_char=6119|end_char=6120
+10	.	.	PUNCT	_	_	1	punct	O	start_char=6120|end_char=6121
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-41
+# text = BROWN, G. & BRINDLEY, G.W. 1980..
+1	BROWN	BROWN	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6123|end_char=6128
+2	,	,	PUNCT	_	_	3	punct	O	start_char=6128|end_char=6129
+3	G.	G.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6130|end_char=6132
+4	&	&	PROPN	_	Number=Sing	3	flat:name	O	start_char=6133|end_char=6134
+5	BRINDLEY	BRINDLEY	PROPN	_	Number=Sing	3	flat:name	O	start_char=6135|end_char=6143
+6	,	,	PUNCT	_	_	7	punct	O	start_char=6143|end_char=6144
+7	G.W.	G.W.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6145|end_char=6149
+8	1980	1980	NUM	_	NumType=Card	7	flat:name	O	start_char=6150|end_char=6154
+9	.	.	PUNCT	_	_	1	punct	O	start_char=6154|end_char=6155
+10	.	.	PUNCT	_	_	1	punct	O	start_char=6155|end_char=6156
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-42
+# text = X-Ray diffraction procedure for clay mineral identifications..
+1	X-Ray	X-Ray	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	O	start_char=6158|end_char=6163
+2	diffraction	diffraction	X	_	_	1	flat:name	O	start_char=6164|end_char=6175
+3	procedure	procedure	X	_	_	1	flat:foreign	O	start_char=6176|end_char=6185
+4	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	cop	O	start_char=6186|end_char=6189
+5	clay	clay	X	_	_	0	root	O	start_char=6190|end_char=6194
+6	mineral	mineral	X	_	_	5	flat:foreign	O	start_char=6195|end_char=6202
+7	identifications.	identificatio	ADJ	_	Gender=Masc|Number=Sing	5	amod	O	start_char=6203|end_char=6219
+8	.	.	PUNCT	_	_	5	punct	O	start_char=6219|end_char=6220
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-43
+# text = In: G.W. BRINDLEY & G. BROWN (Eds.) Crystal structures of clay minerals and their X-ray identification..
+1	In	In	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6222|end_char=6224
+2	:	:	PUNCT	_	_	3	punct	O	start_char=6224|end_char=6225
+3	G.W.	G.W.	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=6226|end_char=6230
+4	BRINDLEY	BRINDLEY	PROPN	_	Number=Sing	3	flat:name	O	start_char=6231|end_char=6239
+5	&	&	PROPN	_	Number=Sing	3	flat:name	O	start_char=6240|end_char=6241
+6	G.	G.	PROPN	_	Number=Sing	3	flat:name	O	start_char=6242|end_char=6244
+7	BROWN	BROWN	PROPN	_	Number=Sing	3	flat:name	O	start_char=6245|end_char=6250
+8	(	(	PUNCT	_	_	9	punct	O	start_char=6251|end_char=6252
+9	Eds.	Eds.	PROPN	_	Gender=Fem|Number=Sing	3	appos	O	start_char=6252|end_char=6256
+10	)	)	PUNCT	_	_	9	punct	O	start_char=6256|end_char=6257
+11	Crystal	Crystal	PROPN	_	Number=Sing	3	flat:name	O	start_char=6258|end_char=6265
+12	structures	structures	PROPN	_	Number=Sing	3	flat:name	O	start_char=6266|end_char=6276
+13	of	of	PROPN	_	Number=Sing	3	flat:name	O	start_char=6277|end_char=6279
+14	clay	clay	PROPN	_	Number=Sing	3	flat:name	O	start_char=6280|end_char=6284
+15	minerals	minerals	PROPN	_	Number=Sing	3	flat:name	O	start_char=6285|end_char=6293
+16	and	and	PROPN	_	Number=Sing	3	flat:name	O	start_char=6294|end_char=6297
+17	their	their	PROPN	_	Number=Sing	3	flat:name	O	start_char=6298|end_char=6303
+18	X-ray	X-ray	PROPN	_	Number=Sing	3	flat:name	O	start_char=6304|end_char=6309
+19	identification..	identification..	PROPN	_	Number=Sing	3	flat:name	O	start_char=6310|end_char=6326
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-44
+# text = Mineralogical Society of London, p. 305-359..
+1	Mineralogical	Mineralogical	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6328|end_char=6341
+2	Society	Society	PROPN	_	Number=Sing	1	flat:name	O	start_char=6342|end_char=6349
+3	of	of	PROPN	_	Number=Sing	1	flat:name	O	start_char=6350|end_char=6352
+4	London	London	PROPN	_	Number=Sing	1	flat:name	O	start_char=6353|end_char=6359
+5	,	,	PUNCT	_	_	6	punct	O	start_char=6359|end_char=6360
+6	p.	p.	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=6361|end_char=6363
+7	305-359	305-359	NUM	_	NumType=Card	6	nummod	O	start_char=6364|end_char=6371
+8	.	.	PUNCT	_	_	1	punct	O	start_char=6371|end_char=6372
+9	.	.	PUNCT	_	_	1	punct	O	start_char=6372|end_char=6373
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-45
+# text = BRUKER AXS GMBH..
+1	BRUKER	BRUKER	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6375|end_char=6381
+2	AXS	AXS	PROPN	_	Number=Sing	1	flat:name	O	start_char=6382|end_char=6385
+3	GMBH.	GMBH.	PROPN	_	Number=Sing	1	flat:name	O	start_char=6386|end_char=6391
+4	.	.	PUNCT	_	_	1	punct	O	start_char=6391|end_char=6392
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-46
+# text = DIFFRAC.EVA, versão 4.2.0.2..
+1	DIFFRAC.EVA	DIFFRAC.EVA	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6394|end_char=6405
+2	,	,	PUNCT	_	_	3	punct	O	start_char=6405|end_char=6406
+3	versão	versão	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=6407|end_char=6413
+4	4.2.0.2.	4.2.0.2.	NUM	_	NumType=Card	3	nummod	O	start_char=6414|end_char=6422
+5	.	.	PUNCT	_	_	1	punct	O	start_char=6422|end_char=6423
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-47
+# text = Karlsruhe: Bruker AXS, 2011..
+1	Karlsruhe	Karlsruhe	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6425|end_char=6434
+2	:	:	PUNCT	_	_	3	punct	O	start_char=6434|end_char=6435
+3	Bruker	Bruker	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=6436|end_char=6442
+4	AXS	AXS	PROPN	_	Number=Sing	3	flat:name	O	start_char=6443|end_char=6446
+5	,	,	PUNCT	_	_	3	flat:name	O	start_char=6446|end_char=6447
+6	2011	2011	NOUN	_	Gender=Masc|Number=Plur	3	flat:name	O	start_char=6448|end_char=6452
+7	.	.	PUNCT	_	_	3	flat:name	O	start_char=6452|end_char=6453
+8	.	.	PUNCT	_	_	1	punct	O	start_char=6453|end_char=6454
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-48
+# text = CD-ROM..
+1	CD-ROM	cd-rom	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6456|end_char=6462
+2	.	.	PUNCT	_	_	1	punct	O	start_char=6462|end_char=6463
+3	.	.	PUNCT	_	_	1	punct	O	start_char=6463|end_char=6464
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-49
+# text = BRUKER AXS GMBH..
+1	BRUKER	BRUKER	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6466|end_char=6472
+2	AXS	AXS	PROPN	_	Number=Sing	1	flat:name	O	start_char=6473|end_char=6476
+3	GMBH.	GMBH.	PROPN	_	Number=Sing	1	flat:name	O	start_char=6477|end_char=6482
+4	.	.	PUNCT	_	_	1	punct	O	start_char=6482|end_char=6483
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-50
+# text = DIFFRAC.TOPAS, versão 4.2.0.2..
+1	DIFFRAC.TOPAS	DIFFRAC.TOPAS	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6485|end_char=6498
+2	,	,	PUNCT	_	_	3	punct	O	start_char=6498|end_char=6499
+3	versão	versão	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=6500|end_char=6506
+4	4.2.0.2.	4.2.0.2.	NUM	_	NumType=Card	3	nummod	O	start_char=6507|end_char=6515
+5	.	.	PUNCT	_	_	1	punct	O	start_char=6515|end_char=6516
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-51
+# text = Karlsruhe: Bruker AXS, 2011..
+1	Karlsruhe	Karlsruhe	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6518|end_char=6527
+2	:	:	PUNCT	_	_	3	punct	O	start_char=6527|end_char=6528
+3	Bruker	Bruker	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=6529|end_char=6535
+4	AXS	AXS	PROPN	_	Number=Sing	3	flat:name	O	start_char=6536|end_char=6539
+5	,	,	PUNCT	_	_	3	flat:name	O	start_char=6539|end_char=6540
+6	2011	2011	NOUN	_	Gender=Masc|Number=Plur	3	flat:name	O	start_char=6541|end_char=6545
+7	.	.	PUNCT	_	_	3	flat:name	O	start_char=6545|end_char=6546
+8	.	.	PUNCT	_	_	1	punct	O	start_char=6546|end_char=6547
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-52
+# text = CD-ROM. ICDD. PDF-2, Release 2013..
+1	CD-ROM	cd-rom	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6549|end_char=6555
+2	.	.	PUNCT	_	_	3	punct	O	start_char=6555|end_char=6556
+3	ICDD.	ICDD.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6557|end_char=6562
+4	PDF-2	PDF-2	PROPN	_	Number=Sing	3	flat:name	O	start_char=6563|end_char=6568
+5	,	,	PUNCT	_	_	6	punct	O	start_char=6568|end_char=6569
+6	Release	Release	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6570|end_char=6577
+7	2013	2013	PROPN	_	Number=Sing	6	flat:name	O	start_char=6578|end_char=6582
+8	.	.	PUNCT	_	_	1	punct	O	start_char=6582|end_char=6583
+9	.	.	PUNCT	_	_	1	punct	O	start_char=6583|end_char=6584
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-53
+# text = Pennsylvania: International
+1	Pennsylvania	Pennsylvania	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=6586|end_char=6598
+2	:	:	PUNCT	_	_	3	punct	O	start_char=6598|end_char=6599
+3	International	International	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=6600|end_char=6613
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-54
+# text = Centre for Diffraction data, 2013..
+1	Centre	Centre	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	O	start_char=6615|end_char=6621
+2	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	cop	O	start_char=6622|end_char=6625
+3	Diffraction	Diffraction	PROPN	_	Number=Sing	0	root	O	start_char=6626|end_char=6637
+4	data	data	NOUN	_	Gender=Fem|Number=Sing	3	flat:name	O	start_char=6638|end_char=6642
+5	,	,	PUNCT	_	_	6	punct	O	start_char=6642|end_char=6643
+6	2013	2013	NOUN	_	Gender=Masc|Number=Plur	3	flat:name	O	start_char=6644|end_char=6648
+7	.	.	PUNCT	_	_	3	punct	O	start_char=6648|end_char=6649
+8	.	.	PUNCT	_	_	3	punct	O	start_char=6649|end_char=6650
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-55
+# text = CD-ROM. MDI..
+1	CD-ROM	cd-rom	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6652|end_char=6658
+2	.	.	PUNCT	_	_	3	punct	O	start_char=6658|end_char=6659
+3	MDI	MDI	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=6660|end_char=6663
+4	.	.	PUNCT	_	_	3	punct	O	start_char=6663|end_char=6664
+5	.	.	PUNCT	_	_	1	punct	O	start_char=6664|end_char=6665
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-56
+# text = Jade 9, versão 9.6..
+1	Jade	Jade	PROPN	_	Gender=Fem|Number=Sing	0	root	O	start_char=6667|end_char=6671
+2	9	9	PROPN	_	Number=Sing	1	flat:name	O	start_char=6672|end_char=6673
+3	,	,	PUNCT	_	_	4	punct	O	start_char=6673|end_char=6674
+4	versão	versão	NOUN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=6675|end_char=6681
+5	9.6	9.6	NUM	_	NumType=Card	4	nummod	O	start_char=6682|end_char=6685
+6	.	.	PUNCT	_	_	1	flat:name	O	start_char=6685|end_char=6686
+7	.	.	PUNCT	_	_	1	punct	O	start_char=6686|end_char=6687
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-57
+# text = Livermore: Materials Data, 2015..
+1	Livermore	Livermore	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6689|end_char=6698
+2	:	:	PUNCT	_	_	3	punct	O	start_char=6698|end_char=6699
+3	Materials	Materials	PROPN	_	Gender=Masc|Number=Sing	1	appos	O	start_char=6700|end_char=6709
+4	Data	Data	PROPN	_	Number=Sing	3	flat:name	O	start_char=6710|end_char=6714
+5	,	,	PUNCT	_	_	3	flat:name	O	start_char=6714|end_char=6715
+6	2015	2015	NUM	_	NumType=Card	3	flat:name	O	start_char=6716|end_char=6720
+7	.	.	PUNCT	_	_	3	flat:name	O	start_char=6720|end_char=6721
+8	.	.	PUNCT	_	_	1	punct	O	start_char=6721|end_char=6722
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-58
+# text = CD-ROM O'CONNOR, B.H. & CHANG, W. J. 1986..
+1	CD-ROM	cd-rom	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6724|end_char=6730
+2	O'CONNOR	O'CONNOR	PROPN	_	Number=Sing	1	flat:name	O	start_char=6731|end_char=6739
+3	,	,	PUNCT	_	_	4	punct	O	start_char=6739|end_char=6740
+4	B.H.	B.H.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6741|end_char=6745
+5	&	&	PROPN	_	Number=Sing	4	flat:name	O	start_char=6746|end_char=6747
+6	CHANG	CHANG	PROPN	_	Number=Sing	4	flat:name	O	start_char=6748|end_char=6753
+7	,	,	PUNCT	_	_	8	punct	O	start_char=6753|end_char=6754
+8	W.	W.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6755|end_char=6757
+9	J.	J.	PROPN	_	Number=Sing	8	flat:name	O	start_char=6758|end_char=6760
+10	1986	1986	NUM	_	NumType=Card	8	flat:name	O	start_char=6761|end_char=6765
+11	.	.	PUNCT	_	_	1	punct	O	start_char=6765|end_char=6766
+12	.	.	PUNCT	_	_	1	punct	O	start_char=6766|end_char=6767
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-59
+# text = The amorphous character and particle size distributions of powders produced with the micronizing mill for quantitative X-ray powder diffractometry..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	O	start_char=6769|end_char=6772
+2	amorphous	amorphar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	start_char=6773|end_char=6782
+3	character	character	X	_	_	2	obj	O	start_char=6783|end_char=6792
+4	and	and	PROPN	_	Number=Sing	3	flat:name	O	start_char=6793|end_char=6796
+5	particle	particle	PROPN	_	Number=Sing	3	flat:name	O	start_char=6797|end_char=6805
+6	size	size	PROPN	_	Number=Sing	3	flat:name	O	start_char=6806|end_char=6810
+7	distributions	distributions	PROPN	_	Number=Sing	3	flat:name	O	start_char=6811|end_char=6824
+8	of	of	PROPN	_	Number=Sing	3	flat:name	O	start_char=6825|end_char=6827
+9	powders	powders	PROPN	_	Number=Sing	3	flat:name	O	start_char=6828|end_char=6835
+10	produced	produced	PROPN	_	Number=Sing	3	flat:name	O	start_char=6836|end_char=6844
+11	with	with	PROPN	_	Number=Sing	3	flat:name	O	start_char=6845|end_char=6849
+12	the	the	PROPN	_	Number=Sing	3	flat:name	O	start_char=6850|end_char=6853
+13	micronizing	micronizing	PROPN	_	Number=Sing	3	flat:name	O	start_char=6854|end_char=6865
+14	mill	mill	PROPN	_	Number=Sing	3	flat:name	O	start_char=6866|end_char=6870
+15	for	for	PROPN	_	Number=Sing	3	flat:name	O	start_char=6871|end_char=6874
+16	quantitative	quantitative	PROPN	_	Number=Sing	3	flat:name	O	start_char=6875|end_char=6887
+17	X-ray	X-ray	PROPN	_	Number=Sing	3	flat:name	O	start_char=6888|end_char=6893
+18	powder	powder	PROPN	_	Number=Sing	3	flat:name	O	start_char=6894|end_char=6900
+19	diffractometry	diffractometry	PROPN	_	Number=Sing	3	flat:name	O	start_char=6901|end_char=6915
+20	.	.	PUNCT	_	_	2	punct	O	start_char=6915|end_char=6916
+21	.	.	PUNCT	_	_	2	punct	O	start_char=6916|end_char=6917
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-60
+# text = X-ray spectrometry, 15: 267-270..
+1	X-ray	x-ray	X	_	_	0	root	O	start_char=6919|end_char=6924
+2	spectrometry	spectrometry	X	_	_	1	flat:name	O	start_char=6925|end_char=6937
+3	,	,	PUNCT	_	_	1	punct	O	start_char=6937|end_char=6938
+4	15	15	NUM	_	NumType=Card	1	flat:name	O	start_char=6939|end_char=6941
+5	:	:	PUNCT	_	_	6	punct	O	start_char=6941|end_char=6942
+6	267-270	267-270	NUM	_	NumType=Card	1	appos	O	start_char=6943|end_char=6950
+7	.	.	PUNCT	_	_	6	punct	O	start_char=6950|end_char=6951
+8	.	.	PUNCT	_	_	1	punct	O	start_char=6951|end_char=6952
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-61
+# text = SANTOS, J. F.; Paz, A.C.; Silva, C.F.; Mello, M.C.S.; Vortisch, W. & Perez, C. A. C. 2009..
+1	SANTOS	Santos	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=6954|end_char=6960
+2	,	,	PUNCT	_	_	3	punct	O	start_char=6960|end_char=6961
+3	J.	J.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6962|end_char=6964
+4	F.	F.	PROPN	_	Number=Sing	3	flat:name	O	start_char=6965|end_char=6967
+5	;	;	PUNCT	_	_	6	punct	O	start_char=6967|end_char=6968
+6	Paz	Paz	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=6969|end_char=6972
+7	,	,	PUNCT	_	_	8	punct	O	start_char=6972|end_char=6973
+8	A.C.	A.C.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=6974|end_char=6978
+9	;	;	PUNCT	_	_	10	punct	O	start_char=6978|end_char=6979
+10	Silva	Silva	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=6980|end_char=6985
+11	,	,	PUNCT	_	_	12	punct	O	start_char=6985|end_char=6986
+12	C.F.	C.F.	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=6987|end_char=6991
+13	;	;	PUNCT	_	_	14	punct	O	start_char=6991|end_char=6992
+14	Mello	Mello	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=6993|end_char=6998
+15	,	,	PUNCT	_	_	16	punct	O	start_char=6998|end_char=6999
+16	M.C.S.	M.C.S.	PROPN	_	Gender=Fem|Number=Sing	14	appos	O	start_char=7000|end_char=7006
+17	;	;	PUNCT	_	_	18	punct	O	start_char=7006|end_char=7007
+18	Vortisch	Vortisch	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=7008|end_char=7016
+19	,	,	PUNCT	_	_	20	punct	O	start_char=7016|end_char=7017
+20	W.	W.	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=7018|end_char=7020
+21	&	&	PROPN	_	Number=Sing	20	flat:name	O	start_char=7021|end_char=7022
+22	Perez	Perez	PROPN	_	Number=Sing	20	flat:name	O	start_char=7023|end_char=7028
+23	,	,	PUNCT	_	_	24	punct	O	start_char=7028|end_char=7029
+24	C.	C.	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=7030|end_char=7032
+25	A.	A.	PROPN	_	Number=Sing	24	flat:name	O	start_char=7033|end_char=7035
+26	C.	C.	PROPN	_	Number=Sing	24	flat:name	O	start_char=7036|end_char=7038
+27	2009	2009	PROPN	_	Number=Sing	24	flat:name	O	start_char=7039|end_char=7043
+28	.	.	PUNCT	_	_	1	punct	O	start_char=7043|end_char=7044
+29	.	.	PUNCT	_	_	1	punct	O	start_char=7044|end_char=7045
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-62
+# text = Otimização da quantificação da mineralogia total utilizando software específico para difração de raios-X: relatório final PD-02068..
+1	Otimização	otimização	NOUN	_	Gender=Fem|Number=Sing	0	root	O	start_char=7047|end_char=7057
+2-3	da	_	_	_	_	_	_	O	start_char=7058|end_char=7060
+2	de	de	ADP	_	_	4	case	O	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	O	_
+4	quantificação	quantificação	NOUN	_	Gender=Fem|Number=Sing	1	nmod	O	start_char=7061|end_char=7074
+5-6	da	_	_	_	_	_	_	O	start_char=7075|end_char=7077
+5	de	de	ADP	_	_	7	case	O	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	O	_
+7	mineralogia	mineralogia	NOUN	_	Gender=Fem|Number=Sing	4	nmod	O	start_char=7078|end_char=7089
+8	total	total	ADJ	_	Gender=Fem|Number=Sing	7	amod	O	start_char=7090|end_char=7095
+9	utilizando	utilizar	VERB	_	VerbForm=Ger	1	advcl	O	start_char=7096|end_char=7106
+10	software	software	NOUN	_	Gender=Masc|Number=Sing	9	obj	O	start_char=7107|end_char=7115
+11	específico	específico	ADJ	_	Gender=Masc|Number=Sing	10	amod	O	start_char=7116|end_char=7126
+12	para	para	ADP	_	_	13	case	O	start_char=7127|end_char=7131
+13	difração	difração	NOUN	_	Gender=Fem|Number=Sing	9	obl	O	start_char=7132|end_char=7140
+14	de	de	ADP	_	_	15	case	O	start_char=7141|end_char=7143
+15	raios-X	raio	NOUN	_	Gender=Masc|Number=Plur	13	nmod	O	start_char=7144|end_char=7151
+16	:	:	PUNCT	_	_	17	punct	O	start_char=7151|end_char=7152
+17	relatório	relatório	NOUN	_	Gender=Masc|Number=Sing	13	appos	O	start_char=7153|end_char=7162
+18	final	final	ADJ	_	Gender=Masc|Number=Sing	17	amod	O	start_char=7163|end_char=7168
+19	PD-02068	PD-02068	PROPN	_	Gender=Masc|Number=Sing	17	nmod	O	start_char=7169|end_char=7177
+20	.	.	PUNCT	_	_	17	punct	O	start_char=7177|end_char=7178
+21	.	.	PUNCT	_	_	1	punct	O	start_char=7178|end_char=7179
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-63
+# text = Rio de Janeiro: PETROBRAS, CENPES, PDEXP, GSEP, RT GSEP 011/09 - MCT 650-38511, 64p YOUNG, R.A. 1995."The Rietveld Method" Oxford University Press, Oxford..
+1	Rio	Rio	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=7181|end_char=7184
+2	de	de	ADP	_	_	1	flat:name	O	start_char=7185|end_char=7187
+3	Janeiro	Janeiro	PROPN	_	Number=Sing	1	flat:name	O	start_char=7188|end_char=7195
+4	:	:	PUNCT	_	_	5	punct	O	start_char=7195|end_char=7196
+5	PETROBRAS	Petrorras	PROPN	_	Gender=Fem|Number=Sing	1	appos	O	start_char=7197|end_char=7206
+6	,	,	PUNCT	_	_	7	punct	O	start_char=7206|end_char=7207
+7	CENPES	CENPES	PROPN	_	Gender=Masc|Number=Sing	5	conj	O	start_char=7208|end_char=7214
+8	,	,	PUNCT	_	_	9	punct	O	start_char=7214|end_char=7215
+9	PDEXP	PDEXP	PROPN	_	Gender=Fem|Number=Sing	5	conj	O	start_char=7216|end_char=7221
+10	,	,	PUNCT	_	_	11	punct	O	start_char=7221|end_char=7222
+11	GSEP	GSEP	PROPN	_	Gender=Fem|Number=Sing	5	conj	O	start_char=7223|end_char=7227
+12	,	,	PUNCT	_	_	13	punct	O	start_char=7227|end_char=7228
+13	RT	RT	PROPN	_	Gender=Fem|Number=Sing	5	conj	O	start_char=7229|end_char=7231
+14	GSEP	GSEP	PROPN	_	Number=Sing	13	flat:name	O	start_char=7232|end_char=7236
+15	011/09	011/09	NUM	_	NumType=Card	13	flat:name	O	start_char=7237|end_char=7243
+16	-	-	PUNCT	_	_	17	punct	O	start_char=7244|end_char=7245
+17	MCT	MCT	PROPN	_	Gender=Masc|Number=Sing	5	conj	O	start_char=7246|end_char=7249
+18	650-38511	650-38511	NUM	_	NumType=Card	17	flat:name	O	start_char=7250|end_char=7259
+19	,	,	PUNCT	_	_	21	punct	O	start_char=7259|end_char=7260
+20	64p	64p	NUM	_	NumType=Card	21	nummod	O	start_char=7261|end_char=7264
+21	YOUNG	YOUNG	PROPN	_	Gender=Masc|Number=Sing	5	conj	O	start_char=7265|end_char=7270
+22	,	,	PUNCT	_	_	23	punct	O	start_char=7270|end_char=7271
+23	R.A.	R.A.	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=7272|end_char=7276
+24	1995	1995	NUM	_	NumType=Card	23	flat:name	O	start_char=7277|end_char=7281
+25	.	.	PUNCT	_	_	27	punct	O	start_char=7281|end_char=7282
+26	"	«	PUNCT	_	_	27	punct	O	start_char=7282|end_char=7283
+27	The	The	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=7283|end_char=7286
+28	Rietveld	Rietveld	PROPN	_	Number=Sing	27	flat:name	O	start_char=7287|end_char=7295
+29	Method	Method	PROPN	_	Number=Sing	27	flat:name	O	start_char=7296|end_char=7302
+30	"	«	PUNCT	_	_	27	flat:name	O	start_char=7302|end_char=7303
+31	Oxford	Oxford	PROPN	_	Number=Sing	27	flat:name	O	start_char=7304|end_char=7310
+32	University	University	PROPN	_	Number=Sing	27	flat:name	O	start_char=7311|end_char=7321
+33	Press	Press	PROPN	_	Number=Sing	27	flat:name	O	start_char=7322|end_char=7327
+34	,	,	PUNCT	_	_	35	punct	O	start_char=7327|end_char=7328
+35	Oxford.	Oxford.	PROPN	_	Gender=Fem|Number=Sing	27	appos	O	start_char=7329|end_char=7336
+36	.	.	PUNCT	_	_	1	punct	O	start_char=7336|end_char=7337
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-64
+# text = O’CONNOR, B.H. & CHANG, W. J. 1986..
+1	O’CONNOR	O’CONNOR	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=7339|end_char=7347
+2	,	,	PUNCT	_	_	3	punct	O	start_char=7347|end_char=7348
+3	B.H.	B.H.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=7349|end_char=7353
+4	&	&	PROPN	_	Number=Sing	3	flat:name	O	start_char=7354|end_char=7355
+5	CHANG	CHANG	PROPN	_	Number=Sing	3	flat:name	O	start_char=7356|end_char=7361
+6	,	,	PUNCT	_	_	7	punct	O	start_char=7361|end_char=7362
+7	W.	W.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=7363|end_char=7365
+8	J.	J.	PROPN	_	Number=Sing	7	flat:name	O	start_char=7366|end_char=7368
+9	1986	1986	NUM	_	NumType=Card	7	flat:name	O	start_char=7369|end_char=7373
+10	.	.	PUNCT	_	_	1	punct	O	start_char=7373|end_char=7374
+11	.	.	PUNCT	_	_	1	punct	O	start_char=7374|end_char=7375
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-65
+# text = The amorphous character and particle size distributions of powders produced with the micronizing mill for quantitative X-ray powder diffractometry..
+1	The	The	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	O	start_char=7377|end_char=7380
+2	amorphous	amorphar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	start_char=7381|end_char=7390
+3	character	character	X	_	_	2	obj	O	start_char=7391|end_char=7400
+4	and	and	PROPN	_	Number=Sing	3	flat:name	O	start_char=7401|end_char=7404
+5	particle	particle	PROPN	_	Number=Sing	3	flat:name	O	start_char=7405|end_char=7413
+6	size	size	PROPN	_	Number=Sing	3	flat:name	O	start_char=7414|end_char=7418
+7	distributions	distributions	PROPN	_	Number=Sing	3	flat:name	O	start_char=7419|end_char=7432
+8	of	of	PROPN	_	Number=Sing	3	flat:name	O	start_char=7433|end_char=7435
+9	powders	powders	PROPN	_	Number=Sing	3	flat:name	O	start_char=7436|end_char=7443
+10	produced	produced	PROPN	_	Number=Sing	3	flat:name	O	start_char=7444|end_char=7452
+11	with	with	PROPN	_	Number=Sing	3	flat:name	O	start_char=7453|end_char=7457
+12	the	the	PROPN	_	Number=Sing	3	flat:name	O	start_char=7458|end_char=7461
+13	micronizing	micronizing	PROPN	_	Number=Sing	3	flat:name	O	start_char=7462|end_char=7473
+14	mill	mill	PROPN	_	Number=Sing	3	flat:name	O	start_char=7474|end_char=7478
+15	for	for	PROPN	_	Number=Sing	3	flat:name	O	start_char=7479|end_char=7482
+16	quantitative	quantitative	PROPN	_	Number=Sing	3	flat:name	O	start_char=7483|end_char=7495
+17	X-ray	X-ray	PROPN	_	Number=Sing	3	flat:name	O	start_char=7496|end_char=7501
+18	powder	powder	PROPN	_	Number=Sing	3	flat:name	O	start_char=7502|end_char=7508
+19	diffractometry	diffractometry	PROPN	_	Number=Sing	3	flat:name	O	start_char=7509|end_char=7523
+20	.	.	PUNCT	_	_	2	punct	O	start_char=7523|end_char=7524
+21	.	.	PUNCT	_	_	2	punct	O	start_char=7524|end_char=7525
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-66
+# text = X-ray spectrometry, 15: 267-270..
+1	X-ray	x-ray	X	_	_	0	root	O	start_char=7527|end_char=7532
+2	spectrometry	spectrometry	X	_	_	1	flat:name	O	start_char=7533|end_char=7545
+3	,	,	PUNCT	_	_	1	punct	O	start_char=7545|end_char=7546
+4	15	15	NUM	_	NumType=Card	1	flat:name	O	start_char=7547|end_char=7549
+5	:	:	PUNCT	_	_	6	punct	O	start_char=7549|end_char=7550
+6	267-270	267-270	NUM	_	NumType=Card	1	appos	O	start_char=7551|end_char=7558
+7	.	.	PUNCT	_	_	6	punct	O	start_char=7558|end_char=7559
+8	.	.	PUNCT	_	_	1	punct	O	start_char=7559|end_char=7560
+
+# sent_id = 57715D4A3329461DE0534EEB1D0A73FF-67
+# text = YOUNG, R.A. 1995."The Rietveld Method" Oxford University Press, Oxford..
+1	YOUNG	YOUNG	PROPN	_	Gender=Masc|Number=Sing	0	root	O	start_char=7562|end_char=7567
+2	,	,	PUNCT	_	_	3	punct	O	start_char=7567|end_char=7568
+3	R.A.	R.A.	PROPN	_	Gender=Fem|Number=Sing	1	conj	O	start_char=7569|end_char=7573
+4	1995	1995	NUM	_	NumType=Card	3	flat:name	O	start_char=7574|end_char=7578
+5	.	.	PUNCT	_	_	7	punct	O	start_char=7578|end_char=7579
+6	"	«	PUNCT	_	_	7	punct	O	start_char=7579|end_char=7580
+7	The	The	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=7580|end_char=7583
+8	Rietveld	Rietveld	PROPN	_	Number=Sing	7	flat:name	O	start_char=7584|end_char=7592
+9	Method	Method	PROPN	_	Number=Sing	7	flat:name	O	start_char=7593|end_char=7599
+10	"	«	PUNCT	_	_	7	flat:name	O	start_char=7599|end_char=7600
+11	Oxford	Oxford	PROPN	_	Number=Sing	7	flat:name	O	start_char=7601|end_char=7607
+12	University	University	PROPN	_	Number=Sing	7	flat:name	O	start_char=7608|end_char=7618
+13	Press	Press	PROPN	_	Number=Sing	7	flat:name	O	start_char=7619|end_char=7624
+14	,	,	PUNCT	_	_	15	punct	O	start_char=7624|end_char=7625
+15	Oxford.	Oxford.	PROPN	_	Gender=Masc|Number=Sing	1	conj	O	start_char=7626|end_char=7633
+16	.	.	PUNCT	_	_	1	punct	O	start_char=7633|end_char=7634

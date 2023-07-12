@@ -1,0 +1,69 @@
+# sent_id = 27022496E04F5826E05354EB1D0A3264-1
+# text = cozinha de geração, optou-se por montar o modelo no PetroMod..
+1	cozinha	cozinha	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	O	start_char=0|end_char=7
+2	de	de	ADP	_	_	3	case	O	start_char=8|end_char=10
+3	geração	geração	NOUN	_	Gender=Fem|Number=Sing	1	nmod	B=EVENTO_PETRO	start_char=11|end_char=18
+4	,	,	PUNCT	_	_	1	punct	O	start_char=18|end_char=19
+5-6	optou-se	_	_	_	_	_	_	O	start_char=20|end_char=28
+5	optou	optar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	O	_
+6	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	O	_
+7	por	por	SCONJ	_	_	8	mark	O	start_char=29|end_char=32
+8	montar	montar	VERB	_	VerbForm=Inf	5	advcl	O	start_char=33|end_char=39
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	O	start_char=40|end_char=41
+10	modelo	modelo	NOUN	_	Gender=Masc|Number=Sing	8	obj	O	start_char=42|end_char=48
+11-12	no	_	_	_	_	_	_	O	start_char=49|end_char=51
+11	em	em	ADP	_	_	13	case	O	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	O	_
+13	PetroMod.	PetroMod.	PROPN	_	Gender=Masc|Number=Sing	8	obl	O	start_char=52|end_char=61
+14	.	.	PUNCT	_	_	5	punct	O	start_char=61|end_char=62
+
+# sent_id = 27022496E04F5826E05354EB1D0A3264-2
+# text = externa com 28% sendo o restante de geradoras marinhas..
+1	externa	externo	ADJ	_	Gender=Fem|Number=Sing	7	amod	O	start_char=64|end_char=71
+2	com	com	ADP	_	_	4	case	O	start_char=72|end_char=75
+3	28	28	NUM	_	NumType=Card	4	nummod	O	start_char=76|end_char=78
+4	%	%	SYM	_	_	1	obl	O	start_char=78|end_char=79
+5	sendo	ser	AUX	_	VerbForm=Ger	7	cop	O	start_char=80|end_char=85
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	O	start_char=86|end_char=87
+7	restante	restante	NOUN	_	Gender=Masc|Number=Sing	0	root	O	start_char=88|end_char=96
+8	de	de	ADP	_	_	9	case	O	start_char=97|end_char=99
+9	geradoras	gerador	NOUN	_	Gender=Fem|Number=Plur	7	nmod	O	start_char=100|end_char=109
+10	marinhas	marinho	ADJ	_	Gender=Fem|Number=Plur	9	amod	O	start_char=110|end_char=118
+11	.	.	PUNCT	_	_	7	punct	O	start_char=118|end_char=119
+12	.	.	PUNCT	_	_	7	punct	O	start_char=119|end_char=120
+
+# sent_id = 27022496E04F5826E05354EB1D0A3264-3
+# text = Resumo Gerencial não alcança os reservatórios do Maastrichtiano do Campo de Roncador. cozinha interna e 13% da externa, perfazendo 6,9 milhões de bbl..
+1	Resumo	Resumo	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	O	start_char=122|end_char=128
+2	Gerencial	Gerencial	PROPN	_	Number=Sing	1	flat:name	O	start_char=129|end_char=138
+3	não	não	ADV	_	Polarity=Neg	4	advmod	O	start_char=139|end_char=142
+4	alcança	alcançar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	O	start_char=143|end_char=150
+5	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	O	start_char=151|end_char=153
+6	reservatórios	reservatório	NOUN	_	Gender=Masc|Number=Plur	4	obj	O	start_char=154|end_char=167
+7-8	do	_	_	_	_	_	_	O	start_char=168|end_char=170
+7	de	de	ADP	_	_	9	case	O	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	O	_
+9	Maastrichtiano	Maastrichtiano	PROPN	_	Gender=Masc|Number=Sing	6	nmod	B=UNIDADE_CRONO	start_char=171|end_char=185
+10-11	do	_	_	_	_	_	_	O	start_char=186|end_char=188
+10	de	de	ADP	_	_	12	case	O	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	flat:name	O	_
+12	Campo	Campo	PROPN	_	Gender=Masc|Number=Sing	9	flat:name	B=CAMPO	start_char=189|end_char=194
+13	de	de	ADP	_	_	12	flat:name	I=CAMPO	start_char=195|end_char=197
+14	Roncador	Roncador	PROPN	_	Number=Sing	12	flat:name	I=CAMPO	start_char=198|end_char=206
+15	.	.	PUNCT	_	_	16	punct	O	start_char=206|end_char=207
+16	cozinha	cozinha	NOUN	_	Gender=Fem|Number=Sing	9	appos	O	start_char=208|end_char=215
+17	interna	interno	ADJ	_	Gender=Fem|Number=Sing	16	amod	O	start_char=216|end_char=223
+18	e	e	CCONJ	_	_	20	cc	O	start_char=224|end_char=225
+19	13	13	NUM	_	NumType=Card	20	nummod	O	start_char=226|end_char=228
+20	%	%	SYM	_	_	16	conj	O	start_char=228|end_char=229
+21-22	da	_	_	_	_	_	_	O	start_char=230|end_char=232
+21	de	de	ADP	_	_	23	case	O	_
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	O	_
+23	externa	externo	NOUN	_	Gender=Fem|Number=Sing	20	nmod	O	start_char=233|end_char=240
+24	,	,	PUNCT	_	_	25	punct	O	start_char=240|end_char=241
+25	perfazendo	perfazer	VERB	_	VerbForm=Ger	4	advcl	O	start_char=242|end_char=252
+26	6,9	6,9	NUM	_	NumType=Card	25	obj	O	start_char=253|end_char=256
+27	milhões	milhão	NUM	_	NumType=Card	26	flat	O	start_char=257|end_char=264
+28	de	de	ADP	_	_	29	case	O	start_char=265|end_char=267
+29	bbl.	bbl.	NOUN	_	Gender=Masc|Number=Plur	26	nmod	O	start_char=268|end_char=272
+30	.	.	PUNCT	_	_	4	punct	O	start_char=272|end_char=273
