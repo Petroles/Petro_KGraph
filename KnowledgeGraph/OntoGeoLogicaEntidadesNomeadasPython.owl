@@ -37,6 +37,9 @@
         <Class IRI="#anorthositic_rock"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#anthropogenic_fluid"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#anthropogenic_material"/>
     </Declaration>
     <Declaration>
@@ -94,25 +97,10 @@
         <Class IRI="#boundstone"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#brazilian_age"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#brazilian_geochronologic_unit"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#brazilian_subage"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#breccia"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#british_age"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#british_epoch"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#british_geochronologic_unit"/>
+        <Class IRI="#burial"/>
     </Declaration>
     <Declaration>
         <Class IRI="#calc-silicate_rock"/>
@@ -131,6 +119,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#caliche"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#carbon_dioxide"/>
     </Declaration>
     <Declaration>
         <Class IRI="#carbonatic_breccia"/>
@@ -158,6 +149,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#cobbles"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#condensate"/>
     </Declaration>
     <Declaration>
         <Class IRI="#conglomerate"/>
@@ -199,10 +193,16 @@
         <Class IRI="#dioritic_rock"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#disposition"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#dolocrete"/>
     </Declaration>
     <Declaration>
         <Class IRI="#dolomite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dry_gas"/>
     </Declaration>
     <Declaration>
         <Class IRI="#earth_fluid"/>
@@ -247,9 +247,6 @@
         <Class IRI="#foidolite"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#formation"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#framestone"/>
     </Declaration>
     <Declaration>
@@ -259,34 +256,13 @@
         <Class IRI="#gabbroic_rock"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#gas"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#gaseous_hydrocarbon"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#generically_dependent_continuant"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_age"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_eon"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_epoch"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_era"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_period"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_sub_period"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_subage"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_super_eon"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#geochronologic_unit"/>
     </Declaration>
     <Declaration>
         <Class IRI="#geological_age"/>
@@ -337,9 +313,6 @@
         <Class IRI="#greisen"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#group"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#gypsum"/>
     </Declaration>
     <Declaration>
@@ -349,6 +322,9 @@
         <Class IRI="#hard_coal"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#heavy_oil"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#high_pressure_metamorphic_rock"/>
     </Declaration>
     <Declaration>
@@ -356,6 +332,18 @@
     </Declaration>
     <Declaration>
         <Class IRI="#hornfels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hydrocarbon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hydrocarbon_accumulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hydrocarbon_generation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hydrocarbon_migration"/>
     </Declaration>
     <Declaration>
         <Class IRI="#hypabyssal_rock"/>
@@ -409,6 +397,9 @@
         <Class IRI="#limestone"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#liquid_hydrocarbon"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#litharenite"/>
     </Declaration>
     <Declaration>
@@ -418,13 +409,13 @@
         <Class IRI="#magma"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#marble"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#marlstone"/>
     </Declaration>
     <Declaration>
         <Class IRI="#material_entity"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#member"/>
     </Declaration>
     <Declaration>
         <Class IRI="#meta-arenito"/>
@@ -508,12 +499,6 @@
         <Class IRI="#mylonite"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#north_american_age"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#north_american_geochronologic_unit"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#object"/>
     </Declaration>
     <Declaration>
@@ -521,6 +506,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#occurrent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#oil"/>
     </Declaration>
     <Declaration>
         <Class IRI="#one-dimensional_temporal_region"/>
@@ -560,6 +548,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="#peridotite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#petroleum_system_elements"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#petroleum_system_events"/>
     </Declaration>
     <Declaration>
         <Class IRI="#phonolite"/>
@@ -619,6 +613,12 @@
         <Class IRI="#radiolarite"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#realizable_entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#reservoir"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#rhyolite"/>
     </Declaration>
     <Declaration>
@@ -641,6 +641,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#scree"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#seal"/>
     </Declaration>
     <Declaration>
         <Class IRI="#sedimentary_rock"/>
@@ -680,6 +683,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#slate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#source_rock"/>
     </Declaration>
     <Declaration>
         <Class IRI="#specifically_dependent_continuant"/>
@@ -766,19 +772,13 @@
         <Class IRI="#wackestone"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#water"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#well"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#western_european_age"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#western_european_epoch"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#western_european_geochronologic_unit"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#western_european_subage"/>
+        <Class IRI="#wet_gas"/>
     </Declaration>
     <Declaration>
         <Class IRI="#o&amp;g_earth_fluid"/>
@@ -944,35 +944,39 @@
     </EquivalentClasses>
     <SubClassOf>
         <Class IRI="#agglomerate"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#amphibolite"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#anatexite"/>
-        <Class IRI="#migmatic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#andesite"/>
-        <Class IRI="#andesitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#andesitic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#anhydrite"/>
-        <Class IRI="#evaporite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#anorthosite"/>
-        <Class IRI="#anorthositic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#anorthositic_rock"/>
-        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#anthropogenic_fluid"/>
+        <Class IRI="#anthropogenic_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#anthropogenic_material"/>
@@ -980,43 +984,43 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#antracite"/>
-        <Class IRI="#coal"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#aplite"/>
-        <Class IRI="#hypabyssal_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#arcose"/>
-        <Class IRI="#sandstone"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#argillite"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ash"/>
-        <Class IRI="#tephra"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#autobreccia"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bafflestone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#basalt"/>
-        <Class IRI="#basaltic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#basaltic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#basanite"/>
-        <Class IRI="#tephritic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#basin"/>
@@ -1024,103 +1028,87 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bindstone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bioacumulado"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#biolitito"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#bituminous_schist"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#block_tephra"/>
-        <Class IRI="#tephra"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#blueschist"/>
-        <Class IRI="#high_pressure_metamorphic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#boundstone"/>
-        <Class IRI="#carbonatos"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#brazilian_age"/>
-        <Class IRI="#brazilian_geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#brazilian_geochronologic_unit"/>
-        <Class IRI="#geological_time_interval"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#brazilian_subage"/>
-        <Class IRI="#brazilian_geochronologic_unit"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#breccia"/>
         <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#british_age"/>
-        <Class IRI="#british_geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#british_epoch"/>
-        <Class IRI="#british_geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#british_geochronologic_unit"/>
-        <Class IRI="#geological_time_interval"/>
+        <Class IRI="#burial"/>
+        <Class IRI="#petroleum_system_events"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calc-silicate_rock"/>
-        <Class IRI="#metacarbonatic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calciarenite"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calcirudite"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calcissiltite"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calcrete"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#caliche"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#carbon_dioxide"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#carbonatic_breccia"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#carbonatos"/>
-        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#carnallite"/>
-        <Class IRI="#evaporite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cataclasite"/>
-        <Class IRI="#fault_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#chert"/>
-        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#clastic_sediment"/>
@@ -1128,23 +1116,27 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#clay"/>
-        <Class IRI="#clastic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#coal"/>
-        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cobbles"/>
-        <Class IRI="#clastic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#condensate"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#conglomerate"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#contact_metamorphic_rock"/>
-        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#continuant"/>
@@ -1152,51 +1144,59 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#coquina"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#crystalline_limestone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dacite"/>
-        <Class IRI="#dacitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dacitic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dendrolito"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#diabase"/>
-        <Class IRI="#hypabyssal_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#diamictite"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#diatexite"/>
-        <Class IRI="#migmatic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#diorite"/>
-        <Class IRI="#dioritic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dioritic_rock"/>
-        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#disposition"/>
+        <Class IRI="#realizable_entity"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dolocrete"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#dolomite"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dry_gas"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#earth_fluid"/>
@@ -1208,27 +1208,27 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#eclogite"/>
-        <Class IRI="#high_pressure_metamorphic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#esferulitito"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#estromatolito"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#evaporite"/>
-        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#fault_gouge"/>
-        <Class IRI="#fault_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#fault_rock"/>
-        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#field"/>
@@ -1236,82 +1236,43 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#floatstone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#foidite"/>
-        <Class IRI="#foiditic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#foiditic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#foidolite"/>
-        <Class IRI="#plutonic_rock"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#formation"/>
-        <Class IRI="#lithostratigraphic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#formation"/>
-        <ObjectAllValuesFrom>
-            <ObjectProperty IRI="#part_of"/>
-            <Class IRI="#group"/>
-        </ObjectAllValuesFrom>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#framestone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gabbro"/>
-        <Class IRI="#gabbroic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gabbroic_rock"/>
-        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gas"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#gaseous_hydrocarbon"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#generically_dependent_continuant"/>
         <Class IRI="#continuant"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_age"/>
-        <Class IRI="#geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_eon"/>
-        <Class IRI="#geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_epoch"/>
-        <Class IRI="#geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_era"/>
-        <Class IRI="#geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_period"/>
-        <Class IRI="#geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_sub_period"/>
-        <Class IRI="#geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_subage"/>
-        <Class IRI="#geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_super_eon"/>
-        <Class IRI="#geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#geochronologic_unit"/>
-        <Class IRI="#geological_time_interval"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#geological_age"/>
@@ -1352,79 +1313,95 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gipsita"/>
-        <Class IRI="#evaporite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gneiss"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#grainstone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#granite"/>
-        <Class IRI="#granitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#granitic_rock"/>
-        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#granodiorite"/>
-        <Class IRI="#granitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#granulite"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#grauvaque"/>
-        <Class IRI="#sandstone"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gravel"/>
-        <Class IRI="#clastic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#greenschist"/>
-        <Class IRI="#schist"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#greisen"/>
-        <Class IRI="#metassomatic_rock"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#group"/>
-        <Class IRI="#lithostratigraphic_unit"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#gypsum"/>
-        <Class IRI="#metamorphic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#halite"/>
-        <Class IRI="#evaporite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#hard_coal"/>
-        <Class IRI="#coal"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#heavy_oil"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#high_pressure_metamorphic_rock"/>
-        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#hiloclastite"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#hornfels"/>
-        <Class IRI="#contact_metamorphic_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hydrocarbon"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hydrocarbon_accumulation"/>
+        <Class IRI="#petroleum_system_events"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hydrocarbon_generation"/>
+        <Class IRI="#petroleum_system_events"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hydrocarbon_migration"/>
+        <Class IRI="#petroleum_system_events"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#hypabyssal_rock"/>
-        <Class IRI="#igneous_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#igneous_rock"/>
@@ -1436,7 +1413,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ignimbrite"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#immaterial_entity"/>
@@ -1448,51 +1425,55 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#kimberlite"/>
-        <Class IRI="#hypabyssal_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#laminito"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lamito"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lamprophyre"/>
-        <Class IRI="#hypabyssal_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lapilli"/>
-        <Class IRI="#tephra"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lapilli_tuff"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lapillite"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#latite"/>
-        <Class IRI="#trachytic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#leiolito"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lignite"/>
-        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#limestone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#liquid_hydrocarbon"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#litharenite"/>
-        <Class IRI="#sandstone"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#lithostratigraphic_unit"/>
@@ -1507,46 +1488,39 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#magma"/>
-        <Class IRI="#igneous_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#marble"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#marlstone"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#material_entity"/>
         <Class IRI="#independent_continuant"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#member"/>
-        <Class IRI="#lithostratigraphic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#member"/>
-        <ObjectAllValuesFrom>
-            <ObjectProperty IRI="#part_of"/>
-            <Class IRI="#formation"/>
-        </ObjectAllValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#meta-arenito"/>
-        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metabasalt"/>
-        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metacarbonatic_rock"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metagabbro"/>
-        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metagranite"/>
-        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metamorphic_rock"/>
@@ -1554,95 +1528,87 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metamorphic_rock_per_composition"/>
-        <Class IRI="#metamorphic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metamorphic_rock_per_metamorphism"/>
-        <Class IRI="#metamorphic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metamorphic_rock_per_origin"/>
-        <Class IRI="#metamorphic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metasiliciclastic_rock"/>
-        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metassedimentar"/>
-        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metassiltito"/>
-        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metassomatic_rock"/>
-        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metatexite"/>
-        <Class IRI="#diatexite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#metavolcanoclastic_rock"/>
-        <Class IRI="#metamorphic_rock_per_origin"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#mica_schist"/>
-        <Class IRI="#schist"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#microbialito"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#microbrecha"/>
-        <Class IRI="#breccia"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#migmatic_rock"/>
-        <Class IRI="#metamorphic_rock_per_metamorphism"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#migmatite"/>
-        <Class IRI="#diatexite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#monzodiorite"/>
-        <Class IRI="#dioritic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#monzogabbro"/>
-        <Class IRI="#gabbroic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#monzogranite"/>
-        <Class IRI="#granitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#monzonite"/>
-        <Class IRI="#syenitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#monzosyenite"/>
-        <Class IRI="#syenitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#mudstone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#mylonite"/>
-        <Class IRI="#fault_rock"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#north_american_age"/>
-        <Class IRI="#north_american_geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#north_american_geochronologic_unit"/>
-        <Class IRI="#geological_time_interval"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#object"/>
@@ -1657,6 +1623,10 @@
         <Class IRI="#entity"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#oil"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#one-dimensional_temporal_region"/>
         <Class IRI="#temporal_region"/>
     </SubClassOf>
@@ -1666,67 +1636,82 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#orthogneiss"/>
-        <Class IRI="#gneiss"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ortobrecha"/>
-        <Class IRI="#breccia"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ortoconglomerado"/>
-        <Class IRI="#conglomerate"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#packstone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#parabrecha"/>
-        <Class IRI="#breccia"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#paraconglomerado"/>
-        <Class IRI="#conglomerate"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#paragneiss"/>
-        <Class IRI="#gneiss"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#peat"/>
-        <Class IRI="#organic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#pegmatite"/>
-        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#peperite"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#peridotite"/>
-        <Class IRI="#ultramafic_plutonic_rock"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#petroleum_system_elements"/>
+        <Class IRI="#disposition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#petroleum_system_elements"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#disposition_of"/>
+            <Class IRI="#geological_object"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#petroleum_system_events"/>
+        <Class IRI="#geological_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#phonolite"/>
-        <Class IRI="#phonolitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#phonolitic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#phyllite"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#phyllonite"/>
-        <Class IRI="#mylonite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#plutonic_rock"/>
-        <Class IRI="#igneous_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#process"/>
@@ -1734,19 +1719,19 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#pyroclast"/>
-        <Class IRI="#igneous_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#pyroclastic_breccia"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#pyroclastic_rock"/>
-        <Class IRI="#igneous_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#pyroxenite"/>
-        <Class IRI="#ultramafic_plutonic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quality"/>
@@ -1754,43 +1739,51 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quartz_arenite"/>
-        <Class IRI="#sandstone"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quartz_diorite"/>
-        <Class IRI="#dioritic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quartz_gabbro"/>
-        <Class IRI="#gabbroic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quartz_monzonite"/>
-        <Class IRI="#syenitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quartz_syenite"/>
-        <Class IRI="#syenitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quartzite"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quartzolite"/>
-        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#radiolarite"/>
-        <Class IRI="#chert"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#realizable_entity"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#reservoir"/>
+        <Class IRI="#petroleum_system_elements"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rhyolite"/>
-        <Class IRI="#rhyolitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rhyolitic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rock"/>
@@ -1805,23 +1798,27 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#rudstone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sand"/>
-        <Class IRI="#clastic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sandstone"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#schist"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#scree"/>
-        <Class IRI="#clastic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#seal"/>
+        <Class IRI="#petroleum_system_elements"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sedimentary_rock"/>
@@ -1829,15 +1826,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#serpentinite"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#shale"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#silcrete"/>
-        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#silexite"/>
@@ -1845,23 +1842,23 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#siliciclastic_breccia"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#siliciclasticos"/>
-        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#silt"/>
-        <Class IRI="#clastic_sediment"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#siltstone"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sinter"/>
-        <Class IRI="#sedimentary_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#site"/>
@@ -1869,11 +1866,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#skarn"/>
-        <Class IRI="#metassomatic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#slate"/>
-        <Class IRI="#metamorphic_rock_per_composition"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#source_rock"/>
+        <Class IRI="#petroleum_system_elements"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#specifically_dependent_continuant"/>
@@ -1881,31 +1882,31 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#syenite"/>
-        <Class IRI="#syenitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#syenitic_rock"/>
-        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#syenogranite"/>
-        <Class IRI="#granitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#sylvinite"/>
-        <Class IRI="#evaporite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tachyhydrite"/>
-        <Class IRI="#evaporite"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tachylite"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tectonic_breccia"/>
-        <Class IRI="#fault_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#temporal_region"/>
@@ -1913,15 +1914,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tephra"/>
-        <Class IRI="#pyroclast"/>
+        <Class IRI="#unconsolidated_earth_material"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tephrite"/>
-        <Class IRI="#tephritic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tephritic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#textura"/>
@@ -1929,51 +1930,51 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#till"/>
-        <Class IRI="#siliciclasticos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tonalite"/>
-        <Class IRI="#granitic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#trachyte"/>
-        <Class IRI="#trachytic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#trachytic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#travertine"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#trombolito"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tuff"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tuff_breccia"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#tuffite"/>
-        <Class IRI="#pyroclastic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ultrabasic_rock"/>
-        <Class IRI="#igneous_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ultramafic_plutonic_rock"/>
-        <Class IRI="#plutonic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ultramafic_volcanic_rock"/>
-        <Class IRI="#volcanic_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#unconsolidated_earth_material"/>
@@ -1981,11 +1982,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#volcanic_rock"/>
-        <Class IRI="#igneous_rock"/>
+        <Class IRI="#rock"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#wackestone"/>
-        <Class IRI="#carbonatos"/>
+        <Class IRI="#rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#water"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#well"/>
@@ -2005,20 +2010,8 @@
         </ObjectUnionOf>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#western_european_age"/>
-        <Class IRI="#western_european_geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#western_european_epoch"/>
-        <Class IRI="#western_european_geochronologic_unit"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#western_european_geochronologic_unit"/>
-        <Class IRI="#geological_time_interval"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#western_european_subage"/>
-        <Class IRI="#western_european_geochronologic_unit"/>
+        <Class IRI="#wet_gas"/>
+        <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#o&amp;g_earth_fluid"/>
@@ -2027,14 +2020,6 @@
     <DisjointClasses>
         <Class IRI="#basin"/>
         <Class IRI="#field"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#brazilian_age"/>
-        <Class IRI="#brazilian_subage"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#british_age"/>
-        <Class IRI="#british_epoch"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#continuant"/>
@@ -2068,16 +2053,6 @@
         <Class IRI="#specifically_dependent_continuant"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#geochronologic_age"/>
-        <Class IRI="#geochronologic_eon"/>
-        <Class IRI="#geochronologic_epoch"/>
-        <Class IRI="#geochronologic_era"/>
-        <Class IRI="#geochronologic_period"/>
-        <Class IRI="#geochronologic_sub_period"/>
-        <Class IRI="#geochronologic_subage"/>
-        <Class IRI="#geochronologic_super_eon"/>
-    </DisjointClasses>
-    <DisjointClasses>
         <Class IRI="#immaterial_entity"/>
         <Class IRI="#material_entity"/>
     </DisjointClasses>
@@ -2099,11 +2074,6 @@
     <DisjointClasses>
         <Class IRI="#rock"/>
         <Class IRI="#unconsolidated_earth_material"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#western_european_age"/>
-        <Class IRI="#western_european_epoch"/>
-        <Class IRI="#western_european_subage"/>
     </DisjointClasses>
     <SubObjectPropertyOf>
         <ObjectProperty IRI="#age_of"/>
@@ -2481,6 +2451,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anthropogenic_fluid</IRI>
+        <Literal>fluido antropogênico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#anthropogenic_fluid</IRI>
+        <Literal>fluido artificial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#anthropogenic_material</IRI>
         <Literal>material antropogênico</Literal>
     </AnnotationAssertion>
@@ -2601,103 +2581,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_age</IRI>
-        <Literal>idade</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_age</IRI>
-        <Literal>idade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_age</IRI>
-        <Literal>idade geocronológica brasileira</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_geochronologic_unit</IRI>
-        <Literal>intervalo de tempo geológico brasileiro</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_geochronologic_unit</IRI>
-        <Literal>unidade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_geochronologic_unit</IRI>
-        <Literal>unidade geocronológica brasileira</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_subage</IRI>
-        <Literal>subidade</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_subage</IRI>
-        <Literal>subidade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#brazilian_subage</IRI>
-        <Literal>subidade geocronológica brasileira</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#breccia</IRI>
         <Literal>brecha</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_age</IRI>
-        <Literal>idade</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_age</IRI>
-        <Literal>idade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_age</IRI>
-        <Literal>idade geocronológica inglesa</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_epoch</IRI>
-        <Literal>época</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_epoch</IRI>
-        <Literal>época geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_epoch</IRI>
-        <Literal>época geocronológica inglesa</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_geochronologic_unit</IRI>
-        <Literal>intervalo de tempo geológico da Inglaterra</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_geochronologic_unit</IRI>
-        <Literal>intervalo de tempo geológico inglês</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_geochronologic_unit</IRI>
-        <Literal>unidade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#british_geochronologic_unit</IRI>
-        <Literal>unidade geocronológica inglesa</Literal>
+        <IRI>#burial</IRI>
+        <Literal>soterramento</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -2738,6 +2628,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#caliche</IRI>
         <Literal>caliche</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carbon_dioxide</IRI>
+        <Literal>CO2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#carbon_dioxide</IRI>
+        <Literal>gás carbônico</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -2818,6 +2718,31 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#concretizes</IRI>
         <Literal>concretiza</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#condensate</IRI>
+        <Literal>condensado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#condensate</IRI>
+        <Literal>gás condensado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#condensate</IRI>
+        <Literal>gás retrógrado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#condensate</IRI>
+        <Literal>óleo leve</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#condensate</IRI>
+        <Literal>óleo volátil</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -2926,6 +2851,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#disposition</IRI>
+        <Literal>disposition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#disposition_of</IRI>
         <Literal>disposição de</Literal>
     </AnnotationAssertion>
@@ -2937,7 +2867,17 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#dolomite</IRI>
-        <Literal>dolomite</Literal>
+        <Literal>dolomito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dry_gas</IRI>
+        <Literal>gás não associado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#dry_gas</IRI>
+        <Literal>gás seco</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3022,17 +2962,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#foidolite</IRI>
-        <Literal>foidito</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#foidolite</IRI>
         <Literal>foidolito</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#formation</IRI>
-        <Literal>formação</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3061,6 +2991,21 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gas</IRI>
+        <Literal>gás</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gas</IRI>
+        <Literal>gás natural</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#gaseous_hydrocarbon</IRI>
+        <Literal>hidrocarboneto gasoso</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#generated_by</IRI>
         <Literal>gerado por</Literal>
     </AnnotationAssertion>
@@ -3078,96 +3023,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#generically_depends_on</IRI>
         <Literal>depende genericamente de</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_age</IRI>
-        <Literal>idade</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_age</IRI>
-        <Literal>idade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_eon</IRI>
-        <Literal>eon</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_eon</IRI>
-        <Literal>eon geocronológico</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_epoch</IRI>
-        <Literal>época</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_epoch</IRI>
-        <Literal>época geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_era</IRI>
-        <Literal>era</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_era</IRI>
-        <Literal>era geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_period</IRI>
-        <Literal>período</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_period</IRI>
-        <Literal>período geocronológico</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_sub_period</IRI>
-        <Literal>sub período</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_sub_period</IRI>
-        <Literal>sub período geocronológico</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_subage</IRI>
-        <Literal>subidade</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_subage</IRI>
-        <Literal>subidade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_super_eon</IRI>
-        <Literal>super eon</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_super_eon</IRI>
-        <Literal>super eon geocronológico</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_unit</IRI>
-        <Literal>intervalo de tempo geológico</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#geochronologic_unit</IRI>
-        <Literal>unidade geocronológica</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3271,11 +3126,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#group</IRI>
-        <Literal>grupo</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#gypsum</IRI>
         <Literal>gesso</Literal>
     </AnnotationAssertion>
@@ -3346,6 +3196,36 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#heavy_oil</IRI>
+        <Literal>asfalteno</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#heavy_oil</IRI>
+        <Literal>asfalto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#heavy_oil</IRI>
+        <Literal>betume</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#heavy_oil</IRI>
+        <Literal>exsudadinina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#heavy_oil</IRI>
+        <Literal>tar mat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#heavy_oil</IRI>
+        <Literal>óleo pesado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#high_pressure_metamorphic_rock</IRI>
         <Literal>rocha metamórfica de alta pressão</Literal>
     </AnnotationAssertion>
@@ -3368,6 +3248,26 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#hornfels</IRI>
         <Literal>hornfels</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon</IRI>
+        <Literal>hidrocarboneto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_accumulation</IRI>
+        <Literal>acumulação</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_generation</IRI>
+        <Literal>geração</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_migration</IRI>
+        <Literal>migração</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3586,6 +3486,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#liquid_hydrocarbon</IRI>
+        <Literal>hidrocarboneto líquido</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#litharenite</IRI>
         <Literal>litarenito</Literal>
     </AnnotationAssertion>
@@ -3626,6 +3531,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#marble</IRI>
+        <Literal>mármore</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#marlstone</IRI>
         <Literal>marga</Literal>
     </AnnotationAssertion>
@@ -3638,11 +3548,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#material_entity</IRI>
         <Literal>material entity</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#member</IRI>
-        <Literal>membro</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3826,36 +3731,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#north_american_age</IRI>
-        <Literal>idade</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#north_american_age</IRI>
-        <Literal>idade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#north_american_age</IRI>
-        <Literal>idade geocronológica norte americana</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#north_american_geochronologic_unit</IRI>
-        <Literal>intervalo de tempo geológico norte americano</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#north_american_geochronologic_unit</IRI>
-        <Literal>unidade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#north_american_geochronologic_unit</IRI>
-        <Literal>unidade geocronológica norte americana</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#object</IRI>
         <Literal>object</Literal>
     </AnnotationAssertion>
@@ -3883,6 +3758,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#occurrent</IRI>
         <Literal>ocorrente</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#oil</IRI>
+        <Literal>black oil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#oil</IRI>
+        <Literal>petróleo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#oil</IRI>
+        <Literal>óleo</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3963,6 +3853,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#peridotite</IRI>
         <Literal>peridotito</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal>elementos do sistema petrolífero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_events</IRI>
+        <Literal>eventos do sistema petrolífero</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4101,6 +4001,26 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizable_entity</IRI>
+        <Literal>entidade realizável</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizable_entity</IRI>
+        <Literal>realizable entity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#reservoir</IRI>
+        <Literal>reservatório</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#reservoir</IRI>
+        <Literal>rocha reservatório</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#rhyolite</IRI>
         <Literal>riolito</Literal>
     </AnnotationAssertion>
@@ -4158,6 +4078,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#scree</IRI>
         <Literal>tálus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal>rocha selante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal>selo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal>trapa</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4253,6 +4188,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#slate</IRI>
         <Literal>ardósia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#source_rock</IRI>
+        <Literal>geradora</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#source_rock</IRI>
+        <Literal>rocha geradora</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4466,68 +4411,23 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#water</IRI>
+        <Literal>água</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#well</IRI>
         <Literal>poço</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_age</IRI>
-        <Literal>idade</Literal>
+        <IRI>#wet_gas</IRI>
+        <Literal>gás associado</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_age</IRI>
-        <Literal>idade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_age</IRI>
-        <Literal>idade geocronológica da europa ocidental</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_epoch</IRI>
-        <Literal>época</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_epoch</IRI>
-        <Literal>época gecronológica da europa ocidental</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_epoch</IRI>
-        <Literal>época geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_geochronologic_unit</IRI>
-        <Literal>intervalo de tempo geológico da europa ocidental</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_geochronologic_unit</IRI>
-        <Literal>unidade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_geochronologic_unit</IRI>
-        <Literal>unidade geocronológica da europa ocidental</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_subage</IRI>
-        <Literal>subidade</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_subage</IRI>
-        <Literal>subidade geocronológica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#western_european_subage</IRI>
-        <Literal>subidade geocronológica da europa ocidental</Literal>
+        <IRI>#wet_gas</IRI>
+        <Literal>gás úmido</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>

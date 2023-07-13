@@ -110,6 +110,9 @@
         <Class IRI="#breccia"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#burial"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#calc-silicate_rock"/>
     </Declaration>
     <Declaration>
@@ -344,6 +347,15 @@
         <Class IRI="#hydrocarbon"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#hydrocarbon_accumulation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hydrocarbon_generation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hydrocarbon_migration"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#hypabyssal_rock"/>
     </Declaration>
     <Declaration>
@@ -530,6 +542,12 @@
         <Class IRI="#peridotite"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#petroleum_system_elements"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#petroleum_system_events"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#phonolite"/>
     </Declaration>
     <Declaration>
@@ -584,6 +602,9 @@
         <Class IRI="#radiolarite"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#reservoir"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#rhyolite"/>
     </Declaration>
     <Declaration>
@@ -606,6 +627,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#scree"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#seal"/>
     </Declaration>
     <Declaration>
         <Class IRI="#sedimentary_rock"/>
@@ -645,6 +669,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#slate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#source_rock"/>
     </Declaration>
     <Declaration>
         <Class IRI="#special_well"/>
@@ -887,6 +914,10 @@
     <SubClassOf>
         <Class IRI="#breccia"/>
         <Class IRI="https://www.inf.ufrgs.br/bdi/ontologies/geocoreontology#UFRGS:GeoCoreOntology_rock"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#burial"/>
+        <Class IRI="#petroleum_system_events"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#calc-silicate_rock"/>
@@ -1215,6 +1246,18 @@
         <Class IRI="#o&amp;g_earth_fluid"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#hydrocarbon_accumulation"/>
+        <Class IRI="#petroleum_system_events"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hydrocarbon_generation"/>
+        <Class IRI="#petroleum_system_events"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hydrocarbon_migration"/>
+        <Class IRI="#petroleum_system_events"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#hypabyssal_rock"/>
         <Class IRI="#igneous_rock"/>
     </SubClassOf>
@@ -1484,6 +1527,21 @@
         <Class IRI="#ultramafic_plutonic_rock"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#petroleum_system_elements"/>
+        <Class IRI="http://purl.obolibrary.org/obo/BFO_0000016"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#petroleum_system_elements"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000092"/>
+            <Class IRI="https://www.inf.ufrgs.br/bdi/ontologies/geocoreontology#UFRGS:GeoCoreOntology_geological_object"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#petroleum_system_events"/>
+        <Class IRI="https://www.inf.ufrgs.br/bdi/ontologies/geocoreontology#UFRGS:GeoCoreOntology_geological_process"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#phonolite"/>
         <Class IRI="#phonolitic_rock"/>
     </SubClassOf>
@@ -1556,6 +1614,10 @@
         <Class IRI="#chert"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#reservoir"/>
+        <Class IRI="#petroleum_system_elements"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#rhyolite"/>
         <Class IRI="#rhyolitic_rock"/>
     </SubClassOf>
@@ -1608,6 +1670,10 @@
         <Class IRI="#clastic_sediment"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#seal"/>
+        <Class IRI="#petroleum_system_elements"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#sedimentary_rock"/>
         <Class IRI="https://www.inf.ufrgs.br/bdi/ontologies/geocoreontology#UFRGS:GeoCoreOntology_rock"/>
     </SubClassOf>
@@ -1658,6 +1724,17 @@
     <SubClassOf>
         <Class IRI="#slate"/>
         <Class IRI="#metamorphic_rock_per_composition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#source_rock"/>
+        <Class IRI="#petroleum_system_elements"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#source_rock"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000092"/>
+            <Class IRI="https://www.inf.ufrgs.br/bdi/ontologies/geocoreontology#UFRGS:GeoCoreOntology_geological_object"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#special_well"/>
@@ -2850,6 +2927,31 @@ https://atosoficiais.com.br/anp/resolucao-n-699-2017-estabelece-os-procedimentos
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
         <IRI>#breccia</IRI>
         <Literal xml:lang="pt">brecha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#burial</IRI>
+        <Literal xml:lang="pt">carece de definição</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#burial</IRI>
+        <Literal xml:lang="en">burial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#burial</IRI>
+        <Literal xml:lang="pt">soterramento</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#burial</IRI>
+        <Literal xml:lang="en">burial</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#burial</IRI>
+        <Literal xml:lang="pt">soterramento</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -5210,6 +5312,81 @@ https://atosoficiais.com.br/anp/resolucao-n-699-2017-estabelece-os-procedimentos
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#hydrocarbon_accumulation</IRI>
+        <Literal xml:lang="en">it is a GeoCore: Geological Process that characterizes the development of a petroleum system and is the filling of the reservoir rock with the mugrated hydrocarbon.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_accumulation</IRI>
+        <Literal xml:lang="en">accumulation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_accumulation</IRI>
+        <Literal xml:lang="pt">acumulação</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#hydrocarbon_accumulation</IRI>
+        <Literal xml:lang="en">accumulation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#hydrocarbon_accumulation</IRI>
+        <Literal xml:lang="pt">acumulação</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#hydrocarbon_generation</IRI>
+        <Literal xml:lang="en">it is a GeoCore: Geological Process that characterizes the development of a petroleum system and is the formation of hydrocarbons from a source rock.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_generation</IRI>
+        <Literal xml:lang="en">generation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_generation</IRI>
+        <Literal xml:lang="pt">geração</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#hydrocarbon_generation</IRI>
+        <Literal xml:lang="en">generation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#hydrocarbon_generation</IRI>
+        <Literal xml:lang="pt">geração</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#hydrocarbon_migration</IRI>
+        <Literal xml:lang="en">it is a GeoCore: Geological Process that characterizes the development of a petroleum system and is the flow of hydrocarbon from a source rock to a porous rock with lower pression, in which it can potentially accumulate.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_migration</IRI>
+        <Literal xml:lang="en">migration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#hydrocarbon_migration</IRI>
+        <Literal xml:lang="pt">migração</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#hydrocarbon_migration</IRI>
+        <Literal xml:lang="en">migration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#hydrocarbon_migration</IRI>
+        <Literal xml:lang="pt">migração</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>#hypabyssal_rock</IRI>
         <Literal xml:lang="en">it is an Igneous Rock of medium granulometry, formed through magmatic cooling with medium velocity.</Literal>
     </AnnotationAssertion>
@@ -7055,6 +7232,46 @@ It frequently occurs in chimneys and diatremes, sometimes diamondiferous, relate
         <Literal xml:lang="pt">peridotito</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal xml:lang="en">this class was create to organize and aggregate the dispositions of rocks that form a petroleum system: seal, reservoir, caprock and overburden rock.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal xml:lang="pt">elementos do sistema petrolífero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal xml:lang="en">petroleum system elements</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal xml:lang="en">petroleum system rocks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal xml:lang="pt">rochas do sistema petrolífero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#petroleum_system_events</IRI>
+        <Literal xml:lang="en">this class was create to organize and aggregate the events that occur to form a petroleum system: generation - migration - accumulation - preservation and burial.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_events</IRI>
+        <Literal xml:lang="pt">eventos do sistema petrolífero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_events</IRI>
+        <Literal xml:lang="en">petroleum system events</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>#phonolite</IRI>
         <Literal xml:lang="en">it is a Volcanic Rock consisting essentially of alkali feldspar and foids</Literal>
@@ -7626,6 +7843,41 @@ It frequently occurs in chimneys and diatremes, sometimes diamondiferous, relate
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#reservoir</IRI>
+        <Literal xml:lang="en">it is a BFO: Disposition that inheres in a GeoCore: Geological Object composed of a porous GeoCore: Amount of Rock or GeoCore: Unconsolidated Earth Material having sufficient porosity and permeability to store and transmit Water and Hydrocarbon.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#reservoir</IRI>
+        <Literal xml:lang="pt">reservatório</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#reservoir</IRI>
+        <Literal xml:lang="en">reservoir</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#reservoir</IRI>
+        <Literal xml:lang="en">reservoir rock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#reservoir</IRI>
+        <Literal xml:lang="pt">rocha reservatório</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#reservoir</IRI>
+        <Literal xml:lang="pt">reservatório</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#reservoir</IRI>
+        <Literal xml:lang="en">reservoir</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>#rhyolite</IRI>
         <Literal xml:lang="en">it is a silicic Volcanic Rock consisting of phenocrysts of quartz and alkali feldspar, often with plagioclase and biotite, in a glassy groundmass having the chemical composition of granite</Literal>
     </AnnotationAssertion>
@@ -7892,6 +8144,56 @@ O estudo de texturas e de estruturas permite determinar o tipo de rocha e, muita
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
         <IRI>#scree</IRI>
         <Literal xml:lang="pt">tálus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="en">it is a BFO: Disposition that inheres in a certain GeoCore: Geological Object that has the capacity to form a barrier, containing or isolating fluids from adjacent porous GeoCore: Geological Objects.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="en">caprock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="pt">rocha selante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="en">seal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="en">seal rock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="pt">selante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="pt">selo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="pt">trapa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="en">seal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#seal</IRI>
+        <Literal xml:lang="pt">selo</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -8288,6 +8590,51 @@ https://atosoficiais.com.br/anp/resolucao-n-699-2017-estabelece-os-procedimentos
         <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
         <IRI>#slate</IRI>
         <Literal xml:lang="en">slate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="en">it is a BFO: Disposition that inheres in a GeoCore: Geological Object that is capable of or has generated hydrocarbon.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000119"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="en">https://glossary.slb.com/en/terms/s/source_rock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="en">A rock rich in organic matter which, if heated sufficiently, will generate oil or gas. Typical source rocks, usually shales or limestones, contain about 1% organic matter and at least 0.5% total organic carbon (TOC), although a rich source rock might have as much as 10% organic matter. Rocks of marine origin tend to be oil-prone, whereas terrestrial source rocks (such as coal) tend to be gas-prone. Preservation of organic matter without degradation is critical to creating a good source rock, and necessary for a complete petroleum system. Under the right conditions, source rocks may also be reservoir rocks, as in the case of shale gas reservoirs.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="pt">geradora</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="pt">rocha geradora</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="en">source</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="en">source rock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="pt">geradora</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+        <IRI>#source_rock</IRI>
+        <Literal xml:lang="en">source</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>

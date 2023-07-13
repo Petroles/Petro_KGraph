@@ -25,6 +25,9 @@
         <Class IRI="#continuant"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#disposition"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#earth_fluid"/>
     </Declaration>
     <Declaration>
@@ -77,6 +80,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="#one-dimensional_temporal_region"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#petroleum_system_elements"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#petroleum_system_events"/>
     </Declaration>
     <Declaration>
         <Class IRI="#process"/>
@@ -284,6 +293,10 @@
         <Class IRI="#entity"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#disposition"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#earth_fluid"/>
         <Class IRI="#earth_material"/>
     </SubClassOf>
@@ -374,6 +387,14 @@
     <SubClassOf>
         <Class IRI="#one-dimensional_temporal_region"/>
         <Class IRI="#temporal_region"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#petroleum_system_elements"/>
+        <Class IRI="#disposition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#petroleum_system_events"/>
+        <Class IRI="#geological_process"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#process"/>
@@ -892,6 +913,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#disposition</IRI>
+        <Literal>disposition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#disposition</IRI>
+        <Literal>disposição</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#disposition_of</IRI>
         <Literal>disposição de</Literal>
     </AnnotationAssertion>
@@ -1239,6 +1270,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#participates_in</IRI>
         <Literal>participa de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal>elementos do sistema petrolífero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#petroleum_system_events</IRI>
+        <Literal>eventos do sistema petrolífero</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
