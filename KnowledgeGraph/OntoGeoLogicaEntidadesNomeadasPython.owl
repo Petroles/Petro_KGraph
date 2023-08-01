@@ -787,7 +787,7 @@
         <ObjectProperty IRI="#age_of"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#atravessa"/>
+        <ObjectProperty IRI="#crosses"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#carrier_of"/>
@@ -2192,7 +2192,7 @@
         <ObjectProperty IRI="#has_age"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#atravessa"/>
+        <ObjectProperty IRI="#crosses"/>
         <ObjectProperty IRI="#crossed_by"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
@@ -2294,7 +2294,7 @@
         <ObjectProperty IRI="#has_member"/>
     </IrreflexiveObjectProperty>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#atravessa"/>
+        <ObjectProperty IRI="#crosses"/>
         <Class IRI="#well"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
@@ -2342,7 +2342,7 @@
         <Class IRI="#continuant"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#atravessa"/>
+        <ObjectProperty IRI="#crosses"/>
         <Class IRI="#geological_object"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
@@ -2506,7 +2506,7 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#atravessa</IRI>
+        <IRI>#crosses</IRI>
         <Literal>atravessa</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>

@@ -7232,9 +7232,19 @@ It frequently occurs in chimneys and diatremes, sometimes diamondiferous, relate
         <Literal xml:lang="pt">peridotito</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal>it is a BFO:Disposition that inhere in GeoCore:Geological Objects related to the processes of a Petroleum System.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000116"/>
+        <IRI>#petroleum_system_elements</IRI>
+        <Literal xml:lang="en">this class was created to organize and aggregate the dispositions of rocks that form a petroleum system: seal, reservoir, caprock and overburden rock.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#petroleum_system_elements</IRI>
-        <Literal xml:lang="en">this class was create to organize and aggregate the dispositions of rocks that form a petroleum system: seal, reservoir, caprock and overburden rock.</Literal>
+        <Literal>The petroleum system is a unifying concept that encompasses all of the disparate elements and processes of petroleum geology, including: the essential elements (source, reservoir, seal, and overburden rock) and processes (trap formation, generation-migration-accumulation) and all genetically related petroleum that originated from one pod of active source rock and occurs in shows, seeps, or accumulations; also called hydrocarbon system. (https://wiki.aapg.org/Petroleum_system)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -7257,9 +7267,19 @@ It frequently occurs in chimneys and diatremes, sometimes diamondiferous, relate
         <Literal xml:lang="pt">rochas do sistema petrolífero</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#petroleum_system_events</IRI>
+        <Literal>it is a GeoCore:Geological Process that has as participants the GeoCore:Geological Objects and/or GeoCore:Earth Material related to the processes of a Petroleum System.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000116"/>
         <IRI>#petroleum_system_events</IRI>
         <Literal xml:lang="en">this class was create to organize and aggregate the events that occur to form a petroleum system: generation - migration - accumulation - preservation and burial.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#petroleum_system_events</IRI>
+        <Literal>The petroleum system is a unifying concept that encompasses all of the disparate elements and processes of petroleum geology, including: the essential elements (source, reservoir, seal, and overburden rock) and processes (trap formation, generation-migration-accumulation) and all genetically related petroleum that originated from one pod of active source rock and occurs in shows, seeps, or accumulations; also called hydrocarbon system. (https://wiki.aapg.org/Petroleum_system)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>

@@ -94,6 +94,9 @@
         <Class IRI="#quality"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#realizable_entity"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#rock"/>
     </Declaration>
     <Declaration>
@@ -121,9 +124,6 @@
         <ObjectProperty IRI="#age_of"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#atravessa"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#carrier_of"/>
     </Declaration>
     <Declaration>
@@ -137,6 +137,9 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#crossed_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#crosses"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#disposition_of"/>
@@ -294,7 +297,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#disposition"/>
-        <Class IRI="#specifically_dependent_continuant"/>
+        <Class IRI="#realizable_entity"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#earth_fluid"/>
@@ -402,6 +405,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#quality"/>
+        <Class IRI="#specifically_dependent_continuant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#realizable_entity"/>
         <Class IRI="#specifically_dependent_continuant"/>
     </SubClassOf>
     <SubClassOf>
@@ -639,10 +646,6 @@
         <ObjectProperty IRI="#has_age"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="#atravessa"/>
-        <ObjectProperty IRI="#crossed_by"/>
-    </InverseObjectProperties>
-    <InverseObjectProperties>
         <ObjectProperty IRI="#carrier_of"/>
         <ObjectProperty IRI="#generically_depends_on"/>
     </InverseObjectProperties>
@@ -653,6 +656,10 @@
     <InverseObjectProperties>
         <ObjectProperty IRI="#concretizes"/>
         <ObjectProperty IRI="#is_concretized_as"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#crossed_by"/>
+        <ObjectProperty IRI="#crosses"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
         <ObjectProperty IRI="#disposition_of"/>
@@ -741,16 +748,16 @@
         <ObjectProperty IRI="#has_member"/>
     </IrreflexiveObjectProperty>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#atravessa"/>
-        <Class IRI="#well"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
         <ObjectProperty IRI="#carrier_of"/>
         <Class IRI="#independent_continuant"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#concretizes"/>
         <Class IRI="#specifically_dependent_continuant"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#crosses"/>
+        <Class IRI="#well"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#generically_depends_on"/>
@@ -789,16 +796,16 @@
         <Class IRI="#continuant"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#atravessa"/>
-        <Class IRI="#geological_object"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
         <ObjectProperty IRI="#carrier_of"/>
         <Class IRI="#generically_dependent_continuant"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#concretizes"/>
         <Class IRI="#generically_dependent_continuant"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#crosses"/>
+        <Class IRI="#geological_object"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#generically_depends_on"/>
@@ -868,11 +875,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#atravessa</IRI>
-        <Literal>atravessa</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#basin</IRI>
         <Literal>bacia</Literal>
     </AnnotationAssertion>
@@ -910,6 +912,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#crossed_by</IRI>
         <Literal>atravessado por</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#crosses</IRI>
+        <Literal>atravessa</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1305,6 +1312,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#quality_of</IRI>
         <Literal>qualidade de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizable_entity</IRI>
+        <Literal>entidade realizável</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#realizable_entity</IRI>
+        <Literal>realizable entity</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
