@@ -43,6 +43,10 @@
 17. Rodar o notebook Petro_KGraph/Model/Instances clustering/Training Instances Clustering model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec_clustering".
 
 
+## Predição
+
+18. Preprocessar os documentos para que eles fiquem no formato CONLLU. Os documentos brutos que serão processados deverão estar gravados na pasta "Petro_KGraph/Corpora/Predicao/Documentos_brutos/". O script para processar esses documentos está em "Petro_KGraph/Model/tokenizer-main/Processando texto formato conllu.ipynb" e os arquivos já em formato conllu serão gravados em "Petro_KGraph/Corpora/Predicao/Documentos_conllu/".
+
 
 
 ## Usar modelos para predição
