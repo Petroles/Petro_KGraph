@@ -6,10 +6,11 @@
 
 ### Verificar se os Knowledge Graphs estão no repositórios
 1. Os knowledge graphs devem estar nas pastas Petro_KGraph/KnowledgeGraph. A Petro KGraph Ontology (a ontologia básica antes de ser povoada) deve ser nomeada como OntoGeoLogicaEntidadesNomeadas.owl, já o Petro KGraph parcialmente povoado com as listas estruturadas (mas ainda sem ser povoada com as informações extraídas do texto) deve ser nomeada como OntoGeoLogicaInstanciasRelacoes.owl
+(Essa é a versão NP1, revisar o passo a paso com a versão pública que está em Petro_KGraph/KnowledgeGraph/resources/dados_publicos/OntoGeoLogicaANPInstanciasRelacoes.owl)
 
 ### Treinar PetroOntoVec
-2. Verificar ser os modelos PetroVec que serão usados para inicializar o treinamento do PetroOntoVec estão disponíveis na pasta Petro_KGraph/Embeddings/PetroVec/Petrovec-XXXXXXX-100. Dentro dessa pasta vem estar três arquivos. Ex: "publico-COMPLETO-100.txt.model", "publico-COMPLETO-100.txt.model.trainables.syn1neg.npy", "publico-COMPLETO-100.txt.model.wv.vectors.npy".
-3. **(Atenção - Essa treinamento pode demorar cerca de 24h)** Treinar o modelo PetroOntoVec. Os hiperparâmetros necessários para rodar o algoritimo devem ser colocados no arquivo Petro_KGraph/Embeddings/PetroOntoVec/default.cfg e o script rodados via linha de comando. As instruções e de quais parâmetros usar e como rodar o script está no notebook Petro_KGraph/Embeddings/PetroOntoVec/Train_PetroOntoVec.ipynb (Se desejável, o script pode ser rodado usando o notebook)
+2. Verificar ser os modelos PetroVec que serão usados para inicializar o treinamento do PetroOntoVec estão disponíveis na pasta Petro_KGraph/Embeddings/PetroVec/Petrovec-XXXXXXX-100. Dentro dessa pasta devem estar três arquivos. Ex: "publico-COMPLETO-100.txt.model", "publico-COMPLETO-100.txt.model.trainables.syn1neg.npy", "publico-COMPLETO-100.txt.model.wv.vectors.npy".
+3. **(Atenção - Esse treinamento pode demorar cerca de 24h)** Treinar o modelo PetroOntoVec. Os hiperparâmetros necessários para rodar o algoritimo devem ser colocados no arquivo Petro_KGraph/Embeddings/PetroOntoVec/default.cfg e o script rodados via linha de comando. As instruções de quais parâmetros usar e como rodar o script está no notebook Petro_KGraph/Embeddings/PetroOntoVec/Train_PetroOntoVec.ipynb (Se desejável, o script pode ser rodado usando o notebook)
 4. O modelos será gravado na pasta Petro_KGraph/Embeddings/PetroOntoVec/cache. Alterar o nome da pasta para Petro_KGraph/Embeddings/PetroOntoVec/PetroOntoVec_xxxxxxxxxxx (O nome da pasta pode ser configurado no arquivo default.cfg, mas para evitar que versões anteriores sejam sobrescritas por engano, estamos nomeando manualmente ao final do treinamento)
 5. Caso deseje visualizar os vetores usando o Tensorflow embedding projector, usar o notebook Petro_KGraph/Embeddings/PetroOntoVec/Visualizing OWL2Vec.ipynb para adaptar os vetores ao formato adequado.
 6. No notebook Petro_KGraph/Embeddings/Evaluation/IntrinsicEvaluation.ipynb, é possível rodar a avaliação intrínseca implementada por D. da S. M. Gomes et al., “Portuguese word embeddings for the oil and gas industry: Development and evaluation”, Computers in Industry, vol. 124, p. 103347, jan. 2021, doi: 10.1016/j.compind.2020.103347.
@@ -21,7 +22,7 @@
 10. Rodar o notebook Petro_KGraph/Corpora/PetroNER/Analisando e adaptando PetroNER.ipynb. Esse notebook prepara os datasets que serão usados nas tarefas de entity linking e clustering além de gerar análises e estatísticas dos datasets. Os novos datasets são gravados na pasta KGraph/Corpora/PetroNER-LinkedEntity, são listas de sentenças (já processadas para serem usadas no treinamento), entidades, classes, e URI, todos divididos em PetroNER (corpus completo), treino, validação, e teste.
 
 ### Criando dataset para clustering
-11. Rodar o notebook Petro_KGraph/Corpora/PetroNER - Clustering/Triplet dataset.ipynb. Esse notebook criar o dataset para ser usado em contrastive learning (um exemplo âncora, um positivo e outro negativo). Os datasets são gravados na mesma pasta Petro_KGraph/Corpora/PetroNER - Clustering.
+11. Rodar o notebook Petro_KGraph/Corpora/PetroNER - Clustering/Triplet dataset.ipynb. Esse notebook cria o dataset para ser usado no contrastive learning (um exemplo âncora, um positivo e outro negativo). Os datasets são gravados na mesma pasta Petro_KGraph/Corpora/PetroNER - Clustering.
 
 ### Criando Relation Extraction dataset usando distant supervision
 12. Rodar o notebook Petro_KGraph/Corpora/PetroRE/Filter_Conllu_URIs_notebook.ipynb para filtrar apenas as sentenças que possuem pelo menos 2 URIs anotadas. Esse notebook salva os arquivos df_filtred_petroner_uri_xxxxxxxxxxxx na mesma pasta.
@@ -33,14 +34,16 @@
 
 ## Treinar modelos
 ### Treinar o modelo de Named Entity Recognition
-(Revisar código elaborado pela PUC)
+16. Rodar o notebook Petro_KGraph/Model/Named Entity Recognition/training NER.ipynb. Esse notebook irá usar o dataset "petroner-uri-treino.conllu" para treinar o modelo de NER que será salvo como Petro_KGraph/Model/Named Entity Recognition/Model/Model_NER. (O código elaborado pela PUC está na pasta Petro_KGraph/Model/Named Entity Recognition (PUC))
 
 ### Treinar Entity Linking 
 (Essa etapa treina um modelo apenas para o entity link, sem a clusterização)
 16. Rodar notebook Petro_KGraph/Model/Entity Linking/Training Entity Linking model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec".
 
-(Essa etapa treina um mesmo modelo para fazer o entity link e	 a clusterização)
+(Essa etapa treina um mesmo modelo para fazer o entity link e a clusterização)
 17. Rodar o notebook Petro_KGraph/Model/Instances clustering/Training Instances Clustering model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec_clustering".
+
+### Treinar Relation Extraction
 
 
 ## Predição
