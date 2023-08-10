@@ -34,7 +34,7 @@
 
 ## Treinar modelos
 ### Treinar o modelo de Named Entity Recognition
-16. Rodar o notebook Petro_KGraph/Model/Named Entity Recognition/training NER.ipynb. Esse notebook irá usar o dataset "petroner-uri-treino.conllu" para treinar o modelo de NER que será salvo como Petro_KGraph/Model/Named Entity Recognition/Model/Model_NER. (O código elaborado pela PUC está na pasta Petro_KGraph/Model/Named Entity Recognition (PUC))
+16. Rodar o notebook Petro_KGraph/Model/Named Entity Recognition/training NER.ipynb. Esse notebook irá usar o dataset "petroner-uri-treino.conllu" para treinar o modelo de NER que será salvo como Petro_KGraph/Model/Named Entity Recognition/Model_NER.h5 (O código elaborado pela PUC está na pasta Petro_KGraph/Model/Named Entity Recognition (PUC))
 
 ### Treinar Entity Linking 
 (Essa etapa treina um modelo apenas para o entity link, sem a clusterização)
