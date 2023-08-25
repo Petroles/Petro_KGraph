@@ -37,7 +37,7 @@
 16. Rodar o notebook Petro_KGraph/Model/Named Entity Recognition/training NER.ipynb. Esse notebook irá usar o dataset "petroner-uri-treino.conllu" para treinar o modelo de NER que será salvo como Petro_KGraph/Model/Named Entity Recognition/Model_NER.h5 (O código elaborado pela PUC está na pasta Petro_KGraph/Model/Named Entity Recognition (PUC))
 
 ### Treinar Entity Linking 
-(Essa etapa treina um modelo apenas para o entity link, sem a clusterização)
+(avaliar se essa etapa será realizada)(Essa etapa treina um modelo apenas para o entity link, sem a clusterização)
 16. Rodar notebook Petro_KGraph/Model/Entity Linking/Training Entity Linking model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec".
 
 (Essa etapa treina um mesmo modelo para fazer o entity link e a clusterização)
@@ -58,3 +58,7 @@
 
 ## Avaliação
 19. Para comprovar a hipótese da tese, avaliamos um sistema de busca usando um sistema de expansão de consultas (AQE) baseado no knowledge graph. A avaliação se encontra no notebook Petro_KGraph/Evaluation/Base REGIS/notebooks/analise_ontologias.ipynb
+
+
+
+input_anchor_ids, input_anchor_mask, input_positive_ids, input_positive_mask, input_negative_ids, input_negative_mask, input_URIvec 
