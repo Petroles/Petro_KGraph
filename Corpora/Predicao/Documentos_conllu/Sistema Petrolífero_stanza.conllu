@@ -1,0 +1,1418 @@
+# sent_id = Sistema Petrolífero-1
+# text = Sistema petrolÃ­fero
+1	Sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=0|end_char=7
+2	petrolÃ­fero	petrolÃ­fero	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=8|end_char=20
+
+# sent_id = Sistema Petrolífero-2
+# text = Sistema petrolÃ­fero
+1	Sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=22|end_char=29
+2	petrolÃ­fero	petrolÃ­fero	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	start_char=30|end_char=42
+
+# sent_id = Sistema Petrolífero-3
+# text = Ã© um modelo que engloba todos os elementos e processos geolÃ³gicos necessÃ¡rios Ã  existÃªncia de acumulaÃ§Ãµes de Ã³leo e gÃ¡s..
+1	Ã©	Ãaver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=44|end_char=46
+2	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=47|end_char=49
+3	modelo	modelo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	start_char=50|end_char=56
+4	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	start_char=57|end_char=60
+5	engloba	englobar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=61|end_char=68
+6	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	start_char=69|end_char=74
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=75|end_char=77
+8	elementos	elemento	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	start_char=78|end_char=87
+9	e	e	CCONJ	_	_	10	cc	_	start_char=88|end_char=89
+10	processos	processo	NOUN	_	Gender=Masc|Number=Plur	8	conj	_	start_char=90|end_char=99
+11	geolÃ³gicos	geolÃ³gicos	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	start_char=100|end_char=111
+12	necessÃ¡rios	necessÃ¡rios	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	start_char=112|end_char=124
+13	Ã	»	ADP	_	_	14	case	_	start_char=125|end_char=126
+14	existÃªncia	existÃªncia	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	start_char=128|end_char=139
+15	de	de	ADP	_	_	16	case	_	start_char=140|end_char=142
+16	acumulaÃ§Ãµes	acumulaÃ§Ãµes	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	start_char=143|end_char=156
+17	de	de	ADP	_	_	18	case	_	start_char=157|end_char=159
+18	Ã³leo	Ã³leo	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	start_char=160|end_char=165
+19	e	e	CCONJ	_	_	20	cc	_	start_char=166|end_char=167
+20	gÃ¡s..	gÃ¡s..	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	18	conj	_	start_char=168|end_char=174
+
+# sent_id = Sistema Petrolífero-4
+# text = Trata-se de um conceito unificador de todos os elementos e processos da geologia do petrÃ³leo, utilizado na exploraÃ§Ã£o, avaliaÃ§Ã£o de reservas e pesquisa das jazidas petrolÃ­feras..
+1-2	Trata-se	_	_	_	_	_	_	_	start_char=176|end_char=184
+1	Trata	tratar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+3	de	de	ADP	_	_	5	case	_	start_char=185|end_char=187
+4	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=188|end_char=190
+5	conceito	conceito	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	start_char=191|end_char=199
+6	unificador	unificador	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	start_char=200|end_char=210
+7	de	de	ADP	_	_	10	case	_	start_char=211|end_char=213
+8	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	start_char=214|end_char=219
+9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	start_char=220|end_char=222
+10	elementos	elemento	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	start_char=223|end_char=232
+11	e	e	CCONJ	_	_	12	cc	_	start_char=233|end_char=234
+12	processos	processo	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	start_char=235|end_char=244
+13-14	da	_	_	_	_	_	_	_	start_char=245|end_char=247
+13	de	de	ADP	_	_	15	case	_	_
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	geologia	geologia	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	start_char=248|end_char=256
+16-17	do	_	_	_	_	_	_	_	start_char=257|end_char=259
+16	de	de	ADP	_	_	18	case	_	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	start_char=260|end_char=269
+19	,	,	PUNCT	_	_	20	punct	_	start_char=269|end_char=270
+20	utilizado	utilizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	15	acl	_	start_char=271|end_char=280
+21-22	na	_	_	_	_	_	_	_	start_char=281|end_char=283
+21	em	em	ADP	_	_	23	case	_	_
+22	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	exploraÃ§Ã£o	exploraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	start_char=284|end_char=296
+24	,	,	PUNCT	_	_	25	punct	_	start_char=296|end_char=297
+25	avaliaÃ§Ã£o	avaliaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	start_char=298|end_char=309
+26	de	de	ADP	_	_	27	case	_	start_char=310|end_char=312
+27	reservas	reserva	NOUN	_	Gender=Fem|Number=Plur	25	nmod	_	start_char=313|end_char=321
+28	e	e	CCONJ	_	_	29	cc	_	start_char=322|end_char=323
+29	pesquisa	pesquisa	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	start_char=324|end_char=332
+30-31	das	_	_	_	_	_	_	_	start_char=333|end_char=336
+30	de	de	ADP	_	_	32	case	_	_
+31	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	32	det	_	_
+32	jazidas	jazida	NOUN	_	Gender=Fem|Number=Plur	29	nmod	_	start_char=337|end_char=344
+33	petrolÃ­feras	petrolÃ­feras	ADJ	_	Gender=Fem|Number=Plur	32	amod	_	start_char=345|end_char=358
+34	.	.	PUNCT	_	_	1	punct	_	start_char=358|end_char=359
+35	.	.	PUNCT	_	_	1	punct	_	start_char=359|end_char=360
+
+# sent_id = Sistema Petrolífero-5
+# text = [1]
+1	[1	[1	NUM	_	NumType=Card	0	root	_	start_char=362|end_char=364
+2	]	]	PUNCT	_	_	1	punct	_	start_char=364|end_char=365
+
+# sent_id = Sistema Petrolífero-6
+# text = Para que estas acumulaÃ§Ãµes ocorram, necessita-se de rochas geradoras maduras, rocha reservatÃ³rio, rocha selante e a sobrecarga..
+1	Para	para	SCONJ	_	_	5	mark	_	start_char=367|end_char=371
+2	que	que	SCONJ	_	_	5	mark	_	start_char=372|end_char=375
+3	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	4	det	_	start_char=376|end_char=381
+4	acumulaÃ§Ãµes	acumulaÃ§Ãµes	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	start_char=382|end_char=395
+5	ocorram	ocorrer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=396|end_char=403
+6	,	,	PUNCT	_	_	5	punct	_	start_char=403|end_char=404
+7-8	necessita-se	_	_	_	_	_	_	_	start_char=405|end_char=417
+7	necessita	necessitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+9	de	de	ADP	_	_	10	case	_	start_char=418|end_char=420
+10	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	start_char=421|end_char=427
+11	geradoras	gerador	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	start_char=428|end_char=437
+12	maduras	maduro	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	start_char=438|end_char=445
+13	,	,	PUNCT	_	_	14	punct	_	start_char=445|end_char=446
+14	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	start_char=447|end_char=452
+15	reservatÃ³rio	reservatÃ³rio	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	start_char=453|end_char=466
+16	,	,	PUNCT	_	_	17	punct	_	start_char=466|end_char=467
+17	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	start_char=468|end_char=473
+18	selante	selante	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	start_char=474|end_char=481
+19	e	e	CCONJ	_	_	21	cc	_	start_char=482|end_char=483
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	start_char=484|end_char=485
+21	sobrecarga	sobrecarga	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	start_char=486|end_char=496
+22	.	.	PUNCT	_	_	7	punct	_	start_char=496|end_char=497
+23	.	.	PUNCT	_	_	7	punct	_	start_char=497|end_char=498
+
+# sent_id = Sistema Petrolífero-7
+# text = AlÃ©m da presenÃ§a destas rochas, dois processos geolÃ³gicos sÃ£o fundamentais: a formaÃ§Ã£o de trapas e a geraÃ§Ã£o, migraÃ§Ã£o e acumulaÃ§Ã£o de hidrocarbonetos..
+1	AlÃ©m	alã©m	ADV	_	_	13	advmod	_	start_char=500|end_char=505
+2-3	da	_	_	_	_	_	_	_	start_char=506|end_char=508
+2	de	de	ADP	_	_	4	case	_	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	presenÃ§a	presenÃ§a	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	start_char=509|end_char=518
+5-6	destas	_	_	_	_	_	_	_	start_char=519|end_char=525
+5	de	de	ADP	_	_	7	case	_	_
+6	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	start_char=526|end_char=532
+8	,	,	PUNCT	_	_	1	punct	_	start_char=532|end_char=533
+9	dois	dois	NUM	_	NumType=Card	10	nummod	_	start_char=534|end_char=538
+10	processos	processo	NOUN	_	Gender=Masc|Number=Plur	13	nsubj	_	start_char=539|end_char=548
+11	geolÃ³gicos	geolÃ³gicos	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	start_char=549|end_char=560
+12	sÃ£o	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=561|end_char=565
+13	fundamentais	fundamental	ADJ	_	Gender=Masc|Number=Plur	0	root	_	start_char=566|end_char=578
+14	:	:	PUNCT	_	_	16	punct	_	start_char=578|end_char=579
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	start_char=580|end_char=581
+16	formaÃ§Ã£o	formaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	13	appos	_	start_char=582|end_char=592
+17	de	de	ADP	_	_	18	case	_	start_char=593|end_char=595
+18	trapas	trapa	NOUN	_	Gender=Fem|Number=Plur	16	nmod	_	start_char=596|end_char=602
+19	e	e	CCONJ	_	_	21	cc	_	start_char=603|end_char=604
+20	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	start_char=605|end_char=606
+21	geraÃ§Ã£o	geraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	start_char=607|end_char=616
+22	,	,	PUNCT	_	_	23	punct	_	start_char=616|end_char=617
+23	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	start_char=618|end_char=628
+24	e	e	CCONJ	_	_	25	cc	_	start_char=629|end_char=630
+25	acumulaÃ§Ã£o	acumulaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	start_char=631|end_char=643
+26	de	de	ADP	_	_	27	case	_	start_char=644|end_char=646
+27	hidrocarbonetos	hidrocarboneto	NOUN	_	Gender=Masc|Number=Plur	25	nmod	_	start_char=647|end_char=662
+28	.	.	PUNCT	_	_	13	punct	_	start_char=662|end_char=663
+29	.	.	PUNCT	_	_	13	punct	_	start_char=663|end_char=664
+
+# sent_id = Sistema Petrolífero-8
+# text = Todas estas condiÃ§Ãµes devem ocorrer de forma sincronizada em relaÃ§Ã£o ao tempo geolÃ³gico..
+1	Todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	3	det	_	start_char=666|end_char=671
+2	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	start_char=672|end_char=677
+3	condiÃ§Ãµes	condiÃ§Ãµes	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	start_char=678|end_char=689
+4	devem	dever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=690|end_char=695
+5	ocorrer	ocorrer	VERB	_	VerbForm=Inf	4	xcomp	_	start_char=696|end_char=703
+6	de	de	ADP	_	_	7	case	_	start_char=704|end_char=706
+7	forma	forma	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	start_char=707|end_char=712
+8	sincronizada	sincronizar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	start_char=713|end_char=725
+9	em	em	ADP	_	_	10	case	_	start_char=726|end_char=728
+10	relaÃ§Ã£o	relaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	start_char=729|end_char=738
+11-12	ao	_	_	_	_	_	_	_	start_char=739|end_char=741
+11	a	a	ADP	_	_	13	case	_	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	start_char=742|end_char=747
+14	geolÃ³gico	geolÃ³gico	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	start_char=748|end_char=758
+15	.	.	PUNCT	_	_	5	punct	_	start_char=758|end_char=759
+16	.	.	PUNCT	_	_	4	punct	_	start_char=759|end_char=760
+
+# sent_id = Sistema Petrolífero-9
+# text = A existÃªncia de petrÃ³leo em qualquer quantidade Ã© a prova da existÃªncia de um sistema petrolÃ­fero, ou seja, uma amostra de Ã³leo ou gÃ¡s em sondas exploratÃ³rias, exudaÃ§Ãµes naturais, infiltraÃ§Ãµes ou acÃºmulos de Ã³leo e gÃ¡s indicam a presenÃ§a do sistema..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=762|end_char=763
+2	existÃªncia	existÃªncia	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	start_char=764|end_char=775
+3	de	de	ADP	_	_	4	case	_	start_char=776|end_char=778
+4	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=779|end_char=788
+5	em	em	ADP	_	_	7	case	_	start_char=789|end_char=791
+6	qualquer	qualquer	DET	_	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	start_char=792|end_char=800
+7	quantidade	quantidade	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=801|end_char=811
+8	Ã©	Ãaver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=812|end_char=814
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=815|end_char=816
+10	prova	prova	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	start_char=817|end_char=822
+11-12	da	_	_	_	_	_	_	_	start_char=823|end_char=825
+11	de	de	ADP	_	_	13	case	_	_
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	existÃªncia	existÃªncia	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	start_char=826|end_char=837
+14	de	de	ADP	_	_	16	case	_	start_char=838|end_char=840
+15	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=841|end_char=843
+16	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	start_char=844|end_char=851
+17	petrolÃ­fero	petrolÃ­fero	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	start_char=852|end_char=864
+18	,	,	PUNCT	_	_	19	punct	_	start_char=864|end_char=865
+19	ou	ou	CCONJ	_	ExtPos=CCONJ	23	cc	_	start_char=866|end_char=868
+20	seja	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	fixed	_	start_char=869|end_char=873
+21	,	,	PUNCT	_	_	19	punct	_	start_char=873|end_char=874
+22	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	start_char=875|end_char=878
+23	amostra	amostra	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	start_char=879|end_char=886
+24	de	de	ADP	_	_	25	case	_	start_char=887|end_char=889
+25	Ã³leo	Ã³leo	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	start_char=890|end_char=895
+26	ou	ou	CCONJ	_	_	27	cc	_	start_char=896|end_char=898
+27	gÃ¡s	gÃm	NOUN	_	Gender=Masc|Number=Sing	25	conj	_	start_char=899|end_char=903
+28	em	em	ADP	_	_	29	case	_	start_char=904|end_char=906
+29	sondas	sonda	NOUN	_	Gender=Fem|Number=Plur	27	nmod	_	start_char=907|end_char=913
+30	exploratÃ³rias	exploratÃ³rias	ADJ	_	Gender=Fem|Number=Plur	29	amod	_	start_char=914|end_char=928
+31	,	,	PUNCT	_	_	32	punct	_	start_char=928|end_char=929
+32	exudaÃ§Ãµes	exudaÃ§Ãµes	NOUN	_	Gender=Fem|Number=Plur	29	conj	_	start_char=930|end_char=941
+33	naturais	natural	ADJ	_	Gender=Fem|Number=Plur	32	amod	_	start_char=942|end_char=950
+34	,	,	PUNCT	_	_	35	punct	_	start_char=950|end_char=951
+35	infiltraÃ§Ãµes	infiltraÃ§Ãµes	NOUN	_	Gender=Fem|Number=Plur	29	conj	_	start_char=952|end_char=966
+36	ou	ou	CCONJ	_	_	37	cc	_	start_char=967|end_char=969
+37	acÃºmulos	acÃºmulo	NOUN	_	Gender=Masc|Number=Plur	29	conj	_	start_char=970|end_char=979
+38	de	de	ADP	_	_	39	case	_	start_char=980|end_char=982
+39	Ã³leo	Ã³leo	NOUN	_	Gender=Masc|Number=Sing	37	nmod	_	start_char=983|end_char=988
+40	e	e	CCONJ	_	_	41	cc	_	start_char=989|end_char=990
+41	gÃ¡s	gÃm	NOUN	_	Gender=Masc|Number=Plur	39	conj	_	start_char=991|end_char=995
+42	indicam	indicar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	start_char=996|end_char=1003
+43	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	start_char=1004|end_char=1005
+44	presenÃ§a	presenÃ§a	NOUN	_	Gender=Fem|Number=Sing	42	obj	_	start_char=1006|end_char=1015
+45-46	do	_	_	_	_	_	_	_	start_char=1016|end_char=1018
+45	de	de	ADP	_	_	47	case	_	_
+46	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
+47	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	44	nmod	_	start_char=1019|end_char=1026
+48	.	.	PUNCT	_	_	8	punct	_	start_char=1026|end_char=1027
+49	.	.	PUNCT	_	_	8	punct	_	start_char=1027|end_char=1028
+
+# sent_id = Sistema Petrolífero-10
+# text = [2]Elementos do Sistema PetrolÃ­fero
+1	[2	[2	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1030|end_char=1032
+2	]	]	PUNCT	_	_	3	punct	_	start_char=1032|end_char=1033
+3	Elementos	elemento	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	start_char=1034|end_char=1043
+4-5	do	_	_	_	_	_	_	_	start_char=1044|end_char=1046
+4	de	de	ADP	_	_	6	case	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Sistema	Sistema	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	3	nmod	_	start_char=1047|end_char=1054
+7	PetrolÃ­fero	PetrolÃ­fero	PROPN	_	Number=Sing	6	flat:name	_	start_char=1055|end_char=1067
+
+# sent_id = Sistema Petrolífero-11
+# text = Rochas geradoras
+1	Rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	0	root	_	start_char=1069|end_char=1075
+2	geradoras	gerador	ADJ	_	Gender=Fem|Number=Plur	1	amod	_	start_char=1076|end_char=1085
+
+# sent_id = Sistema Petrolífero-12
+# text = Para que ocorra petrÃ³leo em quantidades significativas em bacias sedimentares, a presenÃ§a de matÃ©ria orgÃ¢nica depositada juntamente com os sedimentos que formam a rocha sedimentar Ã© fundamental..
+1	Para	para	SCONJ	_	_	3	mark	_	start_char=1087|end_char=1091
+2	que	que	SCONJ	_	_	3	mark	_	start_char=1092|end_char=1095
+3	ocorra	ocorrer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	advcl	_	start_char=1096|end_char=1102
+4	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	start_char=1103|end_char=1112
+5	em	em	ADP	_	_	6	case	_	start_char=1113|end_char=1115
+6	quantidades	quantidade	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	start_char=1116|end_char=1127
+7	significativas	significativo	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	start_char=1128|end_char=1142
+8	em	em	ADP	_	_	9	case	_	start_char=1143|end_char=1145
+9	bacias	bacia	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	start_char=1146|end_char=1152
+10	sedimentares	sedimentar	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	start_char=1153|end_char=1165
+11	,	,	PUNCT	_	_	3	punct	_	start_char=1165|end_char=1166
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	start_char=1167|end_char=1168
+13	presenÃ§a	presenÃ§a	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	start_char=1169|end_char=1178
+14	de	de	ADP	_	_	15	case	_	start_char=1179|end_char=1181
+15	matÃ©ria	matÃ©ria	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	start_char=1182|end_char=1190
+16	orgÃ¢nica	orgÃ¢nica	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	start_char=1191|end_char=1200
+17	depositada	depositar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	15	acl	_	start_char=1201|end_char=1211
+18	juntamente	juntamente	ADV	_	_	17	advmod	_	start_char=1212|end_char=1222
+19	com	com	ADP	_	_	21	case	_	start_char=1223|end_char=1226
+20	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	start_char=1227|end_char=1229
+21	sedimentos	sedimento	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	start_char=1230|end_char=1240
+22	que	que	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	23	nsubj	_	start_char=1241|end_char=1244
+23	formam	formar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	start_char=1245|end_char=1251
+24	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	start_char=1252|end_char=1253
+25	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	start_char=1254|end_char=1259
+26	sedimentar	sedimentar	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	start_char=1260|end_char=1270
+27	Ã©	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	start_char=1271|end_char=1273
+28	fundamental	fundamental	ADJ	_	Gender=Fem|Number=Sing	0	root	_	start_char=1274|end_char=1285
+29	.	.	PUNCT	_	_	28	punct	_	start_char=1285|end_char=1286
+30	.	.	PUNCT	_	_	28	punct	_	start_char=1286|end_char=1287
+
+# sent_id = Sistema Petrolífero-13
+# text = A matÃ©ria orgÃ¢nica que contÃ©m lipÃ­dios
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=1289|end_char=1290
+2	matÃ©ria	matÃ©ria	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	start_char=1291|end_char=1299
+3	orgÃ¢nica	orgÃ¢nica	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1300|end_char=1309
+4	que	que	SCONJ	_	_	5	mark	_	start_char=1310|end_char=1313
+5	contÃ©m	conter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=1314|end_char=1321
+6	lipÃ­dios	lipÃ­dios	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	start_char=1322|end_char=1331
+
+# sent_id = Sistema Petrolífero-14
+# text = Ã© derivada da fotossÃ­ntese de plÃ¢nctons e algas presentes no ambiente aquÃ¡tico ou de detritos de vegetais terrestres carreados para o local..
+1	Ã©	Ãaver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1333|end_char=1335
+2	derivada	derivar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	xcomp	_	start_char=1336|end_char=1344
+3-4	da	_	_	_	_	_	_	_	start_char=1345|end_char=1347
+3	de	de	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	fotossÃ­ntese	fotossÃ­ntese	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	start_char=1348|end_char=1361
+6	de	de	ADP	_	_	7	case	_	start_char=1362|end_char=1364
+7	plÃ¢nctons	plÃ¢nctons	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	start_char=1365|end_char=1375
+8	e	e	CCONJ	_	_	9	cc	_	start_char=1376|end_char=1377
+9	algas	alga	NOUN	_	Gender=Fem|Number=Plur	7	conj	_	start_char=1378|end_char=1383
+10	presentes	presente	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	start_char=1384|end_char=1393
+11-12	no	_	_	_	_	_	_	_	start_char=1394|end_char=1396
+11	em	em	ADP	_	_	13	case	_	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	start_char=1397|end_char=1405
+14	aquÃ¡tico	aquÃ¡tico	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	start_char=1406|end_char=1415
+15	ou	ou	CCONJ	_	_	17	cc	_	start_char=1416|end_char=1418
+16	de	de	ADP	_	_	17	case	_	start_char=1419|end_char=1421
+17	detritos	detrito	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	start_char=1422|end_char=1430
+18	de	de	ADP	_	_	19	case	_	start_char=1431|end_char=1433
+19	vegetais	vegetal	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	start_char=1434|end_char=1442
+20	terrestres	terrestre	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	start_char=1443|end_char=1453
+21	carreados	carrear	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	19	acl	_	start_char=1454|end_char=1463
+22	para	para	ADP	_	_	24	case	_	start_char=1464|end_char=1468
+23	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	start_char=1469|end_char=1470
+24	local	local	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	start_char=1471|end_char=1476
+25	.	.	PUNCT	_	_	1	punct	_	start_char=1476|end_char=1477
+26	.	.	PUNCT	_	_	1	punct	_	start_char=1477|end_char=1478
+
+# sent_id = Sistema Petrolífero-15
+# text = Esta matÃ©ria orgÃ¢nica enterrada juntamente com os sedimentos estÃ¡ na forma insolÃºvel, conhecida como querogÃªnio..
+1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	start_char=1480|end_char=1484
+2	matÃ©ria	matÃ©ria	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	start_char=1485|end_char=1493
+3	orgÃ¢nica	orgÃ¢nica	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=1494|end_char=1503
+4	enterrada	enterrar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	start_char=1504|end_char=1513
+5	juntamente	juntamente	ADV	_	_	4	advmod	_	start_char=1514|end_char=1524
+6	com	com	ADP	_	_	8	case	_	start_char=1525|end_char=1528
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	start_char=1529|end_char=1531
+8	sedimentos	sedimento	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	start_char=1532|end_char=1542
+9	estÃ¡	estÃ¡	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	start_char=1543|end_char=1548
+10-11	na	_	_	_	_	_	_	_	start_char=1549|end_char=1551
+10	em	em	ADP	_	_	12	case	_	_
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	forma	forma	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	start_char=1552|end_char=1557
+13	insolÃºvel	insolÃºvel	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	start_char=1558|end_char=1568
+14	,	,	PUNCT	_	_	15	punct	_	start_char=1568|end_char=1569
+15	conhecida	conhecer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	12	acl	_	start_char=1570|end_char=1579
+16	como	como	ADP	_	_	17	case	_	start_char=1580|end_char=1584
+17	querogÃªnio	querogÃªnio	NOUN	_	Gender=Masc|Number=Sing	15	xcomp	_	start_char=1585|end_char=1596
+18	.	.	PUNCT	_	_	4	punct	_	start_char=1596|end_char=1597
+19	.	.	PUNCT	_	_	4	punct	_	start_char=1597|end_char=1598
+
+# sent_id = Sistema Petrolífero-16
+# text = O ambiente de deposiÃ§Ã£o consiste principalmente de lagos, deltas e bacias oceÃ¢nicas..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=1600|end_char=1601
+2	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=1602|end_char=1610
+3	de	de	ADP	_	_	4	case	_	start_char=1611|end_char=1613
+4	deposiÃ§Ã£o	deposiÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=1614|end_char=1625
+5	consiste	consistir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1626|end_char=1634
+6	principalmente	principalmente	ADV	_	_	5	advmod	_	start_char=1635|end_char=1649
+7	de	de	ADP	_	_	8	case	_	start_char=1650|end_char=1652
+8	lagos	lago	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	start_char=1653|end_char=1658
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1658|end_char=1659
+10	deltas	delta	NOUN	_	Gender=Masc|Number=Plur	8	conj	_	start_char=1660|end_char=1666
+11	e	e	CCONJ	_	_	12	cc	_	start_char=1667|end_char=1668
+12	bacias	bacia	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	start_char=1669|end_char=1675
+13	oceÃ¢nicas	oceÃ¢nicas	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	start_char=1676|end_char=1686
+14	.	.	PUNCT	_	_	5	punct	_	start_char=1686|end_char=1687
+15	.	.	PUNCT	_	_	5	punct	_	start_char=1687|end_char=1688
+
+# sent_id = Sistema Petrolífero-17
+# text = [3]
+1	[3	[3	NUM	_	NumType=Card	0	root	_	start_char=1690|end_char=1692
+2	]	]	PUNCT	_	_	1	punct	_	start_char=1692|end_char=1693
+
+# sent_id = Sistema Petrolífero-18
+# text = O tipo de petrÃ³leo gerado depende do tipo de matÃ©ria orgÃ¢nica: vegetais terrestres carreados tendem a gerar gÃ¡s, enquanto que os plÃ¢nctons tendem a gerar Ã³leo..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=1695|end_char=1696
+2	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	start_char=1697|end_char=1701
+3	de	de	ADP	_	_	4	case	_	start_char=1702|end_char=1704
+4	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=1705|end_char=1714
+5	gerado	gerar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	start_char=1715|end_char=1721
+6	depende	depender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1722|end_char=1729
+7-8	do	_	_	_	_	_	_	_	start_char=1730|end_char=1732
+7	de	de	ADP	_	_	9	case	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	start_char=1733|end_char=1737
+10	de	de	ADP	_	_	11	case	_	start_char=1738|end_char=1740
+11	matÃ©ria	matÃ©ria	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	start_char=1741|end_char=1749
+12	orgÃ¢nica	orgÃ¢nica	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	start_char=1750|end_char=1759
+13	:	:	PUNCT	_	_	14	punct	_	start_char=1759|end_char=1760
+14	vegetais	vegetal	NOUN	_	Gender=Masc|Number=Plur	9	appos	_	start_char=1761|end_char=1769
+15	terrestres	terrestre	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	start_char=1770|end_char=1780
+16	carreados	carrear	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	14	acl	_	start_char=1781|end_char=1790
+17	tendem	tender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	start_char=1791|end_char=1797
+18	a	a	SCONJ	_	_	19	mark	_	start_char=1798|end_char=1799
+19	gerar	gerar	VERB	_	VerbForm=Inf	17	xcomp	_	start_char=1800|end_char=1805
+20	gÃ¡s	gÃm	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	start_char=1806|end_char=1810
+21	,	,	PUNCT	_	_	19	punct	_	start_char=1810|end_char=1811
+22	enquanto	enquanto	ADV	_	_	26	mark	_	start_char=1812|end_char=1820
+23	que	que	SCONJ	_	_	22	fixed	_	start_char=1821|end_char=1824
+24	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	start_char=1825|end_char=1827
+25	plÃ¢nctons	plÃ¢nctons	NOUN	_	Gender=Masc|Number=Plur	26	nsubj	_	start_char=1828|end_char=1838
+26	tendem	tender	VERB	_	ExtPos=AUX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	start_char=1839|end_char=1845
+27	a	a	SCONJ	_	_	28	mark	_	start_char=1846|end_char=1847
+28	gerar	gerar	VERB	_	VerbForm=Inf	26	xcomp	_	start_char=1848|end_char=1853
+29	Ã³leo	Ã³leo	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	start_char=1854|end_char=1859
+30	.	.	PUNCT	_	_	6	punct	_	start_char=1859|end_char=1860
+31	.	.	PUNCT	_	_	6	punct	_	start_char=1860|end_char=1861
+
+# sent_id = Sistema Petrolífero-19
+# text = [1]
+1	[1	[1	NUM	_	NumType=Card	0	root	_	start_char=1863|end_char=1865
+2	]	]	PUNCT	_	_	1	punct	_	start_char=1865|end_char=1866
+
+# sent_id = Sistema Petrolífero-20
+# text = Estas rochas, submetidas a condiÃ§Ãµes de temperatura e pressÃ£o geram o petrÃ³leo..
+1	Estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	start_char=1868|end_char=1873
+2	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	start_char=1874|end_char=1880
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1880|end_char=1881
+4	submetidas	submeter	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	2	acl	_	start_char=1882|end_char=1892
+5	a	a	ADP	_	_	6	case	_	start_char=1893|end_char=1894
+6	condiÃ§Ãµes	condiÃ§Ãµes	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	start_char=1895|end_char=1906
+7	de	de	ADP	_	_	8	case	_	start_char=1907|end_char=1909
+8	temperatura	temperatura	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	start_char=1910|end_char=1921
+9	e	e	CCONJ	_	_	10	cc	_	start_char=1922|end_char=1923
+10	pressÃ£o	pressÃ£o	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	start_char=1924|end_char=1932
+11	geram	gerar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1933|end_char=1938
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=1939|end_char=1940
+13	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	start_char=1941|end_char=1950
+14	.	.	PUNCT	_	_	11	punct	_	start_char=1950|end_char=1951
+15	.	.	PUNCT	_	_	11	punct	_	start_char=1951|end_char=1952
+
+# sent_id = Sistema Petrolífero-21
+# text = De modo geral, quanto maior for a quantidade de matÃ©ria orgÃ¢nica, maior a propensÃ£o Ã  geraÃ§Ã£o de grandes quantidades de petrÃ³leo, desde que o ambiente esteja livre da presenÃ§a de oxigÃªnio, destruidor do carbono e hidrogÃªnio originalmente presentes nos detritos em decomposiÃ§Ã£o..
+1	De	de	ADP	_	_	2	case	_	start_char=1954|end_char=1956
+2	modo	modo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	start_char=1957|end_char=1961
+3	geral	geral	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	start_char=1962|end_char=1967
+4	,	,	PUNCT	_	_	2	punct	_	start_char=1967|end_char=1968
+5	quanto	quanto	DET	_	Gender=Fem|Number=Sing|PronType=Int	6	det	_	start_char=1969|end_char=1975
+6	maior	grande	ADJ	_	Gender=Fem|Number=Sing	9	nsubj	_	start_char=1976|end_char=1981
+7	for	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	cop	_	start_char=1982|end_char=1985
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	start_char=1986|end_char=1987
+9	quantidade	quantidade	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=1988|end_char=1998
+10	de	de	ADP	_	_	11	case	_	start_char=1999|end_char=2001
+11	matÃ©ria	matÃ©ria	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	start_char=2002|end_char=2010
+12	orgÃ¢nica	orgÃ¢nica	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	start_char=2011|end_char=2020
+13	,	,	PUNCT	_	_	14	punct	_	start_char=2020|end_char=2021
+14	maior	grande	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	start_char=2022|end_char=2027
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	start_char=2028|end_char=2029
+16	propensÃ£o	propensÃ£o	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	start_char=2030|end_char=2040
+17	Ã	»	ADP	_	_	18	case	_	start_char=2041|end_char=2042
+18	geraÃ§Ã£o	geraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	start_char=2044|end_char=2053
+19	de	de	ADP	_	_	21	case	_	start_char=2054|end_char=2056
+20	grandes	grande	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	start_char=2057|end_char=2064
+21	quantidades	quantidade	NOUN	_	Gender=Fem|Number=Plur	18	nmod	_	start_char=2065|end_char=2076
+22	de	de	ADP	_	_	23	case	_	start_char=2077|end_char=2079
+23	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	start_char=2080|end_char=2089
+24	,	,	PUNCT	_	_	14	punct	_	start_char=2089|end_char=2090
+25	desde	desde	SCONJ	_	_	30	mark	_	start_char=2091|end_char=2096
+26	que	que	SCONJ	_	_	25	fixed	_	start_char=2097|end_char=2100
+27	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	start_char=2101|end_char=2102
+28	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	start_char=2103|end_char=2111
+29	esteja	estar	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	start_char=2112|end_char=2118
+30	livre	livre	ADJ	_	Gender=Masc|Number=Sing	9	advcl	_	start_char=2119|end_char=2124
+31-32	da	_	_	_	_	_	_	_	start_char=2125|end_char=2127
+31	de	de	ADP	_	_	33	case	_	_
+32	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
+33	presenÃ§a	presenÃ§a	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	start_char=2128|end_char=2137
+34	de	de	ADP	_	_	35	case	_	start_char=2138|end_char=2140
+35	oxigÃªnio	oxigÃªnio	NOUN	_	Gender=Masc|Number=Sing	33	nmod	_	start_char=2141|end_char=2150
+36	,	,	PUNCT	_	_	37	punct	_	start_char=2150|end_char=2151
+37	destruidor	destruidor	NOUN	_	Gender=Masc|Number=Sing	33	conj	_	start_char=2152|end_char=2162
+38-39	do	_	_	_	_	_	_	_	start_char=2163|end_char=2165
+38	de	de	ADP	_	_	40	case	_	_
+39	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
+40	carbono	carbono	NOUN	_	Gender=Masc|Number=Sing	37	nmod	_	start_char=2166|end_char=2173
+41	e	e	CCONJ	_	_	42	cc	_	start_char=2174|end_char=2175
+42	hidrogÃªnio	hidrogÃªnio	NOUN	_	Gender=Masc|Number=Sing	33	conj	_	start_char=2176|end_char=2187
+43	originalmente	originalmente	ADV	_	_	44	advmod	_	start_char=2188|end_char=2201
+44	presentes	presente	ADJ	_	Gender=Masc|Number=Plur	42	amod	_	start_char=2202|end_char=2211
+45-46	nos	_	_	_	_	_	_	_	start_char=2212|end_char=2215
+45	em	em	ADP	_	_	47	case	_	_
+46	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	47	det	_	_
+47	detritos	detrito	NOUN	_	Gender=Masc|Number=Plur	44	obl	_	start_char=2216|end_char=2224
+48	em	em	ADP	_	_	49	case	_	start_char=2225|end_char=2227
+49	decomposiÃ§Ã£o	decomposiÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	47	nmod	_	start_char=2228|end_char=2242
+50	.	.	PUNCT	_	_	9	punct	_	start_char=2242|end_char=2243
+51	.	.	PUNCT	_	_	9	punct	_	start_char=2243|end_char=2244
+
+# sent_id = Sistema Petrolífero-22
+# text = Para ser considerada uma rocha geradora, o teor de carbono orgÃ¢nico total deve ser superior a 1%.[1]
+1	Para	para	SCONJ	_	_	3	mark	_	start_char=2246|end_char=2250
+2	ser	ser	AUX	_	VerbForm=Inf	3	aux:pass	_	start_char=2251|end_char=2254
+3	considerada	considerar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	14	advcl	_	start_char=2255|end_char=2266
+4	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	start_char=2267|end_char=2270
+5	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	3	nsubj:pass	_	start_char=2271|end_char=2276
+6	geradora	gerador	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	start_char=2277|end_char=2285
+7	,	,	PUNCT	_	_	3	punct	_	start_char=2285|end_char=2286
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	start_char=2287|end_char=2288
+9	teor	teor	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	start_char=2289|end_char=2293
+10	de	de	ADP	_	_	11	case	_	start_char=2294|end_char=2296
+11	carbono	carbono	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	start_char=2297|end_char=2304
+12	orgÃ¢nico	orgÃ¢nico	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=2305|end_char=2314
+13	total	total	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	start_char=2315|end_char=2320
+14	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2321|end_char=2325
+15	ser	ser	AUX	_	VerbForm=Inf	16	cop	_	start_char=2326|end_char=2329
+16	superior	alto	ADJ	_	Gender=Masc|Number=Sing	14	xcomp	_	start_char=2330|end_char=2338
+17	a	a	ADP	_	_	18	case	_	start_char=2339|end_char=2340
+18	1%.[1	1%.[1	NUM	_	NumType=Card	16	obl	_	start_char=2341|end_char=2346
+19	]	]	PUNCT	_	_	14	punct	_	start_char=2346|end_char=2347
+
+# sent_id = Sistema Petrolífero-23
+# text = A condiÃ§Ã£o de ausÃªncia de oxigÃªnio pressupÃµe rochas de baixa permeabilidade..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=2349|end_char=2350
+2	condiÃ§Ã£o	condiÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	start_char=2351|end_char=2361
+3	de	de	ADP	_	_	4	case	_	start_char=2362|end_char=2364
+4	ausÃªncia	ausÃªncia	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=2365|end_char=2374
+5	de	de	ADP	_	_	6	case	_	start_char=2375|end_char=2377
+6	oxigÃªnio	oxigÃªnio	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	start_char=2378|end_char=2387
+7	pressupÃµe	pressupÃir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2388|end_char=2398
+8	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	start_char=2399|end_char=2405
+9	de	de	ADP	_	_	11	case	_	start_char=2406|end_char=2408
+10	baixa	baixo	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	start_char=2409|end_char=2414
+11	permeabilidade	permeabilidade	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	start_char=2415|end_char=2429
+12	.	.	PUNCT	_	_	7	punct	_	start_char=2429|end_char=2430
+13	.	.	PUNCT	_	_	7	punct	_	start_char=2430|end_char=2431
+
+# sent_id = Sistema Petrolífero-24
+# text = Usualmente a rocha geradora possui granulometria muito fina, como Ã© o caso de folhelhos ou calcilutitos..
+1	Usualmente	usualmente	ADV	_	_	5	advmod	_	start_char=2433|end_char=2443
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=2444|end_char=2445
+3	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	start_char=2446|end_char=2451
+4	geradora	gerador	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	start_char=2452|end_char=2460
+5	possui	possuir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2461|end_char=2467
+6	granulometria	granulometria	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	start_char=2468|end_char=2481
+7	muito	muito	ADV	_	_	8	advmod	_	start_char=2482|end_char=2487
+8	fina	fino	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	start_char=2488|end_char=2492
+9	,	,	PUNCT	_	_	5	punct	_	start_char=2492|end_char=2493
+10	como	como	SCONJ	_	_	11	mark	_	start_char=2494|end_char=2498
+11	Ã©	Ãaver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=2499|end_char=2501
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=2502|end_char=2503
+13	caso	caso	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	start_char=2504|end_char=2508
+14	de	de	ADP	_	_	15	case	_	start_char=2509|end_char=2511
+15	folhelhos	folhelho	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	start_char=2512|end_char=2521
+16	ou	ou	CCONJ	_	_	17	cc	_	start_char=2522|end_char=2524
+17	calcilutitos	calcilutito	NOUN	_	Gender=Masc|Number=Plur	15	conj	_	start_char=2525|end_char=2537
+18	.	.	PUNCT	_	_	5	punct	_	start_char=2537|end_char=2538
+19	.	.	PUNCT	_	_	5	punct	_	start_char=2538|end_char=2539
+
+# sent_id = Sistema Petrolífero-25
+# text = [1]
+1	[1	[1	NUM	_	NumType=Card	0	root	_	start_char=2541|end_char=2543
+2	]	]	PUNCT	_	_	1	punct	_	start_char=2543|end_char=2544
+
+# sent_id = Sistema Petrolífero-26
+# text = A formaÃ§Ã£o do petrÃ³leo na rocha geradora decorre da maturaÃ§Ã£o tÃ©rmica da rocha..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=2546|end_char=2547
+2	formaÃ§Ã£o	formaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	start_char=2548|end_char=2558
+3-4	do	_	_	_	_	_	_	_	start_char=2559|end_char=2561
+3	de	de	ADP	_	_	5	case	_	_
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=2562|end_char=2571
+6-7	na	_	_	_	_	_	_	_	start_char=2572|end_char=2574
+6	em	em	ADP	_	_	8	case	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	start_char=2575|end_char=2580
+9	geradora	gerador	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	start_char=2581|end_char=2589
+10	decorre	decorrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2590|end_char=2597
+11-12	da	_	_	_	_	_	_	_	start_char=2598|end_char=2600
+11	de	de	ADP	_	_	13	case	_	_
+12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	maturaÃ§Ã£o	maturaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	start_char=2601|end_char=2612
+14	tÃ©rmica	tÃ©rmica	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	start_char=2613|end_char=2621
+15-16	da	_	_	_	_	_	_	_	start_char=2622|end_char=2624
+15	de	de	ADP	_	_	17	case	_	_
+16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	start_char=2625|end_char=2630
+18	.	.	PUNCT	_	_	10	punct	_	start_char=2630|end_char=2631
+19	.	.	PUNCT	_	_	10	punct	_	start_char=2631|end_char=2632
+
+# sent_id = Sistema Petrolífero-27
+# text = O querogÃªnio Ã© quebrado quimicamente e passa a ser transformado em petrÃ³leo a partir de 60oC, gerando um Ã³leo viscoso..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=2634|end_char=2635
+2	querogÃªnio	querogÃªnio	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	start_char=2636|end_char=2647
+3	Ã©	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=2648|end_char=2650
+4	quebrado	quebrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=2651|end_char=2659
+5	quimicamente	quimicamente	ADV	_	_	4	advmod	_	start_char=2660|end_char=2672
+6	e	e	CCONJ	_	_	7	cc	_	start_char=2673|end_char=2674
+7	passa	passar	VERB	_	ExtPos=AUX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=2675|end_char=2680
+8	a	a	SCONJ	_	_	10	mark	_	start_char=2681|end_char=2682
+9	ser	ser	AUX	_	VerbForm=Inf	10	aux:pass	_	start_char=2683|end_char=2686
+10	transformado	transformar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	xcomp	_	start_char=2687|end_char=2699
+11	em	em	ADP	_	_	12	case	_	start_char=2700|end_char=2702
+12	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	start_char=2703|end_char=2712
+13	a	a	ADP	_	ExtPos=ADP	16	case	_	start_char=2713|end_char=2714
+14	partir	partir	NOUN	_	_	13	fixed	_	start_char=2715|end_char=2721
+15	de	de	ADP	_	_	13	fixed	_	start_char=2722|end_char=2724
+16	60oC	60oC	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	start_char=2725|end_char=2729
+17	,	,	PUNCT	_	_	18	punct	_	start_char=2729|end_char=2730
+18	gerando	gerar	VERB	_	VerbForm=Ger	10	advcl	_	start_char=2731|end_char=2738
+19	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	start_char=2739|end_char=2741
+20	Ã³leo	Ã³leo	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	start_char=2742|end_char=2747
+21	viscoso	viscoso	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	start_char=2748|end_char=2755
+22	.	.	PUNCT	_	_	4	punct	_	start_char=2755|end_char=2756
+23	.	.	PUNCT	_	_	4	punct	_	start_char=2756|end_char=2757
+
+# sent_id = Sistema Petrolífero-28
+# text = Com o aumento da temperatura, aumenta a fluidez do Ã³leo e o teor de gÃ¡s presente..
+1	Com	com	ADP	_	_	3	case	_	start_char=2759|end_char=2762
+2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	start_char=2763|end_char=2764
+3	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	start_char=2765|end_char=2772
+4-5	da	_	_	_	_	_	_	_	start_char=2773|end_char=2775
+4	de	de	ADP	_	_	6	case	_	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	temperatura	temperatura	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	start_char=2776|end_char=2787
+7	,	,	PUNCT	_	_	3	punct	_	start_char=2787|end_char=2788
+8	aumenta	aumentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2789|end_char=2796
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=2797|end_char=2798
+10	fluidez	fluidez	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	start_char=2799|end_char=2806
+11-12	do	_	_	_	_	_	_	_	start_char=2807|end_char=2809
+11	de	de	ADP	_	_	13	case	_	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Ã³leo	Ã³leo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	start_char=2810|end_char=2815
+14	e	e	CCONJ	_	_	16	cc	_	start_char=2816|end_char=2817
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=2818|end_char=2819
+16	teor	teor	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	start_char=2820|end_char=2824
+17	de	de	ADP	_	_	18	case	_	start_char=2825|end_char=2827
+18	gÃ¡s	gÃm	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	start_char=2828|end_char=2832
+19	presente.	presente.	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	start_char=2833|end_char=2842
+20	.	.	PUNCT	_	_	8	punct	_	start_char=2842|end_char=2843
+
+# sent_id = Sistema Petrolífero-29
+# text = O pico de geraÃ§Ã£o ocorre a 90oC..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=2845|end_char=2846
+2	pico	pico	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=2847|end_char=2851
+3	de	de	ADP	_	_	4	case	_	start_char=2852|end_char=2854
+4	geraÃ§Ã£o	geraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=2855|end_char=2864
+5	ocorre	ocorrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2865|end_char=2871
+6	a	a	ADP	_	_	7	case	_	start_char=2872|end_char=2873
+7	90oC..	90oC..	NUM	_	NumType=Card	5	obl	_	start_char=2874|end_char=2880
+
+# sent_id = Sistema Petrolífero-30
+# text = A partir de 120oC, o volume predominante Ã© o de gÃ¡s, sendo o Ã³leo gerado um condensado..
+1	A	a	ADP	_	ExtPos=ADP	4	case	_	start_char=2882|end_char=2883
+2	partir	partir	NOUN	_	_	1	fixed	_	start_char=2884|end_char=2890
+3	de	de	ADP	_	_	1	fixed	_	start_char=2891|end_char=2893
+4	120oC	120oC	NUM	_	NumType=Card	9	obl	_	start_char=2894|end_char=2899
+5	,	,	PUNCT	_	_	2	punct	_	start_char=2899|end_char=2900
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	start_char=2901|end_char=2902
+7	volume	volume	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	start_char=2903|end_char=2909
+8	predominante	predominante	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	start_char=2910|end_char=2922
+9	Ã©	Ãaver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2923|end_char=2925
+10	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	9	obj	_	start_char=2926|end_char=2927
+11	de	de	ADP	_	_	12	case	_	start_char=2928|end_char=2930
+12	gÃ¡s	gÃm	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	start_char=2931|end_char=2935
+13	,	,	PUNCT	_	_	16	punct	_	start_char=2935|end_char=2936
+14	sendo	ser	AUX	_	VerbForm=Ger	16	cop	_	start_char=2937|end_char=2942
+15	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	start_char=2943|end_char=2944
+16	Ã³leo	Ã³leo	NOUN	_	Gender=Masc|Number=Sing	9	advcl	_	start_char=2945|end_char=2950
+17	gerado	gerar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	16	acl	_	start_char=2951|end_char=2957
+18	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	start_char=2958|end_char=2960
+19	condensado	condensado	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	start_char=2961|end_char=2971
+20	.	.	PUNCT	_	_	9	punct	_	start_char=2971|end_char=2972
+21	.	.	PUNCT	_	_	9	punct	_	start_char=2972|end_char=2973
+
+# sent_id = Sistema Petrolífero-31
+# text = Temperaturas superiores a esta geram apenas gÃ¡s.[1]MigraÃ§Ã£o do petrÃ³leo MigraÃ§Ã£o secundÃ¡ria do petrÃ³leo pelo espaÃ§o poroso
+1	Temperaturas	temperatura	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	start_char=2975|end_char=2987
+2	superiores	alto	ADJ	_	Gender=Fem|Number=Plur	1	amod	_	start_char=2988|end_char=2998
+3	a	a	ADP	_	_	4	case	_	start_char=2999|end_char=3000
+4	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	2	obl	_	start_char=3001|end_char=3005
+5	geram	gerar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3006|end_char=3011
+6	apenas	apenas	ADV	_	_	7	advmod	_	start_char=3012|end_char=3018
+7	gÃ¡s.	gÃis	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	start_char=3019|end_char=3024
+8	[1	[1	NUM	_	NumType=Card	7	nummod	_	start_char=3024|end_char=3026
+9	]	]	PUNCT	_	_	10	punct	_	start_char=3026|end_char=3027
+10	MigraÃ§Ã£o	MigraÃ§Ã£o	PROPN	_	Gender=Masc|Number=Sing	15	nsubj	_	start_char=3028|end_char=3038
+11-12	do	_	_	_	_	_	_	_	start_char=3039|end_char=3041
+11	de	de	ADP	_	_	13	case	_	_
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	start_char=3042|end_char=3051
+14	MigraÃ§Ã£o	MigraÃ§Ã£o	PROPN	_	Gender=Masc|Number=Sing	13	nmod	_	start_char=3052|end_char=3062
+15	secundÃ¡ria	secundÃ¡ria	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	5	conj	_	start_char=3063|end_char=3074
+16-17	do	_	_	_	_	_	_	_	start_char=3075|end_char=3077
+16	de	de	ADP	_	_	18	case	_	_
+17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	start_char=3078|end_char=3087
+19-20	pelo	_	_	_	_	_	_	_	start_char=3088|end_char=3092
+19	por	por	ADP	_	_	21	case	_	_
+20	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	espaÃ§o	espaÃ§o	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	start_char=3093|end_char=3100
+22	poroso	poroso	ADJ	_	Gender=Masc|Number=Sing	21	amod	_	start_char=3101|end_char=3107
+
+# sent_id = Sistema Petrolífero-32
+# text = Ã medida em que o querogÃªnio Ã© transformado em petrÃ³leo, o volume ocupado por este material Ã© maior que o volume original de querogÃªnio..
+1	Ã	Ã	ADP	_	_	2	case	_	start_char=3109|end_char=3111
+2	medida	medida	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	start_char=3112|end_char=3118
+3	em	em	ADP	_	_	4	case	_	start_char=3119|end_char=3121
+4	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	8	obl	_	start_char=3122|end_char=3125
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	start_char=3126|end_char=3127
+6	querogÃªnio	querogÃªnio	NOUN	_	Gender=Masc|Number=Sing	8	nsubj:pass	_	start_char=3128|end_char=3139
+7	Ã©	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=3140|end_char=3142
+8	transformado	transformar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	19	advcl	_	start_char=3143|end_char=3155
+9	em	em	ADP	_	_	10	case	_	start_char=3156|end_char=3158
+10	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	start_char=3159|end_char=3168
+11	,	,	PUNCT	_	_	8	punct	_	start_char=3168|end_char=3169
+12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=3170|end_char=3171
+13	volume	volume	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	start_char=3172|end_char=3178
+14	ocupado	ocupar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	13	acl	_	start_char=3179|end_char=3186
+15	por	por	ADP	_	_	17	case	_	start_char=3187|end_char=3190
+16	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	start_char=3191|end_char=3195
+17	material	material	NOUN	_	Gender=Masc|Number=Sing	14	obl:agent	_	start_char=3196|end_char=3204
+18	Ã©	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=3205|end_char=3207
+19	maior	grande	ADJ	_	Gender=Masc|Number=Sing	0	root	_	start_char=3208|end_char=3213
+20	que	que	SCONJ	_	_	22	mark	_	start_char=3214|end_char=3217
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	start_char=3218|end_char=3219
+22	volume	volume	NOUN	_	Gender=Masc|Number=Sing	19	advcl	_	start_char=3220|end_char=3226
+23	original	original	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	start_char=3227|end_char=3235
+24	de	de	ADP	_	_	25	case	_	start_char=3236|end_char=3238
+25	querogÃªnio	querogÃªnio	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	start_char=3239|end_char=3250
+26	.	.	PUNCT	_	_	19	punct	_	start_char=3250|end_char=3251
+27	.	.	PUNCT	_	_	19	punct	_	start_char=3251|end_char=3252
+
+# sent_id = Sistema Petrolífero-33
+# text = Isto gera um aumento de pressÃ£o na rocha, gerando um fraturamento da mesma, o que gera canais de migraÃ§Ã£o para regiÃµes de pressÃ£o mais baixa..
+1	Isto	isto	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	start_char=3254|end_char=3258
+2	gera	gerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3259|end_char=3263
+3	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	start_char=3264|end_char=3266
+4	aumento	aumento	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	start_char=3267|end_char=3274
+5	de	de	ADP	_	_	6	case	_	start_char=3275|end_char=3277
+6	pressÃ£o	pressÃ£o	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=3278|end_char=3286
+7-8	na	_	_	_	_	_	_	_	start_char=3287|end_char=3289
+7	em	em	ADP	_	_	9	case	_	_
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	start_char=3290|end_char=3295
+10	,	,	PUNCT	_	_	11	punct	_	start_char=3295|end_char=3296
+11	gerando	gerar	VERB	_	VerbForm=Ger	2	advcl	_	start_char=3297|end_char=3304
+12	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	start_char=3305|end_char=3307
+13	fraturamento	fraturamento	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	start_char=3308|end_char=3320
+14-15	da	_	_	_	_	_	_	_	start_char=3321|end_char=3323
+14	de	de	ADP	_	_	16	case	_	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	mesma	mesmo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	13	nmod	_	start_char=3324|end_char=3329
+17	,	,	PUNCT	_	_	11	punct	_	start_char=3329|end_char=3330
+18	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	11	appos	_	start_char=3331|end_char=3332
+19	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	start_char=3333|end_char=3336
+20	gera	gerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=3337|end_char=3341
+21	canais	canal	NOUN	_	Gender=Masc|Number=Plur	20	obj	_	start_char=3342|end_char=3348
+22	de	de	ADP	_	_	23	case	_	start_char=3349|end_char=3351
+23	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	start_char=3352|end_char=3362
+24	para	para	ADP	_	_	25	case	_	start_char=3363|end_char=3367
+25	regiÃµes	regiÃµes	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	start_char=3368|end_char=3376
+26	de	de	ADP	_	_	27	case	_	start_char=3377|end_char=3379
+27	pressÃ£o	pressÃ£o	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	start_char=3380|end_char=3388
+28	mais	mais	ADV	_	_	29	advmod	_	start_char=3389|end_char=3393
+29	baixa	baixo	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	start_char=3394|end_char=3399
+30	.	.	PUNCT	_	_	2	punct	_	start_char=3399|end_char=3400
+31	.	.	PUNCT	_	_	2	punct	_	start_char=3400|end_char=3401
+
+# sent_id = Sistema Petrolífero-34
+# text = Este transporte dos fluidos a partir da rocha geradora atÃ© um local poroso de menor pressÃ£o, com caracterÃ­sticas selantes onde o petrÃ³leo serÃ¡ acumulado denomina-se migraÃ§Ã£o..
+1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=3403|end_char=3407
+2	transporte	transporte	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3408|end_char=3418
+3-4	dos	_	_	_	_	_	_	_	start_char=3419|end_char=3422
+3	de	de	ADP	_	_	5	case	_	_
+4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	fluidos	fluido	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	start_char=3423|end_char=3430
+6	a	a	ADP	_	_	10	case	_	start_char=3431|end_char=3432
+7	partir	partir	VERB	_	VerbForm=Inf	6	fixed	_	start_char=3433|end_char=3439
+8-9	da	_	_	_	_	_	_	_	start_char=3440|end_char=3442
+8	de	de	ADP	_	_	6	fixed	_	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=3443|end_char=3448
+11	geradora	gerador	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	start_char=3449|end_char=3457
+12	atÃ©	atÃ©	ADP	_	_	14	case	_	start_char=3458|end_char=3462
+13	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	start_char=3463|end_char=3465
+14	local	local	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	start_char=3466|end_char=3471
+15	poroso	poroso	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	start_char=3472|end_char=3478
+16	de	de	ADP	_	_	18	case	_	start_char=3479|end_char=3481
+17	menor	pequeno	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	start_char=3482|end_char=3487
+18	pressÃ£o	pressÃ£o	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=3488|end_char=3496
+19	,	,	PUNCT	_	_	21	punct	_	start_char=3496|end_char=3497
+20	com	com	ADP	_	_	21	case	_	start_char=3498|end_char=3501
+21	caracterÃ­sticas	caracterÃ­sticas	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	start_char=3502|end_char=3518
+22	selantes	selante	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	start_char=3519|end_char=3527
+23	onde	onde	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	28	obl	_	start_char=3528|end_char=3532
+24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	start_char=3533|end_char=3534
+25	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	28	nsubj	_	start_char=3535|end_char=3544
+26	serÃ¡	serÃ¡	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	start_char=3545|end_char=3550
+27	acumulado	acumular	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	25	acl	_	start_char=3551|end_char=3560
+28-29	denomina-se	_	_	_	_	_	_	_	start_char=3561|end_char=3572
+28	denomina	denominar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
+29	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	expl	_	_
+30	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	28	xcomp	_	start_char=3573|end_char=3583
+31	.	.	PUNCT	_	_	28	punct	_	start_char=3583|end_char=3584
+32	.	.	PUNCT	_	_	2	punct	_	start_char=3584|end_char=3585
+
+# sent_id = Sistema Petrolífero-35
+# text = O processo de emigraÃ§Ã£o do fluido da rocha geradora
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=3587|end_char=3588
+2	processo	processo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=3589|end_char=3597
+3	de	de	ADP	_	_	4	case	_	start_char=3598|end_char=3600
+4	emigraÃ§Ã£o	emigraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=3601|end_char=3612
+5-6	do	_	_	_	_	_	_	_	start_char=3613|end_char=3615
+5	de	de	ADP	_	_	7	case	_	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	fluido	fluido	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	start_char=3616|end_char=3622
+8-9	da	_	_	_	_	_	_	_	start_char=3623|end_char=3625
+8	de	de	ADP	_	_	10	case	_	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	start_char=3626|end_char=3631
+11	geradora	gerador	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	start_char=3632|end_char=3640
+
+# sent_id = Sistema Petrolífero-36
+# text = Ã© chamado de migraÃ§Ã£o primÃ¡ria..
+1	Ã©	ser	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux:pass	_	start_char=3642|end_char=3644
+2	chamado	chamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	start_char=3645|end_char=3652
+3	de	de	ADP	_	_	4	case	_	start_char=3653|end_char=3655
+4	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	start_char=3656|end_char=3666
+5	primÃ¡ria.	primÃ¡ria.	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	4	amod	_	start_char=3667|end_char=3677
+6	.	.	PUNCT	_	_	2	punct	_	start_char=3677|end_char=3678
+
+# sent_id = Sistema Petrolífero-37
+# text = O processo de escoamento atÃ© a regiÃ£o de acumulaÃ§Ã£o (reservatÃ³rio) Ã© conhecido como migraÃ§Ã£o secundÃ¡ria..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=3680|end_char=3681
+2	processo	processo	NOUN	_	Gender=Masc|Number=Sing	14	nsubj:pass	_	start_char=3682|end_char=3690
+3	de	de	ADP	_	_	4	case	_	start_char=3691|end_char=3693
+4	escoamento	escoamento	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=3694|end_char=3704
+5	atÃ©	atÃ©	ADP	_	_	7	case	_	start_char=3705|end_char=3709
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	start_char=3710|end_char=3711
+7	regiÃ£o	regiÃ£o	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=3712|end_char=3719
+8	de	de	ADP	_	_	9	case	_	start_char=3720|end_char=3722
+9	acumulaÃ§Ã£o	acumulaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	start_char=3723|end_char=3735
+10	(	(	PUNCT	_	_	11	punct	_	start_char=3736|end_char=3737
+11	reservatÃ³rio	reservatÃ³rio	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	start_char=3737|end_char=3750
+12	)	)	PUNCT	_	_	11	punct	_	start_char=3750|end_char=3751
+13	Ã©	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	start_char=3752|end_char=3754
+14	conhecido	conhecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	start_char=3755|end_char=3764
+15	como	como	ADP	_	_	16	case	_	start_char=3765|end_char=3769
+16	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	14	xcomp	_	start_char=3770|end_char=3780
+17	secundÃ¡ria	secundÃ¡ria	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	14	xcomp	_	start_char=3781|end_char=3792
+18	.	.	PUNCT	_	_	14	punct	_	start_char=3792|end_char=3793
+19	.	.	PUNCT	_	_	14	punct	_	start_char=3793|end_char=3794
+
+# sent_id = Sistema Petrolífero-38
+# text = O mecanismo de migraÃ§Ã£o secundÃ¡ria decorre do empuxo dos fluidos do petrÃ³leo em relaÃ§Ã£o Ã  Ã¡gua presente nos poros da formaÃ§Ã£o.[3]
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=3796|end_char=3797
+2	mecanismo	mecanismo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	start_char=3798|end_char=3807
+3	de	de	ADP	_	_	4	case	_	start_char=3808|end_char=3810
+4	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=3811|end_char=3821
+5	secundÃ¡ria	secundÃ¡ria	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	start_char=3822|end_char=3833
+6	decorre	decorrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	xcomp	_	start_char=3834|end_char=3841
+7-8	do	_	_	_	_	_	_	_	start_char=3842|end_char=3844
+7	de	de	ADP	_	_	9	case	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	empuxo	empuxo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	start_char=3845|end_char=3851
+10-11	dos	_	_	_	_	_	_	_	start_char=3852|end_char=3855
+10	de	de	ADP	_	_	12	case	_	_
+11	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	fluidos	fluido	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	start_char=3856|end_char=3863
+13-14	do	_	_	_	_	_	_	_	start_char=3864|end_char=3866
+13	de	de	ADP	_	_	15	case	_	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	start_char=3867|end_char=3876
+16	em	em	ADP	_	_	17	case	_	start_char=3877|end_char=3879
+17	relaÃ§Ã£o	relaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	start_char=3880|end_char=3889
+18	Ã	Ã	PUNCT	_	_	19	punct	_	start_char=3890|end_char=3891
+19	Ã¡gua	Ã¡gua	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	start_char=3893|end_char=3898
+20	presente	presente	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	start_char=3899|end_char=3907
+21-22	nos	_	_	_	_	_	_	_	start_char=3908|end_char=3911
+21	em	em	ADP	_	_	23	case	_	_
+22	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	poros	poro	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	start_char=3912|end_char=3917
+24-25	da	_	_	_	_	_	_	_	start_char=3918|end_char=3920
+24	de	de	ADP	_	_	26	case	_	_
+25	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	formaÃ§Ã£o.	formaÃ§Ã£o.	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	start_char=3921|end_char=3932
+27	[3	[3	NUM	_	NumType=Card	26	nummod	_	start_char=3932|end_char=3934
+28	]	]	PUNCT	_	_	6	punct	_	start_char=3934|end_char=3935
+
+# sent_id = Sistema Petrolífero-39
+# text = A migraÃ§Ã£o cessa quando a pressÃ£o capilar do sistema poroso excede a forÃ§a de empuxo na direÃ§Ã£o das camadas superiores..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=3937|end_char=3938
+2	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	start_char=3939|end_char=3949
+3	cessa	cessar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3950|end_char=3955
+4	quando	quando	ADV	_	_	12	advmod	_	start_char=3956|end_char=3962
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	start_char=3963|end_char=3964
+6	pressÃ£o	pressÃ£o	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	start_char=3965|end_char=3973
+7	capilar	capilar	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	start_char=3974|end_char=3981
+8-9	do	_	_	_	_	_	_	_	start_char=3982|end_char=3984
+8	de	de	ADP	_	_	10	case	_	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	start_char=3985|end_char=3992
+11	poroso	poroso	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	start_char=3993|end_char=3999
+12	excede	excedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=4000|end_char=4006
+13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	start_char=4007|end_char=4008
+14	forÃ§a	forÃ§a	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	start_char=4009|end_char=4015
+15	de	de	ADP	_	_	16	case	_	start_char=4016|end_char=4018
+16	empuxo	empuxo	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	start_char=4019|end_char=4025
+17-18	na	_	_	_	_	_	_	_	start_char=4026|end_char=4028
+17	em	em	ADP	_	_	19	case	_	_
+18	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	direÃ§Ã£o	direÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	start_char=4029|end_char=4038
+20-21	das	_	_	_	_	_	_	_	start_char=4039|end_char=4042
+20	de	de	ADP	_	_	22	case	_	_
+21	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	camadas	camada	NOUN	_	Gender=Fem|Number=Plur	19	nmod	_	start_char=4043|end_char=4050
+23	superiores	alto	ADJ	_	Gender=Fem|Number=Plur	22	amod	_	start_char=4051|end_char=4061
+24	.	.	PUNCT	_	_	3	punct	_	start_char=4061|end_char=4062
+25	.	.	PUNCT	_	_	3	punct	_	start_char=4062|end_char=4063
+
+# sent_id = Sistema Petrolífero-40
+# text = [3]
+1	[3	[3	NUM	_	NumType=Card	0	root	_	start_char=4065|end_char=4067
+2	]	]	PUNCT	_	_	1	punct	_	start_char=4067|end_char=4068
+
+# sent_id = Sistema Petrolífero-41
+# text = Os caminhos de migraÃ§Ã£o constituem-se das fraturas, falhas, rochas carreadoras (rochas com porosidade e permeabilidade suficientes para permitir o transporte)..
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	start_char=4070|end_char=4072
+2	caminhos	caminho	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	start_char=4073|end_char=4081
+3	de	de	ADP	_	_	4	case	_	start_char=4082|end_char=4084
+4	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	start_char=4085|end_char=4095
+5-6	constituem-se	_	_	_	_	_	_	_	start_char=4096|end_char=4109
+5	constituem	constituir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	expl	_	_
+7-8	das	_	_	_	_	_	_	_	start_char=4110|end_char=4113
+7	de	de	ADP	_	_	9	case	_	_
+8	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	fraturas	fratura	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	start_char=4114|end_char=4122
+10	,	,	PUNCT	_	_	11	punct	_	start_char=4122|end_char=4123
+11	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	9	conj	_	start_char=4124|end_char=4130
+12	,	,	PUNCT	_	_	13	punct	_	start_char=4130|end_char=4131
+13	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	9	conj	_	start_char=4132|end_char=4138
+14	carreadoras	carreadora	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	start_char=4139|end_char=4150
+15	(	(	PUNCT	_	_	16	punct	_	start_char=4151|end_char=4152
+16	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	9	appos	_	start_char=4152|end_char=4158
+17	com	com	ADP	_	_	18	case	_	start_char=4159|end_char=4162
+18	porosidade	porosidade	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	start_char=4163|end_char=4173
+19	e	e	CCONJ	_	_	20	cc	_	start_char=4174|end_char=4175
+20	permeabilidade	permeabilidade	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	start_char=4176|end_char=4190
+21	suficientes	suficiente	ADJ	_	Gender=Fem|Number=Plur	20	amod	_	start_char=4191|end_char=4202
+22	para	para	SCONJ	_	_	23	mark	_	start_char=4203|end_char=4207
+23	permitir	permitir	VERB	_	VerbForm=Inf	5	advcl	_	start_char=4208|end_char=4216
+24	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	start_char=4217|end_char=4218
+25	transporte	transporte	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	start_char=4219|end_char=4229
+26	)	)	PUNCT	_	_	16	punct	_	start_char=4229|end_char=4230
+27	.	.	PUNCT	_	_	5	punct	_	start_char=4230|end_char=4231
+28	.	.	PUNCT	_	_	5	punct	_	start_char=4231|end_char=4232
+
+# sent_id = Sistema Petrolífero-42
+# text = O petrÃ³leo gerado percorre estes caminhos atÃ© encontrar uma trapa..
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=4234|end_char=4235
+2	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	start_char=4236|end_char=4245
+3	gerado	gerar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	start_char=4246|end_char=4252
+4	percorre	percorrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	csubj	_	start_char=4253|end_char=4261
+5	estes	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	start_char=4262|end_char=4267
+6	caminhos	caminho	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	start_char=4268|end_char=4276
+7	atÃ©	atÃr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4277|end_char=4281
+8	encontrar	encontrar	VERB	_	VerbForm=Inf	7	xcomp	_	start_char=4282|end_char=4291
+9	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	start_char=4292|end_char=4295
+10	trapa	trapa	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	start_char=4296|end_char=4301
+11	.	.	PUNCT	_	_	7	punct	_	start_char=4301|end_char=4302
+12	.	.	PUNCT	_	_	7	punct	_	start_char=4302|end_char=4303
+
+# sent_id = Sistema Petrolífero-43
+# text = [1]Trapa Trapa estrutural: dobra anticlinal..
+1	[1	[1	NUM	_	NumType=Card	3	parataxis	_	start_char=4305|end_char=4307
+2	]	]	PUNCT	_	_	3	punct	_	start_char=4307|end_char=4308
+3	Trapa	Trapa	PROPN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	0	root	_	start_char=4309|end_char=4314
+4	Trapa	Trapa	PROPN	_	Number=Sing	3	flat:name	_	start_char=4315|end_char=4320
+5	estrutural	estrutural	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	start_char=4321|end_char=4331
+6	:	:	PUNCT	_	_	7	punct	_	start_char=4331|end_char=4332
+7	dobra	dobra	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	start_char=4333|end_char=4338
+8	anticlinal	anticlinal	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	start_char=4339|end_char=4349
+9	.	.	PUNCT	_	_	3	punct	_	start_char=4349|end_char=4350
+10	.	.	PUNCT	_	_	3	punct	_	start_char=4350|end_char=4351
+
+# sent_id = Sistema Petrolífero-44
+# text = Trapa estrutural: falha geolÃ³gica
+1	Trapa	trapa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=4353|end_char=4358
+2	estrutural	estrutural	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	start_char=4359|end_char=4369
+3	:	:	PUNCT	_	_	4	punct	_	start_char=4369|end_char=4370
+4	falha	falha	NOUN	_	Gender=Fem|Number=Sing	1	appos	_	start_char=4371|end_char=4376
+5	geolÃ³gica	geolÃ³gica	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	start_char=4377|end_char=4387
+
+# sent_id = Sistema Petrolífero-45
+# text = A trapa ou armadilha pode ser do tipo estrutural , estratigrÃ¡fica ou hidrodinÃ¢mica..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4389|end_char=4390
+2	trapa	trapa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	start_char=4391|end_char=4396
+3	ou	ou	CCONJ	_	_	4	cc	_	start_char=4397|end_char=4399
+4	armadilha	armadilha	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	start_char=4400|end_char=4409
+5	pode	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4410|end_char=4414
+6	ser	ser	AUX	_	VerbForm=Inf	9	cop	_	start_char=4415|end_char=4418
+7-8	do	_	_	_	_	_	_	_	start_char=4419|end_char=4421
+7	de	de	ADP	_	_	9	case	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	5	xcomp	_	start_char=4422|end_char=4426
+10	estrutural	estrutural	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	start_char=4427|end_char=4437
+11	,	,	PUNCT	_	_	12	punct	_	start_char=4438|end_char=4439
+12	estratigrÃ¡fica	estratigrÃ¡fica	ADJ	_	Gender=Fem|Number=Sing	10	conj	_	start_char=4440|end_char=4455
+13	ou	ou	CCONJ	_	_	14	cc	_	start_char=4456|end_char=4458
+14	hidrodinÃ¢mica	hidrodinÃ¢mica	ADJ	_	Gender=Fem|Number=Sing	10	conj	_	start_char=4459|end_char=4473
+15	.	.	PUNCT	_	_	5	punct	_	start_char=4473|end_char=4474
+16	.	.	PUNCT	_	_	5	punct	_	start_char=4474|end_char=4475
+
+# sent_id = Sistema Petrolífero-46
+# text = [3]
+1	[3	[3	NUM	_	NumType=Card	0	root	_	start_char=4477|end_char=4479
+2	]	]	PUNCT	_	_	1	punct	_	start_char=4479|end_char=4480
+
+# sent_id = Sistema Petrolífero-47
+# text = Uma armadilha estrutural consiste de configuraÃ§Ãµes geomÃ©tricas de estruturas de rochas que acumulam o petrÃ³leo, nÃ£o permitindo sua fuga..
+1	Uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=4482|end_char=4485
+2	armadilha	armadilha	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	start_char=4486|end_char=4495
+3	estrutural	estrutural	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	start_char=4496|end_char=4506
+4	consiste	consistir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4507|end_char=4515
+5	de	de	ADP	_	_	6	case	_	start_char=4516|end_char=4518
+6	configuraÃ§Ãµes	configuraÃ§Ãµes	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	start_char=4519|end_char=4534
+7	geomÃ©tricas	geomÃ©tricas	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	start_char=4535|end_char=4547
+8	de	de	ADP	_	_	9	case	_	start_char=4548|end_char=4550
+9	estruturas	estrutura	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	start_char=4551|end_char=4561
+10	de	de	ADP	_	_	11	case	_	start_char=4562|end_char=4564
+11	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	start_char=4565|end_char=4571
+12	que	que	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	13	nsubj	_	start_char=4572|end_char=4575
+13	acumulam	acumular	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=4576|end_char=4584
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	start_char=4585|end_char=4586
+15	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	start_char=4587|end_char=4596
+16	,	,	PUNCT	_	_	18	punct	_	start_char=4596|end_char=4597
+17	nÃ£o	nÃ£o	ADV	_	_	18	advmod	_	start_char=4598|end_char=4602
+18	permitindo	permitir	VERB	_	VerbForm=Ger	13	advcl	_	start_char=4603|end_char=4613
+19	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	20	det	_	start_char=4614|end_char=4617
+20	fuga	fuga	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	start_char=4618|end_char=4622
+21	.	.	PUNCT	_	_	4	punct	_	start_char=4622|end_char=4623
+22	.	.	PUNCT	_	_	4	punct	_	start_char=4623|end_char=4624
+
+# sent_id = Sistema Petrolífero-48
+# text = Podem ser domos salinos, flancos de homoclinais ou ainda, diversos tipos de superposiÃ§Ã£o de dobras e falhas..
+1	Podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4626|end_char=4631
+2	ser	ser	AUX	_	VerbForm=Inf	3	cop	_	start_char=4632|end_char=4635
+3	domos	domo	NOUN	_	Gender=Masc|Number=Plur	1	xcomp	_	start_char=4636|end_char=4641
+4	salinos	salino	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	start_char=4642|end_char=4649
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4649|end_char=4650
+6	flancos	flanco	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	start_char=4651|end_char=4658
+7	de	de	ADP	_	_	8	case	_	start_char=4659|end_char=4661
+8	homoclinais	homoclinal	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	start_char=4662|end_char=4673
+9	ou	ou	CCONJ	_	_	13	cc	_	start_char=4674|end_char=4676
+10	ainda	ainda	ADV	_	_	13	advmod	_	start_char=4677|end_char=4682
+11	,	,	PUNCT	_	_	13	punct	_	start_char=4682|end_char=4683
+12	diversos	diversos	DET	_	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	start_char=4684|end_char=4692
+13	tipos	tipo	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	start_char=4693|end_char=4698
+14	de	de	ADP	_	_	15	case	_	start_char=4699|end_char=4701
+15	superposiÃ§Ã£o	superposiÃ§Ã£o	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	start_char=4702|end_char=4716
+16	de	de	ADP	_	_	17	case	_	start_char=4717|end_char=4719
+17	dobras	dobra	NOUN	_	Gender=Fem|Number=Plur	15	nmod	_	start_char=4720|end_char=4726
+18	e	e	CCONJ	_	_	19	cc	_	start_char=4727|end_char=4728
+19	falhas	falha	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	start_char=4729|end_char=4735
+20	.	.	PUNCT	_	_	1	punct	_	start_char=4735|end_char=4736
+21	.	.	PUNCT	_	_	1	punct	_	start_char=4736|end_char=4737
+
+# sent_id = Sistema Petrolífero-49
+# text = A maior parte dos reservatÃ³rios descobertos pertencem Ã  esta classe de trapa..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=4739|end_char=4740
+2	maior	grande	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	start_char=4741|end_char=4746
+3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	start_char=4747|end_char=4752
+4-5	dos	_	_	_	_	_	_	_	start_char=4753|end_char=4756
+4	de	de	ADP	_	_	6	case	_	_
+5	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	reservatÃ³rios	reservatÃ³rios	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	start_char=4757|end_char=4771
+7	descobertos	descobrir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	6	acl	_	start_char=4772|end_char=4783
+8	pertencem	pertencer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4784|end_char=4793
+9	Ã	»	ADP	_	_	11	case	_	start_char=4794|end_char=4795
+10	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	start_char=4797|end_char=4801
+11	classe	classe	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	start_char=4802|end_char=4808
+12	de	de	ADP	_	_	13	case	_	start_char=4809|end_char=4811
+13	trapa	trapa	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	start_char=4812|end_char=4817
+14	.	.	PUNCT	_	_	8	punct	_	start_char=4817|end_char=4818
+15	.	.	PUNCT	_	_	8	punct	_	start_char=4818|end_char=4819
+
+# sent_id = Sistema Petrolífero-50
+# text = As trapas estratigrÃ¡ficas decorrem do acunhamento da camada transportadora ou ainda pela existÃªncia de uma barreira impermeÃ¡vel ou diagenÃ©tica, causando a retenÃ§Ã£o do petrÃ³leo..
+1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	start_char=4821|end_char=4823
+2	trapas	trapa	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	start_char=4824|end_char=4830
+3	estratigrÃ¡ficas	estratigrÃ¡ficas	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	start_char=4831|end_char=4847
+4	decorrem	decorrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4848|end_char=4856
+5-6	do	_	_	_	_	_	_	_	start_char=4857|end_char=4859
+5	de	de	ADP	_	_	7	case	_	_
+6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	acunhamento	acunhamento	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	start_char=4860|end_char=4871
+8-9	da	_	_	_	_	_	_	_	start_char=4872|end_char=4874
+8	de	de	ADP	_	_	10	case	_	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	camada	camada	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	start_char=4875|end_char=4881
+11	transportadora	transportador	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	start_char=4882|end_char=4896
+12	ou	ou	CCONJ	_	_	16	cc	_	start_char=4897|end_char=4899
+13	ainda	ainda	ADV	_	_	16	advmod	_	start_char=4900|end_char=4905
+14-15	pela	_	_	_	_	_	_	_	start_char=4906|end_char=4910
+14	por	por	ADP	_	_	16	case	_	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	existÃªncia	existÃªncia	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	start_char=4911|end_char=4922
+17	de	de	ADP	_	_	19	case	_	start_char=4923|end_char=4925
+18	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	start_char=4926|end_char=4929
+19	barreira	barreira	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	start_char=4930|end_char=4938
+20	impermeÃ¡vel	impermeÃ¡vel	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	start_char=4939|end_char=4951
+21	ou	ou	CCONJ	_	_	22	cc	_	start_char=4952|end_char=4954
+22	diagenÃ©tica	diagenÃ©tica	ADJ	_	Gender=Fem|Number=Sing	20	conj	_	start_char=4955|end_char=4967
+23	,	,	PUNCT	_	_	24	punct	_	start_char=4967|end_char=4968
+24	causando	causar	VERB	_	VerbForm=Ger	4	advcl	_	start_char=4969|end_char=4977
+25	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	start_char=4978|end_char=4979
+26	retenÃ§Ã£o	retenÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	start_char=4980|end_char=4990
+27-28	do	_	_	_	_	_	_	_	start_char=4991|end_char=4993
+27	de	de	ADP	_	_	29	case	_	_
+28	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	start_char=4994|end_char=5003
+30	.	.	PUNCT	_	_	4	punct	_	start_char=5003|end_char=5004
+31	.	.	PUNCT	_	_	4	punct	_	start_char=5004|end_char=5005
+
+# sent_id = Sistema Petrolífero-51
+# text = [1] Rochas reservatÃ³rio
+1	[1	[1	NUM	_	NumType=Card	3	parataxis	_	start_char=5007|end_char=5009
+2	]	]	PUNCT	_	_	3	punct	_	start_char=5009|end_char=5010
+3	Rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	0	root	_	start_char=5011|end_char=5017
+4	reservatÃ³rio	reservatÃ³rio	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	start_char=5018|end_char=5031
+
+# sent_id = Sistema Petrolífero-52
+# text = A condiÃ§Ã£o para o armazenamento do petrÃ³leo nas rochas reservatÃ³rio Ã© a porosidade de tais rochas, que variam de 5% a 35%, tendo em mÃ©dia de 15% a 30%..
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=5033|end_char=5034
+2	condiÃ§Ã£o	condiÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	start_char=5035|end_char=5045
+3	para	para	ADP	_	_	5	case	_	start_char=5046|end_char=5050
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=5051|end_char=5052
+5	armazenamento	armazenamento	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	start_char=5053|end_char=5066
+6-7	do	_	_	_	_	_	_	_	start_char=5067|end_char=5069
+6	de	de	ADP	_	_	8	case	_	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	petrÃ³leo	petrÃ³leo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	start_char=5070|end_char=5079
+9-10	nas	_	_	_	_	_	_	_	start_char=5080|end_char=5083
+9	em	em	ADP	_	_	11	case	_	_
+10	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	start_char=5084|end_char=5090
+12	reservatÃ³rio	reservatÃ³rio	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	start_char=5091|end_char=5104
+13	Ã©	Ãaver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5105|end_char=5107
+14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	start_char=5108|end_char=5109
+15	porosidade	porosidade	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	start_char=5110|end_char=5120
+16	de	de	ADP	_	_	18	case	_	start_char=5121|end_char=5123
+17	tais	tal	DET	_	Gender=Fem|Number=Plur|PronType=Dem	18	det	_	start_char=5124|end_char=5128
+18	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	15	nmod	_	start_char=5129|end_char=5135
+19	,	,	PUNCT	_	_	13	punct	_	start_char=5135|end_char=5136
+20	que	que	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	21	nsubj	_	start_char=5137|end_char=5140
+21	variam	variar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=5141|end_char=5147
+22	de	de	ADP	_	_	24	case	_	start_char=5148|end_char=5150
+23	5	5	NUM	_	NumType=Card	24	nummod	_	start_char=5151|end_char=5152
+24	%	%	SYM	_	_	21	obj	_	start_char=5152|end_char=5153
+25	a	a	ADP	_	_	27	case	_	start_char=5154|end_char=5155
+26	35	35	NUM	_	NumType=Card	27	nummod	_	start_char=5156|end_char=5158
+27	%	%	SYM	_	_	24	nmod	_	start_char=5158|end_char=5159
+28	,	,	PUNCT	_	_	29	punct	_	start_char=5159|end_char=5160
+29	tendo	ter	VERB	_	VerbForm=Ger	21	advcl	_	start_char=5161|end_char=5166
+30	em	em	ADP	_	_	31	case	_	start_char=5167|end_char=5169
+31	mÃ©dia	mÃ©dia	NOUN	_	Gender=Fem|Number=Sing	29	obl	_	start_char=5170|end_char=5176
+32	de	de	ADP	_	_	34	case	_	start_char=5177|end_char=5179
+33	15	15	NUM	_	NumType=Card	34	nummod	_	start_char=5180|end_char=5182
+34	%	%	SYM	_	_	31	nmod	_	start_char=5182|end_char=5183
+35	a	a	ADP	_	_	37	case	_	start_char=5184|end_char=5185
+36	30	30	NUM	_	NumType=Card	37	nummod	_	start_char=5186|end_char=5188
+37	%	%	SYM	_	_	34	nmod	_	start_char=5188|end_char=5189
+38	.	.	PUNCT	_	_	13	punct	_	start_char=5189|end_char=5190
+39	.	.	PUNCT	_	_	13	punct	_	start_char=5190|end_char=5191
+
+# sent_id = Sistema Petrolífero-53
+# text = Geralmente sÃ£o compostas por granulometria de areia a seixo como arenitos, calcarenitos ou conglomerados..
+1	Geralmente	geralmente	ADV	_	_	3	advmod	_	start_char=5193|end_char=5203
+2	sÃ£o	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=5204|end_char=5208
+3	compostas	compor	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	start_char=5209|end_char=5218
+4	por	por	ADP	_	_	5	case	_	start_char=5219|end_char=5222
+5	granulometria	granulometria	NOUN	_	Gender=Fem|Number=Sing	3	obl:agent	_	start_char=5223|end_char=5236
+6	de	de	ADP	_	_	7	case	_	start_char=5237|end_char=5239
+7	areia	areia	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	start_char=5240|end_char=5245
+8	a	a	ADP	_	_	9	case	_	start_char=5246|end_char=5247
+9	seixo	seixo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	start_char=5248|end_char=5253
+10	como	como	ADP	_	_	11	case	_	start_char=5254|end_char=5258
+11	arenitos	arenito	NOUN	_	Gender=Masc|Number=Plur	9	nmod:appos	_	start_char=5259|end_char=5267
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5267|end_char=5268
+13	calcarenitos	calcarenito	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	start_char=5269|end_char=5281
+14	ou	ou	CCONJ	_	_	15	cc	_	start_char=5282|end_char=5284
+15	conglomerados	conglomerado	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	start_char=5285|end_char=5298
+16	.	.	PUNCT	_	_	3	punct	_	start_char=5298|end_char=5299
+17	.	.	PUNCT	_	_	3	punct	_	start_char=5299|end_char=5300
+
+# sent_id = Sistema Petrolífero-54
+# text = Entretanto, rochas portadoras de porosidade nÃ£o-intergranular, como fratura ou dissoluÃ§Ã£o podem armazenar hidrocarbonetos..
+1	Entretanto	entretanto	ADV	_	_	13	advmod	_	start_char=5302|end_char=5312
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5312|end_char=5313
+3	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	13	nsubj	_	start_char=5314|end_char=5320
+4	portadoras	portador	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	start_char=5321|end_char=5331
+5	de	de	ADP	_	_	6	case	_	start_char=5332|end_char=5334
+6	porosidade	porosidade	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	start_char=5335|end_char=5345
+7	nÃ£o-intergranular	nÃ£o-intergranular	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	start_char=5346|end_char=5364
+8	,	,	PUNCT	_	_	10	punct	_	start_char=5364|end_char=5365
+9	como	como	ADP	_	_	10	case	_	start_char=5366|end_char=5370
+10	fratura	fratura	NOUN	_	Gender=Fem|Number=Sing	3	nmod:appos	_	start_char=5371|end_char=5378
+11	ou	ou	CCONJ	_	_	12	cc	_	start_char=5379|end_char=5381
+12	dissoluÃ§Ã£o	dissoluÃ§Ã£o	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	start_char=5382|end_char=5394
+13	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5395|end_char=5400
+14	armazenar	armazenar	VERB	_	VerbForm=Inf	13	xcomp	_	start_char=5401|end_char=5410
+15	hidrocarbonetos	hidrocarboneto	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	start_char=5411|end_char=5426
+16	.	.	PUNCT	_	_	13	punct	_	start_char=5426|end_char=5427
+17	.	.	PUNCT	_	_	13	punct	_	start_char=5427|end_char=5428
+
+# sent_id = Sistema Petrolífero-55
+# text = Assim, os tipos de reservatÃ³rio mais comuns sÃ£o os arenitos, seguidos de calcÃ¡rios porosos originados de praias e planÃ­cies carbonÃ¡ticas, calcÃ¡rios de recifes ou calcÃ¡rios dissolvidos por Ã¡guas meteÃ³ricas..
+1	Assim	assim	ADV	_	_	11	advmod	_	start_char=5430|end_char=5435
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5435|end_char=5436
+3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	start_char=5437|end_char=5439
+4	tipos	tipo	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	start_char=5440|end_char=5445
+5	de	de	ADP	_	_	6	case	_	start_char=5446|end_char=5448
+6	reservatÃ³rio	reservatÃ³rio	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	start_char=5449|end_char=5462
+7	mais	mais	ADV	_	_	8	advmod	_	start_char=5463|end_char=5467
+8	comuns	comum	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	start_char=5468|end_char=5474
+9	sÃ£o	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=5475|end_char=5479
+10	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	start_char=5480|end_char=5482
+11	arenitos	arenito	NOUN	_	Gender=Masc|Number=Plur	0	root	_	start_char=5483|end_char=5491
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5491|end_char=5492
+13	seguidos	seguir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	11	acl	_	start_char=5493|end_char=5501
+14	de	de	ADP	_	_	15	case	_	start_char=5502|end_char=5504
+15	calcÃ¡rios	calcÃ¡rios	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	start_char=5505|end_char=5515
+16	porosos	poroso	ADJ	_	Gender=Masc|Number=Plur	15	amod	_	start_char=5516|end_char=5523
+17	originados	originar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	15	acl	_	start_char=5524|end_char=5534
+18	de	de	ADP	_	_	19	case	_	start_char=5535|end_char=5537
+19	praias	praia	NOUN	_	Gender=Fem|Number=Plur	15	nmod	_	start_char=5538|end_char=5544
+20	e	e	CCONJ	_	_	21	cc	_	start_char=5545|end_char=5546
+21	planÃ­cies	planÃ­cies	NOUN	_	Gender=Fem|Number=Plur	19	conj	_	start_char=5547|end_char=5557
+22	carbonÃ¡ticas	carbonÃ¡ticas	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	start_char=5558|end_char=5571
+23	,	,	PUNCT	_	_	24	punct	_	start_char=5571|end_char=5572
+24	calcÃ¡rios	calcÃ¡rios	NOUN	_	Gender=Masc|Number=Plur	15	conj	_	start_char=5573|end_char=5583
+25	de	de	ADP	_	_	26	case	_	start_char=5584|end_char=5586
+26	recifes	recife	NOUN	_	Gender=Masc|Number=Plur	24	nmod	_	start_char=5587|end_char=5594
+27	ou	ou	CCONJ	_	_	28	cc	_	start_char=5595|end_char=5597
+28	calcÃ¡rios	calcÃ¡rios	NOUN	_	Gender=Masc|Number=Plur	15	conj	_	start_char=5598|end_char=5608
+29	dissolvidos	dissolver	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	28	acl	_	start_char=5609|end_char=5620
+30	por	por	ADP	_	_	32	case	_	start_char=5621|end_char=5624
+31	Ã¡guas	Ã¡guas	ADJ	_	Gender=Fem|Number=Plur	32	amod	_	start_char=5625|end_char=5631
+32	meteÃ³ricas	meteÃ³ricas	NOUN	_	Gender=Fem|Number=Plur	29	obl:agent	_	start_char=5632|end_char=5643
+33	.	.	PUNCT	_	_	11	punct	_	start_char=5643|end_char=5644
+34	.	.	PUNCT	_	_	11	punct	_	start_char=5644|end_char=5645
+
+# sent_id = Sistema Petrolífero-56
+# text = [1] Rochas selantes
+1	[1	[1	NUM	_	NumType=Card	3	parataxis	_	start_char=5647|end_char=5649
+2	]	]	PUNCT	_	_	3	punct	_	start_char=5649|end_char=5650
+3	Rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	0	root	_	start_char=5651|end_char=5657
+4	selantes	selante	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	start_char=5658|end_char=5666
+
+# sent_id = Sistema Petrolífero-57
+# text = As rochas selantes sÃ£o rochas de baixa permeabilidade, como folhelhos, siltitos e calciculitos, de forma que impedem o escape dos fluidos da rocha reservatÃ³rio..
+1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	start_char=5668|end_char=5670
+2	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	start_char=5671|end_char=5677
+3	selantes	selante	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	start_char=5678|end_char=5686
+4	sÃ£o	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5687|end_char=5691
+5	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	start_char=5692|end_char=5698
+6	de	de	ADP	_	_	8	case	_	start_char=5699|end_char=5701
+7	baixa	baixo	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	start_char=5702|end_char=5707
+8	permeabilidade	permeabilidade	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	start_char=5708|end_char=5722
+9	,	,	PUNCT	_	_	11	punct	_	start_char=5722|end_char=5723
+10	como	como	ADP	_	_	11	case	_	start_char=5724|end_char=5728
+11	folhelhos	folhelho	NOUN	_	Gender=Masc|Number=Plur	8	nmod:appos	_	start_char=5729|end_char=5738
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5738|end_char=5739
+13	siltitos	siltito	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	start_char=5740|end_char=5748
+14	e	e	CCONJ	_	_	15	cc	_	start_char=5749|end_char=5750
+15	calciculitos	calciculito	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	start_char=5751|end_char=5763
+16	,	,	PUNCT	_	_	11	punct	_	start_char=5763|end_char=5764
+17	de	de	ADP	_	_	18	case	_	start_char=5765|end_char=5767
+18	forma	forma	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	start_char=5768|end_char=5773
+19	que	que	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	20	nsubj	_	start_char=5774|end_char=5777
+20	impedem	impedir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=5778|end_char=5785
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	start_char=5786|end_char=5787
+22	escape	escape	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	start_char=5788|end_char=5794
+23-24	dos	_	_	_	_	_	_	_	start_char=5795|end_char=5798
+23	de	de	ADP	_	_	25	case	_	_
+24	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	fluidos	fluido	NOUN	_	Gender=Masc|Number=Plur	22	nmod	_	start_char=5799|end_char=5806
+26-27	da	_	_	_	_	_	_	_	start_char=5807|end_char=5809
+26	de	de	ADP	_	_	28	case	_	_
+27	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	start_char=5810|end_char=5815
+29	reservatÃ³rio	reservatÃ³rio	ADJ	_	Gender=Fem|Number=Sing	28	amod	_	start_char=5816|end_char=5829
+30	.	.	PUNCT	_	_	4	punct	_	start_char=5829|end_char=5830
+31	.	.	PUNCT	_	_	4	punct	_	start_char=5830|end_char=5831
+
+# sent_id = Sistema Petrolífero-58
+# text = Geralmente estas rochas situam-se acima do reservatÃ³rio..
+1	Geralmente	geralmente	ADV	_	_	4	advmod	_	start_char=5833|end_char=5843
+2	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	start_char=5844|end_char=5849
+3	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	start_char=5850|end_char=5856
+4-5	situam-se	_	_	_	_	_	_	_	start_char=5857|end_char=5866
+4	situam	situar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	expl	_	_
+6	acima	acima	ADV	_	_	4	advmod	_	start_char=5867|end_char=5872
+7-8	do	_	_	_	_	_	_	_	start_char=5873|end_char=5875
+7	de	de	ADP	_	_	9	case	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	reservatÃ³rio	reservatÃ³rio	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	start_char=5876|end_char=5889
+10	.	.	PUNCT	_	_	4	punct	_	start_char=5889|end_char=5890
+11	.	.	PUNCT	_	_	4	punct	_	start_char=5890|end_char=5891
+
+# sent_id = Sistema Petrolífero-59
+# text = Algumas vezes mudanÃ§as diagenÃ©ticas ou nas fÃ¡cies dentro da prÃ³pria rocha reservatÃ³rio, ou ainda falhamentos podem atuar como selo..
+1	Algumas	algum	DET	_	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	start_char=5893|end_char=5900
+2	vezes	vez	NOUN	_	Gender=Fem|Number=Plur	19	nsubj	_	start_char=5901|end_char=5906
+3	mudanÃ§as	mudanÃ§as	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	start_char=5907|end_char=5916
+4	diagenÃ©ticas	diagenÃ©ticas	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	start_char=5917|end_char=5930
+5	ou	ou	CCONJ	_	_	8	cc	_	start_char=5931|end_char=5933
+6-7	nas	_	_	_	_	_	_	_	start_char=5934|end_char=5937
+6	em	em	ADP	_	_	8	case	_	_
+7	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	fÃ¡cies	fÃ¡cies	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	start_char=5938|end_char=5945
+9	dentro	dentro	ADV	_	_	2	advmod	_	start_char=5946|end_char=5952
+10-11	da	_	_	_	_	_	_	_	start_char=5953|end_char=5955
+10	de	de	ADP	_	_	13	case	_	_
+11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	prÃ³pria	prÃ³pria	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	start_char=5956|end_char=5964
+13	rocha	rocha	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	start_char=5965|end_char=5970
+14	reservatÃ³rio	reservatÃ³rio	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	start_char=5971|end_char=5984
+15	,	,	PUNCT	_	_	18	punct	_	start_char=5984|end_char=5985
+16	ou	ou	CCONJ	_	_	18	cc	_	start_char=5986|end_char=5988
+17	ainda	ainda	ADV	_	_	18	advmod	_	start_char=5989|end_char=5994
+18	falhamentos	falhamento	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	start_char=5995|end_char=6006
+19	podem	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6007|end_char=6012
+20	atuar	atuar	VERB	_	VerbForm=Inf	19	xcomp	_	start_char=6013|end_char=6018
+21	como	como	ADP	_	_	22	case	_	start_char=6019|end_char=6023
+22	selo	selo	NOUN	_	Gender=Masc|Number=Sing	20	xcomp	_	start_char=6024|end_char=6028
+23	.	.	PUNCT	_	_	19	punct	_	start_char=6028|end_char=6029
+24	.	.	PUNCT	_	_	19	punct	_	start_char=6029|end_char=6030
+
+# sent_id = Sistema Petrolífero-60
+# text = [1] Sincronismo
+1	[1	[1	NUM	_	NumType=Card	3	parataxis	_	start_char=6032|end_char=6034
+2	]	]	PUNCT	_	_	3	punct	_	start_char=6034|end_char=6035
+3	Sincronismo	sincronismo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=6036|end_char=6047
+
+# sent_id = Sistema Petrolífero-61
+# text = O sincronismo Ã© o fenÃ´meno que faz com que todos os fatores presentes na formaÃ§Ã£o de um sistema petrolÃ­fero ocorra em uma escala de tempo geolÃ³gico adequada, ou seja, nÃ£o basta a ocorrÃªncia das condiÃ§Ãµes de geraÃ§Ã£o de hidrocarbonetos, de rotas de migraÃ§Ã£o, de rochas reservatÃ³rio ou de trapeamento, sem que elas ocorram de forma favorÃ¡vel ao longo do tempo. Uma causa comum do insucesso nas pesquisas exploratÃ³rias no mundo inteiro deve-se Ã  ausÃªncia de sincronismo.[1]
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	start_char=6049|end_char=6050
+2	sincronismo	sincronismo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	start_char=6051|end_char=6062
+3	Ã©	Ãaver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6063|end_char=6065
+4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	start_char=6066|end_char=6067
+5	fenÃ´meno	fenÃ´meno	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	start_char=6068|end_char=6077
+6	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	start_char=6078|end_char=6081
+7	faz	fazer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=6082|end_char=6085
+8	com	com	SCONJ	_	_	21	mark	_	start_char=6086|end_char=6089
+9	que	que	SCONJ	_	_	21	mark	_	start_char=6090|end_char=6093
+10	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	12	det	_	start_char=6094|end_char=6099
+11	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	start_char=6100|end_char=6102
+12	fatores	fator	NOUN	_	Gender=Masc|Number=Plur	21	nsubj	_	start_char=6103|end_char=6110
+13	presentes	presente	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	start_char=6111|end_char=6120
+14-15	na	_	_	_	_	_	_	_	start_char=6121|end_char=6123
+14	em	em	ADP	_	_	16	case	_	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	formaÃ§Ã£o	formaÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	start_char=6124|end_char=6134
+17	de	de	ADP	_	_	19	case	_	start_char=6135|end_char=6137
+18	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	start_char=6138|end_char=6140
+19	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	start_char=6141|end_char=6148
+20	petrolÃ­fero	petrolÃ­fero	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	start_char=6149|end_char=6161
+21	ocorra	ocorrer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=6162|end_char=6168
+22	em	em	ADP	_	_	24	case	_	start_char=6169|end_char=6171
+23	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	start_char=6172|end_char=6175
+24	escala	escala	NOUN	_	Gender=Fem|Number=Sing	21	obj	_	start_char=6176|end_char=6182
+25	de	de	ADP	_	_	26	case	_	start_char=6183|end_char=6185
+26	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	start_char=6186|end_char=6191
+27	geolÃ³gico	geolÃ³gico	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	start_char=6192|end_char=6202
+28	adequada	adequado	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	start_char=6203|end_char=6211
+29	,	,	PUNCT	_	_	30	punct	_	start_char=6211|end_char=6212
+30	ou	ou	CCONJ	_	ExtPos=CCONJ	34	cc	_	start_char=6213|end_char=6215
+31	seja	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	fixed	_	start_char=6216|end_char=6220
+32	,	,	PUNCT	_	_	30	punct	_	start_char=6220|end_char=6221
+33	nÃ£o	nÃ£o	ADV	_	_	34	advmod	_	start_char=6222|end_char=6226
+34	basta	bastar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	start_char=6227|end_char=6232
+35	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	start_char=6233|end_char=6234
+36	ocorrÃªncia	ocorrÃªncia	NOUN	_	Gender=Fem|Number=Sing	34	obj	_	start_char=6235|end_char=6246
+37-38	das	_	_	_	_	_	_	_	start_char=6247|end_char=6250
+37	de	de	ADP	_	_	39	case	_	_
+38	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	39	det	_	_
+39	condiÃ§Ãµes	condiÃ§Ãµes	NOUN	_	Gender=Fem|Number=Plur	36	nmod	_	start_char=6251|end_char=6262
+40	de	de	ADP	_	_	41	case	_	start_char=6263|end_char=6265
+41	geraÃ§Ã£o	geraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	39	nmod	_	start_char=6266|end_char=6275
+42	de	de	ADP	_	_	43	case	_	start_char=6276|end_char=6278
+43	hidrocarbonetos	hidrocarboneto	NOUN	_	Gender=Masc|Number=Plur	41	nmod	_	start_char=6279|end_char=6294
+44	,	,	PUNCT	_	_	46	punct	_	start_char=6294|end_char=6295
+45	de	de	ADP	_	_	46	case	_	start_char=6296|end_char=6298
+46	rotas	roto	NOUN	_	Gender=Fem|Number=Plur	39	nmod	_	start_char=6299|end_char=6304
+47	de	de	ADP	_	_	48	case	_	start_char=6305|end_char=6307
+48	migraÃ§Ã£o	migraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	46	nmod	_	start_char=6308|end_char=6318
+49	,	,	PUNCT	_	_	51	punct	_	start_char=6318|end_char=6319
+50	de	de	ADP	_	_	51	case	_	start_char=6320|end_char=6322
+51	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	46	nmod	_	start_char=6323|end_char=6329
+52	reservatÃ³rio	reservatÃ³rio	ADJ	_	Gender=Fem|Number=Sing	51	amod	_	start_char=6330|end_char=6343
+53	ou	ou	CCONJ	_	_	55	cc	_	start_char=6344|end_char=6346
+54	de	de	ADP	_	_	55	case	_	start_char=6347|end_char=6349
+55	trapeamento	trapeamento	NOUN	_	Gender=Masc|Number=Sing	51	conj	_	start_char=6350|end_char=6361
+56	,	,	PUNCT	_	_	60	punct	_	start_char=6361|end_char=6362
+57	sem	sem	ADP	_	ExtPos=SCONJ	60	mark	_	start_char=6363|end_char=6366
+58	que	que	SCONJ	_	_	57	fixed	_	start_char=6367|end_char=6370
+59	elas	ele	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	60	nsubj	_	start_char=6371|end_char=6375
+60	ocorram	ocorrer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	advcl	_	start_char=6376|end_char=6383
+61	de	de	ADP	_	_	62	case	_	start_char=6384|end_char=6386
+62	forma	forma	NOUN	_	Gender=Fem|Number=Sing	60	obj	_	start_char=6387|end_char=6392
+63	favorÃ¡vel	favorÃ¡vel	ADJ	_	Gender=Fem|Number=Sing	62	amod	_	start_char=6393|end_char=6403
+64-65	ao	_	_	_	_	_	_	_	start_char=6404|end_char=6406
+64	a	a	ADP	_	_	66	case	_	_
+65	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	66	det	_	_
+66	longo	longo	NOUN	_	Gender=Masc|Number=Sing	60	obl	_	start_char=6407|end_char=6412
+67-68	do	_	_	_	_	_	_	_	start_char=6413|end_char=6415
+67	de	de	ADP	_	_	69	case	_	_
+68	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	69	det	_	_
+69	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	66	nmod	_	start_char=6416|end_char=6421
+70	.	.	PUNCT	_	_	85	punct	_	start_char=6421|end_char=6422
+71	Uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	72	det	_	start_char=6423|end_char=6426
+72	causa	causa	NOUN	_	Gender=Fem|Number=Sing	85	nsubj	_	start_char=6427|end_char=6432
+73	comum	comum	ADJ	_	Gender=Fem|Number=Sing	72	amod	_	start_char=6433|end_char=6438
+74-75	do	_	_	_	_	_	_	_	start_char=6439|end_char=6441
+74	de	de	ADP	_	_	76	case	_	_
+75	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	76	det	_	_
+76	insucesso	insucesso	NOUN	_	Gender=Masc|Number=Sing	72	nmod	_	start_char=6442|end_char=6451
+77-78	nas	_	_	_	_	_	_	_	start_char=6452|end_char=6455
+77	em	em	ADP	_	_	79	case	_	_
+78	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	79	det	_	_
+79	pesquisas	pesquisa	NOUN	_	Gender=Fem|Number=Plur	72	nmod	_	start_char=6456|end_char=6465
+80	exploratÃ³rias	exploratÃ³rias	ADJ	_	Gender=Fem|Number=Plur	79	amod	_	start_char=6466|end_char=6480
+81-82	no	_	_	_	_	_	_	_	start_char=6481|end_char=6483
+81	em	em	ADP	_	_	83	case	_	_
+82	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	83	det	_	_
+83	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	79	nmod	_	start_char=6484|end_char=6489
+84	inteiro	inteiro	ADJ	_	Gender=Masc|Number=Sing	83	amod	_	start_char=6490|end_char=6497
+85-86	deve-se	_	_	_	_	_	_	_	start_char=6498|end_char=6505
+85	deve	dever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	60	conj	_	_
+86	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	85	expl	_	_
+87	Ã	»	ADP	_	_	88	case	_	start_char=6506|end_char=6507
+88	ausÃªncia	ausÃªncia	NOUN	_	Gender=Fem|Number=Sing	85	obl	_	start_char=6509|end_char=6518
+89	de	de	ADP	_	_	90	case	_	start_char=6519|end_char=6521
+90	sincronismo	sincronismo	NOUN	_	Gender=Masc|Number=Sing	88	nmod	_	start_char=6522|end_char=6533
+91	.	.	PUNCT	_	_	92	punct	_	start_char=6533|end_char=6534
+92	[1	[1	NUM	_	NumType=Card	90	nummod	_	start_char=6534|end_char=6536
+93	]	]	PUNCT	_	_	3	punct	_	start_char=6536|end_char=6537

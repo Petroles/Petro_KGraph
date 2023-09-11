@@ -1,17 +1,17 @@
-# sent_id = Predicao_teste1-1
+# sent_id = Bacia de Campos-1
 # text = Bacia de Campos
 1	Bacia	bacia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=0|end_char=5
 2	de	de	ADP	_	_	1	flat:name	_	start_char=6|end_char=8
 3	Campos	Campos	PROPN	_	Number=Sing	1	flat:name	_	start_char=9|end_char=15
 
-# sent_id = Predicao_teste1-2
+# sent_id = Bacia de Campos-2
 # text = A Bacia de Campos
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=17|end_char=18
 2	Bacia	bacia	PROPN	_	Gender=Fem|Number=Sing	0	root	_	start_char=19|end_char=24
 3	de	de	ADP	_	_	2	flat:name	_	start_char=25|end_char=27
 4	Campos	Campos	PROPN	_	Number=Sing	2	flat:name	_	start_char=28|end_char=34
 
-# sent_id = Predicao_teste1-3
+# sent_id = Bacia de Campos-3
 # text = Ã© uma bacia sedimentar brasileira situada na costa norte do estado do Rio de Janeiro, estendendo-se atÃ© o sul do estado do EspÃ­rito Santo, entre os paralelos 21 e 23 sul..
 1	Ã©	Ãaver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=36|end_char=38
 2	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	start_char=39|end_char=42
@@ -61,7 +61,7 @@
 40	.	.	PUNCT	_	_	1	punct	_	start_char=208|end_char=209
 41	.	.	PUNCT	_	_	1	punct	_	start_char=209|end_char=210
 
-# sent_id = Predicao_teste1-4
+# sent_id = Bacia de Campos-4
 # text = Possui aproximadamente 115.800,00 quilÃ´metros quadrados..
 1	Possui	possuir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=212|end_char=218
 2	aproximadamente	aproximadamente	ADV	_	_	4	advmod	_	start_char=219|end_char=234
@@ -71,7 +71,7 @@
 6	.	.	PUNCT	_	_	1	punct	_	start_char=268|end_char=269
 7	.	.	PUNCT	_	_	1	punct	_	start_char=269|end_char=270
 
-# sent_id = Predicao_teste1-5
+# sent_id = Bacia de Campos-5
 # text = Seu limite, ao sul, com a Bacia de Santos ocorre no Alto de Cabo Frio; ao norte, com a Bacia do EspÃ­rito Santo, ocorre no Alto de VitÃ³ria..
 1	Seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	2	det	_	start_char=272|end_char=275
 2	limite	limite	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	start_char=276|end_char=282
@@ -119,7 +119,7 @@
 39	.	.	PUNCT	_	_	13	punct	_	start_char=411|end_char=412
 40	.	.	PUNCT	_	_	13	punct	_	start_char=412|end_char=413
 
-# sent_id = Predicao_teste1-6
+# sent_id = Bacia de Campos-6
 # text = Seu nome deriva do nome da cidade de Campos dos Goytacazes[1], seguindo orientaÃ§Ãµes do CÃ³digo de Nomenclatura EstratigrÃ¡fica Internacional, que orienta que sÃ­tios geolÃ³gicos - nesse caso uma bacia sedimentar - recebam o nome de acidentes geolÃ³gicos ou cidades prÃ³ximas..
 1	Seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	2	det	_	start_char=415|end_char=418
 2	nome	nome	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	start_char=419|end_char=423
@@ -178,7 +178,7 @@
 50	.	.	PUNCT	_	_	3	punct	_	start_char=691|end_char=692
 51	.	.	PUNCT	_	_	3	punct	_	start_char=692|end_char=693
 
-# sent_id = Predicao_teste1-7
+# sent_id = Bacia de Campos-7
 # text = As principais atividades de exploraÃ§Ã£o e produÃ§Ã£o sÃ£o realizadas na cidade de MacaÃ©, onde estÃ¡ localizada a base da Petrobras na praia de Imbetiba, alÃ©m dos municÃ­pios de Campos dos Goytacazes, SÃ£o JoÃ£o da Barra, QuissamÃ£, Carapebus e da regiÃ£o sul do Estado do EspÃ­rito Santo.[2]
 1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	start_char=695|end_char=697
 2	principais	principal	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	start_char=698|end_char=708
@@ -253,7 +253,7 @@
 62	[2	[2	PROPN	_	Gender=Masc|Number=Sing	59	appos	_	start_char=986|end_char=988
 63	]	]	PUNCT	_	_	9	punct	_	start_char=988|end_char=989
 
-# sent_id = Predicao_teste1-8
+# sent_id = Bacia de Campos-8
 # text = Em outubro de 2020 a Bacia de Campos foi a segunda maior produtora de petrÃ³leo e gÃ¡s natural do Brasil, atrÃ¡s somente da Bacia de Santos, tendo produzido 865.724 barris de Ã³leo e 17,67 milhÃµes de metros cÃºbicos de gÃ¡s natural por dia, totalizando 976.871 barris de Ã³leo equivalente por dia..
 1	Em	em	ADP	_	_	2	case	_	start_char=991|end_char=993
 2	outubro	outubro	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	start_char=994|end_char=1001
@@ -316,7 +316,7 @@
 57	.	.	PUNCT	_	_	13	punct	_	start_char=1288|end_char=1289
 58	.	.	PUNCT	_	_	13	punct	_	start_char=1289|end_char=1290
 
-# sent_id = Predicao_teste1-9
+# sent_id = Bacia de Campos-9
 # text = Em nÃºmeros relativos, Campos produziu 30% do petrÃ³leo e 14% do gÃ¡s natural produzidos no Brasil..
 1	Em	em	ADP	_	_	2	case	_	start_char=1292|end_char=1294
 2	nÃºmeros	nÃºmero	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	start_char=1295|end_char=1303
@@ -346,12 +346,12 @@
 23	.	.	PUNCT	_	_	6	punct	_	start_char=1390|end_char=1391
 24	.	.	PUNCT	_	_	6	punct	_	start_char=1391|end_char=1392
 
-# sent_id = Predicao_teste1-10
+# sent_id = Bacia de Campos-10
 # text = Sistema PetrolÃ­fero
 1	Sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	0	root	_	start_char=1394|end_char=1401
 2	PetrolÃ­fero	PetrolÃ­fero	PROPN	_	Gender=Masc|Number=Sing	1	nmod	_	start_char=1402|end_char=1414
 
-# sent_id = Predicao_teste1-11
+# sent_id = Bacia de Campos-11
 # text = Reconhece-se quatro estÃ¡gios geolÃ³gicos evolutivos na bacia de Campos, que sÃ£o prÃ©-rifte (continental), rifte (continental), proto-oceÃ¢nico (transicional evaporÃ­tico) e drift (marinho)..
 1-2	Reconhece-se	_	_	_	_	_	_	_	start_char=1416|end_char=1428
 1	Reconhece	reconhecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -392,7 +392,7 @@
 35	.	.	PUNCT	_	_	1	punct	_	start_char=1606|end_char=1607
 36	.	.	PUNCT	_	_	1	punct	_	start_char=1607|end_char=1608
 
-# sent_id = Predicao_teste1-12
+# sent_id = Bacia de Campos-12
 # text = [3] Presente em todos as bacias sedimentares marginais do leste do Brasil..
 1	[3	[3	NUM	_	NumType=Card	3	parataxis	_	start_char=1610|end_char=1612
 2	]	]	PUNCT	_	_	3	punct	_	start_char=1612|end_char=1613
@@ -414,7 +414,7 @@
 16	.	.	PUNCT	_	_	3	punct	_	start_char=1683|end_char=1684
 17	.	.	PUNCT	_	_	3	punct	_	start_char=1684|end_char=1685
 
-# sent_id = Predicao_teste1-13
+# sent_id = Bacia de Campos-13
 # text = As rochas geradoras de hidrocarbonetos da Bacia de Campos correspondem a folhelhos orgÃ¢nicos..
 1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	start_char=1687|end_char=1689
 2	rochas	rocha	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	start_char=1690|end_char=1696
@@ -434,7 +434,7 @@
 15	.	.	PUNCT	_	_	11	punct	_	start_char=1780|end_char=1781
 16	.	.	PUNCT	_	_	11	punct	_	start_char=1781|end_char=1782
 
-# sent_id = Predicao_teste1-14
+# sent_id = Bacia de Campos-14
 # text = As principais rochas reservatÃ³rio da bacia sÃ£o arenitos turbidÃ­ticos, depositados desde o andar geolÃ³gico Albiano atÃ© o Mioceno, seguidos de calcarenitos, depositados durante o andar Albiano, calcÃ¡reos de origem microbial, principalmente cianobactÃ©rias, depositadas durante o andar Aptiano e de coquinas, rochas formadas por restos de carapaÃ§as de crustÃ¡ceos, e que foram depositadas durante o andar Barremiano[4]..
 1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	start_char=1784|end_char=1786
 2	principais	principal	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	start_char=1787|end_char=1797
@@ -506,7 +506,7 @@
 67	[4].	[4].	PROPN	_	Number=Sing	66	flat:name	_	start_char=2203|end_char=2207
 68	.	.	PUNCT	_	_	9	punct	_	start_char=2207|end_char=2208
 
-# sent_id = Predicao_teste1-15
+# sent_id = Bacia de Campos-15
 # text = Tanto as coquinas quanto os calcÃ¡reos microbiais sÃ£o informalmente denominados como Camada prÃ©-sal..
 1	Tanto	tanto	ADV	_	_	10	advmod	_	start_char=2210|end_char=2215
 2	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	start_char=2216|end_char=2218
@@ -524,11 +524,11 @@
 14	.	.	PUNCT	_	_	10	punct	_	start_char=2311|end_char=2312
 15	.	.	PUNCT	_	_	10	punct	_	start_char=2312|end_char=2313
 
-# sent_id = Predicao_teste1-16
+# sent_id = Bacia de Campos-16
 # text = ExploraÃ§Ã£o
 1	ExploraÃ§Ã£o	exploraã§ã£o	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=2315|end_char=2327
 
-# sent_id = Predicao_teste1-17
+# sent_id = Bacia de Campos-17
 # text = Descoberta a Bacia de Campos, localizada na costa norte do estado do Rio de Janeiro, estendendo-se atÃ© o sul de EspÃ­rito Santo, com 826 poÃ§os exploratÃ³rios, sendo 391 poÃ§os considerado pioneiro..
 1	Descoberta	Descoberta	PROPN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	0	root	_	start_char=2329|end_char=2339
 2	a	a	ADP	_	_	3	case	_	start_char=2340|end_char=2341
@@ -575,7 +575,7 @@
 39	pioneiro.	pioneiro.	NOUN	_	Gender=Masc|Number=Sing	38	obl	_	start_char=2519|end_char=2528
 40	.	.	PUNCT	_	_	1	punct	_	start_char=2528|end_char=2529
 
-# sent_id = Predicao_teste1-18
+# sent_id = Bacia de Campos-18
 # text = Com aproximadamente 100 mil quilÃ´metros quadrados, essa passa a ser a maior provÃ­ncia petrolÃ­fera do Brasil, responsÃ¡vel por mais de 80% da produÃ§Ã£o nacional do petrÃ³leo..
 1	Com	com	ADP	_	_	5	case	_	start_char=2531|end_char=2534
 2	aproximadamente	aproximadamente	ADV	_	_	5	advmod	_	start_char=2535|end_char=2550
@@ -615,7 +615,7 @@
 33	.	.	PUNCT	_	_	9	punct	_	start_char=2707|end_char=2708
 34	.	.	PUNCT	_	_	9	punct	_	start_char=2708|end_char=2709
 
-# sent_id = Predicao_teste1-19
+# sent_id = Bacia de Campos-19
 # text = A exploraÃ§Ã£o desta Bacia iniciou-se com a descoberta do Campo de Garoupa e teve seu inicio comercial em 1977, no campo de Enchova, com uma produÃ§Ã£o de 10 mil barris por dia em uma plataforma flutuante..
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	start_char=2711|end_char=2712
 2	exploraÃ§Ã£o	exploraÃ§Ã£o	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	start_char=2713|end_char=2725
@@ -666,12 +666,12 @@
 43	.	.	PUNCT	_	_	6	punct	_	start_char=2915|end_char=2916
 44	.	.	PUNCT	_	_	6	punct	_	start_char=2916|end_char=2917
 
-# sent_id = Predicao_teste1-20
+# sent_id = Bacia de Campos-20
 # text = [2]
 1	[2	[2	NOUN	_	Gender=Fem|Number=Sing	0	root	_	start_char=2919|end_char=2921
 2	]	]	PUNCT	_	_	1	punct	_	start_char=2921|end_char=2922
 
-# sent_id = Predicao_teste1-21
+# sent_id = Bacia de Campos-21
 # text = As primeiras plataformas utilizadas eram do tipo fixa, com jaquetas fixadas no fundo do mar..
 1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	start_char=2924|end_char=2926
 2	primeiras	primeiro	ADJ	_	Gender=Fem|NumType=Ord|Number=Plur	3	amod	_	start_char=2927|end_char=2936
@@ -698,7 +698,7 @@
 20	.	.	PUNCT	_	_	8	punct	_	start_char=3015|end_char=3016
 21	.	.	PUNCT	_	_	8	punct	_	start_char=3016|end_char=3017
 
-# sent_id = Predicao_teste1-22
+# sent_id = Bacia de Campos-22
 # text = Na medida em que a exploraÃ§Ã£o alcanÃ§ou lÃ¢minas d'Ã¡gua mais profundas, foram desenvolvidos outros conceitos de unidades de produÃ§Ã£o flutuantes, como os FPSOs e as SS.[9]
 1-2	Na	_	_	_	_	_	_	_	start_char=3019|end_char=3021
 1	Em	em	ADP	_	_	3	case	_	_
@@ -732,7 +732,7 @@
 29	SS.[9	SS.[9	PROPN	_	Gender=Fem|Number=Plur	26	conj	_	start_char=3188|end_char=3193
 30	]	]	PUNCT	_	_	15	punct	_	start_char=3193|end_char=3194
 
-# sent_id = Predicao_teste1-23
+# sent_id = Bacia de Campos-23
 # text = Hoje existem 55 campos, desde o sul do EspÃ­rito Santo, como Cachalote e Jubarte, atÃ© a regiÃ£o de Cabo Frio, que extraem cerca de 1,49 milhÃ£o de barris de Ã³leo e 22 milhÃµes de metros cÃºbicos de gÃ¡s por dia. Os maiores campos sÃ£o os campos gigantes de Marlim, Marlim Sul e Roncador localizados em MacaÃ© - RJ. Operam na regiÃ£o 45 plataformas marÃ­timas das quais 41 de produÃ§Ã£o e quatro de processamento de petrÃ³leo que pertence a cidade de MacaÃ©, conhecida como a capital brasileira do petrÃ³leo..
 1	Hoje	hoje	ADV	_	_	2	advmod	_	start_char=3196|end_char=3200
 2	existem	existir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3201|end_char=3208
