@@ -57,7 +57,7 @@
 
 21. Rodar o Notebook Notebook Petro_KGraph/Model/Prediction/Clustering_new_entities.ipynb para identificar entidades que não estão no PetroKGraph mas que foram encontradas nos textos. O Notebook atualiza os JSONs da pasta "Petro_KGraph/Corpora/Predicao/Prediction_json/". As informações das novas entidades são salvas em "Petro_KGraph/Corpora/Predicao/Prediction_graph/New_entities" para posteriormente ser incluidas na versão povoada do PtroKGraph.
 
-22. Rodar o Notebook Notebook Petro_KGraph/Model/Prediction/Prediction_RE.ipynb para identificar as relações no texto.
+22. Rodar o Notebook Notebook Petro_KGraph/Model/Prediction/Prediction_RE.ipynb para identificar as relações no texto. As relações serão gravadas nos JSONs da pasta "Petro_KGraph/Corpora/Predicao/Prediction_json/" 
 
 ## Usar modelos para predição
 (ajustar) 18. Rodar o notebook Petro_KGraph/Model/Instances clustering/Entity_Linking_and_clustering-Predict.ipynb. No início do notebook deve ser informado o caminho com o arquivo com as sentenças que deverão ser preditas. As entidades dessas sentenças já devem ter sido preditas. Na pasta Petro_KGraph/Model/Instances clustering/Prediction, serão salvas as listas com sentenças linkadas a URI já existentes no PetroKGraph, sentenças linkadas a URIs novas, sentenças não linkadas e as labels mais frequentes das novas URI. 
