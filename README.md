@@ -67,7 +67,7 @@
 
 25. Refazer as etapas de predição (20, 21, 22 e 23), certificando que os notebooks estão apontando para a pasta "Petro_KGraph/Corpora/Predicao - avaliação" e que o grafo utilizado seja o "Petro_KGraph\KnowledgeGraph\OntoGeoLogicaEntidadesNomeadas.owl"
 
-26. Com base nas entidades e relações encontradas, povoar o Knowledge Graph para avaliação.
+26. Com base nas entidades e relações encontradas, povoar o Knowledge Graph para avaliação. Rodar o Notebook "Petro_KGraph/Corpora/Predicao - avaliaçãoPrediction_graph/Povoando PetroKGraph_pred.ipynb".
 
 
 ### Avaliação do uso do PetroKGraph para Recuperação da informação
