@@ -69,8 +69,10 @@
 
 26. Com base nas entidades e relações encontradas, povoar o Knowledge Graph para avaliação. Rodar o Notebook "Petro_KGraph/Corpora/Predicao - avaliação/Prediction_graph/Povoando PetroKGraph_pred.ipynb". O grafo com as entidades e relações preditas será salvo como "Petro_KGraph/Corpora/Predicao - avaliação/Prediction_graph/PetroKGraph_pred".
 
+27. Finalmente, rodar o notebook "Petro_KGraph/Evaluation/Avaliação do PetroKGraph.ipynb" para comparar o PetroKGraph_pred com o PetroKGraph_teste. 
+
 
 ### Avaliação do uso do PetroKGraph para Recuperação da informação
-25. Para comprovar a hipótese da tese, avaliamos um sistema de busca usando um sistema de expansão de consultas (AQE) baseado no knowledge graph. A avaliação se encontra no notebook Petro_KGraph/Evaluation/Base REGIS/notebooks/analise_ontologias.ipynb
+28. Para comprovar a hipótese da tese, avaliamos um sistema de busca usando um sistema de expansão de consultas (AQE) baseado no knowledge graph. A avaliação se encontra no notebook Petro_KGraph/Evaluation/Base REGIS/notebooks/analise_ontologias.ipynb
 
 
