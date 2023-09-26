@@ -41,7 +41,7 @@
 17. Rodar notebook Petro_KGraph/Model/Entity Linking/Training Entity Linking model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec".
 
 (Essa etapa treina um mesmo modelo para fazer o entity link e a clusterização)
-17. Rodar o notebook Petro_KGraph/Model/Instances clustering/Training Instances Clustering model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec_clustering".
+17. Rodar o notebook Petro_KGraph/Model/Instances clustering/Training Instances Clustering model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec_clustering". A memória de cálculo dos parâmetros do BDM está na planilha Petro_KGraph\Evaluation\Prâmetros para cálculo do BDM.xlsx
 
 ### Treinar Relation Extraction
 18. Rodar o notebook Petro_KGraph/Model/Relation Extraction/Training RE.ipynb para treinar o modelo de Extração de Entidades. O modelo será salvo na mesma pasta como "Model_RE.h5".
