@@ -328,6 +328,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#geological_object"/>
+        <Class IRI="#object"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#geological_object"/>
         <ObjectAllValuesFrom>
             <ObjectProperty IRI="#carrier_of"/>
             <Class IRI="#geological_structure"/>
