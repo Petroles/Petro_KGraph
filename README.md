@@ -1,12 +1,12 @@
 # Petro_KGraph
- Repository of the PhD research "Petro KGraph: a methodology for extracting knowledge graph from technical documents - an application in a corpus from the oil and gas industry." by Fábio Corrêa Cordeiro.
+ Repositório da pesquisa de doutorado "Petro KGraph: a methodology for extracting knowledge graph from technical documents - an application in a corpus from the oil and gas industry." por Fábio Corrêa Cordeiro.
  
  
 # Passo a passo para replicar o trabalho desenvolvido na tese:
 
 ### Verificar se os Knowledge Graphs estão no repositórios
 1. Os knowledge graphs devem estar nas pastas Petro_KGraph/KnowledgeGraph. A Petro KGraph Ontology (a ontologia básica antes de ser povoada) deve ser nomeada como OntoGeoLogicaEntidadesNomeadas.owl, já o Petro KGraph parcialmente povoado com as listas estruturadas (mas ainda sem ser povoada com as informações extraídas do texto) deve ser nomeada como OntoGeoLogicaInstanciasRelacoes.owl
-(Essa é a versão NP1, revisar o passo a paso com a versão pública que está em Petro_KGraph/KnowledgeGraph/resources/dados_publicos/OntoGeoLogicaANPInstanciasRelacoes.owl)
+(Essa é a versão NP1, revisar o passo a passo com a versão pública que está em Petro_KGraph/KnowledgeGraph/resources/dados_publicos/OntoGeoLogicaANPInstanciasRelacoes.owl)
 
 ### Treinar PetroOntoVec
 2. Verificar ser os modelos PetroVec que serão usados para inicializar o treinamento do PetroOntoVec estão disponíveis na pasta Petro_KGraph/Embeddings/PetroVec/Petrovec-XXXXXXX-100. Dentro dessa pasta devem estar três arquivos. Ex: "publico-COMPLETO-100.txt.model", "publico-COMPLETO-100.txt.model.trainables.syn1neg.npy", "publico-COMPLETO-100.txt.model.wv.vectors.npy".
