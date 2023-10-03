@@ -19,33 +19,45 @@
 7. Verificar se o corpus anotado com entidades e instâncias no formato Conllu está disponível no seguinte caminho: Petro_KGraph/Corpora/PetroNER/petroner-uri-AAAA-MM-DD.conllu
 8. Rodar o notebook Petro_KGraph/Corpora/PetroNER/Separando treino-valid-teste.ipynb para separar o corpus anotado em treino-validação-teste. A definição das sentenças que vão para cada dataset está "hard coded" no notebook, mas foi feita com base no arquivo KGraph/Corpora/PetroNER/PetroNER - Treino-Teste.xlsx.
 9. O notebook anterior criará três novos corpora na mesma pasta: petroner-uri-treino.conllu, petroner-uri-validação.conllu, petroner-uri-teste.conllu
-10. Rodar o notebook Petro_KGraph/Corpora/PetroNER/Analisando e adaptando PetroNER.ipynb. Esse notebook prepara os datasets que serão usados nas tarefas de entity linking e clustering além de gerar análises e estatísticas dos datasets. Os novos datasets são gravados na pasta KGraph/Corpora/PetroNER-LinkedEntity, são listas de sentenças (já processadas para serem usadas no treinamento), entidades, classes, e URI, todos divididos em PetroNER (corpus completo), treino, validação, e teste.
+10. Foram feitas duas anotações do PetroNER, uma com materiais públicos (com textos dos Boletins de Geociências) e outra com documentos NP1. A anotação pública está completa, com anotação de dependência sintática, POS, classe e URI das entidades anotadas. Já a anotação pública não tem anotação das URI, o que impossibilita usá-la para as tarefas de entity linking e extração de relações. Nessa etapa, copiamos e colamos os arquivos petroner-uri-treino.conllu e np1-ner-golden-2023-07-11.conllu em um mesmo arquivo chamado petroner-uri-treino - publico e np1.conllu.
+11. Rodar o notebook Petro_KGraph/Corpora/PetroNER/Analisando e adaptando PetroNER.ipynb. Esse notebook prepara os datasets que serão usados nas tarefas de entity linking e clustering além de gerar análises e estatísticas dos datasets. Os novos datasets são gravados na pasta KGraph/Corpora/PetroNER-LinkedEntity, são listas de sentenças (já processadas para serem usadas no treinamento), entidades, classes, e URI, todos divididos em PetroNER (corpus completo), treino, validação, e teste.
 
 ### Criando dataset para clustering
-11. Rodar o notebook Petro_KGraph/Corpora/PetroNER - Clustering/Triplet dataset.ipynb. Esse notebook cria o dataset para ser usado no contrastive learning (um exemplo âncora, um positivo e outro negativo). Os datasets são gravados na mesma pasta Petro_KGraph/Corpora/PetroNER - Clustering.
+12. Rodar o notebook Petro_KGraph/Corpora/PetroNER - Clustering/Triplet dataset.ipynb. Esse notebook cria o dataset para ser usado no contrastive learning (um exemplo âncora, um positivo e outro negativo). Os datasets são gravados na mesma pasta Petro_KGraph/Corpora/PetroNER - Clustering.
 
 ### Criando Relation Extraction dataset usando distant supervision
-12. Rodar o notebook Petro_KGraph/Corpora/PetroRE/Filter_Conllu_URIs_notebook.ipynb para filtrar apenas as sentenças que possuem pelo menos 2 URIs anotadas. Esse notebook salva os arquivos df_filtred_petroner_uri_xxxxxxxxxxxx na mesma pasta.
-13. **(Atenção - Essa extração pode demorar várias horas)** Rodar notebook ProcessFiltered_Conllu_URIs_notebook.ipynb para criar o dataset para Relation Extraction. Esse notebook salva os arquivos necessários para o treinamento do modelo na mesma pasta (df_bert_sentences_XXXX.csv, df_relation_xxxxxxx, lista_classe_xxxxx, lista_relacoes_xxxxx, lista_uris_xxxxx), além dos arquivos JSON para usar no label studio nas pastas Petro_KGraph/Corpora/PetroRE/JSONs_XXXXX. 
+13. Rodar o notebook Petro_KGraph/Corpora/PetroRE/Filter_Conllu_URIs_notebook.ipynb para filtrar apenas as sentenças que possuem pelo menos 2 URIs anotadas. Esse notebook salva os arquivos df_filtred_petroner_uri_xxxxxxxxxxxx na mesma pasta.
+14. **(Atenção - Essa extração pode demorar várias horas)** Rodar notebook ProcessFiltered_Conllu_URIs_notebook.ipynb para criar o dataset para Relation Extraction. Esse notebook salva os arquivos necessários para o treinamento do modelo na mesma pasta (df_bert_sentences_XXXX.csv, df_relation_xxxxxxx, lista_classe_xxxxx, lista_relacoes_xxxxx, lista_uris_xxxxx), além dos arquivos JSON para usar no label studio nas pastas Petro_KGraph/Corpora/PetroRE/JSONs_XXXXX. 
 
 ### Criando os Petro KGraph Golden
-14. Rodar o notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Split ontology.ipynb. Com base nos datasets PetroNER separados em treino-validação-teste, esse notebook irá criar os grafos golden que serão referência na avaliação do povoamento dos knowledge graphs (PetroKGraph_treino, PetroKGraph_valid, PetroKGraph_teste).
-15. O Notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Análise Ontologia.ipynb, levanta a quantidade de indivíduos, classes e labels na ontologia parcialmente povoada.
+15. Rodar o notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Split ontology.ipynb. Com base nos datasets PetroNER separados em treino-validação-teste, esse notebook irá criar os grafos golden que serão referência na avaliação do povoamento dos knowledge graphs (PetroKGraph_treino, PetroKGraph_valid, PetroKGraph_teste).
+16. O Notebook Petro_KGraph/KnowledgeGraph/Train-valid-test/Análise Ontologia.ipynb, levanta a quantidade de indivíduos, classes e labels na ontologia parcialmente povoada.
 
 ## Treinar modelos
 ### Treinar o modelo de Named Entity Recognition
-16. Rodar o notebook Petro_KGraph/Model/Named Entity Recognition/training NER.ipynb. Esse notebook irá usar o dataset "petroner-uri-treino.conllu" para treinar o modelo de NER que será salvo como Petro_KGraph/Model/Named Entity Recognition/Model_NER.h5 (O código elaborado pela PUC está na pasta Petro_KGraph/Model/Named Entity Recognition (PUC))
+17. Rodar o notebook Petro_KGraph/Model/Named Entity Recognition/training NER.ipynb. Esse notebook irá usar o dataset "petroner-uri-treino.conllu" para treinar o modelo de NER que será salvo como Petro_KGraph/Model/Named Entity Recognition/Model_NER.h5 (O código elaborado pela PUC está na pasta Petro_KGraph/Model/Named Entity Recognition (PUC))
 
 ### Treinar Entity Linking 
 (avaliar se essa etapa será realizada)(Essa etapa treina um modelo apenas para o entity link, sem a clusterização)
-17. Rodar notebook Petro_KGraph/Model/Entity Linking/Training Entity Linking model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec".
+18. Rodar notebook Petro_KGraph/Model/Entity Linking/Training Entity Linking model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec".
 
 (Essa etapa treina um mesmo modelo para fazer o entity link e a clusterização)
-17. Rodar o notebook Petro_KGraph/Model/Instances clustering/Training Instances Clustering model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec_clustering". A memória de cálculo dos parâmetros do BDM está na planilha Petro_KGraph\Evaluation\Prâmetros para cálculo do BDM.xlsx
+18. Rodar o notebook Petro_KGraph/Model/Instances clustering/Training Instances Clustering model.ipynb para treinar o modelo de entitiy link. O modelo será salvo na mesma pasta como "Sentence2PetroOntoVec_clustering". A memória de cálculo dos parâmetros do BDM está na planilha Petro_KGraph\Evaluation\Prâmetros para cálculo do BDM.xlsx
 
 ### Treinar Relation Extraction
-18. Rodar o notebook Petro_KGraph/Model/Relation Extraction/Training RE.ipynb para treinar o modelo de Extração de Entidades. O modelo será salvo na mesma pasta como "Model_RE.h5".
+19. Rodar o notebook Petro_KGraph/Model/Relation Extraction/Training RE.ipynb para treinar o modelo de Extração de Entidades. O modelo será salvo na mesma pasta como "Model_RE.h5".
 
+
+## Avaliação
+
+### Avaliar a extração de Knowledge Graph do texto
+20. Nas etapas de treinamento dos modelos, os datasets de avaliação foram usados isoladamente para avaliar a performance de cada modelo. Nesta etapa avaliamos a performance do pipeline completo, portanto usamos o PetroNER de teste por todo o ciclo de predição. Devemos verificar se o arquivo 'petroner-uri-teste.conllu' está na pasta "Petro_KGraph/Corpora/Predicao - avaliação/Documentos_conllu/"
+
+25. Refazer as etapas de predição (20, 21, 22 e 23), certificando que os notebooks estão apontando para a pasta "Petro_KGraph/Corpora/Predicao - avaliação" e que o grafo utilizado seja o "Petro_KGraph\KnowledgeGraph\OntoGeoLogicaEntidadesNomeadas.owl"
+
+26. Com base nas entidades e relações encontradas, povoar o Knowledge Graph para avaliação. Rodar o Notebook "Petro_KGraph/Corpora/Predicao - avaliação/Prediction_graph/Povoando PetroKGraph_pred.ipynb". O grafo com as entidades e relações preditas será salvo como "Petro_KGraph/Corpora/Predicao - avaliação/Prediction_graph/PetroKGraph_pred".
+
+27. Finalmente, rodar o notebook "Petro_KGraph/Evaluation/Avaliação do PetroKGraph.ipynb" para comparar o PetroKGraph_pred com o PetroKGraph_teste. 
 
 ## Predição
 
@@ -60,16 +72,7 @@
 23. Rodar o Notebook Notebook Petro_KGraph/Model/Prediction/Prediction_RE.ipynb para identificar as relações no texto. As relações serão gravadas nos JSONs da pasta "Petro_KGraph/Corpora/Predicao/Prediction_json/" 
 
 
-## Avaliação
 
-### Avaliar a extração de Knowledge Graph do texto
-24. Nas etapas de treinamento dos modelos, os datasets de avaliação foram usados isoladamente para avaliar a performance de cada modelo. Nesta etapa avaliamos a performance do pipeline completo, portanto usamos o PetroNER de teste por todo o ciclo de predição. Devemos verificar se o arquivo 'petroner-uri-teste.conllu' está na pasta "Petro_KGraph/Corpora/Predicao - avaliação/Documentos_conllu/"
-
-25. Refazer as etapas de predição (20, 21, 22 e 23), certificando que os notebooks estão apontando para a pasta "Petro_KGraph/Corpora/Predicao - avaliação" e que o grafo utilizado seja o "Petro_KGraph\KnowledgeGraph\OntoGeoLogicaEntidadesNomeadas.owl"
-
-26. Com base nas entidades e relações encontradas, povoar o Knowledge Graph para avaliação. Rodar o Notebook "Petro_KGraph/Corpora/Predicao - avaliação/Prediction_graph/Povoando PetroKGraph_pred.ipynb". O grafo com as entidades e relações preditas será salvo como "Petro_KGraph/Corpora/Predicao - avaliação/Prediction_graph/PetroKGraph_pred".
-
-27. Finalmente, rodar o notebook "Petro_KGraph/Evaluation/Avaliação do PetroKGraph.ipynb" para comparar o PetroKGraph_pred com o PetroKGraph_teste. 
 
 
 ### Avaliação do uso do PetroKGraph para Recuperação da informação
