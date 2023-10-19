@@ -375,6 +375,7 @@
       </owl:intersectionOf>
     </owl:Class>
   </owl:equivalentClass>
+  <rdfs:subClassOf rdf:resource="#object"/>
   <rdfs:subClassOf>
     <owl:Restriction>
       <owl:onProperty rdf:resource="#carrier_of"/>
@@ -569,111 +570,23 @@
   <rdfs:label>fluido geológico de O&amp;G</rdfs:label>
 </owl:Class>
 
-<owl:Class rdf:about="#volcanic_rock">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Quaternary_quality">
+<owl:Class rdf:about="#Upper_Valanginian_Subage_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Maastrichtian_quality">
+<owl:Class rdf:about="#igneous_sediment">
+  <rdfs:subClassOf rdf:resource="#unconsolidated_earth_material"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Holocene_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#diabase">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Oligocene_quality">
+<owl:Class rdf:about="#Aptian_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#calciarenite">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Asbian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Middle_Albian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#conglomerate">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Silurian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#anhydrite">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Campanian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Mississippian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#migmatite">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#quartzite">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Cretaceous_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#oil">
-  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
-</owl:Class>
-
-<owl:Class rdf:about="#sedimentary_rock">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#LowerCretaceous_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#mudstone">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Paleocene_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#coal">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Jiquia_Age_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Turonian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Coniacian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#sandstone">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Santonian_quality">
+<owl:Class rdf:about="#Lower_Aptian_Subage_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
@@ -681,55 +594,11 @@
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#siliciclasticos">
-  <rdfs:subClassOf rdf:resource="#rock"/>
+<owl:Class rdf:about="#hydrocarbon_migration">
+  <rdfs:subClassOf rdf:resource="#petroleum_system_events"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Devonian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Holocene_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Aratu_Age_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Permian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#granite">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Dom_Joao_Age_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#silt">
-  <rdfs:subClassOf rdf:resource="#unconsolidated_earth_material"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Eocene_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#gas">
-  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
-</owl:Class>
-
-<owl:Class rdf:about="#hydrocarbon">
-  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Buracica_Age_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#metassedimentar">
+<owl:Class rdf:about="#quartzite">
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
@@ -737,47 +606,39 @@
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#source_rock">
-  <rdfs:subClassOf rdf:resource="#petroleum_system_elements"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Carboniferous_quality">
+<owl:Class rdf:about="#UpperJurassic_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Alagoas_Age_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#tonalite">
+<owl:Class rdf:about="#diabase">
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Lower_Valanginian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
+<owl:Class rdf:about="#migmatite">
+  <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#hydrocarbon_migration">
-  <rdfs:subClassOf rdf:resource="#petroleum_system_events"/>
+<owl:Class rdf:about="#pyroclastic_rock">
+  <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Upper_Albian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Lower_Albian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
+<owl:Class rdf:about="#schist">
+  <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
 <owl:Class rdf:about="#marlstone">
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Cenozoic_quality">
+<owl:Class rdf:about="#Middle_Albian_Subage_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Berriasian_quality">
+<owl:Class rdf:about="#Coniacian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Cenozoic_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
@@ -785,15 +646,211 @@
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
+<owl:Class rdf:about="#Hauterivian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#hydrocarbon">
+  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
+</owl:Class>
+
+<owl:Class rdf:about="#anhydrite">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Turonian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Berriasian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#sandstone">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Campanian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#UpperCretaceous_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Buracica_Age_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#evaporite">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Miocene_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Pleistocene_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Paleozoic_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#gas">
+  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Mesozoic_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#burial">
+  <rdfs:subClassOf rdf:resource="#petroleum_system_events"/>
+</owl:Class>
+
+<owl:Class rdf:about="#LowerCretaceous_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Triassic_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Dom_Joao_Age_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Lower_Berriasian_Subage_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Alagoas_Age_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Quaternary_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#sedimentary_rock">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Ordovician_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#conglomerate">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Ypresian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Cambrian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#silt">
+  <rdfs:subClassOf rdf:resource="#unconsolidated_earth_material"/>
+</owl:Class>
+
+<owl:Class rdf:about="#clay">
+  <rdfs:subClassOf rdf:resource="#unconsolidated_earth_material"/>
+</owl:Class>
+
+<owl:Class rdf:about="#igneous_rock">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#lamito">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#halite">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#basalt">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#oil">
+  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
+</owl:Class>
+
+<owl:Class rdf:about="#breccia">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Paleocene_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Neoriodaserra_Subage_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#limestone">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Aratu_Age_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Albian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#rhyolite">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
 <owl:Class rdf:about="#gipsita">
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#carbonatos">
+<owl:Class rdf:about="#Paleogene_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Oligocene_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Cretaceous_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Silurian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Jiquia_Age_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#granitic_rock">
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Cambrian_quality">
+<owl:Class rdf:about="#siliciclasticos">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#volcanic_rock">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#seal">
+  <rdfs:subClassOf rdf:resource="#petroleum_system_elements"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Eocene_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
@@ -801,7 +858,55 @@
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Lower_Aptian_Subage_quality">
+<owl:Class rdf:about="#water">
+  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
+</owl:Class>
+
+<owl:Class rdf:about="#mudstone">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Bartonian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#carbonatos">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#hydrocarbon_generation">
+  <rdfs:subClassOf rdf:resource="#petroleum_system_events"/>
+</owl:Class>
+
+<owl:Class rdf:about="#gneiss">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#source_rock">
+  <rdfs:subClassOf rdf:resource="#petroleum_system_elements"/>
+</owl:Class>
+
+<owl:Class rdf:about="#trachyte">
+  <rdfs:subClassOf rdf:resource="#rock"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Lower_Turonian_Subage_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Carboniferous_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Permian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Cenomanian_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Mississippian_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
@@ -813,147 +918,27 @@
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Pleistocene_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Paleogene_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#UpperJurassic_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Lower_Cenomanian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#burial">
-  <rdfs:subClassOf rdf:resource="#petroleum_system_events"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Archean_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Cenomanian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Triassic_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Paleozoic_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#igneous_rock">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
 <owl:Class rdf:about="#gravel">
   <rdfs:subClassOf rdf:resource="#unconsolidated_earth_material"/>
-</owl:Class>
-
-<owl:Class rdf:about="#seal">
-  <rdfs:subClassOf rdf:resource="#petroleum_system_elements"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Neoriodaserra_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#rhyolite">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#lamito">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#breccia">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#granitic_rock">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#schist">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Hauterivian_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
 <owl:Class rdf:about="#magma">
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Mesozoic_quality">
+<owl:Class rdf:about="#Devonian_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#gneiss">
+<owl:Class rdf:about="#granite">
   <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Miocene_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#clay">
-  <rdfs:subClassOf rdf:resource="#unconsolidated_earth_material"/>
-</owl:Class>
-
-<owl:Class rdf:about="#shale">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#trachyte">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#limestone">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Upper_Turonian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#halite">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Griesbachian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Lower_Berriasian_Subage_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#evaporite">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#UpperCretaceous_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#igneous_sediment">
-  <rdfs:subClassOf rdf:resource="#unconsolidated_earth_material"/>
 </owl:Class>
 
 <owl:Class rdf:about="#cobbles">
   <rdfs:subClassOf rdf:resource="#unconsolidated_earth_material"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Lower_Barremian_Subage_quality">
+<owl:Class rdf:about="#Burdigalian_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
@@ -961,262 +946,71 @@
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#Albian_quality">
+<owl:Class rdf:about="#Maastrichtian_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#basalt">
+<owl:Class rdf:about="#shale">
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#hydrocarbon_generation">
-  <rdfs:subClassOf rdf:resource="#petroleum_system_events"/>
-</owl:Class>
-
-<owl:Class rdf:about="#water">
-  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
-</owl:Class>
-
-<owl:Class rdf:about="#pyroclastic_rock">
-  <rdfs:subClassOf rdf:resource="#rock"/>
-</owl:Class>
-
-<owl:Class rdf:about="#Aptian_quality">
+<owl:Class rdf:about="#Santonian_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#PetroNER_UNIDADE_CRONO_Neoaptiano_quality">
-  <rdfs:subClassOf rdf:resource="#geological_age"/>
-</owl:Class>
-
-<owl:Class rdf:about="#PetroNER_ROCHA_calcilutitos">
+<owl:Class rdf:about="#NEW_ROCHA_rochas_geradoras">
   <rdfs:subClassOf rdf:resource="#rock"/>
 </owl:Class>
 
-<owl:Class rdf:about="#PetroNER_FLUIDO_fluidos">
+<owl:Class rdf:about="#NEW_FLUIDO_fluidos">
   <rdfs:subClassOf rdf:resource="#anthropogenic_fluid"/>
 </owl:Class>
 
-<owl:Class rdf:about="#PetroNER_UNIDADE_CRONO_Sinemuriano_quality">
+<owl:Class rdf:about="#NEW_FLUIDODATERRA_i_betume">
+  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
+</owl:Class>
+
+<owl:Class rdf:about="#NEW_UNIDADE_CRONO_Andar_Rio_de_a_Serra_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#PetroNER_UNIDADE_CRONO_Neotriássico_quality">
+<owl:Class rdf:about="#NEW_UNIDADE_CRONO_Jurássico_Inferior_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#PetroNER_UNIDADE_CRONO_Toarciano_inferior_quality">
+<owl:Class rdf:about="#NEW_UNIDADE_CRONO_Pliensbaquiano_quality">
   <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
-<owl:Class rdf:about="#PetroNER_ROCHA_dinocistos">
-  <rdfs:subClassOf rdf:resource="#rock"/>
+<owl:Class rdf:about="#NEW_FLUIDODATERRA_i_asfaltenos">
+  <rdfs:subClassOf rdf:resource="#o&amp;g_earth_fluid"/>
+</owl:Class>
+
+<owl:Class rdf:about="#NEW_UNIDADE_CRONO_norhopano_quality">
+  <rdfs:subClassOf rdf:resource="#geological_age"/>
 </owl:Class>
 
 <rdf:Description rdf:about="#FormationOfEarth_quality">
   <rdfs:label>Formação da Terra</rdfs:label>
 </rdf:Description>
 
-<basin rdf:about="#BASE_CD_BACIA_020">
+<geological_time_interval rdf:about="#Upper_Valanginian_Subage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Holocene">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Aptian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<basin rdf:about="#BASE_CD_BACIA_090">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </basin>
 
-<lithostratigraphic_unit rdf:about="#formacao_154">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#formacao_056">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Quaternary">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Maastrichtian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#formacao_153">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Oligocene">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#membro_010">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_270"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Asbian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#membro_045">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#BASE_CD_BACIA_051">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<geological_time_interval rdf:about="#Middle_Albian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<well rdf:about="#POCO_CD_POCO_023089">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</well>
-
-<basin rdf:about="#BASE_CD_BACIA_096">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<geological_time_interval rdf:about="#Silurian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_173">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<lithostratigraphic_unit rdf:about="#SD_000">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#formacao_130">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#BASE_CD_BACIA_106">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<basin rdf:about="#BASE_CD_BACIA_220">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<geological_time_interval rdf:about="#Campanian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Mississippian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#formacao_335">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <constituted_by rdf:resource="#sandstone"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Cretaceous">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#LowerCretaceous">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#formacao_145">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<field rdf:about="#CAMP_CD_CAMPO_0536">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</field>
-
-<geological_time_interval rdf:about="#Paleocene">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<basin rdf:about="#BASE_CD_BACIA_250">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<field rdf:about="#CAMP_CD_CAMPO_0916">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#well"/>
-</field>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_161">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<lithostratigraphic_unit rdf:about="#formacao_253">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <constituted_by rdf:resource="#sandstone"/>
-  <located_in rdf:resource="#basin"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#formacao_239">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#formacao_305">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_215"/>
-</lithostratigraphic_unit>
-
-<well rdf:about="#POCO_CD_POCO_023092">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</well>
-
-<geological_time_interval rdf:about="#Jiquia_Age">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<basin rdf:about="#BASE_CD_BACIA_281">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#formacao_113"/>
-  <located_in rdf:resource="#grupo_000"/>
-  <located_in rdf:resource="#CAMP_CD_CAMPO_0682"/>
-</basin>
-
-<geological_time_interval rdf:about="#Turonian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Coniacian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_142">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<field rdf:about="#CAMP_CD_CAMPO_0519">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#well"/>
-</field>
-
-<lithostratigraphic_unit rdf:about="#membro_019">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#BASE_CD_BACIA_116">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#grupo_038"/>
-  <located_in rdf:resource="#formacao_216"/>
-  <located_in rdf:resource="#formacao_103"/>
-  <located_in rdf:resource="#formacao_154"/>
-</basin>
-
-<lithostratigraphic_unit rdf:about="#formacao_158">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Santonian">
+<geological_time_interval rdf:about="#Lower_Aptian_Subage">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
@@ -1224,142 +1018,148 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
-<basin rdf:about="#BASE_CD_BACIA_240">
+<basin rdf:about="#BASE_CD_BACIA_281">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#grupo_022"/>
+  <located_in rdf:resource="#well"/>
+  <located_in rdf:resource="#CAMP_CD_CAMPO_0682"/>
+  <located_in rdf:resource="#grupo_000"/>
+  <located_in rdf:resource="#CAMP_CD_CAMPO_0017"/>
   <located_in rdf:resource="#SD_000"/>
-  <located_in rdf:resource="#PetroNER_UNIDADE_LITO_Formação_Afligidos"/>
+  <located_in rdf:resource="#CAMP_CD_CAMPO_0760"/>
 </basin>
 
-<geological_time_interval rdf:about="#Devonian">
+<field rdf:about="#CAMP_CD_CAMPO_0682">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<field rdf:about="#CAMP_CD_CAMPO_0734">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_281"/>
 </field>
 
-<geological_time_interval rdf:about="#Holocene">
+<well rdf:about="#POCO_CD_POCO_023089">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
+</well>
 
-<geological_time_interval rdf:about="#Aratu_Age">
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_207">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
+</geological_structure>
 
-<geological_time_interval rdf:about="#Permian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<basin rdf:about="#BASE_CD_BACIA_316">
+<basin rdf:about="#BASE_CD_BACIA_150">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </basin>
 
-<lithostratigraphic_unit rdf:about="#formacao_279">
+<lithostratigraphic_unit rdf:about="#formacao_229">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </lithostratigraphic_unit>
 
-<field rdf:about="#CAMP_CD_CAMPO_0750">
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_120">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_time_interval rdf:about="#Valanginian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#UpperJurassic">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#formacao_102">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+</lithostratigraphic_unit>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_224">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<field rdf:about="#CAMP_CD_CAMPO_0575">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </field>
 
-<geological_time_interval rdf:about="#Dom_Joao_Age">
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_059">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<lithostratigraphic_unit rdf:about="#grupo_022">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
+  <part_of rdf:resource="#formacao_335"/>
+  <constituted_by rdf:resource="#shale"/>
+  <constituted_by rdf:resource="#sandstone"/>
+</lithostratigraphic_unit>
+
+<basin rdf:about="#BASE_CD_BACIA_266">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_004">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<field rdf:about="#CAMP_CD_CAMPO_0995">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</field>
+
+<basin rdf:about="#BASE_CD_BACIA_220">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<geological_time_interval rdf:about="#Middle_Albian_Subage">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#formacao_149">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_220"/>
+</lithostratigraphic_unit>
+
+<lithostratigraphic_unit rdf:about="#formacao_154">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+</lithostratigraphic_unit>
+
+<basin rdf:about="#BASE_CD_BACIA_300">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<basin rdf:about="#BASE_CD_BACIA_080">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<basin rdf:about="#BASE_CD_BACIA_051">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#SD_000"/>
+</basin>
 
 <basin rdf:about="#BASE_CD_BACIA_100">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <located_in rdf:resource="#formacao_319"/>
 </basin>
 
-<basin rdf:about="#BASE_CD_BACIA_270">
+<lithostratigraphic_unit rdf:about="#formacao_095">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#CAMP_CD_CAMPO_0575"/>
-</basin>
+  <part_of rdf:resource="#formacao_229"/>
+  <has_age rdf:resource="#Ypresian_quality_formacao_095"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_230"/>
+  <has_age rdf:resource="#Berriasian_quality_formacao_095"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
+  <constituted_by rdf:resource="#oil"/>
+  <constituted_by rdf:resource="#sandstone"/>
+  <constituted_by rdf:resource="#shale"/>
+</lithostratigraphic_unit>
 
-<geological_time_interval rdf:about="#Eocene">
+<geological_time_interval rdf:about="#Coniacian">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
-<lithostratigraphic_unit rdf:about="#formacao_009">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#formacao_254">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<well rdf:about="#POCO_CD_POCO_023047">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</well>
-
-<lithostratigraphic_unit rdf:about="#formacao_242">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_age rdf:resource="#Aratu_Age_quality_formacao_242"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#BASE_CD_BACIA_080">
+<basin rdf:about="#BASE_CD_BACIA_210">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </basin>
 
-<geological_time_interval rdf:about="#Buracica_Age">
+<lithostratigraphic_unit rdf:about="#formacao_056">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Valanginian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<basin rdf:about="#BASE_CD_BACIA_236">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<geological_time_interval rdf:about="#Carboniferous">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<basin rdf:about="#BASE_CD_BACIA_300">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<lithostratigraphic_unit rdf:about="#formacao_117">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_age rdf:resource="#Alagoas_Age_quality_formacao_056"/>
 </lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Alagoas_Age">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Lower_Valanginian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Upper_Albian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#formacao_216">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Lower_Albian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_139">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_036">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
 
 <geological_time_interval rdf:about="#Cenozoic">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Berriasian">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
@@ -1367,26 +1167,115 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
-<lithostratigraphic_unit rdf:about="#formacao_095">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <constituted_by rdf:resource="#sandstone"/>
-  <located_in rdf:resource="#PetroNER_BACIA_Bacia_de_o_Tucano"/>
-  <constituted_by rdf:resource="#shale"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Cambrian">
+<geological_time_interval rdf:about="#Hauterivian">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_147">
+<basin rdf:about="#BASE_CD_BACIA_030">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<field rdf:about="#CAMP_CD_CAMPO_0523">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</field>
+
+<basin rdf:about="#BASE_CD_BACIA_275">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<geological_time_interval rdf:about="#Turonian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<textura rdf:about="#textura_073">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</textura>
+
+<lithostratigraphic_unit rdf:about="#formacao_253">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#basin"/>
+  <constituted_by rdf:resource="#sandstone"/>
+</lithostratigraphic_unit>
+
+<geological_time_interval rdf:about="#Berriasian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<field rdf:about="#CAMP_CD_CAMPO_0536">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</field>
+
+<lithostratigraphic_unit rdf:about="#formacao_335">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <constituted_by rdf:resource="#sandstone"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
+  <part_of rdf:resource="#formacao_239"/>
+  <has_age rdf:resource="#Dom_Joao_Age_quality_formacao_335"/>
+</lithostratigraphic_unit>
+
+<geological_time_interval rdf:about="#Campanian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#UpperCretaceous">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<field rdf:about="#CAMP_CD_CAMPO_0951">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</field>
+
+<geological_time_interval rdf:about="#Buracica_Age">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#formacao_216">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lithostratigraphic_unit>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_002">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_structure>
 
-<geological_time_interval rdf:about="#Proterozoic">
+<geological_time_interval rdf:about="#Miocene">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
-<geological_time_interval rdf:about="#Lower_Aptian_Subage">
+<geological_time_interval rdf:about="#Pleistocene">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<basin rdf:about="#BASE_CD_BACIA_240">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#SD_000"/>
+  <located_in rdf:resource="#well"/>
+</basin>
+
+<geological_time_interval rdf:about="#Paleozoic">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<basin rdf:about="#BASE_CD_BACIA_316">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<geological_time_interval rdf:about="#Mesozoic">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#membro_061">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lithostratigraphic_unit>
+
+<geological_time_interval rdf:about="#LowerCretaceous">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Triassic">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Dom_Joao_Age">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
@@ -1394,15 +1283,117 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </basin>
 
+<geological_time_interval rdf:about="#Lower_Berriasian_Subage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Alagoas_Age">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Quaternary">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_108">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_time_interval rdf:about="#Ordovician">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Ypresian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#formacao_287">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <part_of rdf:resource="#membro_078"/>
+</lithostratigraphic_unit>
+
+<geological_time_interval rdf:about="#Cambrian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<basin rdf:about="#BASE_CD_BACIA_215">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#formacao_102"/>
+</basin>
+
+<basin rdf:about="#BASE_CD_BACIA_230">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#grupo_022"/>
+</basin>
+
+<lithostratigraphic_unit rdf:about="#formacao_158">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#basin"/>
+  <has_age rdf:resource="#Campanian_quality_formacao_158"/>
+</lithostratigraphic_unit>
+
 <geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_229">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_structure>
 
-<basin rdf:about="#BASE_CD_BACIA_381">
+<lithostratigraphic_unit rdf:about="#formacao_009">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+</lithostratigraphic_unit>
 
-<geological_time_interval rdf:about="#Pleistocene">
+<field rdf:about="#CAMP_CD_CAMPO_0734">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</field>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_055">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_223">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_time_interval rdf:about="#Paleocene">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#formacao_103">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
+  <constituted_by rdf:resource="#rock"/>
+</lithostratigraphic_unit>
+
+<geological_time_interval rdf:about="#Neoriodaserra_Subage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<field rdf:about="#CAMP_CD_CAMPO_0017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#NEW_POÇO_14_-_PC_-_06"/>
+</field>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_066">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<textura rdf:about="#textura_046">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</textura>
+
+<geological_time_interval rdf:about="#Aratu_Age">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_126">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_058">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_time_interval rdf:about="#Albian">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
@@ -1410,15 +1401,252 @@
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
-<lithostratigraphic_unit rdf:about="#formacao_187">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#UpperJurassic">
+<geological_time_interval rdf:about="#Oligocene">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
-<geological_time_interval rdf:about="#Lower_Cenomanian_Subage">
+<geological_time_interval rdf:about="#Cretaceous">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<basin rdf:about="#BASE_CD_BACIA_381">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<geological_time_interval rdf:about="#Silurian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Jiquia_Age">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<basin rdf:about="#BASE_CD_BACIA_270">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#well"/>
+</basin>
+
+<basin rdf:about="#BASE_CD_BACIA_020">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<basin rdf:about="#BASE_CD_BACIA_096">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_005">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<well rdf:about="#POCO_GENERICO">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</well>
+
+<geological_time_interval rdf:about="#Eocene">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_036">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_time_interval rdf:about="#Proterozoic">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#grupo_000">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lithostratigraphic_unit>
+
+<lithostratigraphic_unit rdf:about="#formacao_279">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lithostratigraphic_unit>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_127">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_time_interval rdf:about="#Bartonian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#formacao_016">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_age rdf:resource="#Cretaceous_quality_formacao_016"/>
+</lithostratigraphic_unit>
+
+<lithostratigraphic_unit rdf:about="#SD_000">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_100"/>
+  <constituted_by rdf:resource="#quartzite"/>
+  <constituted_by rdf:resource="#schist"/>
+  <located_in rdf:resource="#basin"/>
+  <constituted_by rdf:resource="#granite"/>
+  <constituted_by rdf:resource="#gneiss"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+  <constituted_by rdf:resource="#migmatite"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_281"/>
+  <constituted_by rdf:resource="#limestone"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_215"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_106"/>
+</lithostratigraphic_unit>
+
+<lithostratigraphic_unit rdf:about="#formacao_157">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lithostratigraphic_unit>
+
+<lithostratigraphic_unit rdf:about="#formacao_153">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+  <constituted_by rdf:resource="#oil"/>
+</lithostratigraphic_unit>
+
+<geological_time_interval rdf:about="#Lower_Turonian_Subage">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#formacao_117">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <part_of rdf:resource="#NEW_UNIDADE_LITO_Membro_Oiteirinhos."/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+</lithostratigraphic_unit>
+
+<geological_time_interval rdf:about="#Carboniferous">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_048">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_time_interval rdf:about="#Permian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Cenomanian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<field rdf:about="#CAMP_CD_CAMPO_0519">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#NEW_POÇO_poços_1_-_CR_-_2_-_SE"/>
+</field>
+
+<geological_time_interval rdf:about="#Mississippian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<field rdf:about="#CAMP_CD_CAMPO_0760">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_281"/>
+</field>
+
+<lithostratigraphic_unit rdf:about="#formacao_239">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_age rdf:resource="#Dom_Joao_Age_quality_formacao_239"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
+</lithostratigraphic_unit>
+
+<lithostratigraphic_unit rdf:about="#membro_078">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lithostratigraphic_unit>
+
+<basin rdf:about="#BASE_CD_BACIA_260">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<field rdf:about="#CAMP_CD_CAMPO_0750">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#basin"/>
+</field>
+
+<field rdf:about="#CAMP_CD_CAMPO_0773">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#NEW_POÇO_poços_1_-_CR_-_2_-_SE"/>
+</field>
+
+<lithostratigraphic_unit rdf:about="#membro_010">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_270"/>
+</lithostratigraphic_unit>
+
+<basin rdf:about="#BASE_CD_BACIA_106">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#SD_000"/>
+</basin>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_046">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<lithostratigraphic_unit rdf:about="#formacao_145">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lithostratigraphic_unit>
+
+<field rdf:about="#CAMP_CD_CAMPO_0362">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</field>
+
+<geological_time_interval rdf:about="#Devonian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<basin rdf:about="#BASE_CD_BACIA_236">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<lithostratigraphic_unit rdf:about="#formacao_319">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <constituted_by rdf:resource="#shale"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_100"/>
+  <constituted_by rdf:resource="#sandstone"/>
+  <constituted_by rdf:resource="#siltstone"/>
+  <constituted_by rdf:resource="#limestone"/>
+  <located_in rdf:resource="#basin"/>
+</lithostratigraphic_unit>
+
+<basin rdf:about="#BASE_CD_BACIA_116">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#formacao_216"/>
+  <located_in rdf:resource="#formacao_103"/>
+  <located_in rdf:resource="#formacao_154"/>
+  <located_in rdf:resource="#field"/>
+  <located_in rdf:resource="#formacao_117"/>
+</basin>
+
+<lithostratigraphic_unit rdf:about="#formacao_305">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_215"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+</lithostratigraphic_unit>
+
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_169">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_structure>
+
+<geological_time_interval rdf:about="#Burdigalian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Barremian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#Maastrichtian">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<textura rdf:about="#textura_049">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</textura>
+
+<lithostratigraphic_unit rdf:about="#formacao_130">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+  <part_of rdf:resource="#NEW_UNIDADE_LITO_Membro_Oiteirinhos."/>
+</lithostratigraphic_unit>
+
+<geological_time_interval rdf:about="#Santonian">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_time_interval>
 
@@ -1427,413 +1655,173 @@
   <located_in rdf:resource="#BASE_CD_BACIA_281"/>
 </field>
 
-<lithostratigraphic_unit rdf:about="#formacao_319">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <constituted_by rdf:resource="#PetroNER_ROCHA_calcilutitos"/>
-  <constituted_by rdf:resource="#shale"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_100"/>
-  <constituted_by rdf:resource="#siltstone"/>
-  <constituted_by rdf:resource="#sandstone"/>
-</lithostratigraphic_unit>
-
-<well rdf:about="#POCO_CD_POCO_012879">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</well>
-
-<geological_time_interval rdf:about="#Archean">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#formacao_016">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Cenomanian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Triassic">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<field rdf:about="#CAMP_CD_CAMPO_0004">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</field>
-
-<geological_time_interval rdf:about="#Paleozoic">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_055">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<textura rdf:about="#textura_046">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</textura>
-
-<lithostratigraphic_unit rdf:about="#formacao_103">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
-</lithostratigraphic_unit>
-
 <geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_023">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_structure>
 
-<field rdf:about="#CAMP_CD_CAMPO_0017">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#gipsita"/>
-  <located_in rdf:resource="#POCO_CD_POCO_023090"/>
-</field>
-
-<lithostratigraphic_unit rdf:about="#formacao_214">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <constituted_by rdf:resource="#sandstone"/>
-  <constituted_by rdf:resource="#shale"/>
-</lithostratigraphic_unit>
-
-<field rdf:about="#CAMP_CD_CAMPO_0760">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_281"/>
-</field>
-
-<well rdf:about="#POCO_GENERICO">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</well>
-
-<geological_time_interval rdf:about="#Neoriodaserra_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<basin rdf:about="#BASE_CD_BACIA_275">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<well rdf:about="#POCO_CD_POCO_025253">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#basin"/>
-</well>
-
-<lithostratigraphic_unit rdf:about="#formacao_207">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#formacao_102">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<field rdf:about="#CAMP_CD_CAMPO_0575">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</field>
-
-<basin rdf:about="#BASE_CD_BACIA_030">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<geological_time_interval rdf:about="#Hauterivian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<textura rdf:about="#textura_073">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</textura>
-
-<geological_time_interval rdf:about="#Mesozoic">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<basin rdf:about="#BASE_CD_BACIA_215">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<basin rdf:about="#BASE_CD_BACIA_150">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<lithostratigraphic_unit rdf:about="#grupo_000">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<field rdf:about="#CAMP_CD_CAMPO_0951">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</field>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_004">
+<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_012">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
 </geological_structure>
-
-<geological_time_interval rdf:about="#Miocene">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<well rdf:about="#POCO_CD_POCO_023021">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</well>
 
 <field rdf:about="#CAMP_CD_CAMPO_0249">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <located_in rdf:resource="#BASE_CD_BACIA_116"/>
 </field>
 
-<basin rdf:about="#BASE_CD_BACIA_266">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<lithostratigraphic_unit rdf:about="#formacao_113">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<field rdf:about="#CAMP_CD_CAMPO_0773">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#well"/>
-</field>
-
-<field rdf:about="#CAMP_CD_CAMPO_0082">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</field>
-
-<field rdf:about="#CAMP_CD_CAMPO_0523">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</field>
-
-<lithostratigraphic_unit rdf:about="#formacao_149">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#PetroNER_BACIA_Bacia_de_o_Tucano"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#BASE_CD_BACIA_210">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<basin rdf:about="#BASE_CD_BACIA_260">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<field rdf:about="#CAMP_CD_CAMPO_0383">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</field>
-
-<geological_time_interval rdf:about="#Upper_Turonian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<field rdf:about="#CAMP_CD_CAMPO_0179">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
-</field>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_058">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_046">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_014">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<geological_time_interval rdf:about="#Griesbachian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Lower_Berriasian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#membro_061">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#UpperCretaceous">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#formacao_136">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#grupo_038">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<geological_time_interval rdf:about="#Lower_Barremian_Subage">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Barremian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#Albian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#grupo_022">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
-  <constituted_by rdf:resource="#sandstone"/>
-  <constituted_by rdf:resource="#shale"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#BASE_CD_BACIA_090">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_066">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<well rdf:about="#POCO_CD_POCO_006789">
+<well rdf:about="#NEW_POÇO_14_-_PC_-_06">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <located_in rdf:resource="#CAMP_CD_CAMPO_0249"/>
-  <located_in rdf:resource="#membro_061"/>
   <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+  <part_of rdf:resource="#NEW_UNIDADE_LITO_Membro_Oiteirinhos."/>
 </well>
 
-<field rdf:about="#CAMP_CD_CAMPO_0682">
+<lithostratigraphic_unit rdf:about="#NEW_UNIDADE_LITO_Membro_Oiteirinhos.">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_281"/>
+</lithostratigraphic_unit>
+
+<basin rdf:about="#INTER_BACIA_012">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#well"/>
+</basin>
+
+<geological_time_interval rdf:about="#NEW_UNIDADE_CRONO_Andar_Rio_de_a_Serra">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<well rdf:about="#NEW_POÇO_Bu_-_91_/_GI_-_05">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</well>
+
+<lithostratigraphic_unit rdf:about="#NEW_UNIDADE_LITO_Membro_Pedrão">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <part_of rdf:resource="#formacao_016"/>
+  <has_age rdf:resource="#Permian_quality_NEW_UNIDADE_LITO_Membro_Pedrão"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
+  <constituted_by rdf:resource="#siltstone"/>
+  <part_of rdf:resource="#formacao_102"/>
+  <located_in rdf:resource="#BASE_CD_BACIA_215"/>
+  <part_of rdf:resource="#formacao_305"/>
+  <constituted_by rdf:resource="#sandstone"/>
+  <has_age rdf:resource="#Cretaceous_quality_NEW_UNIDADE_LITO_Membro_Pedrão"/>
+</lithostratigraphic_unit>
+
+<basin rdf:about="#INTER_BACIA_017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</basin>
+
+<lithostratigraphic_unit rdf:about="#NEW_UNIDADE_LITO_Formação_Marizal">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_age rdf:resource="#Alagoas_Age_quality_NEW_UNIDADE_LITO_Formação_Marizal"/>
+</lithostratigraphic_unit>
+
+<basin rdf:about="#INTER_BACIA_003">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#well"/>
+</basin>
+
+<geological_time_interval rdf:about="#NEW_UNIDADE_CRONO_Jurássico_Inferior">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<geological_time_interval rdf:about="#NEW_UNIDADE_CRONO_Pliensbaquiano">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<lithostratigraphic_unit rdf:about="#inter_formacao_006">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <has_age rdf:resource="#NEW_UNIDADE_CRONO_Pliensbaquiano_quality_inter_formacao_006"/>
+  <constituted_by rdf:resource="#limestone"/>
+  <located_in rdf:resource="#basin"/>
+  <constituted_by rdf:resource="#marlstone"/>
+</lithostratigraphic_unit>
+
+<lithostratigraphic_unit rdf:about="#inter_membro_003">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <part_of rdf:resource="#inter_formacao_006"/>
+</lithostratigraphic_unit>
+
+<lithostratigraphic_unit rdf:about="#inter_formacao_002">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <constituted_by rdf:resource="#rock"/>
+</lithostratigraphic_unit>
+
+<well rdf:about="#NEW_POÇO_1_-_CAV_-_1_-_SE">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</well>
+
+<well rdf:about="#NEW_POÇO_poços_1_-_CR_-_2_-_SE">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</well>
+
+<geological_time_interval rdf:about="#NEW_UNIDADE_CRONO_norhopano">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</geological_time_interval>
+
+<field rdf:about="#NEW_CAMPO_Badejo">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#basin"/>
 </field>
 
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_059">
+<well rdf:about="#NEW_POÇO_1_-_RJS_-_203">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<geological_time_interval rdf:about="#Aptian">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_structure rdf:about="#TEFR_CD_TIPO_EST_FISICA_ROCHA_048">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_structure>
-
-<lithostratigraphic_unit rdf:about="#grupo_033">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<well rdf:about="#POCO_CD_POCO_023090">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <located_in rdf:resource="#basin"/>
+  <located_in rdf:resource="#NEW_CAMPO_Badejo"/>
 </well>
 
-<basin rdf:about="#PetroNER_BACIA_Bacia_de_o_Tucano">
+<Ypresian_quality rdf:about="#Ypresian_quality_formacao_095">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#grupo_022"/>
-  <located_in rdf:resource="#formacao_242"/>
-  <located_in rdf:resource="#PetroNER_UNIDADE_LITO_Formação_Afligidos"/>
-</basin>
+  <participates_in rdf:resource="#Ypresian"/>
+</Ypresian_quality>
 
-<geological_time_interval rdf:about="#PetroNER_UNIDADE_CRONO_Neoaptiano">
+<NEW_UNIDADE_CRONO_Pliensbaquiano_quality rdf:about="#NEW_UNIDADE_CRONO_Pliensbaquiano_quality_inter_formacao_006">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
+  <participates_in rdf:resource="#NEW_UNIDADE_CRONO_Pliensbaquiano"/>
+</NEW_UNIDADE_CRONO_Pliensbaquiano_quality>
 
-<lithostratigraphic_unit rdf:about="#PetroNER_UNIDADE_LITO_Membro_Oiteirinhos">
+<Dom_Joao_Age_quality rdf:about="#Dom_Joao_Age_quality_formacao_239">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
+  <participates_in rdf:resource="#Dom_Joao_Age"/>
+</Dom_Joao_Age_quality>
 
-<well rdf:about="#PetroNER_POÇO_poços_5_-_CPB_-_1A_-_SE">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-</well>
-
-<basin rdf:about="#PetroNER_BACIA_Bacia_de_Paris">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<basin rdf:about="#PetroNER_BACIA_bacia">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<well rdf:about="#PetroNER_POÇO_Bu_-_91">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#CAMP_CD_CAMPO_0017"/>
-</well>
-
-<well rdf:about="#PetroNER_POÇO_14_-_PC_-_06">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</well>
-
-<geological_time_interval rdf:about="#PetroNER_UNIDADE_CRONO_Sinemuriano">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#PetroNER_UNIDADE_LITO_Formação_Afligidos">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_240"/>
-  <constituted_by rdf:resource="#shale"/>
-  <constituted_by rdf:resource="#sandstone"/>
-  <located_in rdf:resource="#PetroNER_BACIA_Bacia_de_o_Tucano"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_266"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#PetroNER_BACIA_Bacia_de_o_Gabão">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<lithostratigraphic_unit rdf:about="#PetroNER_UNIDADE_LITO_Formação_Maracangalha">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <has_age rdf:resource="#Alagoas_Age_quality_PetroNER_UNIDADE_LITO_Formação_Maracangalha"/>
-  <constituted_by rdf:resource="#shale"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#PetroNER_BACIA_bacia_de_Recife_-_João_Pessoa">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<lithostratigraphic_unit rdf:about="#PetroNER_UNIDADE_LITO_Membro_Pedrão">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <constituted_by rdf:resource="#siltstone"/>
-  <constituted_by rdf:resource="#mudstone"/>
-  <located_in rdf:resource="#BASE_CD_BACIA_116"/>
-  <constituted_by rdf:resource="#sandstone"/>
-</lithostratigraphic_unit>
-
-<basin rdf:about="#PetroNER_BACIA_Bacia_Lusitânica">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</basin>
-
-<geological_time_interval rdf:about="#PetroNER_UNIDADE_CRONO_Neotriássico">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<geological_time_interval rdf:about="#PetroNER_UNIDADE_CRONO_Toarciano_inferior">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</geological_time_interval>
-
-<lithostratigraphic_unit rdf:about="#PetroNER_UNIDADE_LITO_Formação_Vale_de_as_Fontes">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <constituted_by rdf:resource="#limestone"/>
-  <located_in rdf:resource="#PetroNER_BACIA_Bacia_Lusitânica"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#PetroNER_UNIDADE_LITO_Formação_Lemede">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</lithostratigraphic_unit>
-
-<lithostratigraphic_unit rdf:about="#PetroNER_UNIDADE_LITO_Membro_Mcnb">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <constituted_by rdf:resource="#shale"/>
-</lithostratigraphic_unit>
-
-<well rdf:about="#PetroNER_POÇO_poço_2_-_SBST_-_1_-_BA">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-</well>
-
-<Aratu_Age_quality rdf:about="#Aratu_Age_quality_formacao_242">
-  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
-  <participates_in rdf:resource="#Aratu_Age"/>
-</Aratu_Age_quality>
-
-<Alagoas_Age_quality rdf:about="#Alagoas_Age_quality_PetroNER_UNIDADE_LITO_Formação_Maracangalha">
+<Alagoas_Age_quality rdf:about="#Alagoas_Age_quality_formacao_056">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <participates_in rdf:resource="#Alagoas_Age"/>
 </Alagoas_Age_quality>
+
+<Berriasian_quality rdf:about="#Berriasian_quality_formacao_095">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <participates_in rdf:resource="#Berriasian"/>
+</Berriasian_quality>
+
+<Permian_quality rdf:about="#Permian_quality_NEW_UNIDADE_LITO_Membro_Pedrão">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <participates_in rdf:resource="#Permian"/>
+</Permian_quality>
+
+<Dom_Joao_Age_quality rdf:about="#Dom_Joao_Age_quality_formacao_335">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <participates_in rdf:resource="#Dom_Joao_Age"/>
+</Dom_Joao_Age_quality>
+
+<Cretaceous_quality rdf:about="#Cretaceous_quality_NEW_UNIDADE_LITO_Membro_Pedrão">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <participates_in rdf:resource="#Cretaceous"/>
+</Cretaceous_quality>
+
+<Alagoas_Age_quality rdf:about="#Alagoas_Age_quality_NEW_UNIDADE_LITO_Formação_Marizal">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <participates_in rdf:resource="#Alagoas_Age"/>
+</Alagoas_Age_quality>
+
+<Campanian_quality rdf:about="#Campanian_quality_formacao_158">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <participates_in rdf:resource="#Campanian"/>
+</Campanian_quality>
+
+<Cretaceous_quality rdf:about="#Cretaceous_quality_formacao_016">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <participates_in rdf:resource="#Cretaceous"/>
+</Cretaceous_quality>
 
 
 </rdf:RDF>
