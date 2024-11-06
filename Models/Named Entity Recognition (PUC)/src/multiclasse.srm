@@ -29,7 +29,7 @@ echo $DockerName_SIF
 pwd
 ls
 
-export HTTP_PROXY=http://db1m:Juliap08@inet-sys.petrobras.com.br:804
+export HTTP_PROXY=XXXXXXXXXXXXXXXXXXXXXXXXXX
 export HTTPS_PROXY=$HTTP_PROXY
 export http_proxy=$HTTP_PROXY
 export https_proxy=$HTTP_PROXY
